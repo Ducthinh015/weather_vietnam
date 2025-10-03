@@ -1,37 +1,108 @@
-#   **Real Time Weather Prediction Using Machine Learning**
-This project uses a machine learning model to predict the weather for the next five hours and gives the current weather data of your area. With the predicted data the model gives information, whether to irrigate your agricultural field. It also contains some information related to some efficient irrigation methods that will be helpful for farmers.
+# AgriCast AI
 
-For data collection, we use Open-Weather API to get the hourly data of past 48 hours and predict the temperature and humidity for next 5 hours of the given place. The website also displays the current weather conditions of the same place.
+Production-ready weather intelligence for agriculture. AgriCast AI provides current weather, short-term forecasts, and irrigation guidance built on a Flask backend and a clean, decoupled frontend.
 
-For weather prediction the model uses a popular Time-series Forecasting algorithm called ARIMA (Autoregressive Integrated Moving Average). This model is a combination of the Auto Regression (AR) model and the Moving Average (MA) model. 
+## Features
+- **Current weather** via OpenWeather API
+- **5-hour forecast** using ARIMA-based time-series modeling
+- **Irrigation guidance** based on humidity threshold heuristics
+- **Clean architecture** with Blueprints, services, and utilities
+- **.env-driven config** (no hardcoded keys)
+- **CI-ready** with pytest and flake8
 
+## Tech Stack
+- **Backend**: Python, Flask, pandas, pmdarima, statsmodels
+- **Frontend**: HTML, CSS, vanilla JS, Chart.js (CDN)
+- **CI**: GitHub Actions (pytest + flake8)
 
-> Machine Learning Model
+## Monorepo Structure
+```
+backend/
+  app.py                # Flask app factory (create_app), Blueprints
+  config.py             # .env loader, runtime config
+  models/
+    arima_model.py      # ARIMA train/predict wrapper
+  routes/
+    weather_routes.py   # /api/weather, /api/forecast
+    irrigation_routes.py# /api/irrigation/advice
+  services/
+    weather_service.py  # OpenWeather API client + caching
+    forecast_service.py # Data prep + ARIMA inference
+  utils/
+    cache.py            # Simple in-memory TTL cache (swap to Redis in prod)
+    logger.py           # Structured logging
+  tests/
+    test_weather.py
+    test_forecast.py
 
-*ARIMA models are generally denoted as ARIMA (p,d,q)  where p is the order of autoregressive model, d is the degree of differencing, and q is the order of moving-average model. ARIMA models use differencing to convert a non-stationary time series into a stationary one, and then predict future values from historical data.*
+frontend/
+  src/
+    index.html
+    styles/
+      main.css
+    js/
+      api.js            # Fetch helpers to backend API
+      chart.js          # Chart.js helpers
+      ui.js             # DOM wiring and events
+    pages/
+      home.html
+      forecast.html
+      irrigation.html
 
-> Frontend
+.github/workflows/ci.yml
+.env.example
+```
 
-In Frontend, we have used HTML for webpage structure, CSS and Bootstrap for styling the webpage, Chart.js for plotting the graphs.
+## Prerequisites
+- Python 3.10+
 
-> Backend
+## Setup
+1) Clone and create a virtualenv
+```
+python -m venv .venv
+.venv\Scripts\activate  # Windows
+```
 
-In Backend, we used Python framework called Flask to process the machine learning model and build the webpage.
+2) Backend dependencies
+```
+pip install -r backend/requirements.txt
+```
 
-> API
+3) Environment variables
+Copy `.env.example` to `.env` and fill your values:
+```
+OPENWEATHER_API_KEY=your_key_here
+CACHE_TTL_SECONDS=600
+USE_REDIS=false
+```
 
-openWeather API
+## Run
+Start the Flask backend:
+```
+python -m backend.app
+```
+Server runs at `http://localhost:5000`. Health check: `GET /health`.
 
+Frontend is static. Open `frontend/src/index.html` directly or serve with any static server.
 
-![image](https://github.com/Vishwaa-MS/Weather-Prediction/assets/93870138/fa3d851f-2359-4c6a-80f7-ee00221d95db)
-![image](https://github.com/Vishwaa-MS/Weather-Prediction/assets/93870138/b94325cb-c60b-43b5-9897-938eac153171)
-![image](https://github.com/Vishwaa-MS/Weather-Prediction/assets/93870138/084a7fd3-5960-4f27-95d3-0e27d054e165)
-![image](https://github.com/Vishwaa-MS/Weather-Prediction/assets/93870138/e9b60e33-aded-403b-aa94-4afde97b1207)
-![image](https://github.com/Vishwaa-MS/Weather-Prediction/assets/93870138/149165c2-e32e-4e1c-a2ec-c6a62d30890c)
+API endpoints:
+- `GET /api/weather?city=Hanoi`
+- `GET /api/forecast?city=Hanoi&hours=5`
 
+## Testing
+Run unit tests (pytest):
+```
+pytest -q
+```
 
+## Linting
+```
+flake8 backend
+```
 
+## Continuous Integration
+GitHub Actions workflow at `.github/workflows/ci.yml` installs backend deps, runs flake8 and pytest on pushes and PRs to `main`/`master`.
 
-
-
-
+## Notes
+- Legacy Flask templates and files from the original hackathon demo remain in `templates/` and `static/`. The new app uses the `backend/` API and `frontend/` static files. You may delete the legacy assets if not needed.
+- For production: replace in-memory cache with Redis and front the backend with a proper WSGI server and reverse proxy.
