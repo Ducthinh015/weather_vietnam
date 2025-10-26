@@ -1,6 +1,5 @@
-import logging
+﻿import logging
 import sys
-
 
 def configure_logging(level: int = logging.INFO) -> None:
     logger = logging.getLogger()
@@ -14,3 +13,4 @@ def configure_logging(level: int = logging.INFO) -> None:
     handler.setFormatter(formatter)
     logger.addHandler(handler)
     logger.setLevel(level)
+

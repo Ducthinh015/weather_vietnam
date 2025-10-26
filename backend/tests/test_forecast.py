@@ -1,5 +1,4 @@
-from backend.services.forecast_service import forecast_next_hours
-
+﻿from backend.services.forecast_service import forecast_next_hours
 
 def test_forecast_format():
     sample = {
@@ -10,3 +9,4 @@ def test_forecast_format():
     out = forecast_next_hours(sample, hours=3)
     assert len(out) == 3
     assert set(out[0].keys()) == {"after_hours", "temperature", "humidity"}
+

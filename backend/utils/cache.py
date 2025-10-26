@@ -1,9 +1,8 @@
-import time
+﻿import time
 from typing import Any, Optional
 
-# Simple in-memory TTL cache. For production, swap with Redis.
 _store = {}
-_ttl = 600  # default seconds; can be overridden when integration improves
+_ttl = 600  
 
 def cache_get(key: str) -> Optional[Any]:
     item = _store.get(key)
@@ -15,10 +14,10 @@ def cache_get(key: str) -> Optional[Any]:
         return None
     return value
 
-
 def cache_set(key: str, value: Any, ttl: Optional[int] = None) -> None:
     global _ttl
     expires = None
     if (ttl or _ttl) > 0:
         expires = time.time() + (ttl or _ttl)
     _store[key] = (value, expires)
+
