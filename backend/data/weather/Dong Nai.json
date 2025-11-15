@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:08.498351+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:56.282927+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:42.823147+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:23.287522+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:04.175608+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:44.430437+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:31.390000+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:19.053210+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:59.306012+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:42.030350+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:22.706611+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:08.474186+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:57.708631+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:40.256151+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:22.779702+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:37.699006+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:43.649623+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:25.611242+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:10.525487+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:54.822478+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:38.370612+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:27.588046+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:12.539444+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:56.249867+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:39.963565+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:22.170056+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:09.371006+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:54.807506+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:39.127618+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:22.866259+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:04.433380+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:51.610208+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:37.985756+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:23.282479+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:07.544822+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:53.791710+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:39.629382+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:24.503146+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:08.030365+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:50.139567+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:36.669622+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:21.395938+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:05.215268+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:49.439745+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:32.143878+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:18.149619+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:03.512577+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:47.684797+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:32.862639+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:15.354328+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:05.671327+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:50.031826+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:33.026485+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:15.748419+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:57.725511+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:47.985837+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:32.541024+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:15.529580+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:58.601740+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:41.519796+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:33.707268+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:16.718741+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:59.593019+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:41.333547+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:23.200456+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:15.419711+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:58.602874+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:41.793429+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:24.031176+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:06.782153+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:57.824523+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:41.329464+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:24.701252+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:07.412640+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:58.863827+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:41.888811+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:24.373875+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:07.019872+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:49.526709+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:42.259571+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:25.450800+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:10.191990+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:53.491111+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:45.065680+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:28.068612+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:10.998320+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:55.563455+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:47.385903+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:30.599596+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:16.164636+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:59.829699+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:07.313786+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:57.659491+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:44.459714+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:28.834305+07:00",
+    "temp": 20.8,
+    "humidity": 80.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.03,
+    "cloud": 82.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:19.992162+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:04.498347+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:48.019503+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:30.471730+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:57.330136+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:39.780211+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:22.290990+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:03.762817+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:49.004860+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:36.080840+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:18.282619+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:01.160631+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:42.480212+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:27.349894+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:14.282058+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:56.841230+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:39.541094+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:21.148313+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:06.519719+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:53.366188+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:19.389429+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:02.200852+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:47.626701+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:34.965901+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:17.094778+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:58.651660+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:41.559493+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:28.564965+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:15.740276+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:58.451159+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:39.591995+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:22.667130+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:08.796695+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:55.248432+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:37.134840+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:20.502420+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:20.630247+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:46.448301+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:04.937856+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:47.915801+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:30.274726+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:21.144972+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:04.025762+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:45.300932+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:28.033210+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:09.511701+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:59.609003+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:41.681623+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:23.456733+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:06.899492+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:48.328425+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:39.259859+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:21.487878+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:02.987142+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:45.685134+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:27.116948+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:18.044383+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:00.192730+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:41.703810+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:24.735966+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:06.464540+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:57.776472+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:40.332567+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:22.550587+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:04.943631+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:46.147308+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:36.430327+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:18.601443+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:59.966095+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:09.626972+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:02.483192+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:44.610683+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:25.636407+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:08.185900+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:49.389651+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:39.577521+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:22.004710+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:03.266481+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:45.700796+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:26.972776+07:00",
+    "temp": 20.8,
+    "humidity": 81.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.111111111111112,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:17.088515+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:00.231342+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:41.235595+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:23.426956+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:05.007614+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:55.857011+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:37.770832+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:19.258362+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:02.758719+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:57.533982+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:39.757639+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:20.686216+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:03.059844+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:44.757402+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:35.711814+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:18.721881+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:00.237365+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:42.987635+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:24.288575+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:15.176971+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:57.806557+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:40.470471+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:23.200635+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:56.053876+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:39.145725+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:20.784392+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:03.492357+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:49.802910+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:35.569022+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:18.312325+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:59.998926+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:42.667992+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:15.916934+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:08.767032+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:58.164713+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:18.570440+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:59.839951+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:44.504078+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:27.327586+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:10.274540+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:56.601278+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:38.015973+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:22.786872+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:05.353837+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:48.436885+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:35.937326+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:17.660905+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:02.666600+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:45.245659+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:28.436812+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:14.738681+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:56.341064+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:41.299855+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:24.105025+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:07.232066+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:54.463561+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:35.866899+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:20.433402+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:04.014442+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:47.385931+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:33.822142+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:18.086749+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:02.560644+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:45.620525+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:28.563397+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:14.535969+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:55.988423+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:41.113638+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:23.623812+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:06.949920+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:53.479209+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:37.543949+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:26.309611+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:10.806209+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:57.401416+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:38.794573+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:20.732620+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:06.162190+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:50.127401+07:00",
+    "temp": 20.7,
+    "humidity": 82.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.04,
+    "cloud": 90.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:36.527986+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:18.295508+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:01.064867+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:44.524187+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:28.884550+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:15.310455+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:56.658230+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:39.141300+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:22.834612+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:07.972688+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:53.888195+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:35.223087+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:16.944758+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:00.612661+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:45.689677+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:31.942985+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:13.769174+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:55.847185+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:39.740776+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:24.275203+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:10.577842+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:52.341795+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:34.218014+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:17.713376+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:01.912853+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:48.578810+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:29.999700+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:11.812805+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:56.277084+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:40.818837+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:27.651203+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:09.187722+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:51.342815+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:35.021686+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:20.225415+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:08.034420+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:49.448215+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:32.708057+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:16.584563+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:02.007726+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:49.309695+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:31.685019+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:13.637436+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:57.895095+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:43.197135+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:29.278535+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:10.655976+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:52.813949+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:36.854310+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:23.054581+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:09.657875+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:53.672861+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:38.399268+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:21.438666+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:04.451316+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:50.555075+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:32.352387+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:17.145737+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:00.180606+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:43.150638+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:29.560646+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:11.162441+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:56.550033+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:39.547723+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:22.212978+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:08.600845+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:49.817439+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:34.174369+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:17.127728+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:00.310199+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:46.550504+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:28.375930+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:12.785999+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:56.172981+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:39.781513+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:26.425383+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:07.932141+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:52.561034+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:43.404084+07:00",
+    "temp": 20.6,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.15,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:30.204817+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:11.541164+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:56.165110+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:39.157563+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:22.260901+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:10.416754+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:51.683486+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:36.309303+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:19.173980+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:02.604207+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:51.217229+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:33.686552+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:18.460711+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:01.470729+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:44.473812+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:30.889909+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:12.791552+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:57.955024+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:42.121403+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:24.526633+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:13.234500+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:55.529740+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:40.508369+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:23.728840+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:14.997540+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:56.970233+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:42.178969+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:25.600514+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:08.556170+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:56.067832+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:37.726718+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:22.472732+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:05.792503+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:49.627152+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:37.565001+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:19.394885+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:03.603836+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:46.506722+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:29.109735+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:16.688493+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:58.335562+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:43.019983+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:26.270830+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:08.045741+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:56.286237+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:38.145436+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:24.287495+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:07.598247+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:49.192942+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:37.294175+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:19.177724+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:04.009907+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:47.332394+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:30.372230+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:18.235852+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:01.053847+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:46.085918+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:30.058485+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:12.192123+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:59.967215+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:41.584800+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:26.362685+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:10.489364+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:54.702592+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:43.622478+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:28.255568+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:12.169739+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:54.155000+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:35.639137+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:23.753099+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:08.748381+07:00",
+    "temp": 20.8,
+    "humidity": 84.0,
+    "pressure": 1017.0,
+    "wind_speed": 4.5,
+    "rain": 0.22,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:39.115016+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:31.795086+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:15.605393+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:58.662792+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:45.167090+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:36.216990+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:20.864492+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:03.694862+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:50.105368+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:40.449792+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:23.526075+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:07.283659+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:54.102730+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:44.861756+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:27.906567+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:10.866977+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:58.123114+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:14.505220+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:27.480726+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:16.225631+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:06.962421+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:49.665076+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:33.416896+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:22.317442+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:44.129620+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:15.269574+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:52.548098+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:23.741118+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:42.880509+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:27.548499+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:13.148506+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:55.812598+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:46.055375+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:31.484531+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:51.433282+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:17.024298+07:00",
+    "temp": 22.9,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 5.888888888888888,
+    "rain": 0.06,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:48.314372+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:23.231996+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:54.289485+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:30.830692+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:33.168745+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:19.359676+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:07.737653+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:54.174050+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:38.752263+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:23.801063+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:11.312212+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:01.758495+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:46.416290+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:34.119973+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:21.439126+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:10.270243+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:11.473831+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:43.287788+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:16.198122+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:41.436614+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:25.533153+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:17.259432+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:00.812400+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:48.324079+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:34.669798+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:14.310554+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:15.226721+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:03.537570+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:53.175503+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:39.564313+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:26.030769+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:10.386811+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:26.172879+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:24.476642+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:43.194875+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:30.095043+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:06.883595+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:44.155591+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:23.054792+07:00",
+    "temp": 22.9,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.111111111111111,
+    "rain": 0.12,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:13.459166+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:01.781441+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:48.590434+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:34.124158+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:21.452042+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:11.907249+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:51.674866+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:29.505620+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:07.020841+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:48.876471+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:32.533074+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:09.541257+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:46.703907+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:26.074366+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:10.433123+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:54.767072+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:33.975772+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:11.280157+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:49.008580+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:31.017234+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:15.420752+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:53.417617+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:30.994126+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:10.401083+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:19.284653+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:30.694445+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:19.219964+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:21.115001+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:22.107512+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:23.558285+07:00",
+    "temp": 22.7,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 6.0,
+    "rain": 0.3,
+    "cloud": 100.0,
+    "city": "Dong Nai"
+  }
+]

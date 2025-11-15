@@ -1,0 +1,5072 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:23.608633+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:15.850888+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:56.855579+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:37.326350+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:17.914874+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:58.526863+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:51.836935+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:32.856396+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:15.265377+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:56.367413+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:36.463514+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:29.608656+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:12.817385+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:55.206559+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:37.495449+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:15.986691+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:58.272578+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:40.600968+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:25.229279+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:10.728001+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:59.290036+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:42.504782+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:26.856163+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:12.706248+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:54.651340+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:40.504654+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:23.836023+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:09.567493+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:55.715657+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:37.410907+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:23.043896+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:07.249967+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:53.708073+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:39.290784+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:25.834344+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:08.415761+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:54.881788+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:40.877598+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:23.076587+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:08.489604+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:50.976746+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:36.037076+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:21.654755+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:04.221945+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:50.280316+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:32.828922+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:18.427499+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:05.609957+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:47.472154+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:33.609548+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:20.535709+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:05.814378+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:48.355134+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:30.626901+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:16.506469+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:02.571391+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:48.006180+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:31.059238+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:13.666993+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:59.677905+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:49.361996+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:32.426853+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:14.231130+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:55.952370+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:41.497993+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:31.356377+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:14.570038+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:56.691620+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:39.319019+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:24.292267+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:13.692866+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:57.131492+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:40.036577+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:25.728999+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:13.963032+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:56.989702+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:39.895986+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:22.578815+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:08.289874+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:57.491740+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:42.127499+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:24.861039+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:11.196377+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:00.544210+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:43.670906+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:27.944769+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:13.714556+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:03.099598+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:46.275644+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:30.921460+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:27.846225+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:23.524586+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:16.304518+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:01.219615+07:00",
+    "temp": 23.8,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.04,
+    "cloud": 84.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:46.465105+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:36.684705+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:20.591588+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:03.051509+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:19.086863+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:12.687101+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:55.300829+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:36.819742+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:20.957436+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:03.980437+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:51.373957+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:33.839356+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:15.591361+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:59.913132+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:41.800365+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:29.700603+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:12.255236+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:54.222799+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:38.921020+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:20.927697+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:08.408294+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:35.370180+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:20.039662+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:02.081913+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:50.272458+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:31.687387+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:14.609224+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:59.733412+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:43.066913+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:30.698115+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:12.756988+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:55.312488+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:40.777455+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:23.191263+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:10.338553+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:52.787331+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:36.449907+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:13.451193+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:01.581974+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:20.840645+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:02.591914+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:47.949637+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:36.841871+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:18.439640+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:00.896004+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:42.477056+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:26.950806+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:14.810603+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:56.624613+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:39.090982+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:21.483250+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:06.417218+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:54.435161+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:35.944490+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:18.727030+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:59.976809+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:44.897753+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:33.076938+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:14.778963+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:57.767981+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:39.644265+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:24.392156+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:13.174225+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:54.639949+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:38.138235+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:19.204424+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:03.567541+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:51.536784+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:33.144836+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:18.441653+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:29.109749+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:17.595670+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:58.648606+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:41.327062+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:22.262316+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:06.869062+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:54.923784+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:36.362063+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:18.858536+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:59.889082+07:00",
+    "temp": 23.7,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.05,
+    "cloud": 89.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:44.652230+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:33.119901+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:14.413914+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:56.538729+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:38.189905+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:22.705002+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:10.909661+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:52.213280+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:35.685919+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:24.868920+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:12.689463+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:53.980003+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:36.413059+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:17.708344+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:02.477118+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:51.088496+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:33.243872+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:16.148301+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:57.371286+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:42.019689+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:30.862542+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:12.282680+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:56.248366+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:09.458476+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:12.018815+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:53.820978+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:36.577661+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:21.077818+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:04.318760+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:51.227112+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:33.170695+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:15.840734+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:00.200880+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:39.615425+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:24.455570+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:47.277699+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:32.842648+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:15.625480+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:00.178713+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:43.444742+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:25.412336+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:10.879631+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:53.697076+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:38.537181+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:21.542042+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:03.789999+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:50.618039+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:33.501198+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:18.164603+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:01.614016+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:43.807260+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:29.289579+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:11.979423+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:57.109389+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:40.341618+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:23.547440+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:08.699917+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:51.520630+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:37.378844+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:20.124366+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:02.814632+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:51.133356+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:33.793264+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:18.490281+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:01.610438+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:43.751448+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:28.938745+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:11.980122+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:56.700046+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:40.036768+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:22.407478+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:08.371519+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:55.900939+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:43.916031+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 77.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:26.370822+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:11.709520+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:53.774185+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:37.181612+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:23.400546+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:05.369696+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:50.984502+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:33.754303+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:15.897396+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:01.958265+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:44.362492+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:29.744123+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:11.822861+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:54.153904+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:40.072763+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:23.190220+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:08.278733+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:50.394819+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:31.790093+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:17.916208+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:01.063256+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:46.723827+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:28.760671+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:10.743865+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:57.197108+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:39.362792+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:24.916097+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:07.555247+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:48.941844+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:34.964408+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:17.496044+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:03.099686+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:45.084304+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:26.858547+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:13.712047+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:56.633098+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:42.317136+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:24.247794+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:06.330782+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:53.042608+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:36.950247+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:22.387398+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:05.523189+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:47.762108+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:35.025874+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:17.422629+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:04.548044+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:46.889780+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:28.559720+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:15.183604+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:58.475016+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:43.708535+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:25.633245+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:07.934836+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:56.150663+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:38.610599+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:24.168873+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:09.262856+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:54.335546+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:37.339343+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:19.438808+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:05.185726+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:48.091564+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:33.222806+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:16.282794+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:58.462403+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:44.051350+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:27.110647+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:12.603978+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:55.413162+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:37.575756+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:22.981921+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:05.331441+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:49.875561+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:33.248372+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:15.590633+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:01.072608+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:43.880315+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:28.895796+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:12.460792+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:55.256965+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:40.900013+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:23.584298+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:16.254354+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:58.947772+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:44.591387+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:27.250466+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:11.993279+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:55.254765+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:37.603490+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:24.727598+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:07.312717+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:51.997227+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:35.252133+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:19.517088+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:06.098134+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:49.469373+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:34.592415+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:17.241165+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:59.707870+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:45.567298+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:28.695977+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:14.872271+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:57.547382+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:40.117161+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:28.305087+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:11.488616+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:56.715778+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:43.402428+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:30.052115+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:12.562068+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:58.448560+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:40.333696+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:25.070536+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:10.695733+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:53.582857+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:38.653053+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:20.160257+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:06.430889+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:52.222368+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:34.822541+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:19.678470+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:01.809844+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:45.650784+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:31.242549+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:14.116682+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:59.334726+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:40.983440+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:24.783847+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:11.119734+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:54.934889+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:40.263446+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:22.010900+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:06.000763+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:52.066766+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:34.862668+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:20.281110+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:02.224027+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:46.912208+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:33.128867+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:16.860894+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:02.639725+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:45.037377+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:28.743712+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:14.550363+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:57.163607+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:42.895322+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:26.914269+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:12.271388+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:59.282273+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:44.693470+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:26.830291+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:08.535497+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:52.190140+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:39.588830+07:00",
+    "temp": 23.1,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:01.688708+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:46.706807+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:30.592030+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:13.251131+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:06.212094+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:51.032404+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:35.709564+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:18.647891+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:10.256442+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:55.460716+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:38.649017+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:22.742163+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:14.920822+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:59.717935+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:43.031907+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:25.890684+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:20.040121+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:50.711997+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:44.043861+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:36.796334+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:21.604917+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:05.253136+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:50.402493+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:49.362138+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:20.011763+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:53.853595+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:31.305495+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:02.667356+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:57.754667+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:44.902369+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:28.129401+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:14.087007+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:01.295889+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:03.335220+07:00",
+    "temp": 26.7,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:23.611846+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:53.133776+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:28.395167+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:00.125889+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:34.496193+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:04.097593+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:49.408870+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:38.380095+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:22.940034+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:10.740182+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:53.693995+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:43.154474+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:29.246370+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:17.984812+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:01.537207+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:53.203851+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:38.910640+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:26.710887+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:47.702094+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:20.832880+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:54.095588+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:56.576050+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:44.583004+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:32.520569+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:17.490331+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:05.824709+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:15.326338+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:44.412326+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:31.033996+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:22.922918+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:08.823220+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:56.149432+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:41.318926+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:32.426899+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:52.725859+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:41.085729+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:02.944850+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:42.232070+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:19.520885+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:56.296845+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:35.505521+07:00",
+    "temp": 28.2,
+    "humidity": 67.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:34.877085+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:17.659312+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:05.775477+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:49.292242+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:42.250817+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:26.836198+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:04.109629+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:41.870238+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:19.999648+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:06.280200+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:44.941186+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:22.126480+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:59.244281+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:40.116981+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:28.098887+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:08.578505+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:46.524001+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:23.841374+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:02.404526+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:48.756319+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:28.005808+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:06.163123+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:43.513675+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:30.355167+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:33.022158+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:49.423758+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:37.786553+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:37.888587+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:44.025360+07:00",
+    "temp": 29.3,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Soc Trang"
+  }
+]

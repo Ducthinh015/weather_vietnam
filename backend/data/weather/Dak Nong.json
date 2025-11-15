@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:07.421970+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:54.974128+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:41.925085+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:22.385124+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:03.201080+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:43.493260+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:30.054901+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:18.093948+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:58.329256+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:41.125425+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:21.789112+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:07.086068+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:56.616148+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:39.212358+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:21.772845+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:36.280193+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:42.714069+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:24.682926+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:09.496566+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:53.434656+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:37.339768+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:26.285551+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:11.631340+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:54.956681+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:38.933078+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:21.129723+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:08.380017+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:53.828462+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:37.759247+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:21.838454+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:03.448641+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:50.586721+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:36.964745+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:21.920188+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:06.528863+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:52.792387+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:38.567127+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:23.203591+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:07.033404+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:49.129637+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:35.603095+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:20.377390+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:03.831447+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:48.437399+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:31.107865+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:17.117549+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:02.480495+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:46.312004+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:31.855076+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:14.397817+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:04.607526+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:48.668717+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:31.996068+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:14.686520+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:56.736812+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:47.014179+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:31.098349+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:14.499458+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:57.537004+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:40.512396+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:32.334447+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:15.688041+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:58.617343+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:40.260214+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:22.182429+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:14.110515+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:57.572947+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:40.839149+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:23.091819+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:05.734591+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:56.134717+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:40.297120+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:23.724405+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:06.375561+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:57.531409+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:40.822342+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:23.364192+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:06.032566+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:48.562586+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:40.890417+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:24.465958+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:09.240631+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:52.326709+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:43.486122+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:27.035818+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:09.877870+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:54.556599+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:46.064768+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:29.593809+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:15.104830+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:57.775645+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:05.890314+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:56.598082+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:43.216608+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:27.819388+07:00",
+    "temp": 13.9,
+    "humidity": 97.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:18.592946+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:03.413833+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:46.996804+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:29.368783+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:56.009410+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:38.865432+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:21.303169+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:02.776825+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:48.048420+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:34.744839+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:17.252162+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:00.170793+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:41.462419+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:26.387236+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:12.920135+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:55.842545+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:38.596839+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:20.157704+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:05.576667+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:52.014750+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:18.310314+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:01.257513+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:46.667780+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:33.583190+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:16.116811+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:57.662603+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:40.472251+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:27.570938+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:14.335137+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:57.548518+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:38.599686+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:21.563592+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:07.785241+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:53.830458+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:36.168589+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:19.219053+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:04.050875+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:45.064570+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:03.894518+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:46.907859+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:29.244484+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:19.815354+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:03.006189+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:44.315997+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:27.029888+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:08.502352+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:58.331328+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:40.754138+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:22.435915+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:05.992308+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:47.381521+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:37.962748+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:20.423742+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:02.009438+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:44.632061+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:26.105827+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:16.706739+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:59.194732+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:40.691890+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:23.803489+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:05.439250+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:56.332072+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:39.313084+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:21.607703+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:03.967038+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:45.122325+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:35.124194+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:17.587418+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:58.965229+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:07.798869+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:01.163721+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:43.629125+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:24.648324+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:07.131788+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:48.445510+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:38.280072+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:20.953950+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:02.269405+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:44.707437+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:25.972636+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:15.737342+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:59.234911+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:40.269951+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:22.418499+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:04.057715+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:54.520175+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:36.754789+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:18.272174+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:01.733111+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:56.263711+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:38.763817+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:19.749661+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:02.089215+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:43.765406+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:34.300155+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:17.752981+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:59.211534+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:41.991225+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:23.273953+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:13.846162+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:56.796964+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:39.400114+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:22.267695+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:54.505422+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:38.167317+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:19.738047+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:02.456251+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:48.822635+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:34.276231+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:17.317240+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:58.952655+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:41.658403+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:14.083021+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:07.797357+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:56.739003+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:17.229387+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:58.844412+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:43.449033+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:26.373924+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:09.316988+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:55.266072+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:36.981453+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:21.762527+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:04.381267+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:47.422619+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:34.574590+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:16.647103+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:01.642495+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:44.276444+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:27.472425+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:13.409895+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:55.333680+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:40.318025+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:23.117343+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:06.222737+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:53.170812+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:34.758085+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:19.430564+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:03.080039+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:46.373810+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:32.513305+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:17.091292+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:01.558100+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:44.595853+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:27.579065+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:13.235820+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:55.008553+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:40.126636+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:22.638271+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:05.933205+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:52.160690+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:36.323784+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:25.291169+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:09.855137+07:00",
+    "temp": 13.9,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:56.035014+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:37.795333+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:19.681559+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:05.181067+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:49.105175+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:35.171018+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:17.261676+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:59.966573+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:43.539316+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:27.883548+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:13.978741+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:55.706523+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:38.133102+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:21.871706+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:06.985533+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:52.539987+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:34.196239+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:15.983513+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:59.509042+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:44.653124+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:30.612411+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:12.723944+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:54.866339+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:38.715574+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:23.258960+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:09.260480+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:51.368757+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:33.250317+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:16.677770+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:00.900067+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:47.280459+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:29.019834+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:10.829546+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:55.308083+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:39.822202+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:26.310423+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:08.230476+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:50.344755+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:34.059724+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:19.226503+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:06.710561+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:48.429578+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:31.691057+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:15.566993+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:01.005198+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:47.917272+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:30.702967+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:12.648753+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:56.922657+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:42.176313+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:27.958672+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:09.646847+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:51.772097+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:35.830111+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:22.076560+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:08.239991+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:52.680524+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:37.391312+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:20.431023+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:03.430494+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:49.238249+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:31.409446+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:16.131214+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:59.184854+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:42.153133+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:28.269624+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:10.044190+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:55.567603+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:38.552330+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:21.244185+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:07.321760+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:48.862929+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:33.215312+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:16.135431+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:59.317347+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:45.235572+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:27.337837+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:11.828974+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:55.162775+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:38.813562+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:25.059834+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:06.904936+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:51.539183+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:42.416408+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1013.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:28.772989+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:10.612604+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:55.156375+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:38.132558+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:21.151076+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:09.053258+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:50.696029+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:35.363466+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:18.198540+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:01.643961+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:49.854974+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:32.698381+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:17.470416+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:00.466561+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:43.526261+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:29.565627+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:11.829194+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:56.981437+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:41.180142+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:23.527855+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:11.892566+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:54.538625+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:39.511751+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:22.742387+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:13.673746+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:55.965171+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:41.189615+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:24.500707+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:07.555157+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:54.754186+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:36.788495+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:21.471063+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:04.747768+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:48.651394+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:36.217115+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:18.340978+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:02.648449+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:45.502209+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:28.098903+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:15.357552+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:57.365883+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:42.056245+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:25.309737+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:07.029533+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:54.940236+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:37.117783+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:23.275301+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:06.531332+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:48.154578+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:35.945488+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:18.177566+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:02.998725+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:46.289810+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:29.321703+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:16.926763+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:59.934507+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:45.005671+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:29.007845+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:11.139068+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:58.619812+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:40.565240+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:25.380935+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:09.451160+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:53.611972+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:42.304023+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:27.256328+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:11.112745+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:53.076336+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:34.570930+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:22.490723+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:07.705100+07:00",
+    "temp": 14.0,
+    "humidity": 98.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:37.500973+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:30.747648+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:14.581185+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:57.651853+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:43.761516+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:35.124779+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:19.743126+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:02.664860+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:48.696996+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:39.414474+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:22.424372+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:06.167088+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:52.662905+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:43.917321+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:26.877918+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:09.823901+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:56.724594+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:12.059430+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:26.513563+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:14.896087+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:05.936776+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:48.588071+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:32.379029+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:20.902895+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:41.645429+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:12.718663+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:49.731444+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:21.298492+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:41.810603+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:26.166228+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:12.074697+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:54.819354+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:44.949510+07:00",
+    "temp": 21.4,
+    "humidity": 71.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:30.085669+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:49.258622+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:14.585824+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:45.505074+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:20.815177+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:51.510661+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:28.376059+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:31.981147+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:18.010969+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:06.709587+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:53.077323+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:37.773194+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:22.394941+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:10.286522+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:00.647745+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:45.372967+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:32.775679+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:20.441917+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:09.227780+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:08.969386+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:40.498101+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:13.778993+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:40.240307+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:24.101662+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:16.083548+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:59.798097+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:47.215078+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:33.183006+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:11.794429+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:14.137781+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:02.130074+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:52.127681+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:38.432516+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:24.863975+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:08.819350+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:23.709549+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:22.989269+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:41.690985+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:29.286101+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:06.007621+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:43.332956+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:22.206566+07:00",
+    "temp": 23.2,
+    "humidity": 64.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:00.955239+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:47.248299+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:33.077187+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:20.016976+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:10.760971+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:50.798917+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:28.622662+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:06.095450+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:47.644302+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:31.747874+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:08.649757+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:45.861898+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:24.906881+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:09.105042+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:53.834821+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:33.090196+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:10.417040+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:48.100233+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:29.829615+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:14.592270+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:52.598504+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:30.071180+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:08.516746+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:18.162905+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:29.525542+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:17.898031+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:20.272112+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:20.533128+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:22.544594+07:00",
+    "temp": 24.4,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Dak Nong"
+  }
+]

@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:17.476335+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:08.063172+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:51.041876+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:31.553851+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:12.150605+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:52.768108+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:42.785932+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:27.097282+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:09.545404+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:50.567769+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:30.767844+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:20.784896+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:06.924794+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:49.219381+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:31.381336+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:07.285602+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:52.184439+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:34.636841+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:19.273917+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:04.800175+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:50.358115+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:36.448014+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:20.849715+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:06.574732+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:48.502425+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:32.175790+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:17.939358+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:03.492856+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:49.519475+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:31.295039+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:14.738109+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:01.307436+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:47.143953+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:33.214739+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:17.280155+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:02.520952+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:48.668588+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:34.786925+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:16.781309+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:00.119317+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:45.069986+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:29.819640+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:15.535958+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:58.189735+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:42.162402+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:26.811726+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:12.192770+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:59.741933+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:41.422994+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:25.572969+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:14.293161+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:59.705048+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:42.396004+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:24.373121+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:08.171296+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:56.315878+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:41.813855+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:24.835708+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:07.684440+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:51.283521+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:43.211701+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:26.213959+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:08.319605+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:49.978974+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:33.239768+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:25.176214+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:08.297569+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:50.643769+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:33.175303+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:15.943124+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:07.834809+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:51.155163+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:33.698175+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:17.312914+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:08.029152+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:50.917385+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:33.822647+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:16.367112+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:59.664331+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:51.628301+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:35.063523+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:18.924643+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:03.088357+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:54.274408+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:37.423804+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:21.769489+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:05.202647+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:56.936993+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:40.217631+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:24.872994+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:14.406471+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:17.248502+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:09.509563+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:54.697844+07:00",
+    "temp": 23.9,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:38.263715+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:30.196732+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:14.630697+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:56.955488+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:45.875207+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:06.699834+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:49.335945+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:30.867694+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:13.114009+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:57.869713+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:45.171069+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:27.809920+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:09.659043+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:51.998200+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:35.880078+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:23.626108+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:06.315720+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:48.225486+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:30.803804+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:14.909610+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:02.602318+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:29.372567+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:11.878718+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:56.030073+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:44.208749+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:25.589433+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:08.742355+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:51.714828+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:37.147021+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:24.768964+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:06.819752+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:49.330391+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:32.411166+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:17.200597+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:04.352056+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:45.792410+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:30.419135+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:05.341759+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:55.641223+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:14.778771+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:56.492189+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:39.968906+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:30.764867+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:12.467776+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:54.901839+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:36.602430+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:18.935783+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:08.719755+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:50.596055+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:33.036102+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:15.220441+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:57.957575+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:48.450727+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:29.877391+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:12.606407+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:54.052325+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:36.727292+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:27.024466+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:08.692429+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:51.901081+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:33.394921+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:16.241113+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:07.272127+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:48.794016+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:32.429770+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:13.281209+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:55.565112+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:45.528491+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:27.223746+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:09.514312+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:20.810958+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:11.576602+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:52.842358+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:35.561940+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:16.469904+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:58.906976+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:48.864307+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:30.458812+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:12.905347+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:53.953810+07:00",
+    "temp": 23.4,
+    "humidity": 81.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:36.584454+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:27.017288+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:08.545742+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:50.634489+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:32.184448+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:14.481317+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:04.989333+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:46.317259+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:29.554310+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:16.643205+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:06.638437+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:48.072685+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:30.425947+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:11.592779+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:54.334585+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:45.158643+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:27.309068+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:10.152059+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:51.419150+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:33.996915+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:24.453953+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:06.275247+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:50.164734+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:42.924585+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:05.959409+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:47.692733+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:30.605044+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:12.644159+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:58.337140+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:45.250222+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:27.137868+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:09.829944+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:51.727235+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:33.457648+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:18.442157+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:24.244720+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:26.924184+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:09.517662+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:54.296889+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:36.466590+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:18.689359+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:04.868909+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:47.667975+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:32.602568+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:14.362773+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:56.963214+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:44.617644+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:27.475772+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:12.197762+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:54.422091+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:37.055366+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:23.262432+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:06.203982+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:51.126617+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:33.156931+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:15.617216+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:02.801974+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:45.516655+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:31.534559+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:12.863948+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:55.896595+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:45.154664+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:27.574487+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:12.468627+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:54.489117+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:36.900744+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:23.000073+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:05.920815+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:50.742974+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:32.708766+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:15.422421+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:02.362717+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:48.663731+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:36.861715+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:19.713646+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:05.801909+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:47.832854+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:30.559821+07:00",
+    "temp": 22.9,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:16.309537+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:58.593182+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:44.986804+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:27.755758+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:09.950525+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:54.911703+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:37.484134+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:23.822443+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:05.813754+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:48.316946+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:32.948101+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:16.288206+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:02.420080+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:44.345946+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:25.868900+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:10.780128+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:54.052399+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:40.497087+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:22.908731+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:04.652210+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:50.087078+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:32.581073+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:18.917389+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:01.629477+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:43.058121+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:27.637406+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:10.507690+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:57.133407+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:39.116770+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:20.930259+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:06.520249+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:49.230142+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:36.338303+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:18.322765+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:00.334731+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:45.817059+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:28.788306+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:16.464837+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:58.557723+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:41.642933+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:27.871329+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:10.532097+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:58.384812+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:40.834413+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:22.620668+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:08.119015+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:51.733566+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:37.780153+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:19.690917+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:01.926032+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:48.993927+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:31.566175+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:18.178920+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:03.338836+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:48.379369+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:29.996199+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:12.743143+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:59.098092+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:42.075331+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:27.085635+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:08.965325+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:51.759672+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:38.065037+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:21.140793+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:06.583136+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:48.134509+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:30.739669+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:17.134941+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:59.408707+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:44.013726+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:25.575191+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:08.781748+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:55.063434+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:37.993036+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:22.797563+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:04.990374+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:48.429293+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:34.956876+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:17.580529+07:00",
+    "temp": 22.5,
+    "humidity": 83.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:06.968600+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:52.022521+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:38.757591+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:21.237365+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:06.135997+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:48.072001+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:30.717360+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:18.750461+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:01.252183+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:46.016440+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:27.946376+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:11.750641+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:59.718419+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:43.430499+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:28.408482+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:10.102089+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:52.915500+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:39.555511+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:22.569026+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:08.516071+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:50.653126+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:33.213050+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:22.175449+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:05.394478+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:50.608495+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:35.442148+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:23.871060+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:06.553171+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:52.273024+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:34.300722+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:17.213869+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:04.639083+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:47.277552+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:32.544737+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:14.328556+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:58.231414+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:46.219892+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:28.886099+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:13.510495+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:55.515343+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:37.759698+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:25.332263+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:07.948073+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:53.095953+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:34.928966+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:16.844955+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:04.912671+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:47.727503+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:34.186076+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:16.157609+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:57.880642+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:45.925291+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:28.760569+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:13.972180+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:56.075672+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:39.053998+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:27.038890+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:10.769623+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:56.321932+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:38.852197+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:20.912026+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:08.551827+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:51.330818+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:36.659621+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:19.817057+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:04.365210+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:53.394134+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:38.552126+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:20.760827+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:02.576460+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:44.342098+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:33.504750+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:19.035697+07:00",
+    "temp": 22.1,
+    "humidity": 84.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:52.136143+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:40.596600+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:24.228425+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:07.333088+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:57.263313+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:45.001607+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:29.582538+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:12.486292+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:01.993093+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:49.107252+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:32.446975+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:16.590920+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:06.316028+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:53.408408+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:36.743264+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:19.602790+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:09.870447+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:35.847624+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:37.342997+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:28.690816+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:15.541092+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:59.035993+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:42.694173+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:34.270869+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:05.466439+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:37.072302+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:16.170962+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:45.792898+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:51.730438+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:38.845242+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:22.026920+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:05.553425+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:54.904090+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:48.558464+07:00",
+    "temp": 26.1,
+    "humidity": 59.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:13.356441+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:38.431030+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:11.901123+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:44.772676+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:17.295992+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:52.109013+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:43.058551+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:30.669149+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:16.702407+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:03.575512+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:47.263706+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:35.051326+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:22.194055+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:11.094072+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:55.300811+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:45.487527+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:32.936204+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:19.716063+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:32.802662+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:06.676987+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:38.625688+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:50.244234+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:36.965856+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:25.987495+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:10.310801+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:57.316219+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:58.412596+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:36.302247+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:24.228923+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:15.017400+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:02.471462+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:48.994158+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:34.957511+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:21.922893+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:45.533154+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:34.067280+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:54.975484+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:37.231060+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:14.055277+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:51.219917+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:30.126217+07:00",
+    "temp": 27.3,
+    "humidity": 58.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:27.233889+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:10.689545+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:58.479529+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:43.057293+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:33.520519+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:20.816537+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:58.833798+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:36.781696+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:14.663156+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:59.004225+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:39.717289+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:16.899156+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:53.960916+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:34.648377+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:20.937808+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:03.270059+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:41.479461+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:18.723180+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:57.133546+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:41.486044+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:22.823131+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:00.804894+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:38.465684+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:22.158947+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:26.960646+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:40.951316+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:30.024444+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:30.103643+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:34.839512+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:34.990613+07:00",
+    "temp": 28.4,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Long An"
+  }
+]

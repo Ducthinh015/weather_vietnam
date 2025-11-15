@@ -1,0 +1,45 @@
+<nav class="nav">
+  <ul class="nav-list">
+    <li class="nav-item"><a href="/index.html" class="nav-link">AgriCast AI</a></li>
+    <li class="nav-item"><a href="/pages/home.html" class="nav-link">Trang chủ</a></li>
+    <li class="nav-item"><a href="/pages/irrigation.html" class="nav-link">Khuyến nghị</a></li>
+    <li class="nav-item"><a href="/pages/weather-gru.html" class="nav-link">Dự báo</a></li>
+    <li class="nav-item"><a href="/pages/analysis.html" class="nav-link">Lịch sử</a></li>
+    <li class="nav-spacer"></li>
+    <li class="nav-item" id="nav-login"><a href="/pages/login.html" class="nav-link">Đăng nhập</a></li>
+    <li class="nav-item" id="nav-register"><a href="/pages/register.html" class="nav-link">Đăng ký</a></li>
+    <li class="nav-item d-none" id="nav-user"><a href="/pages/profile.html" class="nav-link" id="username-display"></a></li>
+    <li class="nav-item d-none" id="nav-logout"><a href="#" class="nav-link" id="logout-btn">Đăng xuất</a></li>
+  </ul>
+</nav>
+<script type="module" src="/js/auth.js"></script>
+<script type="module">
+  (async () => {
+    const authMod = await import('/js/auth.js');
+    const { isLoggedIn, getCurrentUser, logout } = authMod;
+
+    const loginItem = document.getElementById('nav-login');
+    const registerItem = document.getElementById('nav-register');
+    const userItem = document.getElementById('nav-user');
+    const logoutItem = document.getElementById('nav-logout');
+    const display = document.getElementById('username-display');
+    const logoutBtn = document.getElementById('logout-btn');
+
+    if (logoutBtn) logoutBtn.addEventListener('click', (e)=>{ e.preventDefault(); logout(); });
+
+    if (!isLoggedIn()) {
+      loginItem?.classList.remove('d-none');
+      registerItem?.classList.remove('d-none');
+      return;
+    }
+
+    const user = await getCurrentUser();
+    if (user) {
+      loginItem?.classList.add('d-none');
+      registerItem?.classList.add('d-none');
+      userItem?.classList.remove('d-none');
+      logoutItem?.classList.remove('d-none');
+      if (display) display.innerText = user.name || user.email || '';
+    }
+  })();
+</script>

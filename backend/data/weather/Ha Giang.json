@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:09.993868+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:58.965861+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:44.245985+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:24.705105+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:05.572177+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:45.934716+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:33.497595+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:20.443764+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:01.072387+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:43.425117+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:24.164126+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:10.405788+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:59.206618+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:41.797116+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:24.206654+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:45.292913+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:45.089795+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:27.152277+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:12.048335+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:56.890414+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:40.122190+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:29.286813+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:14.020717+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:58.624838+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:41.491491+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:23.728432+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:10.835897+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:56.493000+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:41.152435+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:24.331540+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:06.037339+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:53.569627+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:39.475240+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:25.298392+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:09.050040+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:55.336338+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:41.282485+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:26.576310+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:09.524011+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:51.612283+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:38.213778+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:22.862081+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:07.195838+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:50.976168+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:33.673834+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:19.685893+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:05.084532+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:49.660156+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:34.388161+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:16.813671+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:07.275008+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:52.014778+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:34.471640+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:17.278493+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:59.236211+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:49.435304+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:34.637792+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:16.890625+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:00.092411+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:43.063030+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:35.843031+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:18.146883+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:01.109429+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:42.875260+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:24.738737+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:17.476429+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:00.176740+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:43.334313+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:25.525916+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:08.268587+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:00.024060+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:43.011300+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:26.189930+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:09.076083+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:00.724008+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:43.570399+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:25.935934+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:08.502229+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:51.091142+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:44.050751+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:27.180039+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:11.646933+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:54.989590+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:47.027703+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:29.723766+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:13.030608+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:57.083265+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:49.255489+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:32.259512+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:17.687900+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:01.974305+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:09.234512+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:00.672432+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:46.597504+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:30.281615+07:00",
+    "temp": 17.5,
+    "humidity": 95.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 72.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:21.898079+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:06.325564+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:49.640661+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:32.033441+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:59.365030+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:41.423653+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:23.764111+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:05.229047+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:50.496912+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:37.833347+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:19.933036+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:02.642200+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:44.048562+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:28.813905+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:16.165767+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:58.517699+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:41.047271+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:22.673128+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:08.033323+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:55.177378+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:21.179488+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:03.742684+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:49.117412+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:36.839075+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:18.640515+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:00.341946+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:43.289700+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:30.033253+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:17.568624+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:59.880392+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:41.263979+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:24.170886+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:10.240131+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:57.154929+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:38.677490+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:22.112850+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:27.188392+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:48.253718+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:06.659639+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:49.399663+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:31.720817+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:23.147542+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:05.519581+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:46.946330+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:29.542564+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:11.036038+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:01.477998+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:43.224133+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:25.094750+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:08.384837+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:49.815872+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:41.072929+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:22.994074+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:04.645304+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:47.150229+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:28.568952+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:19.850613+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:01.608597+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:43.512206+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:26.301555+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:08.097337+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:59.819716+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:41.901194+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:24.208713+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:06.367568+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:47.629303+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:38.221816+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:20.060775+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:01.648018+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:12.765720+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:04.272707+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:46.072046+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:27.333001+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:09.641681+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:50.870791+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:41.482007+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:23.509132+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:04.921500+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:47.177176+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:28.411581+07:00",
+    "temp": 17.7,
+    "humidity": 94.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:18.984651+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:01.734671+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:42.852852+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:24.913445+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:06.475938+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:57.676649+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:39.236056+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:20.967355+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:04.217922+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:59.319547+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:41.217478+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:22.374615+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:04.585678+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:46.222879+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:37.555062+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:20.188095+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:02.129497+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:44.450759+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:25.822608+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:17.017156+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:59.239279+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:42.180233+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:24.752359+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:58.100520+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:40.609052+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:22.440367+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:04.964821+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:51.360560+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:37.365812+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:19.812539+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:01.801288+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:44.235205+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:25.132973+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:10.373890+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:00.206685+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:20.019653+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:01.662301+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:46.280571+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:28.825400+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:11.776445+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:58.097593+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:39.957359+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:24.425643+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:06.815507+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:49.937226+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:37.638314+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:19.561851+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:04.369120+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:46.846307+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:29.961516+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:16.282382+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:58.120733+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:42.919288+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:25.645658+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:08.706369+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:55.919577+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:37.667512+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:22.260947+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:05.486129+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:48.908595+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:35.293228+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:19.899028+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:04.294480+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:47.092661+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:29.987255+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:15.996827+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:57.998001+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:42.760380+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:25.144393+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:08.444847+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:55.006814+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:39.621446+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:27.992036+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:12.455514+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:58.865774+07:00",
+    "temp": 18.0,
+    "humidity": 92.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.04,
+    "cloud": 83.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:40.603742+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:22.356441+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:07.852226+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:51.583102+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:38.036739+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:20.173839+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:02.544027+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:46.254082+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:30.523762+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:16.819497+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:58.472881+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:40.585091+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:24.434429+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:09.490615+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:55.424459+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:37.036962+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:18.433112+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:02.369303+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:47.192513+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:33.472955+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:15.595956+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:57.303721+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:41.449432+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:25.746049+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:12.035525+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:54.151557+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:35.640701+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:19.307897+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:03.432802+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:50.058511+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:31.854537+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:13.289428+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:57.918685+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:42.271524+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:29.116782+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:11.028381+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:52.859704+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:36.650598+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:21.756849+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:09.559022+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:51.259431+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:34.188482+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:19.284777+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:03.448416+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:50.956508+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:33.480544+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:15.074339+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:59.511711+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:44.622832+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:30.887268+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:12.491543+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:54.339662+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:38.505035+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:24.585983+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:11.207230+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:55.548269+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:40.050171+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:22.870911+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:05.883419+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:52.029154+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:34.189094+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:18.838004+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:01.639755+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:44.645684+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:31.130484+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:13.183217+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:58.157712+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:41.026959+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:23.798515+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:10.075638+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:51.598319+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:35.791338+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:18.539571+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:01.798231+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:48.030057+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:30.217271+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:14.434644+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:57.732278+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:41.262350+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:27.922720+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:09.732671+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:54.443047+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:44.926439+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:31.875833+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:13.371775+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:57.971638+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:40.680071+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:23.748292+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:11.950081+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:53.496780+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:37.862438+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:20.720368+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:04.209294+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:52.780451+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:35.565742+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:20.104705+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:02.957734+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:45.994747+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:32.410552+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:14.625472+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:59.868951+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:43.569564+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:26.063985+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:15.029738+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:57.223723+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:42.206310+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:25.105232+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:16.861260+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:58.582549+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:43.904273+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:27.023138+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:10.080489+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:57.727873+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:39.455569+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:24.186789+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:07.313727+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:51.103134+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:39.251678+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:21.051479+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:05.248898+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:48.044136+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:30.690041+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:18.379637+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:00.161718+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:44.740118+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:27.793920+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:09.578687+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:58.009557+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:39.812072+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:25.877145+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:09.116922+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:50.695467+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:38.939161+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:20.838433+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:05.698198+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:48.849741+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:31.986730+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:20.021288+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:02.712500+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:47.774088+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:31.720805+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:13.607324+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:01.590613+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:43.271726+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:28.078661+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:12.074454+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:56.461288+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:45.519530+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:30.139107+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:13.750710+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:55.630601+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:37.218775+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:25.578469+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:10.445481+07:00",
+    "temp": 18.0,
+    "humidity": 93.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.05,
+    "cloud": 80.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:41.410860+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:33.287202+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:17.131174+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:00.304824+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:47.105259+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:37.774119+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:22.482345+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:05.199848+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:52.195424+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:41.945507+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:25.143219+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:09.062764+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:56.289983+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:46.419995+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:29.457995+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:12.352470+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:00.205169+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:18.239325+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:29.098169+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:18.395475+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:08.428917+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:51.281044+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:34.980272+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:24.385616+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:47.822594+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:18.794688+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:56.797105+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:27.985883+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:44.482964+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:29.622148+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:14.583333+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:57.364522+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:47.684290+07:00",
+    "temp": 21.7,
+    "humidity": 75.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 71.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:33.645168+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:55.081386+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:21.131199+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:52.401012+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:27.150032+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:58.493029+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:34.609649+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:34.712322+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:21.460661+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:09.275786+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:55.712278+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:40.272320+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:25.912087+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:12.877408+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:03.341223+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:48.035409+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:36.290317+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:24.034278+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:11.838937+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:15.140785+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:47.393344+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:19.917067+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:43.042493+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:27.750848+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:18.930699+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:02.471948+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:49.930918+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:39.212971+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:18.043434+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:16.880423+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:05.902794+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:54.682823+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:41.135680+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:27.538465+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:12.517162+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:30.273292+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:26.062544+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:45.222015+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:31.319601+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:08.107506+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:45.430095+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:24.353264+07:00",
+    "temp": 23.6,
+    "humidity": 67.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.04,
+    "cloud": 81.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:18.716399+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:03.118798+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:50.496390+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:35.627318+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:23.375363+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:13.386908+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:53.023849+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:30.877033+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:08.380237+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:50.654833+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:33.792558+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:10.821519+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:47.968964+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:27.530037+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:12.223468+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:57.061897+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:35.341282+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:12.586861+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:50.486267+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:32.862956+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:16.702481+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:54.721738+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:32.338609+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:12.766392+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:20.652802+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:32.521600+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:21.195337+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:22.510364+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:24.414415+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:25.222759+07:00",
+    "temp": 24.8,
+    "humidity": 61.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 52.0,
+    "city": "Ha Giang"
+  }
+]

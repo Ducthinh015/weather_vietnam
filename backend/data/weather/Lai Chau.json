@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:15.283494+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:05.501730+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:49.161633+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:29.640389+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:10.338582+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:50.853683+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:40.125564+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:25.157933+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:07.569511+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:48.478618+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:28.869604+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:17.542283+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:04.347542+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:47.113083+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:29.306832+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:04.558302+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:50.181071+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:32.598131+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:17.198061+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:02.818634+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:47.129479+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:34.399037+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:18.790353+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:04.598410+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:46.508526+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:29.485257+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:15.912868+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:01.508425+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:47.445150+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:29.146401+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:11.942830+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:59.280129+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:44.897662+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:31.247480+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:14.660857+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:00.408693+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:46.590736+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:32.754533+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:14.704657+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:57.329353+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:43.143804+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:27.849513+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:13.545262+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:56.171066+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:39.505517+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:24.804893+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:10.249826+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:57.594102+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:39.415181+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:22.773842+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:12.284488+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:57.557615+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:40.314167+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:22.353827+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:05.255146+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:54.380246+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:39.828781+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:22.747338+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:05.428712+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:48.568598+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:41.197291+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:24.167811+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:06.328210+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:47.897325+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:30.421483+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:23.148971+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:06.140013+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:48.571629+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:31.046186+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:13.493836+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:05.561120+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:49.119688+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:31.527734+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:14.688846+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:06.055453+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:48.900782+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:31.830040+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:14.336929+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:56.857172+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:49.667675+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:33.094472+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:16.824147+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:00.337426+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:52.283206+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:35.471565+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:19.604280+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:02.518559+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:54.612704+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:38.073780+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:22.883528+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:09.612712+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:14.791525+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:07.305028+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:52.628470+07:00",
+    "temp": 12.8,
+    "humidity": 98.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:35.573882+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:27.786112+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:12.545998+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:55.010577+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:41.861135+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:04.659266+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:47.322635+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:28.861584+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:10.494758+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:55.857620+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:43.210903+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:25.780036+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:07.714230+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:49.222405+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:33.901474+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:21.611929+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:04.286711+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:46.248562+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:28.035201+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:12.942655+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:00.655379+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:27.348033+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:09.170653+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:54.058340+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:42.190977+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:23.566292+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:06.678497+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:48.624068+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:35.214255+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:22.798251+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:04.838401+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:47.345984+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:29.536711+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:15.269897+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:02.443912+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:43.731002+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:28.332697+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:02.619569+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:53.687335+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:12.804510+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:54.444948+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:37.267556+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:28.594858+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:10.469853+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:52.940911+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:34.532255+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:16.359557+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:06.750782+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:48.461885+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:31.102729+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:13.290449+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:55.130111+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:46.477920+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:27.909432+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:10.691563+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:52.110020+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:34.092251+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:25.092526+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:06.627654+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:49.852024+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:31.385017+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:13.532819+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:05.227527+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:46.824463+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:30.412508+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:11.288710+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:52.948776+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:43.499639+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:25.177637+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:07.496021+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:18.132584+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:09.560402+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:50.904552+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:33.262760+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:14.554904+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:56.189922+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:46.916377+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:28.439877+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:10.946817+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:52.046045+07:00",
+    "temp": 12.6,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:33.855089+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:24.610750+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:06.675441+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:48.696896+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:30.029990+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:11.805410+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:02.962571+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:44.300763+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:27.064134+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:13.796104+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:04.705795+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:46.115686+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:28.336189+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:09.639649+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:51.709546+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:43.117218+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:25.336312+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:08.197815+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:49.475572+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:31.316323+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:22.445979+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:04.293981+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:48.140135+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:29.733872+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:03.806289+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:45.607627+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:28.520275+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:10.061149+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:56.370464+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:43.052233+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:24.934467+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:07.813861+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:49.209434+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:31.012176+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:16.479280+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:13.859112+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:24.902585+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:07.383251+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:52.341922+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:33.917882+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:16.689672+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:02.904296+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:45.557526+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:30.612959+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:11.717454+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:54.984513+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:42.604958+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:25.377815+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:10.171658+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:51.910872+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:35.032908+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:21.250259+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:03.973771+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:49.098629+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:30.566478+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:13.587626+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:00.866154+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:43.416570+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:29.514747+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:10.444979+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:53.910682+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:43.142396+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:25.426719+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:10.513163+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:52.032747+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:34.945566+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:20.977143+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:03.737960+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:48.792836+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:30.159660+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:13.415518+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:00.100048+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:46.272296+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:34.259624+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:17.604156+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:03.834890+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:45.928667+07:00",
+    "temp": 12.3,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:27.767096+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:13.869937+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:56.570285+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:42.982622+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:25.678565+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:07.829077+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:52.428884+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:35.491073+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:21.814697+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:03.849557+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:46.093840+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:30.389827+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:14.358555+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:00.422554+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:42.370036+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:23.715559+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:08.329598+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:52.078932+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:38.509617+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:20.939571+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:02.512687+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:47.499489+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:30.652036+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:16.952792+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:59.668901+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:40.947263+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:25.157133+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:08.469183+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:55.116986+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:37.174197+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:18.798220+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:03.959200+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:47.286667+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:34.248356+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:16.295499+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:58.192504+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:42.718002+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:26.811673+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:14.477963+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:56.558398+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:39.529062+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:25.339763+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:08.504889+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:56.171098+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:38.885331+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:20.471579+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:05.591741+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:49.733417+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:35.792766+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:17.765106+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:59.699933+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:44.408672+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:29.498804+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:16.171489+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:01.211018+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:46.067877+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:27.842431+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:10.795101+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:57.083653+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:39.953804+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:24.756858+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:06.794635+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:49.690580+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:36.060049+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:18.990012+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:04.264182+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:46.008126+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:28.625322+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:15.079912+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:57.303022+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:41.665514+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:23.527640+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:06.800239+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:53.041410+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:35.820821+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:20.437438+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:02.646709+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:46.485407+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:32.949576+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:15.457536+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:01.682291+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:49.998303+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:36.844035+07:00",
+    "temp": 12.0,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:19.094914+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:04.005061+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:45.672975+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:28.674151+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:16.769793+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:59.077341+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:43.854784+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:25.551433+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:09.511038+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:57.726519+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:41.278376+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:26.141190+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:07.967615+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:50.899304+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:37.463344+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:20.413909+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:06.224095+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:48.552918+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:31.233712+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:20.140434+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:03.237375+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:48.316024+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:33.303055+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:21.849839+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:04.294552+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:49.970252+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:32.294366+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:15.019980+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:02.696139+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:45.144041+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:30.199552+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:12.271093+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:56.076824+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:44.217200+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:26.773909+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:11.232892+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:53.027429+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:35.597019+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:23.328485+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:05.792183+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:50.787739+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:32.886005+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:14.684861+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:02.916046+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:45.500649+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:31.876542+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:14.116396+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:55.718651+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:43.902419+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:26.582176+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:11.627259+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:53.890081+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:36.881446+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:25.055285+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:08.634427+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:53.915701+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:36.822121+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:18.745328+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:06.552569+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:49.121269+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:34.250879+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:17.821177+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:02.185758+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:51.271829+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:36.195599+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:18.763713+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:00.558512+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:42.195255+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:31.368731+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:16.500724+07:00",
+    "temp": 11.8,
+    "humidity": 99.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:49.090882+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:38.511538+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:22.285645+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:05.325481+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:53.858472+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:42.957666+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:27.516484+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:10.411979+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:59.192684+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:47.081381+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:30.358164+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:14.422222+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:03.550530+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:51.316916+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:34.721317+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:17.555552+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:07.054765+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:30.982206+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:35.057339+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:25.733577+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:13.500994+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:56.974588+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:40.177654+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:31.437488+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:00.333157+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:31.538364+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:11.057478+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:40.339699+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:49.644174+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:36.611127+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:19.779613+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:02.700737+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:52.838542+07:00",
+    "temp": 17.2,
+    "humidity": 75.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:44.326517+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:07.529077+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:33.631983+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:06.769949+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:39.553050+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:12.407359+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:46.632171+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:40.842368+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:28.217511+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:14.536117+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:00.994563+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:45.326716+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:32.738544+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:20.006558+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:08.486295+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:53.279574+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:43.289136+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:30.700795+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:17.030995+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:27.808655+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:01.549676+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:33.203932+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:48.192893+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:34.765860+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:23.922952+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:07.649794+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:55.168944+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:53.315742+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:30.717152+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:22.052528+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:12.725472+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:00.242175+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:46.397315+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:32.930032+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:19.583613+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:43.091431+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:31.354907+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:52.301624+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:35.591995+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:12.353049+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:49.486598+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:28.483002+07:00",
+    "temp": 19.4,
+    "humidity": 65.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 46.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:24.912113+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:08.785323+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:56.215190+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:40.840784+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:30.632993+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:18.726478+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:57.160006+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:35.112715+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:12.845519+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:56.600236+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:38.029301+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:15.037265+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:52.268026+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:32.757434+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:18.508869+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:01.530220+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:39.678651+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:16.970527+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:55.050081+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:38.964156+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:21.028087+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:59.079719+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:36.733466+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:19.489832+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:25.154718+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:38.532472+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:27.395502+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:27.487464+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:31.916837+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:32.070212+07:00",
+    "temp": 21.1,
+    "humidity": 58.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.01,
+    "cloud": 54.0,
+    "city": "Lai Chau"
+  }
+]

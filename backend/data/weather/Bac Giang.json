@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:00.884865+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:46.794969+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:36.012870+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:16.524115+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:57.247601+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:37.637979+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:21.518032+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:12.314356+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:52.580395+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:35.360921+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:16.005015+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:59.121193+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:50.450771+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:32.952797+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:15.365608+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:36.520306+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:18.514918+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:03.512649+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:45.315723+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:30.821181+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:19.769041+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:05.458703+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:47.161238+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:32.873971+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:15.035995+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:01.947428+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:47.495832+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:29.823852+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:15.729294+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:57.300569+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:44.173943+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:30.628750+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:14.064903+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:59.337056+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:46.381094+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:32.011092+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:15.386891+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:01.034633+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:43.224089+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:29.117030+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:14.062667+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:56.200722+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:41.945223+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:25.077339+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:10.791025+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:56.087266+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:38.584338+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:25.798777+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:07.902449+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:57.548383+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:40.933049+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:25.972304+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:08.695109+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:50.837857+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:40.196770+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:23.279378+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:08.322698+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:51.035851+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:34.315906+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:23.800933+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:09.687963+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:52.521747+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:34.325703+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:16.345924+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:05.442482+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:51.483842+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:34.837323+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:16.969680+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:59.711413+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:48.167283+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:33.957313+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:17.442240+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:00.388827+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:49.385942+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:34.366030+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:17.112791+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:00.050700+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:42.642404+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:32.200022+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:17.754135+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:02.890927+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:46.153586+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:34.750038+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:20.762134+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:03.879271+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:48.593178+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:37.777793+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:23.522311+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:08.863858+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:51.230403+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:57.428880+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:44.428653+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:36.950721+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:21.266036+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:10.433144+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:57.159301+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:40.894790+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:23.413199+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:48.086222+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:32.882393+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:15.342533+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:56.813005+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:41.907929+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:26.650554+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:11.202502+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:54.199802+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:35.442361+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:20.448242+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:04.912941+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:49.742320+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:32.527684+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:14.091760+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:59.743180+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:44.032040+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:12.411090+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:55.271653+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:40.763867+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:24.777460+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:10.317421+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:51.758575+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:34.550757+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:21.570210+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:05.722178+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:50.857727+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:32.557405+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:15.665535+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:01.739948+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:45.830473+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:30.131052+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:12.589313+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:56.467222+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:36.938798+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:45.611081+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:40.878710+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:23.230370+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:11.589686+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:57.046547+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:38.474353+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:20.894353+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:02.555420+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:50.429851+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:34.691998+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:16.454220+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:59.160474+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:41.414824+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:29.803174+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:14.505543+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:56.007411+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:38.648265+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:20.177022+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:08.448228+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:53.222594+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:34.761853+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:17.720923+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:59.530315+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:48.487993+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:33.295599+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:14.582822+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:58.047449+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:39.124348+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:27.028798+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:11.641323+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:53.161087+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:52.884866+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:53.204264+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:37.736885+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:18.767379+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:01.266017+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:42.369923+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:30.269138+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:15.047170+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:56.379158+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:38.874533+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:20.005034+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:08.000163+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:53.200360+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:34.264725+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:16.462583+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:58.220650+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:46.224560+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:30.881616+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:12.282575+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:55.704289+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:48.187876+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:32.718751+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:13.780625+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:56.184812+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:37.726226+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:26.063550+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:11.710079+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:53.147048+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:36.168687+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:17.316107+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:05.850681+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:50.826725+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:33.411621+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:16.306409+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:46.479195+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:32.186848+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:13.748726+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:56.385542+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:42.759274+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:26.331471+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:11.258642+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:53.011814+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:35.690827+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:21.984783+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:01.619779+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:44.520839+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:09.272227+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:52.823883+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:37.217877+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:20.248824+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:03.481982+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:47.331422+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:30.998892+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:15.404805+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:58.446875+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:41.500908+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:25.622866+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:10.690119+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:55.373993+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:38.293948+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:21.504828+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:05.470061+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:49.291545+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:33.675594+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:17.094467+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:00.275701+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:45.191473+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:28.722134+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:13.309540+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:57.209768+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:40.139982+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:24.650824+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:11.178404+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:55.408541+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:38.489805+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:21.574581+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:05.457640+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:48.952554+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:34.025165+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:16.766901+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:59.996445+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:44.188685+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:29.719602+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:19.072784+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:03.895479+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:48.186892+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:31.816778+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:13.616124+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:59.165130+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:43.227169+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:27.009694+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:11.391230+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:53.828772+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:37.480340+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:21.988950+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:06.224395+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:49.763342+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:32.127302+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:15.863154+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:00.984387+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:44.649943+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:28.306542+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:10.246296+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:53.358800+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:38.409242+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:22.733253+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:06.703519+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:48.905127+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:32.548276+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:17.263860+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:01.129391+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:45.332172+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:27.348072+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:10.490183+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:54.958554+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:39.442267+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:22.931241+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:04.927706+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:48.966076+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:33.806479+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:18.334958+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:02.347450+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:44.383543+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:27.916693+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:13.107943+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:58.712069+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:42.350628+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:25.715051+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:09.480589+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:55.060703+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:39.687902+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:24.622354+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:06.847977+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:50.779102+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:35.227755+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:20.044137+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:03.712847+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:45.815018+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:29.658548+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:16.109154+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:00.390566+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:46.617196+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:31.116225+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:14.278552+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:57.337558+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:41.281959+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:25.387387+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:10.016458+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:53.207366+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:36.306730+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:20.219297+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:03.979476+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:49.334535+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:32.508579+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:15.342111+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:59.363735+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:42.878817+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:26.953972+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:10.158580+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:53.337484+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:37.443854+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:21.241927+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:05.648991+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:49.211590+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:32.825741+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:17.172869+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:00.857595+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:45.464912+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:36.389134+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:20.545568+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:04.659436+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:49.042297+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:32.057114+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:15.115269+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:00.938176+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:44.772490+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:29.135369+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:12.103959+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:55.320275+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:41.760472+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:26.779606+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:11.173967+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:54.582845+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:37.432468+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:21.644601+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:05.784837+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:50.504890+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:35.069832+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:17.542519+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:03.809098+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:48.465389+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:33.318073+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:16.760916+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:05.534591+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:50.061100+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:34.986728+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:18.425794+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:01.559632+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:46.933288+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:30.454615+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:15.276680+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:58.755607+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:40.187030+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:28.266046+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:12.238461+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:56.398110+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:39.557269+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:22.144010+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:07.474299+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:51.335115+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:35.853064+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:19.346303+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:01.109620+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:46.923134+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:31.212983+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:16.945933+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:00.517587+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:42.136402+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:27.785723+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:12.152704+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:56.781938+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:40.249856+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:23.073906+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:09.018959+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:53.515161+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:38.868645+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:22.922511+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:05.056241+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:50.745396+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:34.558722+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:19.058975+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:03.170745+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:47.550683+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:34.389732+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:21.133358+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:04.804129+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:46.982944+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:28.452355+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:14.308638+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:01.392443+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:27.057381+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:24.444201+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:08.467440+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:51.177482+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:35.422545+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:28.783251+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:12.498437+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:56.182529+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:40.306623+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:33.148431+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:16.082037+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:59.383869+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:44.304328+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:37.248174+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:20.124242+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:03.395623+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:48.114986+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:57.294999+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:20.157547+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:06.232180+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:59.530132+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:42.334939+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:25.581429+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:12.659480+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:26.351550+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:55.389070+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:32.719706+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:05.801603+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:35.058351+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:17.951962+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:05.676087+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:48.517253+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:38.210112+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:21.948236+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:34.833497+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:59.970974+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:28.795372+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:06.024318+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:34.857543+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:12.498735+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:25.191487+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:09.906388+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:59.300023+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:46.272698+07:00",
+    "temp": 23.8,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:31.309463+07:00",
+    "temp": 23.8,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:14.129401+07:00",
+    "temp": 23.8,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:04.101952+07:00",
+    "temp": 23.8,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:53.984811+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:38.744472+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:24.630183+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:14.039044+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:02.535003+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:53.091834+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:22.912845+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:58.416478+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:28.734459+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:17.192153+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:08.819495+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:53.195150+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:39.314322+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:26.437869+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:56.185598+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:06.253838+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:51.917363+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:45.254274+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:31.499859+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:16.965397+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:02.075865+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:08.711887+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:15.838261+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:32.887434+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:23.021937+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:00.758624+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:38.110902+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:16.728872+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:55.910057+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:55.606800+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:39.557232+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:26.769662+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:11.840338+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:04.327171+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:45.542059+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:23.326905+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:00.575913+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:40.451369+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:26.425372+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:03.325842+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:40.657712+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:18.895496+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:01.746352+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:48.630743+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:27.919464+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:05.109418+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:42.837870+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:22.469912+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:09.144873+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:47.371810+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:24.915577+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:58.789578+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:12.700461+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:22.187309+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:10.338285+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:14.725349+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:11.252143+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:15.560747+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Giang"
+  }
+]

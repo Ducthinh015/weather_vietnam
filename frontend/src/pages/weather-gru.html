@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AgriCast AI • Dự báo</title>
+
+  <link rel="stylesheet" href="../styles/main.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Load UI + Navbar -->
+  <script type="module" src="../js/ui.js"></script>
+  <script defer src="/js/navbar.js"></script>
+
+  <style>
+    body { background: var(--bg); color: var(--text); }
+    .card { background: var(--card-bg); border:1px solid var(--card-border); }
+  </style>
+</head>
+
+<body>
+  <div id="navbar"></div>
+
+  <div class="container mt-4">
+    <h1 class="mb-4">Dự báo thời tiết (GRU)</h1>
+
+    <div class="mb-3 d-flex gap-2 align-items-center">
+      <label for="city" class="form-label mb-0 me-2">Tỉnh/Thành:</label>
+      <select id="city" class="form-select w-auto"></select>
+      <button id="btnNow" class="btn btn-primary">Thời tiết hiện tại</button>
+      <button id="btnFetchNow" class="btn btn-outline-secondary">Lấy dữ liệu mới nhất</button>
+      <button id="btnPred" class="btn btn-success">Dự báo 6 giờ</button>
+    </div>
+
+    <div class="row g-3">
+      <div class="col-md-6">
+        <div class="card p-3 h-100">
+          <h5>Hiện tại</h5>
+          <div id="now" class="small"></div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card p-3 h-100">
+          <h5>Dự báo</h5>
+          <canvas id="chartTemp"></canvas>
+          <canvas id="chartHum" class="mt-3"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+// Dùng chung API_BASE với js/api.js (mặc định: http://localhost:5000/api)
+const API_BASE = (window.API_BASE) || "http://localhost:5000/api";
+const API = API_BASE + "/weather";
+
+async function loadCities() {
+  const select = document.getElementById("city");
+  select.innerHTML = "";
+  try {
+    const r = await fetch(API + "/cities");
+    const cities = await r.json();
+    for (const c of cities) {
+      const opt = document.createElement("option");
+      opt.value = c;
+      opt.textContent = c;
+      select.appendChild(opt);
+    }
+  } catch (e) {
+    console.error("loadCities failed", e);
+  }
+}
+
+function getSelectedCity() {
+  const sel = document.getElementById("city");
+  return sel.value || "";
+}
+
+async function realtime(){
+  const city = getSelectedCity();
+  if (!city) throw new Error("Chưa chọn tỉnh/thành");
+  const r = await fetch(API + "/realtime?city=" + encodeURIComponent(city));
+  if(!r.ok) throw new Error("Không có dữ liệu realtime");
+  return r.json();
+}
+
+async function predict(){
+  const city = getSelectedCity();
+  if (!city) throw new Error("Chưa chọn tỉnh/thành");
+  const r = await fetch(API + "/predict?city=" + encodeURIComponent(city));
+  if(!r.ok) throw new Error("Lỗi dự báo");
+  return r.json();
+}
+
+function formatNumber(value, digits = 1) {
+  if (value === null || value === undefined || isNaN(value)) return "-";
+  return Number(value).toFixed(digits);
+}
+
+function renderNow(d){
+  const box = document.getElementById("now");
+  const city = d.city || getSelectedCity() || "";
+
+  const items = [
+    { key: "temp", label: "Nhiệt độ", unit: "°C", value: formatNumber(d.temp, 1) },
+    { key: "humidity", label: "Độ ẩm", unit: "%", value: formatNumber(d.humidity, 0) },
+    { key: "pressure", label: "Áp suất", unit: "hPa", value: formatNumber(d.pressure, 0) },
+    { key: "wind_speed", label: "Tốc độ gió", unit: "m/s", value: formatNumber(d.wind_speed, 1) },
+    { key: "cloud", label: "Mây", unit: "%", value: formatNumber(Math.max(0, d.cloud || 0), 0) },
+    { key: "rain", label: "Lượng mưa", unit: "mm", value: formatNumber(Math.max(0, d.rain || 0), 1) },
+  ];
+
+  const tsRaw = d.timestamp || "";
+  let tsDisplay = tsRaw;
+  try {
+    if (tsRaw) {
+      const dt = new Date(tsRaw);
+      tsDisplay = dt.toLocaleString("vi-VN", {
+        timeZone: "Asia/Bangkok",
+        day: "2-digit",
+        month: "2-digit",
+        year: "numeric",
+        hour: "2-digit",
+        minute: "2-digit",
+      });
+    }
+  } catch (e) {
+    tsDisplay = tsRaw;
+  }
+
+  box.innerHTML = `
+    <div class="mb-2 fw-semibold">${city ? "Khu vực: " + city : ""}</div>
+    <div class="row g-2">
+      ${items.map(it => `
+        <div class="col-6">
+          <div class="d-flex justify-content-between small border rounded px-2 py-1 bg-light-subtle">
+            <span>${it.label}</span>
+            <span class="fw-semibold">${it.value} ${it.unit}</span>
+          </div>
+        </div>
+      `).join("")}
+    </div>
+    <div class="text-muted mt-2 small">Thời điểm đo: ${tsDisplay}</div>
+  `;
+}
+
+let chartT, chartH;
+
+function renderCharts(p){
+  const labels = p.prediction_steps || p.prediction_hours;
+
+  if(chartT) chartT.destroy();
+  if(chartH) chartH.destroy();
+
+  chartT = new Chart(document.getElementById("chartTemp"), {
+    type: "line",
+    data: {
+      labels,
+      datasets: [{ label: "Nhiệt độ (°C)", data: p.temp, borderColor:"#3578ff" }]
+    }
+  });
+
+  chartH = new Chart(document.getElementById("chartHum"), {
+    type: "line",
+    data: {
+      labels,
+      datasets: [{ label: "Độ ẩm (%)", data: p.humidity, borderColor:"#22c55e" }]
+    }
+  });
+}
+
+document.getElementById("btnNow").onclick = async ()=>{
+  try { renderNow(await realtime()); }
+  catch(e){ alert(e.message); }
+};
+
+document.getElementById("btnPred").onclick = async ()=>{
+  try { renderCharts(await predict()); }
+  catch(e){ alert(e.message); }
+};
+
+// Lấy dữ liệu mới nhất (gọi collector ngay)
+document.getElementById("btnFetchNow").onclick = async ()=>{
+  try {
+    const r = await fetch(API_BASE + "/weather/fetch-now", { method: "POST" });
+    const d = await r.json();
+    alert("Đã lấy dữ liệu lúc: " + (d.fetched_at || "-"));
+  } catch(e) {
+    alert("Không lấy được dữ liệu: " + e.message);
+  }
+};
+
+// Khởi tạo: load danh sách tỉnh và tự chọn tỉnh đầu tiên
+window.addEventListener("DOMContentLoaded", async () => {
+  await loadCities();
+});
+</script>
+</body>
+</html>

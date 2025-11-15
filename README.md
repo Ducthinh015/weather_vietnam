@@ -2,7 +2,7 @@
 ## Backend: python -m backend.app
 
 
-## Frontend: python -m http.server 8080 --directory .\frontend\src\
-
+## Frontend: 
+python -m http.server 8080 --directory .\frontend\src\
 
 

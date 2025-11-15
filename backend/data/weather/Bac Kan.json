@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:01.408226+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:47.375663+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:36.499005+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:16.952961+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:57.783528+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:38.057283+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:22.302754+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:12.799973+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:53.133554+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:35.826877+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:16.504200+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:59.745802+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:50.940402+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:33.470026+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:15.889115+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:37.185524+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:19.027550+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:04.008574+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:45.808761+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:31.281930+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:20.463937+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:05.959981+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:47.641780+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:33.386577+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:15.552467+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:02.593175+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:48.021091+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:30.426382+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:16.253227+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:57.838262+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:44.844054+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:31.152245+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:14.544438+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:59.825458+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:47.021564+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:32.577437+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:15.926808+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:01.563888+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:43.727365+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:29.830262+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:14.559041+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:56.735725+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:42.428459+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:25.555084+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:11.495888+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:56.598761+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:39.128422+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:26.282405+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:08.355588+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:58.296806+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:41.399775+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:26.421032+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:09.155295+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:51.324447+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:40.840943+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:23.722533+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:08.877200+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:51.507656+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:34.811008+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:24.639419+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:10.167109+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:52.995797+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:34.820217+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:16.867796+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:06.205533+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:52.000658+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:35.327391+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:17.500933+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:00.183002+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:48.809636+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:34.467435+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:17.952645+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:00.890970+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:50.065938+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:34.881112+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:17.637218+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:00.559857+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:43.138330+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:32.877561+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:18.238775+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:03.402469+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:46.642015+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:35.460886+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:21.270689+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:04.391664+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:49.075517+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:38.462616+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:24.066396+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:09.372532+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:51.853089+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:58.126473+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:44.961825+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:37.536035+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:21.800648+07:00",
+    "temp": 15.2,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:11.144894+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:57.672413+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:41.401424+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:23.916399+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:48.699822+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:33.402092+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:15.846838+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:57.289928+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:42.432831+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:27.319957+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:11.671776+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:54.689935+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:35.943123+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:20.950575+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:05.574332+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:50.271053+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:33.019709+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:14.627059+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:00.222128+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:44.682201+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:13.000109+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:55.737473+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:41.322149+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:25.426383+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:10.795865+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:52.235780+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:35.027241+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:22.065132+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:06.852396+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:51.373728+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:33.108512+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:16.158627+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:02.252486+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:46.493131+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:30.735679+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:13.079962+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:56.964910+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:37.679667+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:52.317322+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:41.377528+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:23.768433+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:12.409730+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:57.554058+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:38.954569+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:21.417706+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:03.045839+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:51.114649+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:35.163731+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:16.930437+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:00.642580+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:41.910864+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:30.595114+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:14.958227+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:56.530051+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:39.166130+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:20.655484+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:09.109653+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:53.719584+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:35.255322+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:18.252210+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:00.035308+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:49.136709+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:33.831326+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:15.050778+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:58.582500+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:39.592476+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:27.820494+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:12.146992+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:53.661634+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:54.129110+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:53.868047+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:38.260085+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:19.302613+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:01.761712+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:42.828626+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:30.946561+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:15.539340+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:56.851113+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:39.301242+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:20.479958+07:00",
+    "temp": 14.9,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:08.656737+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:53.816790+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:34.773012+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:16.924363+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:58.712028+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:46.887660+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:31.336805+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:12.737168+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:56.189919+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:48.863636+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:33.182302+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:14.267286+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:56.670722+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:38.230561+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:26.703897+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:12.176633+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:53.654879+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:36.660637+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:17.788501+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:06.502474+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:51.301322+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:33.880145+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:16.827810+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:47.126586+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:32.698127+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:14.244632+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:56.874633+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:43.255234+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:26.969777+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:11.797468+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:53.486786+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:36.163618+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:23.972778+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:02.439885+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:44.987384+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:09.796351+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:53.325238+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:37.877563+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:20.720592+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:03.976919+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:47.825717+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:31.484467+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:16.223838+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:58.959692+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:41.985521+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:26.115883+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:11.193880+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:56.007379+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:38.804091+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:21.988787+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:05.952078+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:49.789628+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:34.520806+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:17.612402+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:00.738303+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:45.684418+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:29.211122+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:13.980817+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:57.688552+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:40.645328+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:25.163953+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:11.652465+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:56.078605+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:38.962959+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:22.049896+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:05.983699+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:49.431196+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:34.638251+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:17.243096+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:00.466599+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:44.706164+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:30.296622+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:19.704378+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:04.417106+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:48.769264+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:32.348526+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:14.106673+07:00",
+    "temp": 14.6,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:59.815581+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:43.710191+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:27.474867+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:11.889280+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:54.304460+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:38.099983+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:22.468921+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:06.748425+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:50.262370+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:32.655159+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:16.534687+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:01.487327+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:45.125421+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:28.774060+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:10.718581+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:53.986425+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:39.048712+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:23.240054+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:07.215947+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:49.461990+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:33.288326+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:17.750879+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:01.663639+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:45.835256+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:27.854238+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:11.149719+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:55.471634+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:39.922040+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:23.415628+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:05.428613+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:49.660551+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:34.281162+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:18.813602+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:02.819835+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:44.903077+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:28.590199+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:13.592152+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:59.263038+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:42.827709+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:26.224672+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:10.111466+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:55.547520+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:40.245105+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:25.120670+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:07.309419+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:51.444635+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:35.712552+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:20.512528+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:04.188108+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:46.329391+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:30.376349+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:16.566632+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:00.894943+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:47.150774+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:31.903652+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:14.788185+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:57.853752+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:41.777709+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:25.875436+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:10.672684+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:53.680307+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:36.797929+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:20.752673+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:04.450549+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:50.039388+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:33.040901+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:15.828654+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:59.887200+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:43.397485+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:27.612069+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:10.676045+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:53.816709+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:37.943846+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:21.766283+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:06.350416+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:49.689733+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:33.329454+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:17.667997+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:01.382093+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:46.133305+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:36.909452+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:21.029024+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:05.153002+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:49.716127+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:32.574887+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:15.625505+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:01.420003+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:45.302265+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:29.775945+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:12.629375+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:55.799530+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:42.269027+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:27.248503+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:11.855477+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:55.092915+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:37.921127+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:22.149901+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:06.298176+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:51.155240+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:35.592212+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:18.027535+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:04.350265+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:48.967571+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:34.084714+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:17.263093+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:06.052953+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:50.544258+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:35.619668+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:18.937068+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:02.019077+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:47.440537+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:31.231105+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:15.963280+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:59.262999+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:40.701031+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:28.772299+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:12.756463+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:57.075131+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:40.033595+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:22.615018+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:07.950722+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:51.840647+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:36.546337+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:19.851115+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:01.622352+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:47.455533+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:31.690725+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:17.579574+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:01.024437+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:42.621736+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:28.287401+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:12.612715+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:57.444712+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:40.773094+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:23.594832+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:09.577715+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:54.037939+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:39.524773+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:23.395350+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:05.566483+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:51.281877+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:35.031532+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:19.739394+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:03.670114+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:48.084421+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:34.921717+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:21.772300+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:05.328392+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:47.481470+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:28.973852+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:14.800569+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:02.127092+07:00",
+    "temp": 11.6,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:28.077867+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:24.954480+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:08.967319+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:51.798527+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:36.119896+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:29.318727+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:13.141024+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:56.687997+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:41.094013+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:33.684732+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:16.605359+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:00.033346+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:44.925860+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:37.733357+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:20.601342+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:03.891434+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:48.793148+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:58.496842+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:20.747087+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:06.861748+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:59.985141+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:42.902595+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:26.187979+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:13.395848+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:27.888101+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:56.605010+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:34.114438+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:07.148337+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:35.702950+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:18.440025+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:06.222168+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:49.062311+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:38.866484+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:22.504946+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:36.094982+07:00",
+    "temp": 19.3,
+    "humidity": 58.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:01.180592+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:30.083099+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:07.364556+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:36.077582+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:14.345080+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:25.823358+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:10.454993+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:59.855154+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:46.912340+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:31.852281+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:14.638474+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:04.610779+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:54.642188+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:39.306357+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:25.164080+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:14.553680+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:03.194067+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:54.304970+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:24.150122+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:59.823039+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:29.940267+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:17.749727+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:09.570214+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:53.715865+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:39.855116+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:26.999959+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:57.636907+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:06.805024+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:52.439534+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:45.788455+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:32.177034+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:17.455201+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:02.585990+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:09.935686+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:16.513275+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:33.584838+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:24.616948+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:01.202394+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:38.504518+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:17.183721+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:56.478969+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:56.031873+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:40.067657+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:27.280237+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:12.570845+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:04.822344+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:45.989477+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:23.772724+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:01.065005+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:41.094260+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:26.814673+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:03.727014+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:41.099864+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:19.415916+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:02.335797+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:49.053159+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:28.295998+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:05.529600+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:43.287789+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:23.083718+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:09.557328+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:47.809068+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:25.390238+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:59.649749+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:13.176568+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:22.780913+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:10.938701+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:15.243916+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:11.997721+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:16.120883+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Kan"
+  }
+]

@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:25.981699+07:00",
+    "temp": 16.4,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:18.350100+07:00",
+    "temp": 16.4,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:58.731796+07:00",
+    "temp": 16.4,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:39.295287+07:00",
+    "temp": 16.4,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:19.821259+07:00",
+    "temp": 16.4,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:00.921018+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:54.176190+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:34.754509+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:17.277318+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:58.257167+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:38.686278+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:32.204944+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:14.795427+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:57.169917+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:39.853814+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:18.270884+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:00.324244+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:42.886834+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:27.186600+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:12.803268+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:01.664891+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:44.809600+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:28.859541+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:14.800010+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:56.616031+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:43.312549+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:26.214723+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:11.590938+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:57.676410+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:39.329983+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:25.475778+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:09.682941+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:55.863892+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:41.265154+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:28.124052+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:10.895052+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:56.940433+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:42.898205+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:25.087562+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:10.715845+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:53.326666+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:38.036810+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:23.771829+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:06.193926+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:52.593943+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:35.213650+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:20.426603+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:07.630414+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:49.433625+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:36.270846+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:22.529384+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:07.877298+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:50.355449+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:32.650836+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:19.204761+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:04.567824+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:49.961696+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:33.036955+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:15.759308+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:02.348134+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:51.355454+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:34.410904+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:16.319114+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:58.072709+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:44.116238+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:33.375157+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:16.660643+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:58.656232+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:41.570024+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:27.037217+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:15.688992+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:59.108326+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:42.161644+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:28.518672+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:15.993266+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:59.044251+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:41.962166+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:24.643036+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:11.368555+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:59.603627+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:44.335901+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:26.794464+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:13.796481+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:02.600748+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:45.557390+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:30.419605+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:16.446802+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:05.179576+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:50.642807+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:32.922260+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:30.886495+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:25.620059+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:18.514698+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:03.202381+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:49.330271+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:38.805416+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:22.742585+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:05.165280+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:22.460901+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:14.698388+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:57.291059+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:38.829228+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:23.682324+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:05.917392+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:53.319860+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:35.860949+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:17.554473+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:02.554087+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:43.864397+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:31.741748+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:14.235945+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:56.170227+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:41.613071+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:23.095005+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:10.863039+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:37.308688+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:22.644266+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:04.054096+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:52.269893+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:33.734463+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:16.535680+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:02.362007+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:45.015070+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:32.723804+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:14.617422+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:57.228932+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:43.466946+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:25.145409+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:12.302553+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:54.699843+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:38.394758+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:16.141092+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:03.650271+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:22.789981+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:04.592377+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:50.648023+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:38.896939+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:20.480120+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:02.845309+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:44.459252+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:29.534573+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:16.795764+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:58.527812+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:41.109381+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:23.529789+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:09.188922+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:56.442863+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:37.988531+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:20.707801+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:02.047277+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:47.517785+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:35.087021+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:16.772122+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:59.695345+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:41.591071+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:27.263574+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:15.184977+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:56.656280+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:40.005682+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:21.157533+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:06.194578+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:53.610216+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:35.151043+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:24.641816+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:32.054538+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:19.644003+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:00.655647+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:43.246223+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:24.217397+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:09.536095+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:56.860553+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:38.289014+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:20.872082+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:01.854826+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:47.216633+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:35.132832+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:16.402067+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:58.534865+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:40.237354+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:25.407960+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:12.954815+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:54.196798+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:37.638989+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:27.642880+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:14.685512+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:55.926926+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:38.260753+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:19.732724+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:05.336562+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:53.059607+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:35.180927+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:18.096481+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:59.341099+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:44.695750+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:32.851157+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:14.328473+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:58.236939+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:15.520677+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:14.040987+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:55.772664+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:38.569285+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:23.831392+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:06.325515+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:53.214325+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:35.129585+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:17.787742+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:02.882708+07:00",
+    "temp": 15.7,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:41.644411+07:00",
+    "temp": 15.7,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:26.432369+07:00",
+    "temp": 15.7,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:50.155501+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:34.873982+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:17.648384+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:02.219285+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:45.467263+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:28.114544+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:12.915370+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:55.772691+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:40.474002+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:23.479743+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:06.503674+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:52.549949+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:35.506358+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:20.071749+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:03.546914+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:46.446888+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:31.285275+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:13.970807+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:59.086953+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:42.309221+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:26.298331+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:10.691390+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:53.554066+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:39.270408+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:22.074573+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:05.556945+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:53.157534+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:35.725265+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:20.397612+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:03.602975+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:46.467319+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:30.905296+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:13.975818+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:58.711995+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:41.960618+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:25.120868+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:10.402582+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:58.420916+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:45.925741+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:29.064890+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:13.702440+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:55.706906+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:39.147814+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:25.353439+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:08.016688+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:53.176188+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:35.775400+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:17.844940+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:03.885586+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:47.058630+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:31.810724+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:13.887798+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:56.131367+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:42.260668+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:25.795021+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:10.241223+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:52.392140+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:33.755087+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:19.988056+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:03.702477+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:48.772411+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:30.881285+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:12.749646+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:59.109379+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:42.067735+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:26.818759+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:09.435240+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:50.902484+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:36.954656+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:20.269343+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:05.063625+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:47.039141+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:28.853839+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:15.703924+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:59.277800+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:44.278811+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:26.184828+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:08.289822+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:55.055430+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:39.595059+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:24.362256+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:07.522189+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:49.647342+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:37.017803+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:20.148344+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:06.652932+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:48.870642+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:30.618665+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:17.211859+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:01.180744+07:00",
+    "temp": 15.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:45.725982+07:00",
+    "temp": 15.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:27.655227+07:00",
+    "temp": 15.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:09.912739+07:00",
+    "temp": 15.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:58.143932+07:00",
+    "temp": 15.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:41.259664+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:26.166850+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:11.355168+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:56.242217+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:39.253971+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:22.234516+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:07.265513+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:50.059410+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:35.151320+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:18.282015+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:01.205066+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:45.990192+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:29.082611+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:14.592079+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:57.349520+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:40.354826+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:25.012291+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:07.327925+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:51.915390+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:35.243099+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:18.306616+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:03.050872+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:45.866380+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:31.021695+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:14.612587+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:57.868556+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:42.925829+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:25.657435+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:18.320730+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:01.534809+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:46.602047+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:29.254743+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:13.936703+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:57.225695+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:40.790004+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:26.771114+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:09.270522+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:53.970630+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:37.350720+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:22.391321+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:08.352831+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:51.475384+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:36.574353+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:19.344000+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:02.363837+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:47.527504+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:30.728874+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:16.881280+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:59.541733+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:42.796426+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:30.336475+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:13.425760+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:58.798072+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:46.016231+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:32.159179+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:14.516836+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:00.413083+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:42.448924+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:27.800779+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:12.684618+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:55.548218+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:40.638263+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:22.133440+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:09.028878+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:54.225667+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:36.754786+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:21.653032+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:04.009326+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:48.244742+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:33.266341+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:16.124251+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:01.339740+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:42.982469+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:27.627137+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:13.106054+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:56.949005+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:42.347316+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:23.973740+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:08.691256+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:54.117555+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:36.852389+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:22.278582+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:04.245585+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:49.949795+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:35.230076+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:18.954664+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:04.696543+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:47.050010+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:31.523792+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:16.520162+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:59.114469+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:44.923103+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:29.031544+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:14.935013+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:01.290328+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:46.635731+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:28.842073+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:10.513340+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:54.875562+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:41.558143+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:04.402155+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:48.712850+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:32.752720+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:15.451578+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:08.888772+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:53.176707+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:37.677728+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:20.615662+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:12.965982+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:57.508858+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:40.693304+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:24.731735+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:17.659041+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:01.725494+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:45.230479+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:28.078872+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:25.936978+07:00",
+    "temp": 22.1,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:55.672661+07:00",
+    "temp": 22.1,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:46.111701+07:00",
+    "temp": 22.1,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:39.682351+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:23.742096+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:07.294665+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:52.809351+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:54.963958+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:25.034063+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:59.460725+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:36.283182+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:08.244484+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:59.777466+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:46.945067+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:30.118067+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:17.013606+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:03.363594+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:08.308504+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:29.428893+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:58.136556+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:33.900812+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:04.857345+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:40.098774+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:06.236541+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:51.475436+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:41.007394+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:25.135821+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:12.856339+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:55.737573+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:45.829993+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:31.751343+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:20.135208+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:06.452444+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:55.781175+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:41.216578+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:28.737052+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:52.811161+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:26.164056+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:58.895838+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:58.711611+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:47.333472+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:34.632780+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:19.572183+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:07.929602+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:20.967227+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:46.708934+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:33.198920+07:00",
+    "temp": 24.1,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:25.676617+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:10.992784+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:58.247994+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:43.395498+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:38.237362+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:55.201169+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:43.176135+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:05.304743+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:43.959576+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:21.259588+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:58.000556+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:37.209981+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:37.588506+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:20.192528+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:07.850727+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:51.761787+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:45.130990+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:28.600600+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:05.898281+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:43.637832+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:21.631170+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:08.677754+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:46.625509+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:23.896090+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:00.965158+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:41.899492+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:30.611592+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:10.288016+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:48.213706+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:25.880528+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:04.117473+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:51.140384+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:29.829822+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:07.932988+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:45.205558+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:33.144068+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:34.948758+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:51.775318+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:40.494182+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:40.550540+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:46.863136+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:46.998683+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Nguyen"
+  }
+]

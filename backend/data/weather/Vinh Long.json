@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:29.834720+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:21.292515+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:01.604979+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:42.349899+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:22.648659+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:04.864755+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:56.991464+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:37.649805+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:20.032724+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:01.066239+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:42.598759+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:35.308412+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:17.816355+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:00.277670+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:43.825647+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:21.312936+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:03.408876+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:46.933868+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:30.340644+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:15.802454+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:04.692616+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:48.744919+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:32.024022+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:17.918947+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:59.602922+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:46.397797+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:30.512649+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:14.659410+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:00.682635+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:42.348518+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:28.517570+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:13.731143+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:58.923474+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:44.222664+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:31.188960+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:15.120275+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:00.183059+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:45.889840+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:28.088274+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:13.857354+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:57.355970+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:41.086621+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:26.886921+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:10.042228+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:55.572672+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:39.355205+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:23.346714+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:10.724287+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:52.466390+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:40.734587+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:25.709922+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:10.891869+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:53.465894+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:35.740549+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:23.311578+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:07.718551+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:52.874008+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:35.998303+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:18.855327+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:06.811754+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:54.370194+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:37.437974+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:19.283468+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:01.094522+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:48.334685+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:36.379632+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:19.747596+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:01.841789+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:44.588619+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:31.252582+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:18.613535+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:02.305115+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:45.379472+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:32.692625+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:18.937864+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:02.039961+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:44.995887+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:27.543985+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:15.396685+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:02.693124+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:47.319867+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:30.027771+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:17.980116+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:05.710815+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:48.463395+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:33.527305+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:20.427580+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:08.445114+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:53.666587+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:36.064931+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:37.225430+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:28.802634+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:21.759635+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:06.333301+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:53.497384+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:42.045088+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:25.890551+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:08.454945+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:30.808199+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:17.804922+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:00.254604+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:41.904953+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:26.721967+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:10.033769+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:56.167154+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:38.874946+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:20.471205+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:05.458728+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:47.980821+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:34.749583+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:17.230165+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:59.043857+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:44.662310+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:27.177899+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:19.998257+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:40.257750+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:25.552326+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:08.042142+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:55.313975+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:36.813319+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:19.509812+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:06.450775+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:48.912384+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:35.798352+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:17.542962+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:00.159634+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:46.543128+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:29.096646+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:15.175494+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:57.672949+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:41.386743+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:20.154788+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:11.326570+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:25.792156+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:07.620188+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:54.591651+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:42.035772+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:23.506981+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:05.847627+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:47.412841+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:33.598270+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:19.727260+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:01.516828+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:44.073779+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:26.544363+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:13.208200+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:59.367965+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:41.022568+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:23.641413+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:05.026473+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:51.715731+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:38.045506+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:19.700605+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:02.659472+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:44.524539+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:31.541650+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:18.231005+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:59.604973+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:42.952600+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:24.133050+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:10.150575+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:56.555465+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:38.194651+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:33.175707+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:36.206662+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:22.644066+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:03.678786+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:46.192430+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:27.314175+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:13.521063+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:59.826430+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:41.277819+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:23.899626+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:04.859231+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:51.382898+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:38.146619+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:19.298779+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:01.409337+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:43.132789+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:29.267682+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:15.875612+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:57.221294+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:40.549424+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:31.570823+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:17.678484+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:58.862369+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:41.279537+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:22.738136+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:09.284905+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:56.096624+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:38.136955+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:21.144157+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:02.270915+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:48.790293+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:35.774712+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:17.284663+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:01.219011+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:22.141520+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:17.195533+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:58.726177+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:41.496006+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:27.667452+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:09.263678+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:56.081128+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:38.015974+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:20.813474+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:06.962555+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:44.684389+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:29.368950+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:54.268942+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:37.795903+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:20.612920+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:05.159539+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:48.448504+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:32.179689+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:15.900030+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:58.696102+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:43.418661+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:26.460533+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:10.528501+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:55.492488+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:38.438475+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:23.104806+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:06.546605+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:50.343053+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:34.229764+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:16.949665+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:02.102338+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:45.281078+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:30.182463+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:13.659049+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:56.477319+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:42.238542+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:25.022487+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:09.547838+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:56.191900+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:38.669044+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:23.409140+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:06.598301+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:50.408685+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:33.858569+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:16.950834+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:01.616552+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:45.086242+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:29.083399+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:13.863066+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:02.081034+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:48.838078+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:33.117637+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:16.698322+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:58.674241+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:42.261611+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:28.225319+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:12.008617+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:56.152568+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:38.834796+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:20.772258+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:06.910146+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:51.225630+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:34.754033+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:16.920038+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:59.048731+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:45.933373+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:29.754226+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:13.219042+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:55.228619+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:36.734942+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:23.038410+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:07.765167+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:51.695185+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:33.816055+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:15.717217+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:02.182221+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:46.016493+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:29.760661+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:12.262965+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:53.872932+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:40.029077+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:24.346933+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:07.981797+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:50.002541+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:31.996142+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:18.724800+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:03.295685+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:47.280493+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:29.247164+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:11.311874+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:58.179611+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:43.845797+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:27.369119+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:10.571685+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:52.612525+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:40.060170+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:24.218511+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:09.630222+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:51.831146+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:33.679961+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:20.156746+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:05.089984+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:48.682243+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:30.721802+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:12.902411+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:01.273848+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:45.364740+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:29.096834+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:14.397359+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:59.232320+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:42.255512+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:26.238208+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:10.266542+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:53.026710+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:38.143229+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:21.335873+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:05.233641+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:48.908220+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:32.070810+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:17.500882+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:00.366165+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:44.453631+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:27.854977+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:10.291345+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:55.011592+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:38.299950+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:22.338314+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:06.047759+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:48.953245+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:34.146114+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:17.582817+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:01.940071+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:45.821015+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:28.660888+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:21.331003+07:00",
+    "temp": 22.7,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:05.564080+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:49.608641+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:32.231795+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:16.811663+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:00.174659+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:45.958077+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:29.698915+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:12.416320+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:57.053127+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:40.309445+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:26.678875+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:11.597841+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:54.463863+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:39.554011+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:22.319802+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:06.558646+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:50.575397+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:33.802578+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:20.030780+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:02.524121+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:48.657718+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:33.380616+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:16.419943+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:01.756171+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:50.158314+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:35.072283+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:17.533465+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:03.380683+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:46.524467+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:31.893260+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:15.542580+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:58.582103+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:43.562916+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:25.130312+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:13.265714+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:57.243193+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:39.748061+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:24.664323+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:07.074387+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:52.404227+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:36.177431+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:19.082994+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:04.237060+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:45.927861+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:31.833523+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:16.016301+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:59.957343+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:45.369011+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:27.072966+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:12.719011+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:56.992262+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:39.891376+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:25.227426+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:07.270286+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:53.999787+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:38.238588+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:21.985046+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:07.655390+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:50.131661+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:35.592413+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:19.545156+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:02.100680+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:47.979483+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:32.267532+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:19.206291+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:04.344986+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:49.647069+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:31.900720+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:13.477527+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:59.075619+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:44.560065+07:00",
+    "temp": 22.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:08.522449+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:52.654982+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:35.876326+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:18.607907+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:13.130260+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:56.165052+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:40.771788+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:23.606171+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:17.440713+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:00.722666+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:43.721757+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:27.804473+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:21.756247+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:04.936460+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:48.243148+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:31.287678+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:34.540776+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:03.302667+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:49.331430+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:43.944149+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:26.857182+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:10.529535+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:56.216724+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:03.462974+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:32.933346+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:08.088770+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:43.588618+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:16.775715+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:02.856721+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:50.200914+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:33.271343+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:21.133226+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:06.681641+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:13.431022+07:00",
+    "temp": 25.9,
+    "humidity": 64.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:37.478079+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:05.735232+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:42.265172+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:12.274291+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:48.362397+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:09.398471+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:54.707635+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:44.109088+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:29.317224+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:15.949714+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:58.815224+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:48.857485+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:36.569997+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:23.341253+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:09.477617+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:58.858613+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:45.492614+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:31.977296+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:00.226148+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:34.467057+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:06.208959+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:01.891518+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:51.467144+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:37.767008+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:22.913821+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:11.161125+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:31.908835+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:50.573021+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:36.333720+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:29.923895+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:14.436262+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:01.543945+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:46.560761+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:46.482517+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:58.616089+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:46.325234+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:14.537226+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:08.478394+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:46.501699+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:23.786751+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:00.599063+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:40.171179+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:40.981942+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:23.836594+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:11.130250+07:00",
+    "temp": 27.6,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 1.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:55.259244+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:48.891671+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:31.215378+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:08.765215+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:46.266151+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:24.598210+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:11.820358+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:49.180971+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:26.507569+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:03.623035+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:44.904869+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:34.111069+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:13.385546+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:50.867539+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:28.386391+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:06.681117+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:54.465934+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:32.892641+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:10.492713+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:47.762995+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:37.026562+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:37.650593+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:55.429034+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:44.583042+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:44.597496+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:51.108398+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:51.179699+07:00",
+    "temp": 29.0,
+    "humidity": 55.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Vinh Long"
+  }
+]

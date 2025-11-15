@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:20.120556+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:11.358186+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:53.609778+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:33.994014+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:14.583270+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:55.136337+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:46.128479+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:29.517590+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:11.983352+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:53.041767+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:33.046957+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:24.750774+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:09.386587+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:51.725607+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:33.926151+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:10.858517+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:54.749849+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:37.138899+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:21.799970+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:07.304176+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:54.191127+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:38.987037+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:23.311779+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:09.127742+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:51.013166+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:35.471357+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:20.462637+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:06.013221+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:52.104577+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:33.748449+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:18.202329+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:03.833437+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:49.769345+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:35.691180+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:20.769371+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:04.969457+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:51.167244+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:37.294981+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:19.413164+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:03.726127+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:47.559115+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:32.500989+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:18.072426+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:00.670362+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:45.484534+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:29.291330+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:14.891326+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:02.241911+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:43.933155+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:28.899833+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:17.050395+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:02.325980+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:44.842428+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:26.962930+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:11.666697+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:59.009244+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:44.401106+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:27.372280+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:10.242624+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:54.842569+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:45.841512+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:28.853933+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:10.754912+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:52.419392+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:36.667158+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:27.726307+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:11.006554+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:53.097813+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:35.686828+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:19.541158+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:10.245453+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:53.632581+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:36.426630+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:20.913522+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:10.471339+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:53.371322+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:36.257047+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:18.937409+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:03.133115+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:54.083473+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:37.640257+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:21.417986+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:06.442001+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:56.959315+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:40.191556+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:24.398608+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:08.878614+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:59.607794+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:42.708715+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:27.439828+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:19.743191+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:19.786728+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:12.328525+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:57.510331+07:00",
+    "temp": 21.6,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.1,
+    "cloud": 80.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:41.730290+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:32.860723+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:17.073650+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:59.460938+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:57.260892+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:09.167984+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:51.885186+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:33.300666+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:16.318008+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:00.504247+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:47.771241+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:30.406443+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:12.132495+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:55.346017+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:38.305437+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:26.129728+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:08.860808+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:50.740892+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:34.253691+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:17.477223+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:05.076784+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:31.934551+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:15.294913+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:58.530654+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:46.718922+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:28.072994+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:11.148426+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:55.083702+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:39.630289+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:27.214713+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:09.245860+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:51.787548+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:36.094069+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:19.697139+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:06.896315+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:48.319803+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:32.863020+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:08.759199+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:58.102601+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:17.231230+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:59.169761+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:43.269772+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:33.252908+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:14.962670+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:57.432103+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:39.026563+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:22.318539+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:11.303921+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:53.081483+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:35.529491+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:17.593191+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:01.708661+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:51.020416+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:32.443832+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:15.148754+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:56.513578+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:40.073847+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:29.528615+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:11.200905+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:54.316517+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:35.855001+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:19.530814+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:09.711400+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:51.255514+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:34.857629+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:15.767080+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:58.867016+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:48.044460+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:29.570049+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:12.054288+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:24.359050+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:14.076502+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:55.252716+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:37.935151+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:18.936366+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:02.184474+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:51.334586+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:32.957678+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:15.383120+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:56.345468+07:00",
+    "temp": 22.0,
+    "humidity": 85.0,
+    "pressure": 1016.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.18,
+    "cloud": 95.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:40.076725+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:29.606974+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:11.005040+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:53.163521+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:34.763050+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:17.771874+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:07.555231+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:48.743832+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:32.301048+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:19.922443+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:09.169525+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:50.531186+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:32.870988+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:14.117307+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:57.596706+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:47.656290+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:29.797109+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:12.653936+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:53.883515+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:37.316300+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:27.252072+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:08.829549+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:52.699001+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:53.205490+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:08.541881+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:50.249950+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:33.062873+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:16.297904+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:00.856565+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:47.840014+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:29.619611+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:12.320035+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:55.302870+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:36.115211+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:20.856560+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:31.321998+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:29.361548+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:12.057864+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:56.751232+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:39.824819+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:21.163353+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:07.373772+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:50.197039+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:35.059732+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:17.676685+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:59.433612+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:47.158576+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:29.943937+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:14.716263+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:57.863293+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:39.499700+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:25.826416+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:08.638121+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:53.650647+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:36.495893+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:19.227047+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:05.259884+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:47.948884+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:33.984636+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:16.335936+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:58.434790+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:47.599241+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:29.998253+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:14.969370+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:57.810645+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:39.439413+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:25.401134+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:08.499845+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:53.200785+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:35.941857+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:17.934540+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:04.836243+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:51.632573+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:40.148760+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:22.137640+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:08.211067+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:50.324136+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:33.424406+07:00",
+    "temp": 22.1,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.694444444444444,
+    "rain": 0.2,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:19.638212+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:01.046456+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:47.449819+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:30.294894+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:12.436927+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:58.239043+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:40.038296+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:26.248279+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:08.353849+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:50.751114+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:36.208716+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:18.800754+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:04.826396+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:46.898183+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:28.275038+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:14.142615+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:56.463690+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:43.195962+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:25.345215+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:07.196693+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:53.375891+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:35.005076+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:21.436540+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:04.094073+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:45.508623+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:31.075357+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:13.045745+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:59.637754+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:41.614366+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:23.448272+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:09.886994+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:51.678742+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:38.823926+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:20.812607+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:02.855036+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:49.172412+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:31.822399+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:18.904647+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:01.065887+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:44.224304+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:31.280181+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:13.042657+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:01.050370+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:43.389486+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:25.070621+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:11.379380+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:54.199574+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:40.197053+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:22.208795+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:04.440294+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:52.357390+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:34.020205+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:20.669094+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:05.768806+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:50.852804+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:33.442723+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:15.169820+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:01.632543+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:44.582849+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:29.627324+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:12.404858+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:54.205148+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:40.577839+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:23.651123+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:09.155492+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:51.594764+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:33.223931+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:19.629078+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:01.922554+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:46.526212+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:29.133144+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:11.237455+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:57.554505+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:40.379162+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:25.315356+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:08.502631+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:51.002693+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:37.381126+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:20.107146+07:00",
+    "temp": 22.0,
+    "humidity": 86.0,
+    "pressure": 1015.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.38,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:12.288605+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:54.481376+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:41.221223+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:23.763919+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:08.564599+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:51.395770+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:33.190869+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:21.267300+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:03.763979+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:48.572275+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:31.344715+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:14.452224+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:02.352627+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:45.988966+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:31.109794+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:13.305671+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:55.436912+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:42.020335+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:25.194810+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:11.288609+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:53.835574+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:35.639486+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:24.770649+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:07.906552+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:53.223921+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:38.704756+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:26.440093+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:09.083007+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:54.876648+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:36.839477+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:20.339134+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:07.178483+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:49.699688+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:35.141566+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:16.753926+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:01.421139+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:48.700474+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:31.434458+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:16.125637+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:58.194199+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:40.930240+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:27.829953+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:10.584815+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:55.780697+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:37.398906+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:19.966233+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:07.467619+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:50.160332+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:36.782626+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:18.607671+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:01.221570+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:48.455475+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:31.315889+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:16.698206+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:58.669267+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:42.281636+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:29.509657+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:13.358674+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:59.060015+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:41.459863+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:24.135824+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:10.958632+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:53.764473+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:39.376175+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:22.592218+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:07.480124+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:55.837485+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:41.260625+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:23.289594+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:05.080448+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:47.492429+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:35.984705+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.34,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:56.723181+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:43.194929+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:26.960426+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:09.831520+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:01.559205+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:47.529087+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:32.158037+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:15.052921+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:05.524245+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:51.671155+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:35.025058+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:19.072212+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:09.927923+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:55.996288+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:39.379945+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:22.121194+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:13.365726+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:41.939036+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:40.367938+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:32.047050+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:18.138147+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:01.641454+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:46.064991+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:37.662201+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:11.534277+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:44.039751+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:22.184544+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:52.909690+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:54.268640+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:41.342825+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:24.527559+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:09.325679+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:57.606471+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:54.547141+07:00",
+    "temp": 22.8,
+    "humidity": 87.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.388888888888888,
+    "rain": 0.63,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:18.026563+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:44.433634+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:18.238035+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:51.561216+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:23.704049+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:58.752513+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:45.666016+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:33.271141+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:19.302460+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:06.919707+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:49.901243+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:37.944398+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:24.828360+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:14.296319+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:57.798057+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:48.267901+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:35.420090+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:22.954573+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:38.997618+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:12.554860+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:45.576439+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:52.859565+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:39.689992+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:28.726838+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:13.613461+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:00.108983+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:05.526356+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:40.170844+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:27.188535+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:17.895427+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:05.123054+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:52.415201+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:37.595527+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:24.785818+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:48.615098+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:37.431851+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:58.320624+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:39.275822+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:16.392433+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:53.296098+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:32.491774+07:00",
+    "temp": 23.1,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 6.611111111111111,
+    "rain": 0.39,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:30.336778+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:13.501210+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:01.327301+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:45.609522+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:37.050715+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:23.498237+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:01.082976+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:38.884397+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:16.814080+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:02.016407+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:41.874232+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:19.135508+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:56.167386+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:36.902462+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:23.932564+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:05.438091+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:43.589504+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:20.840017+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:59.275189+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:44.524499+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:24.930603+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:02.944179+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:40.557695+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:25.529928+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:29.553563+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:44.189444+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:33.281360+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:33.398437+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:38.425315+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:38.483364+07:00",
+    "temp": 23.5,
+    "humidity": 86.0,
+    "pressure": 1017.0,
+    "wind_speed": 6.694444444444445,
+    "rain": 0.41,
+    "cloud": 100.0,
+    "city": "Phu Tho"
+  }
+]

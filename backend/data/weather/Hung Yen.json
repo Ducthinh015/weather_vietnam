@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:13.137400+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:02.865226+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:47.194352+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:27.655405+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:08.453180+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:48.872491+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:37.517190+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:23.305065+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:05.518914+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:46.553943+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:26.974264+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:14.574306+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:02.254812+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:44.987498+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:27.298170+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:59.388525+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:48.131371+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:30.152219+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:15.117834+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:00.911023+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:43.950508+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:32.410808+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:16.867490+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:02.624004+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:44.559535+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:26.669299+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:13.832417+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:59.502426+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:45.327516+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:27.252091+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:09.205572+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:57.241182+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:42.583439+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:29.185933+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:12.058875+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:58.444042+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:44.558240+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:30.747676+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:12.531515+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:54.683080+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:41.208519+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:25.852992+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:11.394914+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:54.001766+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:36.871814+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:22.805042+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:08.183580+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:55.532101+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:37.452275+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:20.109521+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:10.332846+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:55.411664+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:38.135031+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:20.277850+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:02.148608+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:52.402571+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:37.888203+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:20.587339+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:03.147852+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:46.292076+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:39.184977+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:21.993825+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:04.177862+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:45.773992+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:28.005538+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:20.995155+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:03.760600+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:46.405493+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:28.552445+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:11.409579+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:03.552425+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:46.851972+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:29.189972+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:12.350960+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:04.025679+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:46.841623+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:29.529219+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:11.833432+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:54.226723+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:47.480540+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:30.898172+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:14.685840+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:58.008415+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:50.339664+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:33.279329+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:16.274146+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:00.105462+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:52.642644+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:35.943275+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:20.637182+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:06.171027+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:12.537389+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:04.928850+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:50.371370+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:33.277206+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:25.791184+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:10.148562+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:52.781471+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:37.450838+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:02.631269+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:45.092306+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:26.776882+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:08.239011+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:53.532200+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:41.114194+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:23.622274+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:05.526166+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:46.918642+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:31.943790+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:19.587911+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:02.184336+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:44.070080+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:25.683771+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:10.964916+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:58.589992+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:24.989009+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:06.766857+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:52.150957+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:40.175448+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:21.571646+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:04.285575+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:46.285729+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:33.193885+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:20.832278+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:02.838958+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:45.017474+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:27.081062+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:13.289311+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:00.464660+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:41.704307+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:25.932423+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:59.609594+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:51.731513+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:10.439218+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:52.406626+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:34.800147+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:26.592191+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:08.434947+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:50.596695+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:32.545361+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:13.975791+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:04.840758+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:46.470664+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:28.749894+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:11.350334+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:52.785918+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:44.472661+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:25.914132+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:08.330417+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:50.104966+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:31.610987+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:23.094301+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:04.532123+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:47.359977+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:29.255497+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:11.056481+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:03.183179+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:44.870226+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:27.927352+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:09.367092+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:50.619514+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:41.534636+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:23.255677+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:05.294095+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:15.817008+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:07.538927+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:48.990836+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:30.910833+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:12.589218+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:53.764830+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:44.881116+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:26.423775+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:08.576143+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:50.076013+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:31.446311+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:22.413099+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:04.734523+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:46.407538+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:27.908176+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:09.421546+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:00.969321+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:42.306954+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:24.632698+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:11.552544+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:02.763170+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:44.124011+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:26.038836+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:07.675185+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:49.354507+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:41.052399+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:23.319234+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:05.861555+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:47.472101+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:28.732153+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:20.442689+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:02.217198+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:45.772135+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:27.702508+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:01.509529+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:43.693248+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:26.095341+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:08.054090+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:54.368966+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:40.707755+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:22.841645+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:05.439239+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:47.231689+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:28.398064+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:14.153998+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:09.984969+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:22.974077+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:04.929479+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:49.959503+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:31.884802+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:14.678498+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:00.918772+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:43.163256+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:28.153166+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:09.780115+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:52.963635+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:40.695009+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:22.986056+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:07.887438+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:49.920776+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:33.068756+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:19.240109+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:01.635891+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:46.805529+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:28.588532+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:11.593928+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:58.897843+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:41.013573+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:25.834073+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:08.472493+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:51.932785+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:38.243442+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:23.098262+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:07.844056+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:50.009902+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:33.125473+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:19.005015+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:01.368728+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:46.481774+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:28.114781+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:11.454814+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:58.037091+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:43.340175+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:31.841356+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:15.496709+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:01.817069+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:43.962235+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:25.365012+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:11.569569+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:54.584881+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:41.066316+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:23.552626+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:05.496406+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:49.946534+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:33.477219+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:19.850608+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:01.776638+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:43.667566+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:28.060679+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:12.374255+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:58.442344+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:40.373881+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:21.371755+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:05.969682+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:50.148094+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:36.459548+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:18.994495+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:00.246247+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:45.234944+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:28.702114+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:14.992787+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:57.685825+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:38.611709+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:22.845676+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:06.446525+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:53.101161+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:35.137498+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:16.341345+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:01.599662+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:45.228889+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:32.219093+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:14.307725+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:55.879378+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:40.409416+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:24.848813+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:12.528578+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:54.529963+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:37.173823+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:22.872076+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:06.472969+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:54.123134+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:36.890042+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:18.075521+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:03.270197+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:47.775560+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:33.786840+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:15.798311+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:57.330031+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:42.080361+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:27.586934+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:14.148630+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:58.907506+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:43.759990+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:25.765921+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:08.798385+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:55.062635+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:37.511879+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:22.489899+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:04.824222+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:47.687967+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:34.070366+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:16.662756+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:01.943815+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:44.071181+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:26.645454+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:13.078939+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:54.954826+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:39.388131+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:21.472454+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:04.742110+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:51.032500+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:33.495148+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:18.045017+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:00.642890+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:44.420956+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:30.963216+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:13.059162+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:58.307733+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:47.963775+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:34.804716+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:16.772861+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:01.636785+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:43.655489+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:26.706528+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:14.825591+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:56.751114+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:41.529466+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:23.594186+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:07.389346+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:55.749975+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:38.983698+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:23.798356+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:06.015316+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:48.957093+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:35.480853+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:18.002348+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:03.795002+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:46.625828+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:29.210832+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:18.111623+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:00.857087+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:45.840613+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:28.135196+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:19.887583+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:01.982429+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:47.573670+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:30.210999+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:13.022500+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:00.729905+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:42.780162+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:27.889220+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:10.309123+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:54.082433+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:42.179184+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:24.426265+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:08.890494+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:50.997591+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:33.566764+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:21.355704+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:03.482465+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:48.402938+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:30.911452+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:12.673079+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:00.998758+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:43.174038+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:29.603821+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:12.139474+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:53.675933+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:41.918898+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:24.220732+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:09.308829+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:51.908262+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:34.919151+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:23.064792+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:06.228765+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:51.431150+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:34.794213+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:16.719042+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:04.548784+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:46.835687+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:31.872933+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:15.300948+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:59.956593+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:48.906891+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:33.812380+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:16.754878+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:58.583034+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:40.197171+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:28.852815+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:14.180615+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:45.894966+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:36.465246+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:20.327202+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:03.357470+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:51.193213+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:40.841999+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:25.481221+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:08.303129+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:56.299783+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:45.107960+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:28.255448+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:12.345871+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:00.730069+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:49.353843+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:32.634534+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:15.398419+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:04.292604+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:25.707928+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:32.624012+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:22.955308+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:11.527613+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:54.443013+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:38.149425+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:28.676961+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:55.261010+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:26.191907+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:05.488193+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:35.339227+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:47.604078+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:33.814846+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:17.705627+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:00.549987+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:50.845327+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:38.636786+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:02.533767+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:28.746966+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:01.010748+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:34.537572+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:06.838218+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:41.780408+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:38.666227+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:25.411726+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:12.423957+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:58.887117+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:43.316030+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:30.079525+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:17.947043+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:06.473261+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:51.140733+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:40.452202+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:27.737740+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:14.879113+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:22.448820+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:55.783135+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:28.088472+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:46.250900+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:31.961341+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:21.972691+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:05.639993+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:53.022318+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:47.679805+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:25.371557+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:19.837202+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:10.029340+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:58.075304+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:44.353921+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:30.769059+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:16.759287+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:37.745274+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:29.318725+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:49.321761+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:33.847971+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:10.624377+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:47.788096+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:26.804169+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:22.386342+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:06.767125+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:53.764412+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:38.742160+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:27.756960+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:16.448850+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:55.463649+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:33.416031+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:11.154877+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:54.198044+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:36.402445+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:13.347536+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:50.584726+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:30.659419+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:15.909688+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:59.758825+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:37.960047+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:15.126574+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:53.194170+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:36.545042+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:19.313335+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:57.361762+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:34.993852+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:16.716798+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:23.398392+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:36.005159+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:24.916921+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:25.307398+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:29.042806+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hung Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:29.152275+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hung Yen"
+  }
+]

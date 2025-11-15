@@ -1,0 +1,5072 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:30.520320+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:21.734680+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:02.060637+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:42.827565+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:23.158270+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:05.515053+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:57.418020+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:38.116654+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:20.487584+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:01.515785+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:43.263948+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:35.841362+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:18.316081+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:00.795255+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:44.515266+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:21.832666+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:03.933443+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:47.611810+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:30.791166+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:16.307943+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:05.201636+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:49.452416+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:32.511783+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:18.419624+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:00.089116+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:46.883622+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:31.289026+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:15.181430+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:01.169207+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:42.788472+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:29.087479+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:14.394381+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:59.454212+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:44.742727+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:31.685734+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:15.757621+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:00.685361+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:46.452485+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:28.593526+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:14.335400+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:58.009293+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:41.611440+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:27.444038+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:10.520075+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:56.114977+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:40.058805+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:23.877482+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:11.253966+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:53.000768+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:41.460297+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:26.238423+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:11.380025+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:54.023846+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:36.272496+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:23.967283+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:08.213273+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:53.345783+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:36.517386+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:19.390661+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:07.515095+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:54.911113+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:37.910818+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:19.775987+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:01.640876+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:49.075669+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:36.888576+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:20.254852+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:02.367981+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:45.104087+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:32.037186+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:19.152487+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:02.848445+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:45.876118+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:33.391778+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:19.472768+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:02.505493+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:45.528820+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:28.017608+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:16.048684+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:03.278633+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:47.886220+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:30.660942+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:18.620764+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:06.189209+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:48.983108+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:34.023833+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:21.384620+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:08.961713+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:54.160721+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:36.543881+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:38.254132+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:29.339238+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:22.364040+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:06.770797+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:54.185561+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:42.541986+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:26.395080+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:08.929946+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:31.898458+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:18.336927+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:00.729256+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:42.370547+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:27.232906+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:10.734527+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:56.670419+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:39.358731+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:20.977564+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:05.946085+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:48.666955+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:35.234521+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:17.716989+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:59.519928+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:45.170761+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:27.863398+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:20.492577+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:40.748127+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:26.063464+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:08.728559+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:55.822196+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:37.305022+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:19.979713+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:06.946683+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:49.595967+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:36.310875+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:18.040404+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:00.702068+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:47.028589+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:29.741107+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:15.753896+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:58.145351+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:41.864946+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:20.790910+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:11.846252+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:26.291254+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:08.125596+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:55.309100+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:42.516441+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:24.005283+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:06.354467+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:47.906649+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:34.278982+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:20.230533+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:02.035937+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:44.555053+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:27.005388+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:13.852182+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:59.846347+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:41.506437+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:24.099790+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:05.532781+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:52.442501+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:38.557597+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:20.185206+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:03.179488+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:45.025777+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:32.194781+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:18.728932+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:00.096169+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:43.446474+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:24.612866+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:10.904971+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:57.078064+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:38.662093+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:33.723882+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:36.884703+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:23.200690+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:04.189598+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:46.717055+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:27.817425+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:14.201249+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:00.343928+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:41.782600+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:24.394593+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:05.407866+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:52.104940+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:38.650653+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:19.810806+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:01.916483+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:43.628463+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:29.909938+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:16.395114+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:57.684890+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:41.052589+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:32.252718+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:18.165479+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:59.361732+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:41.725747+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:23.242888+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:09.972815+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:56.556289+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:38.641894+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:21.650781+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:02.777900+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:49.440163+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:36.285600+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:17.755421+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:01.700305+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:30.164062+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:17.680889+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:59.230192+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:41.971806+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:28.171946+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:09.910536+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:56.715590+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:38.533233+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:21.305469+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:07.447889+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:45.343063+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:29.912107+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:54.737152+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:38.335600+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:21.237127+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:05.711709+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:48.924237+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:32.681333+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:16.405988+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:59.406596+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:43.877645+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:26.960614+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:11.002449+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:55.989439+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:39.124268+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:23.611852+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:07.030402+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:50.810690+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:34.715942+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:17.603031+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:02.607476+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:45.813969+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:30.685750+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:14.148062+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:57.167293+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:42.709032+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:25.507475+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:10.041384+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:56.698800+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:39.348094+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:23.894132+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:07.078833+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:50.888304+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:34.352063+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:17.620117+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:02.126223+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:45.553905+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:29.557377+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:14.583051+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:02.807770+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:49.346136+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:33.604870+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:17.229891+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:59.199690+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:42.944938+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:28.732402+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:12.477719+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:56.693266+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:39.302339+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:21.443810+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:07.400816+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:51.697821+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:35.274327+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:17.444267+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:59.681691+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:46.472597+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:30.252142+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:13.715511+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:55.720313+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:37.426892+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:23.538115+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:08.273916+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:52.176533+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:34.326386+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:16.334486+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:02.710126+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:46.516052+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:30.374342+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:12.750909+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:54.578520+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:40.515871+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:24.886007+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:08.441288+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:50.450536+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:32.660613+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:19.213589+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:03.822191+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:47.785222+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:29.759639+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:11.927638+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:58.724148+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:44.321112+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:27.839883+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:11.062872+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:53.347126+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:40.572449+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:24.708776+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:10.115293+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:52.334705+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:34.503807+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:20.695892+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:05.569251+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:49.179565+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:31.210554+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:13.504288+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:01.784562+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:45.883239+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:29.573925+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:15.061869+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:59.702734+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:42.781593+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:26.700530+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:10.782669+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:53.715168+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:38.711594+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:21.819511+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:05.700672+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:49.444456+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:32.869705+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:17.970685+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:00.872395+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:44.938615+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:28.319658+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:10.949118+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:55.522612+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:38.769352+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:22.820230+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:06.549923+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:49.631744+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:34.680180+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:18.074061+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:02.472932+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:46.342414+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:29.318651+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:21.803155+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:06.056808+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:50.098616+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:32.876010+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:17.359950+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:00.681728+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:46.472157+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:30.275751+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:13.104014+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:57.541834+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:40.822573+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:27.184633+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:12.112339+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:55.129600+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:40.055000+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:22.831263+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:07.087511+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:51.125770+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:34.498463+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:20.550257+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:02.987906+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:49.191235+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:33.859493+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:17.067706+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:02.239025+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:50.653857+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:35.597384+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:18.207515+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:03.898320+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:47.013311+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:32.463627+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:15.986506+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:59.259743+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:44.042526+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:25.617346+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:13.784958+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:57.743843+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:40.408633+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:25.173795+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:07.573913+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:52.929565+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:36.695923+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:19.791801+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:04.748273+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:46.435967+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:32.349993+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:16.526691+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:00.643791+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:45.888154+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:27.595948+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:13.195019+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:57.472611+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:40.544164+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:25.715808+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:07.775950+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:54.474178+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:38.842201+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:22.622620+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:08.130299+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:50.640805+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:36.082636+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:20.011865+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:02.763846+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:48.583691+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:32.832541+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:19.752460+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:05.013357+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:50.121255+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:32.392615+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:13.971460+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:59.570279+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:45.211734+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:09.205443+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:53.456240+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:36.424351+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:19.186949+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:13.853374+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:56.684775+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:41.294353+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:24.087293+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:18.089238+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:01.234412+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:44.221933+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:28.335986+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:22.423924+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:05.465800+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:48.755177+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:31.787086+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:35.953718+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:04.578918+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:49.847869+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:44.658690+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:27.424279+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:11.007842+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:56.738196+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:04.861342+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:34.178847+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:09.505553+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:44.801210+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:18.150771+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:03.375566+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:50.755533+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:33.731498+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:21.818636+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:07.201374+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:14.130058+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:38.797387+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:06.999854+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:43.595993+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:13.465096+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:49.754631+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:09.957062+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:55.243214+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:44.625714+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:30.008496+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:16.469960+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:59.332266+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:49.392544+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:37.463288+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:23.896340+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:10.004873+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:59.338520+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:46.180463+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:32.470573+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:01.542680+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:35.791094+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:07.404121+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:02.484663+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:52.157379+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:38.325649+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:23.473970+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:11.703725+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:33.272184+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:51.129875+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:36.882001+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:30.413798+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:15.108970+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:02.105665+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:47.112201+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:47.665414+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:59.349933+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:46.857126+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:09.042141+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:46.956516+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:24.169294+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:01.004195+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:40.560054+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:41.607183+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:24.450618+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:11.694363+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:55.767340+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:49.596687+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:31.655547+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:09.332096+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:46.709446+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:25.044556+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:12.419550+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:49.611221+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:26.930800+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:04.058385+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:45.402217+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:34.702360+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:13.846927+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:51.278705+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:28.860171+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:07.108153+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:55.071326+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:33.327784+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:10.920112+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:48.141182+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:37.703366+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:38.202511+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:56.013191+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:45.257816+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:51.879052+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:51.896832+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Vinh Phuc"
+  }
+]

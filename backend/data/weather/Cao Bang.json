@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:06.298264+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:53.582705+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:40.900987+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:21.352260+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:02.229426+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:42.509520+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:28.744141+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:17.157036+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:57.346179+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:40.223941+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:20.776416+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:05.759639+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:55.597680+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:38.093167+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:20.702109+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:30.652500+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:41.690717+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:23.518899+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:08.480613+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:52.043929+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:36.347601+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:25.192341+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:10.594112+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:53.582410+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:37.887751+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:20.186098+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:07.211433+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:52.782059+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:36.410614+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:20.868882+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:02.425649+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:49.584586+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:35.917967+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:20.582440+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:05.527355+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:51.761708+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:37.564272+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:21.824093+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:05.955252+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:48.097206+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:34.536292+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:19.348250+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:02.430066+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:47.423080+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:30.066223+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:16.092258+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:01.424151+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:44.895230+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:30.838825+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:13.311182+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:03.404194+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:47.363315+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:30.989344+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:13.634410+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:55.642911+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:46.014158+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:29.626276+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:13.531672+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:56.244497+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:39.576198+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:30.998840+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:14.740472+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:57.560613+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:39.326215+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:21.194493+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:12.562326+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:56.514370+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:39.831009+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:22.068758+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:04.695644+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:54.854874+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:39.229326+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:22.609701+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:05.336968+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:56.121750+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:39.807419+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:22.362212+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:05.033927+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:47.555582+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:39.091331+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:23.384478+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:08.252400+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:51.322567+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:41.629405+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:25.946034+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:08.856968+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:53.536829+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:44.567325+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:28.594564+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:13.785280+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:56.425711+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:04.287133+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:53.828798+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:42.170935+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:26.634800+07:00",
+    "temp": 14.6,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:17.285661+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:02.323871+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:45.896977+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:28.397973+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:54.706855+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:37.875277+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:20.301486+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:01.796358+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:47.064767+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:33.358443+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:16.243925+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:59.185551+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:40.479149+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:25.351753+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:11.617024+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:54.838367+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:37.594122+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:19.163392+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:04.542729+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:50.708268+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:17.298718+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:00.259615+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:45.678670+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:32.067100+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:15.187087+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:56.618784+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:39.491976+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:26.558890+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:12.958522+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:56.601072+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:37.593865+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:20.579363+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:06.800764+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:52.460567+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:35.150770+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:17.690207+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:02.530710+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:43.796317+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:02.867788+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:45.889512+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:28.241480+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:18.482218+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:02.027242+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:43.350507+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:25.988991+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:07.476199+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:56.955995+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:39.744000+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:21.466605+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:05.037656+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:46.406449+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:36.650909+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:19.365477+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:00.996467+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:43.662858+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:25.131414+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:15.394210+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:58.212329+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:39.660387+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:22.798889+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:04.452127+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:54.956527+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:38.306657+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:20.626437+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:03.041579+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:44.165980+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:33.801436+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:16.548977+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:58.039503+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:04.520669+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:59.815071+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:42.639256+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:23.675288+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:06.156342+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:47.438433+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:36.976070+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:19.986105+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:01.248454+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:43.783024+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:24.969393+07:00",
+    "temp": 14.3,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:14.462527+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:58.244995+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:39.204933+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:21.446334+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:03.105312+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:53.229438+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:35.763033+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:17.252633+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:00.738714+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:54.893915+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:37.707258+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:18.743990+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:01.139732+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:42.717055+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:32.972821+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:16.669565+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:58.204018+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:40.974060+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:22.256674+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:12.517433+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:55.802718+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:38.408811+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:21.217182+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:53.154975+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:37.165029+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:18.706367+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:01.460831+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:47.860838+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:32.912286+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:16.320082+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:57.970441+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:40.639813+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:11.237790+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:06.864694+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:53.219381+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:15.836703+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:57.811426+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:42.246679+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:25.392233+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:08.365158+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:53.934619+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:35.942714+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:20.777337+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:03.392286+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:46.423746+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:33.133049+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:15.618964+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:00.646991+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:43.267859+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:26.419719+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:12.080285+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:54.294204+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:39.334692+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:22.143230+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:05.257615+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:51.817127+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:33.732644+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:18.433083+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:02.068621+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:45.294851+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:31.189131+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:16.122806+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:00.500114+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:43.553030+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:26.552217+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:11.908377+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:53.979631+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:39.122619+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:21.682135+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:04.910674+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:50.773675+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:35.190586+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:24.266360+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:08.874179+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:54.754979+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:36.808714+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:18.687883+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:04.226559+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:48.079617+07:00",
+    "temp": 14.1,
+    "humidity": 85.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:33.825572+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:16.223183+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:58.978533+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:42.533702+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:26.889858+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:12.670917+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:54.708461+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:37.205402+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:20.912086+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:06.023996+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:51.203847+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:33.167435+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:15.071464+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:58.410018+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:43.664159+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:29.195128+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:11.729543+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:53.873509+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:37.717233+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:22.303701+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:07.952481+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:50.342607+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:32.272719+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:15.692864+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:59.926501+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:45.980682+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:28.008043+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:09.872902+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:54.294939+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:38.808102+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:25.012339+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:07.235992+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:49.389191+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:33.125615+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:18.248120+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:05.365280+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:47.404098+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:30.706584+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:14.483559+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:00.029224+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:46.553797+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:29.700370+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:11.692875+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:55.919761+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:41.240865+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:26.612873+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:08.671462+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:50.733752+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:34.820570+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:21.041511+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:06.870417+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:51.710247+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:36.406559+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:19.446396+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:02.419949+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:47.941111+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:30.435524+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:15.100165+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:58.224498+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:41.153240+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:26.927798+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:09.037891+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:54.561685+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:37.512434+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:20.219995+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:06.033528+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:47.870272+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:32.250543+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:15.140484+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:58.246221+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:43.845286+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:26.307619+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:10.798286+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:54.146266+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:37.804008+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:23.735848+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:05.883213+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:50.570496+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:41.368627+07:00",
+    "temp": 13.9,
+    "humidity": 86.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:27.167901+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:09.666101+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:54.162418+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:37.119327+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:20.169716+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:07.619297+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:49.733017+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:34.378531+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:17.177349+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:00.526049+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:48.507452+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:31.672482+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:16.509687+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:59.467275+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:42.473787+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:28.233263+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:10.819589+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:55.763714+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:40.152934+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:22.514084+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:10.553978+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:53.548125+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:38.491743+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:21.790982+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:12.113950+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:54.917150+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:40.162213+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:23.459518+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:06.542994+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:53.430411+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:35.785813+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:20.475405+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:03.734336+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:45.223915+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:34.876910+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:17.322551+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:01.678476+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:44.542398+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:27.095587+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:14.027213+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:56.354293+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:41.050797+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:24.304235+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:06.063287+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:53.590618+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:36.190049+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:22.255793+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:05.493080+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:47.184823+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:34.578523+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:17.160522+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:02.005511+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:45.267711+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:28.280188+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:15.563232+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:58.958437+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:44.004744+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:28.026401+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:10.109477+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:57.280711+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:39.592062+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:24.362660+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:08.288787+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:52.594923+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:40.981503+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:26.225547+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:09.999756+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:52.067057+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:33.601195+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:21.092998+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:06.640632+07:00",
+    "temp": 13.1,
+    "humidity": 86.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:35.964338+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:29.705409+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:13.634822+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:56.510068+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:42.404000+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:34.097071+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:18.388341+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:01.546873+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:47.318758+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:38.313902+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:21.376854+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:05.042651+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:51.155096+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:42.932313+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:25.888980+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:08.845837+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:55.418849+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:09.574485+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:25.390874+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:13.468170+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:04.859908+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:47.577568+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:31.329632+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:19.578484+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:39.189157+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:10.262084+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:46.995402+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:18.754948+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:40.795734+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:24.635940+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:10.992687+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:53.744930+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:43.945282+07:00",
+    "temp": 17.8,
+    "humidity": 62.0,
+    "pressure": 1023.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:28.711019+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:47.211865+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:12.105534+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:42.678112+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:18.426446+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:48.757832+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:25.581194+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:31.031293+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:16.660204+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:04.502093+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:51.994148+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:36.743257+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:20.906696+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:09.278425+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:59.606398+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:44.362182+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:31.274069+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:19.401147+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:08.223088+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:06.362962+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:37.767480+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:11.217960+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:39.220592+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:22.677485+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:14.986751+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:58.789075+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:46.079842+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:31.769543+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:09.122807+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:13.086706+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:00.616020+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:51.037884+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:37.355681+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:23.844023+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:07.494544+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:21.270913+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:21.958379+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:40.381369+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:28.407806+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:05.120337+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:42.417973+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:21.372997+07:00",
+    "temp": 19.8,
+    "humidity": 56.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:05.226436+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:59.876857+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:45.964383+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:32.061809+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:18.824141+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:09.549496+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:49.860842+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:27.785738+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:05.192707+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:46.645572+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:30.755582+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:07.766912+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:45.016492+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:23.876286+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:07.904157+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:53.022626+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:32.251027+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:09.612321+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:47.242441+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:28.663354+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:13.728751+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:51.708646+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:29.221860+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:06.703952+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:17.283407+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:28.311002+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:16.692434+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:19.273162+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:18.942332+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:21.315517+07:00",
+    "temp": 21.1,
+    "humidity": 52.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Cao Bang"
+  }
+]

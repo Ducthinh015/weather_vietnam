@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:25.342142+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:17.866058+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:58.232831+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:38.793991+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:19.348322+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:00.125163+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:53.671821+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:34.286889+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:16.793753+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:57.817842+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:37.990042+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:31.680023+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:14.308725+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:56.707278+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:39.177560+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:17.781671+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:59.837540+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:42.206475+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:26.705050+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:12.280252+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:01.163096+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:44.160685+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:28.333087+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:14.292855+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:56.139777+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:42.779745+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:25.530516+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:11.087631+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:57.212110+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:38.839667+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:24.974005+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:08.995492+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:55.320684+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:40.775647+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:27.624442+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:10.118969+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:56.441299+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:42.380046+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:24.567068+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:10.276377+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:52.645461+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:37.573831+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:23.239742+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:05.717182+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:52.097068+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:34.473742+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:19.912889+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:07.133454+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:48.900054+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:35.593244+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:22.081724+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:07.375674+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:49.867905+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:32.147425+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:18.571647+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:04.064733+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:49.482546+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:32.524111+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:15.259418+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:01.696643+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:50.847584+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:33.917576+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:15.791601+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:57.558631+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:43.490783+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:32.866125+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:16.138188+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:58.189192+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:40.986903+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:26.322453+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:15.160184+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:58.630217+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:41.625856+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:27.834516+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:15.478547+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:58.528700+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:41.498954+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:24.135929+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:10.626220+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:59.098203+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:43.817477+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:26.329236+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:13.161049+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:02.059660+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:45.139026+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:29.671227+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:15.800992+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:04.647738+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:50.178791+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:32.433019+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:30.104482+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:25.088515+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:17.985802+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:02.701522+07:00",
+    "temp": 21.1,
+    "humidity": 73.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:48.582317+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:38.318595+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:22.115254+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:04.596322+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:21.443011+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:14.188657+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:56.801836+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:38.305181+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:22.996623+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:05.452306+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:52.854407+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:35.328949+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:17.055479+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:01.920738+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:43.364480+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:31.239922+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:13.693661+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:55.674252+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:40.902345+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:22.597961+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:09.929207+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:36.840062+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:22.022951+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:03.560606+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:51.755570+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:33.204812+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:16.054119+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:01.681899+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:44.512681+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:32.233175+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:14.154707+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:56.746530+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:42.759041+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:24.682968+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:11.836057+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:54.177243+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:37.914814+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:15.485709+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:03.131992+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:22.264058+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:04.067215+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:49.968765+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:38.343157+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:19.980557+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:02.356149+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:43.975802+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:28.869714+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:16.309518+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:58.066308+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:40.583461+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:23.018054+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:08.520879+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:55.956669+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:37.477747+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:20.237763+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:01.562094+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:46.850237+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:34.591100+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:16.250689+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:59.220407+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:41.084453+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:26.570203+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:14.702979+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:56.130224+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:39.532312+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:20.671558+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:05.561521+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:53.077009+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:34.633003+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:24.136127+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:31.222803+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:19.145657+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:00.194260+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:42.771051+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:23.713914+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:08.901173+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:56.399913+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:37.782133+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:20.361952+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:01.384471+07:00",
+    "temp": 20.9,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:46.558799+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:34.595978+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:15.894569+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:58.037253+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:39.742053+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:24.760089+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:12.475470+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:53.680127+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:37.176783+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:26.856378+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:14.183258+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:55.469084+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:37.773817+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:19.237336+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:04.694332+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:52.580322+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:34.678823+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:17.605048+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:58.848182+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:44.055129+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:32.358054+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:13.818860+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:57.726251+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:14.831601+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:13.468719+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:55.302462+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:38.068494+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:23.160764+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:05.820901+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:52.727743+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:34.628524+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:17.332073+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:02.244347+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:41.127680+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:25.935443+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:49.450439+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:34.374384+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:17.124313+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:01.681983+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:44.964667+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:27.444222+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:12.406343+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:55.247976+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:39.992944+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:23.002887+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:05.855043+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:52.086947+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:34.992767+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:19.579446+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:03.058945+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:45.787047+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:30.807051+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:13.472157+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:58.580393+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:41.792803+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:25.668983+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:10.210854+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:53.012632+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:38.818683+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:21.600874+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:04.892591+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:52.632046+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:35.226377+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:19.938488+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:03.105324+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:45.694678+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:30.424992+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:13.451337+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:58.212467+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:41.482529+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:24.466895+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:09.889307+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:57.816806+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:45.388317+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:28.430208+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:13.230472+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:55.208513+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:38.641142+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:24.847415+07:00",
+    "temp": 20.5,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:07.330199+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:52.531325+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:35.235646+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:17.366990+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:03.425694+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:46.374088+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:31.292033+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:13.393538+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:55.633147+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:41.700707+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:25.153120+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:09.744166+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:51.859573+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:33.265315+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:19.463066+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:03.048448+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:48.273101+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:30.402327+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:12.244932+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:58.636756+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:41.411195+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:26.329274+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:08.938411+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:50.402507+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:36.497766+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:19.576460+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:04.569549+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:46.522138+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:28.332329+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:15.175952+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:58.600984+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:43.794813+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:25.685920+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:07.828827+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:54.552378+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:38.949817+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:23.902935+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:07.018834+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:49.180013+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:36.500568+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:19.453072+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:06.138459+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:48.393174+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:30.009751+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:16.690102+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:00.534909+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:45.219529+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:27.132678+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:09.418710+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:57.635268+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:40.606525+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:25.654809+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:10.815724+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:55.768992+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:38.746886+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:21.595485+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:06.748376+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:49.557513+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:34.656422+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:17.800844+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:00.425493+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:45.522275+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:28.586975+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:14.102089+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:56.868567+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:39.704214+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:24.545179+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:06.871544+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:51.424857+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:34.763391+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:17.638666+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:02.550669+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:45.386775+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:30.516315+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:14.126454+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:57.204884+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:42.438976+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:25.083013+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:17.806574+07:00",
+    "temp": 20.1,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:00.876803+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:46.132451+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:28.775971+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:13.457467+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:56.712762+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:39.676667+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:26.275509+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:08.783184+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:53.469442+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:36.816943+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:21.670107+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:07.823251+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:50.970150+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:36.065910+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:18.799605+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:01.688023+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:47.048205+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:30.264166+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:16.374187+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:59.065798+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:42.103729+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:29.776852+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:12.946993+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:58.283396+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:45.365112+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:31.674268+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:14.023077+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:59.913533+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:41.967589+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:27.111838+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:12.156400+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:55.013266+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:40.100203+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:21.605097+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:08.365693+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:53.730885+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:36.304051+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:21.172060+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:03.491948+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:47.594007+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:32.760584+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:15.592237+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:00.862940+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:42.466878+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:26.780237+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:12.609660+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:56.437365+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:41.875761+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:23.486454+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:08.037408+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:53.577855+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:36.345533+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:21.779861+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:03.727312+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:49.261726+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:34.703337+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:18.456494+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:04.205106+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:46.555094+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:30.812606+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:16.030678+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:58.615153+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:44.403619+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:28.550600+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:14.289009+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:00.787748+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:46.141640+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:28.354989+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:10.025876+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:54.194546+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:41.035709+07:00",
+    "temp": 19.7,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:03.767348+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:48.222753+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:32.217340+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:14.921940+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:08.219786+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:52.644687+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:37.156675+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:20.131109+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:12.306258+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:57.010698+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:40.191331+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:24.261944+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:17.019607+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:01.275556+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:44.679648+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:27.509888+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:24.535817+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:54.485632+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:45.572374+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:38.900595+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:23.197282+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:06.817395+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:52.261795+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:53.575762+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:23.817141+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:58.095932+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:35.066369+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:06.785790+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:59.309728+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:46.420320+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:29.622273+07:00",
+    "temp": 22.6,
+    "humidity": 62.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:16.320762+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:02.832812+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:06.984204+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:28.039340+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:56.912051+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:32.538416+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:03.666874+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:38.666911+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:05.652317+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:50.884551+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:40.470638+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:24.447576+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:12.325636+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:55.207163+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:45.321988+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:31.017126+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:19.575973+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:05.910747+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:55.280088+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:40.545603+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:28.231529+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:51.583486+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:24.797186+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:57.670949+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:58.176893+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:46.589086+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:34.101023+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:19.031181+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:07.401175+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:19.573910+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:46.155373+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:32.640111+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:25.041067+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:10.470019+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:57.740682+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:42.950545+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:36.829371+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:54.606867+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:42.663007+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:04.741572+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:43.533100+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:20.831369+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:57.596835+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:36.770212+07:00",
+    "temp": 24.0,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:36.874469+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:19.611086+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:07.307463+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:50.790245+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:44.402269+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:28.133237+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:05.502863+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:43.147548+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:21.251549+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:08.103268+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:46.183384+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:23.435562+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:00.569169+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:41.481712+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:30.020559+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:09.895429+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:47.786386+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:25.426043+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:03.674042+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:50.532900+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:29.313688+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:07.488235+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:44.791922+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:32.442901+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:34.410610+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:51.216086+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:39.823061+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:39.867887+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:46.192523+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:46.275424+07:00",
+    "temp": 25.1,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Thai Binh"
+  }
+]

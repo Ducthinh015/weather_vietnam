@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:02.352249+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:48.615854+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:37.492389+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:17.902255+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:58.728621+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:39.100809+07:00",
+    "temp": 18.4,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:23.995691+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:13.652448+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:54.037616+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:36.785963+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:17.438282+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:01.040091+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:52.010738+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:34.521018+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:16.919878+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:16.068834+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:38.135547+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:20.017728+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:04.977051+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:47.230122+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:32.500691+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:21.491708+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:06.995916+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:48.964249+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:34.362079+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:16.580016+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:03.610803+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:49.247239+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:31.559751+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:17.325219+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:58.876401+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:45.931827+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:32.236460+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:15.837038+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:00.908095+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:48.070117+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:33.775828+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:17.098014+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:02.517918+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:44.709810+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:30.894559+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:15.667410+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:57.904004+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:43.801672+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:26.568258+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:12.446957+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:57.736018+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:40.316273+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:27.220132+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:09.417034+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:59.508530+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:42.595173+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:27.400829+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:10.134775+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:52.295238+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:42.019074+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:24.981957+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:09.874164+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:52.472608+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:35.785962+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:25.974268+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:11.126348+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:53.988779+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:35.937415+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:17.813859+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:07.561398+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:53.037743+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:36.304732+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:18.470275+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:01.189269+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:50.130103+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:35.549636+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:18.992320+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:01.863312+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:51.484354+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:35.925349+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:18.710686+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:01.465677+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:44.132105+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:34.249509+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:19.275737+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:04.582506+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:47.650877+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:36.842169+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:22.249679+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:05.340608+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:50.059237+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:39.819884+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:25.111541+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:10.367591+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:52.827400+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:59.485025+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:45.939206+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:38.644080+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:22.919448+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:12.488439+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:58.759921+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:42.437142+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:24.913517+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:50.065655+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:34.467103+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:16.832908+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:58.238836+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:43.469295+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:28.676043+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:12.677919+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:55.731457+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:37.052141+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:21.910646+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:06.919632+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:51.301301+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:33.990835+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:15.595190+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:01.191706+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:45.969749+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:13.988763+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:56.736881+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:42.331327+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:26.865941+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:11.755360+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:53.200843+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:36.023910+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:23.095974+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:08.322687+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:52.617541+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:34.087189+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:17.118808+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:03.273181+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:47.781026+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:31.725971+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:14.131081+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:57.987622+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:39.098325+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:53.722310+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:42.414542+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:24.747823+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:13.768644+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:58.538448+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:39.929176+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:22.450088+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:04.026799+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:52.391290+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:36.196585+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:17.912096+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:01.598180+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:42.889581+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:31.894232+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:15.905045+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:57.541407+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:40.105056+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:21.671050+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:10.380425+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:54.736961+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:36.229928+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:19.246566+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:01.039556+07:00",
+    "temp": 18.1,
+    "humidity": 72.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:50.482619+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:34.835361+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:16.111890+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:59.597594+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:40.620114+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:29.129472+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:13.134460+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:54.599902+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:55.826672+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:55.189361+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:39.242568+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:20.242953+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:02.739553+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:43.839224+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:32.284806+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:16.516486+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:57.827153+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:40.261618+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:21.510572+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:09.917760+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:54.802420+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:35.795181+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:17.957686+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:59.655227+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:48.214955+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:32.328767+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:13.723113+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:57.208543+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:50.223010+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:34.150214+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:15.279422+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:57.692485+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:39.231072+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:28.248767+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:13.225773+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:54.677743+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:37.635576+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:18.744193+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:07.775876+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:52.307772+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:34.918034+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:17.822472+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:48.465812+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:33.702364+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:15.246844+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:57.944247+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:44.296388+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:28.256610+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:12.788352+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:54.445346+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:37.116494+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:38.368085+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:03.439279+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:46.018918+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:11.168741+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:54.272571+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:38.830261+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:21.783322+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:04.920818+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:49.118800+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:32.487282+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:17.231463+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:59.972733+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:42.911954+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:27.699955+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:12.205002+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:56.994578+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:39.751998+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:22.961626+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:07.305289+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:50.808331+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:35.701152+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:18.588184+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:01.709585+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:47.062428+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:30.250872+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:15.006696+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:58.673831+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:41.635001+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:26.507066+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:12.633516+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:57.082149+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:39.962668+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:23.029044+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:07.274584+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:50.412983+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:35.596352+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:18.221466+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:01.465262+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:46.020745+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:31.373919+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:20.712530+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:05.471219+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:50.124369+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:33.336834+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:15.170950+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:00.765745+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:44.698702+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:28.972841+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:12.867357+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:55.269959+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:39.091195+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:23.495100+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:08.072657+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:51.262791+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:33.669003+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:17.488829+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:02.481108+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:46.439941+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:29.758408+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:11.698601+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:54.983727+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:40.250913+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:24.598324+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:08.237091+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:50.511955+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:34.304513+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:18.754188+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:03.112280+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:46.860686+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:28.855050+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:12.138748+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:56.456904+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:41.255417+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:24.467518+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:06.416977+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:50.656469+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:35.296107+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:20.167149+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:03.765136+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:45.910631+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:29.581949+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:14.573915+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:00.629707+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:43.919421+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:27.195236+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:11.099971+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:56.577921+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:41.604517+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:26.190383+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:08.343018+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:52.402126+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:36.716914+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:21.917782+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:05.226420+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:47.275092+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:31.357951+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:17.582988+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:02.241621+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:48.123761+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:32.954912+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:15.804916+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:58.859332+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:43.097327+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:26.900681+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:11.657067+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:54.741589+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:37.754215+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:22.187333+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:05.494551+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:51.046575+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:34.016393+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:16.765019+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:01.172982+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:44.346446+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:28.585302+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:11.658069+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:54.830769+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:39.266411+07:00",
+    "temp": 17.4,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:22.741822+07:00",
+    "temp": 17.4,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:07.343758+07:00",
+    "temp": 17.4,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:50.642250+07:00",
+    "temp": 17.4,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:34.352545+07:00",
+    "temp": 17.4,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:19.046027+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:02.347108+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:47.157892+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:37.890408+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:22.407848+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:06.146630+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:50.699701+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:33.549464+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:16.636622+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:02.792870+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:46.288788+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:30.818870+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:13.661525+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:56.784443+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:43.608684+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:28.133236+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:12.892359+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:56.079888+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:38.917180+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:23.479530+07:00",
+    "temp": 17.1,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:07.305445+07:00",
+    "temp": 17.1,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:52.146291+07:00",
+    "temp": 17.1,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:36.726873+07:00",
+    "temp": 17.1,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:19.041044+07:00",
+    "temp": 17.1,
+    "humidity": 71.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:05.750552+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:49.974396+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:35.019260+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:18.209587+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:07.434443+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:51.577146+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:36.625412+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:19.910055+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:02.995050+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:48.734969+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:32.223789+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:16.946287+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:00.235916+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:41.718548+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:30.124860+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:13.783069+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:58.084991+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:41.016366+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:23.571602+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:09.326548+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:52.830002+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:37.535036+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:20.808264+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:02.650587+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:48.905510+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:32.713694+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:18.622983+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:02.043992+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:43.637067+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:29.663046+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:13.637089+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:58.470656+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:41.767172+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:24.608426+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:10.898845+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:55.155904+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:40.505517+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:24.446306+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:06.607880+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:52.580829+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:36.033377+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:20.789801+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:04.691594+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:49.083562+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:36.210438+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:22.730003+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:06.318809+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:48.537403+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:29.987771+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:16.156541+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:03.122210+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:30.467268+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:25.997241+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:10.059493+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:52.956469+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:37.549849+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:30.423406+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:14.191761+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:57.773946+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:42.553544+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:34.756883+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:17.766938+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:01.244199+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:46.330242+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:39.001136+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:22.120221+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:05.010503+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:50.239590+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:01.174284+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:21.815496+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:08.324228+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:01.165012+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:43.976263+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:27.237389+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:14.727370+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:30.575820+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:59.238120+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:37.172752+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:10.074083+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:36.919120+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:19.644290+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:07.337820+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:50.080102+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:40.128792+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:23.761867+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:38.826245+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:03.679243+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:32.916201+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:10.066246+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:38.913371+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:17.055158+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:27.215119+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:11.757796+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:00.869704+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:48.162638+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:32.945484+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:15.824197+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:05.699181+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:56.005956+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:40.528040+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:26.409462+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:15.602304+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:04.491684+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:57.072954+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:27.037901+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:02.671968+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:33.614169+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:18.795944+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:11.001667+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:54.859371+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:41.200303+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:28.078615+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:00.483459+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:08.156483+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:53.477356+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:46.924402+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:33.580526+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:18.725512+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:03.735728+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:12.751433+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:17.823728+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:35.092790+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:25.410321+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:02.135082+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:39.338866+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:18.099703+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:57.626655+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:56.872757+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:41.279999+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:28.294881+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:13.929369+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:05.992799+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:46.862005+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:24.697314+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:02.011033+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:42.350760+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:27.703409+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:04.615356+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:42.015286+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:20.494997+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:03.593292+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:49.958528+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:29.178867+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:06.437162+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:44.266756+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:24.421089+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:10.417535+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:48.729054+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:26.270972+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:01.190191+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:14.042394+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:24.057391+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:12.256035+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:16.055312+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:13.597049+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:17.258272+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Bac Ninh"
+  }
+]

@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:01.860465+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:48.011138+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:37.012665+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:17.456773+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:58.279489+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:38.566831+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:23.160403+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:13.221778+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:53.576380+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:36.318015+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:16.961923+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:00.413379+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:51.433763+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:34.007516+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:16.395765+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:14.972760+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:37.664020+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:19.526784+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:04.495179+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:46.528582+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:31.914887+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:20.991921+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:06.474053+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:48.305044+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:33.872548+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:16.067937+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:03.040245+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:48.743894+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:30.922771+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:16.754747+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:58.382910+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:45.351080+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:31.793956+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:15.049756+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:00.327733+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:47.522085+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:33.256687+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:16.431776+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:02.022790+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:44.184802+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:30.403670+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:15.202006+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:57.257827+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:43.282612+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:26.044025+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:11.990495+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:57.251071+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:39.605073+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:26.762014+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:08.831305+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:59.014851+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:41.921869+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:26.920887+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:09.665780+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:51.814842+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:41.519961+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:24.231834+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:09.370244+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:51.974753+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:35.302111+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:25.292854+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:10.644035+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:53.512276+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:35.390759+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:17.323621+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:06.900146+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:52.510607+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:35.793039+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:17.975626+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:00.696461+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:49.475607+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:34.993009+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:18.506759+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:01.352499+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:50.738341+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:35.424280+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:18.158329+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:00.996699+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:43.629947+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:33.577796+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:18.741035+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:04.025801+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:47.143925+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:36.148038+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:21.808038+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:04.892083+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:49.574513+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:39.129549+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:24.591533+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:09.847429+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:52.354991+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:58.806774+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:45.444982+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:38.062982+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:22.313408+07:00",
+    "temp": 24.9,
+    "humidity": 85.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.1,
+    "cloud": 73.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:11.809804+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:58.210762+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:41.942123+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:24.439080+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:49.371871+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:33.930577+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:16.320674+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:57.777172+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:42.969483+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:27.999633+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:12.168620+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:55.213425+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:36.427423+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:21.438660+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:06.242247+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:50.767874+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:33.528919+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:15.104472+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:00.724268+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:45.308683+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:13.483822+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:56.212630+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:41.822491+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:26.111285+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:11.297153+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:52.700226+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:35.539600+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:22.586094+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:07.625981+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:52.068669+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:33.609078+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:16.636700+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:02.725971+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:47.097656+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:31.220201+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:13.592301+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:57.461754+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:38.404001+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:53.135536+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:41.921330+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:24.241035+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:13.088945+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:58.061836+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:39.438351+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:21.897994+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:03.497567+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:51.707630+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:35.652225+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:17.415838+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:01.127425+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:42.393088+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:31.264652+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:15.435943+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:57.025914+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:39.630844+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:21.184351+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:09.750053+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:54.241731+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:35.760885+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:18.748847+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:00.535381+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:49.788277+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:34.313651+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:15.576807+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:59.111418+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:40.110245+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:28.467834+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:12.609379+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:54.115215+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:55.308548+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:54.519560+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:38.742151+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:19.766427+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:02.234899+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:43.348622+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:31.625458+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:16.044475+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:57.341953+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:39.789233+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:21.014154+07:00",
+    "temp": 24.7,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.2,
+    "cloud": 87.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:09.319059+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:54.302767+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:35.298014+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:17.412983+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:59.174107+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:47.559084+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:31.817092+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:13.220118+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:56.705236+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:49.500658+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:33.663656+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:14.774283+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:57.175166+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:38.701385+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:27.546294+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:12.712743+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:54.162476+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:37.177788+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:18.266832+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:07.145568+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:51.797179+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:34.389966+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:17.305515+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:47.772545+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:33.184853+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:14.721479+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:57.382182+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:43.814945+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:27.611868+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:12.278931+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:53.951645+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:36.647439+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:37.584387+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:02.932311+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:45.493950+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:10.477923+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:53.786796+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:38.342964+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:21.253888+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:04.422094+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:48.459351+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:32.000060+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:16.725822+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:59.468674+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:42.432698+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:26.981844+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:11.705498+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:56.514175+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:39.288057+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:22.489039+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:06.628661+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:50.310109+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:35.058614+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:18.088885+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:01.219301+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:46.396509+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:29.717440+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:14.495776+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:58.195874+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:41.109448+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:25.834546+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:12.153155+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:56.591989+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:39.480011+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:22.554159+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:06.624337+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:49.914037+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:35.136891+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:17.745046+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:00.941587+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:45.337595+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:30.882670+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:20.188210+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:04.910590+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:49.438716+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:32.838099+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:14.624130+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:00.310683+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:44.172525+07:00",
+    "temp": 24.5,
+    "humidity": 86.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.21,
+    "cloud": 70.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:28.156506+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:12.381633+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:54.810696+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:38.590523+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:22.978567+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:07.431508+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:50.761843+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:33.170927+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:17.001188+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:01.967945+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:45.792721+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:29.276785+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:11.214117+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:54.474389+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:39.692117+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:23.927496+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:07.732116+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:49.989914+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:33.795399+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:18.260918+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:02.479599+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:46.320922+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:28.367428+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:11.635982+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:55.966946+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:40.629273+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:23.940760+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:05.906380+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:50.142331+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:34.774143+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:19.482546+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:03.289526+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:45.394984+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:29.058863+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:14.101079+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:59.919715+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:43.386189+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:26.690698+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:10.628504+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:56.087341+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:40.920830+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:25.638808+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:07.809253+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:51.915815+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:36.227687+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:21.293083+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:04.712927+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:46.818566+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:30.858874+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:17.071301+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:01.564808+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:47.633278+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:32.420102+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:15.301469+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:58.347161+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:42.472838+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:26.382961+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:11.160081+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:54.182172+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:37.253078+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:21.447214+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:04.955886+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:50.554374+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:33.532840+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:16.283371+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:00.524455+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:43.870707+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:28.117981+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:11.145565+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:54.287516+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:38.589098+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:22.259177+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:06.843867+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:50.154626+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:33.845925+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:18.342867+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:01.873628+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:46.627611+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:37.404990+07:00",
+    "temp": 24.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.05,
+    "cloud": 83.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:21.682359+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:05.654040+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:50.211719+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:33.072355+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:16.154913+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:02.112629+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:45.821957+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:30.300858+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:13.172375+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:56.285350+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:42.959716+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:27.705113+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:12.389319+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:55.598202+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:38.400629+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:22.816930+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:06.795189+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:51.646789+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:36.209897+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:18.544354+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:05.044366+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:49.467028+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:34.548373+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:17.748578+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:06.743230+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:51.060824+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:36.129824+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:19.382487+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:02.503131+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:48.097537+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:31.724167+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:16.442875+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:59.757496+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:41.199706+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:29.463078+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:13.267950+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:57.588368+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:40.513605+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:23.099793+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:08.608539+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:52.322222+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:37.048765+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:20.344995+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:02.132098+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:48.120470+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:32.194447+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:18.068033+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:01.539034+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:43.117473+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:28.962933+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:13.136282+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:57.937880+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:41.294607+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:24.108935+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:10.228559+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:54.564856+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:39.984867+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:23.898354+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:06.086665+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:51.908593+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:35.536045+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:20.239993+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:04.185860+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:48.561734+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:35.553930+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:22.232043+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:05.804427+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:47.979358+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:29.469561+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:15.490137+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:02.627766+07:00",
+    "temp": 24.0,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.01,
+    "cloud": 86.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:29.269593+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:25.464014+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:09.507565+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:52.379471+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:36.790896+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:29.886073+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:13.700561+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:57.224479+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:41.747976+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:34.238980+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:17.165246+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:00.616009+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:45.587364+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:38.283075+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:21.092622+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:04.407446+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:49.485653+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:59.729535+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:21.294467+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:07.590872+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:00.516240+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:43.384600+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:26.672258+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:14.016594+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:29.100884+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:57.808608+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:35.581053+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:08.406325+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:36.404029+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:18.946025+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:06.792032+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:49.525158+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:39.574530+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:23.023155+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:37.405159+07:00",
+    "temp": 26.8,
+    "humidity": 77.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 19.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:02.454010+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:31.359934+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:08.760608+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:37.320043+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:15.753984+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:26.634825+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:10.954999+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:00.361424+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:47.613456+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:32.371581+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:15.100299+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:05.183119+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:55.405395+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:39.892175+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:25.669537+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:15.075418+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:03.926944+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:55.487265+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:25.331357+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:01.295448+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:31.123817+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:18.264793+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:10.430383+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:54.269528+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:40.400438+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:27.494373+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:59.144858+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:07.305414+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:52.910348+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:46.358482+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:32.880983+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:17.950902+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:03.125610+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:11.154262+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:17.251179+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:34.234594+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:25.043203+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:01.677516+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:38.920684+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:17.643963+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:57.024344+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:56.445135+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:40.637596+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:27.781121+07:00",
+    "temp": 27.7,
+    "humidity": 68.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:13.234649+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:05.425409+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:46.407001+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:24.207091+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:01.529339+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:41.718022+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:27.269250+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:04.172588+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:41.561605+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:19.934322+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:02.914231+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:49.459706+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:28.690502+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:05.949793+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:43.755168+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:23.708281+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:09.994613+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:48.200753+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:25.799942+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:00.513387+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:13.597128+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:23.419649+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:11.538900+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:15.645579+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:12.770048+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:16.728626+07:00",
+    "temp": 28.4,
+    "humidity": 62.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Bac Lieu"
+  }
+]

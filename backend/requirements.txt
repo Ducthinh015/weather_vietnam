@@ -6,6 +6,10 @@ statsmodels
 python-dotenv
 pytest
 flake8
-flask-cors
-Flask-SQLAlchemy
-SQLAlchemy
+tensorflow
+pymongo
+APScheduler
+scikit-learn
+joblib
+bcrypt
+PyJWT

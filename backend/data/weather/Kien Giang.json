@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:14.252254+07:00",
+    "temp": 10.4,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:04.170136+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:48.174527+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:28.628928+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:09.394835+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:49.847865+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:38.825669+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:24.222075+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:06.555152+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:47.510258+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:27.900198+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:15.993778+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:03.269821+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:46.053998+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:28.350227+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:02.760832+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:49.136289+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:31.553094+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:16.195393+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:01.856565+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:45.596446+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:33.422957+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:17.872028+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:03.616992+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:45.563808+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:28.195558+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:14.856960+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:00.518599+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:46.329052+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:28.169910+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:10.585587+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:58.286058+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:43.682547+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:30.298244+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:13.353122+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:59.379550+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:45.583244+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:31.776380+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:13.697946+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:55.846811+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:42.156549+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:26.867558+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:12.535894+07:00",
+    "temp": 10.2,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:55.153842+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:38.063442+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:23.848154+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:09.219675+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:56.675379+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:38.436610+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:21.391149+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:11.284728+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:56.450965+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:39.281151+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:21.313063+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:03.804184+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:53.408638+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:38.842039+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:21.780296+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:04.360493+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:47.272953+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:40.219781+07:00",
+    "temp": 10.1,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:23.119580+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:05.360732+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:46.842415+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:29.011384+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:22.011841+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:05.048566+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:47.608326+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:29.707463+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:12.386309+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:04.532089+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:48.053997+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:30.484658+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:13.357327+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:05.050580+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:47.838061+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:30.794138+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:13.344142+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:55.359243+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:48.604231+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:32.120833+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:15.855104+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:59.072058+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:51.322482+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:34.449579+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:17.489327+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:01.123169+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:53.676894+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:37.094153+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:21.839685+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:08.153074+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:13.556691+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:06.211269+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:51.596129+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:34.238777+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:26.795752+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.194444444444445,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:11.347533+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:53.998558+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:39.724051+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:03.616120+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:46.294176+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:27.899956+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:09.213116+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:54.715436+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:42.144184+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:24.744045+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:06.678807+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:47.913691+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:32.939727+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:20.580077+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:03.325912+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:45.231979+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:26.712833+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:11.952665+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:59.631608+07:00",
+    "temp": 10.0,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:26.360424+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:07.794526+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:53.155037+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:41.185835+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:22.573238+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:05.656616+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:47.310752+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:34.177785+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:21.854892+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:03.859229+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:46.328571+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:28.147281+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:14.250931+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:01.427190+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:42.719123+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:27.309361+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:01.036272+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:52.760475+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:11.802961+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:53.419761+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:35.837869+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:27.585816+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:09.439179+07:00",
+    "temp": 10.3,
+    "humidity": 87.0,
+    "pressure": 1011.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:51.962160+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:33.526443+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:15.026514+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:05.772392+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:47.479538+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:30.042502+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:12.286971+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:53.774211+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:45.496133+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:26.911611+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:09.686894+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:51.147261+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:32.589669+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:24.085703+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:05.591163+07:00",
+    "temp": 10.2,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:48.727769+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:30.336878+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:12.131684+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:04.179514+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:45.819587+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:29.297843+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:10.337801+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:51.570963+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:42.522820+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:24.194186+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:06.570408+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:16.782765+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:08.553226+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:49.959371+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:32.236301+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:13.543221+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:54.770694+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:45.911037+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:27.444052+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:09.895708+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:51.076124+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:32.502213+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:23.414896+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:05.740050+07:00",
+    "temp": 10.1,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:47.700045+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:28.930193+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:10.459768+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:01.957268+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:43.292743+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:26.011833+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:12.529468+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:03.711775+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:45.131810+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:27.361913+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:08.665752+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:50.331558+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:42.067296+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:24.349976+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:07.194602+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:48.469928+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:29.704647+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:21.447523+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:03.215769+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:47.122537+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:28.671914+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:02.494011+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:44.658543+07:00",
+    "temp": 10.0,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:27.519910+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:09.042242+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:55.358500+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:41.725792+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:23.922327+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:06.792890+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:48.239078+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:29.397103+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:15.496076+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:12.484742+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:23.927219+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:05.900856+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:51.295965+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:32.882513+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:15.682380+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:01.922593+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:44.183157+07:00",
+    "temp": 10.3,
+    "humidity": 82.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:29.498938+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:10.750746+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:53.941746+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:41.632924+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:23.907949+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:09.194570+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:50.916214+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:34.052474+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:20.271883+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:02.606254+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:48.122891+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:29.520522+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:12.599680+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:59.887991+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:42.024505+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:27.163122+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:09.465875+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:52.949019+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:39.272637+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:24.113747+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:09.541663+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:51.018668+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:34.002389+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:19.992879+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:02.402342+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:47.839396+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:29.123806+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:12.416282+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:59.080354+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:44.511545+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:33.220448+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:16.520649+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:02.834477+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:44.963520+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:26.398994+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:12.876723+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:55.572798+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:42.026903+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:24.574228+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:06.494125+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:51.423848+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:34.488675+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:20.839626+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:02.800711+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:44.600075+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:29.382926+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:13.350809+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:59.460570+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:41.366315+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:22.353778+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:07.303024+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:51.132691+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:37.524751+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:19.949938+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:01.190440+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:46.534344+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:29.659422+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:15.910854+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:58.656316+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:39.600517+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:24.160949+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:07.505567+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:54.104760+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:36.168908+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:17.367660+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:02.933553+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:46.251988+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:33.230746+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:15.272682+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:56.872498+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:41.662126+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:25.829544+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:13.459044+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:55.500800+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:38.162837+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:24.352106+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:07.485646+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:55.153647+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:37.875656+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:19.117023+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:04.593801+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:48.734802+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:34.819744+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:16.780992+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:58.311945+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:43.427562+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:28.534500+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:15.198804+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:59.913118+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:45.100530+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:26.820781+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:09.807482+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:56.074423+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:38.550787+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:23.778495+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:05.830526+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:48.665880+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:35.074580+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:17.640004+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:03.279025+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:45.028792+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:27.599032+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:14.118622+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:55.997548+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:40.708177+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:22.514577+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:05.771233+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:52.034532+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:34.473719+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:19.439389+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:01.627146+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:45.462624+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:31.959339+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:14.091433+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:00.646349+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:49.002617+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:35.812151+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:17.725378+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:03.023806+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:44.652464+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:27.689301+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:15.799725+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:57.780637+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:42.852867+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:24.580302+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:08.427432+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:56.719680+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:40.028619+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:25.162485+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:06.992576+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:49.945948+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:36.468847+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:19.034315+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:05.120899+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:47.598644+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:30.246924+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:19.112268+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:01.846329+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:47.303806+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:32.362610+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:20.890269+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:02.967529+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:48.967572+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:31.232100+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:14.002245+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:01.696229+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:43.811809+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:29.162902+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:11.272193+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:55.090133+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:43.215833+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:25.424186+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:10.232142+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:51.938279+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:34.562564+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:22.294264+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:04.475683+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:49.753935+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:31.903135+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:13.645288+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:01.929884+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:44.221587+07:00",
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:30.882463+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:13.089152+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:54.701441+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:42.924961+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:25.213991+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:10.592672+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:52.886338+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:35.889928+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:24.052579+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:07.287628+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:52.879362+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:35.816064+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:17.725304+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:05.573991+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:47.806613+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:33.252394+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:16.804716+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:01.025475+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:49.887374+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:35.161135+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:17.726701+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:59.573148+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:41.227849+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:29.890017+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:15.523664+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.888888888888889,
+    "rain": 0.0,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:47.701107+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:37.532074+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:21.332210+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:04.345336+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:52.507377+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:41.938035+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:26.545257+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:09.384689+07:00",
+    "temp": 9.2,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:57.730030+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:46.099178+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:29.331174+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:13.391105+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:02.129104+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:50.331264+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:33.695980+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:16.481802+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:05.740343+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:28.600853+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:33.824235+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:24.360643+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:12.527725+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:55.510761+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:39.234694+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:30.030593+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:57.900920+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:29.017259+07:00",
+    "temp": 8.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:08.267685+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:37.886732+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:48.570061+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:35.193094+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:18.725354+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:01.652798+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:51.788363+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:41.439413+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:05.007514+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:31.169475+07:00",
+    "temp": 8.3,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:04.022085+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:36.975448+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:09.606470+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:44.243066+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:39.730923+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:26.802624+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:13.477585+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:59.901196+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:44.325766+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:31.391157+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:18.952409+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:07.448757+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:52.219455+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:41.835580+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:29.446744+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:15.922677+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:24.916795+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:58.824802+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:30.686985+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:47.260406+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:33.327217+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:22.922429+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:06.680068+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:54.107617+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:50.477754+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:28.248106+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:20.923037+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:11.327533+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:59.200781+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:45.338112+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:31.876525+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:18.086931+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:40.752118+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:30.310999+07:00",
+    "temp": 9.1,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:50.827064+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:34.715257+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:11.491668+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:48.629658+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:27.656100+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.07,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:23.616085+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:07.861810+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:54.884490+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:39.751224+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:29.269495+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:17.574271+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:56.326911+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:34.280178+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:11.966964+07:00",
+    "temp": 9.2,
+    "humidity": 76.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:55.421239+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:37.245865+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:14.144578+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:51.445739+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:31.712211+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:17.138281+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:00.654092+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:38.876121+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:16.006650+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:54.098569+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:37.733054+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:20.192459+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:58.285242+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:35.831564+07:00",
+    "temp": 9.3,
+    "humidity": 87.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:18.044076+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:24.275458+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:37.350452+07:00",
+    "temp": 8.1,
+    "humidity": 93.0,
+    "pressure": 1009.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:26.094284+07:00",
+    "temp": 8.1,
+    "humidity": 93.0,
+    "pressure": 1009.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:26.162403+07:00",
+    "temp": 8.1,
+    "humidity": 93.0,
+    "pressure": 1009.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:30.459443+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1009.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:30.590405+07:00",
+    "temp": 8.2,
+    "humidity": 93.0,
+    "pressure": 1009.0,
+    "wind_speed": 3.6944444444444446,
+    "rain": 0.01,
+    "cloud": 75.0,
+    "city": "Kien Giang"
+  }
+]

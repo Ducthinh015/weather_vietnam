@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:22.622794+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:14.545482+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:55.941332+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:36.417549+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:16.985166+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:57.544169+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:49.636918+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:31.919937+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:14.367766+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:55.380811+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:35.444588+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:28.151597+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:11.821857+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:54.203254+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:36.433078+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:14.411100+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:57.229781+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:39.609715+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:24.219426+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:09.742369+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:57.911234+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:41.448876+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:25.852276+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:11.707733+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:53.609593+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:38.985547+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:22.881461+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:08.534362+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:54.695929+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:36.322829+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:21.693209+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:06.250695+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:52.625288+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:38.272813+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:24.462755+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:07.441108+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:53.788759+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:39.838137+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:22.023875+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:07.089639+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:50.010541+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:35.021995+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:20.617605+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:03.164271+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:48.945712+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:31.917173+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:17.418948+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:04.608706+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:46.404252+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:32.242914+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:19.539175+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:04.862470+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:47.357827+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:29.546999+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:15.090152+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:01.581159+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:46.987430+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:29.905737+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:12.680382+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:58.237367+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:48.383261+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:31.457307+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:13.236271+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:54.905327+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:40.134751+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:30.310917+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:13.521747+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:55.680916+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:38.324045+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:22.938827+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:12.740302+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:56.130848+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:39.052489+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:24.436030+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:12.938725+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:55.942572+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:38.783522+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:21.576707+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:06.491948+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:56.530616+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:40.825809+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:23.854648+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:09.903142+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:59.529466+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:42.712948+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:26.936776+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:12.339018+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:02.085066+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:45.181044+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:29.931360+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:24.579945+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:22.460113+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:15.009598+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:00.135344+07:00",
+    "temp": 19.8,
+    "humidity": 85.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 73.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:45.085254+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:35.624056+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:19.579691+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:01.946603+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:09.405093+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:11.639250+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:54.317479+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:35.848236+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:19.630373+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:02.921858+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:50.354816+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:32.817445+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:14.662714+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:58.591143+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:40.779463+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:28.715901+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:11.263132+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:53.238877+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:37.652383+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:19.948599+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:07.477805+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:34.350645+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:18.684864+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:01.024023+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:49.242569+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:30.696038+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:13.577414+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:58.413358+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:42.069059+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:29.656666+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:11.719861+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:54.284614+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:39.421038+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:22.184341+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:09.341516+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:51.797599+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:35.435707+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:12.117644+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:00.587340+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:19.748083+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:01.591205+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:46.650746+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:35.853873+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:17.446399+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:59.909194+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:41.469798+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:25.634653+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:13.759041+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:55.622346+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:38.038824+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:20.497742+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:05.002611+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:53.469506+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:34.942482+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:17.674046+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:58.978612+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:43.436864+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:32.057719+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:13.713919+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:56.757744+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:38.672188+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:22.898207+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:12.198322+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:53.670314+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:37.207343+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:18.227563+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:02.170258+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:50.531413+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:32.147901+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:15.514210+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:27.760080+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:16.597056+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:57.660119+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:40.393944+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:21.301315+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:05.523937+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:53.902866+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:35.347223+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:17.866146+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:58.892642+07:00",
+    "temp": 20.0,
+    "humidity": 82.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 87.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:43.363542+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:32.169660+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:13.441381+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:55.580845+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:37.203932+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:21.311817+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:10.009749+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:51.224857+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:34.721708+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:23.470201+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:11.669620+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:52.995142+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:35.427325+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:16.625743+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:01.150595+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:50.120728+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:32.326248+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:15.114912+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:56.365158+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:40.642861+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:29.740540+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:11.309924+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:55.185933+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:06.820634+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:10.968688+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:52.762941+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:35.560646+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:19.816826+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:03.330336+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:50.242622+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:32.210000+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:14.887335+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:58.880063+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:38.579407+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:23.469287+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:45.952606+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:31.880359+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:14.646166+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:59.219423+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:42.487131+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:24.089890+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:09.887356+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:52.698024+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:37.563558+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:20.556104+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:02.456854+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:49.611178+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:32.500147+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:17.188804+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:00.673804+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:42.523829+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:28.297588+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:11.072130+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:56.110444+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:39.304909+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:22.197919+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:07.679595+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:50.510707+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:36.437258+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:19.151374+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:01.496736+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:50.121586+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:32.766698+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:17.509700+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:00.643799+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:42.422197+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:27.936912+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:11.012954+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:55.720316+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:39.022606+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:21.083315+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:07.363496+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:54.608829+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:42.939941+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:25.085119+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:10.736863+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:52.773841+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:36.247823+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:22.427734+07:00",
+    "temp": 20.4,
+    "humidity": 79.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 47.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:04.037522+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:49.992731+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:32.799972+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:14.938003+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:01.002405+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:43.024242+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:28.722693+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:10.762940+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:53.220248+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:39.108234+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:21.805048+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:07.268086+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:49.410814+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:30.787276+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:16.970072+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:59.686782+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:45.710679+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:27.819785+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:09.695641+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:56.202951+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:37.995285+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:23.929319+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:06.561936+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:47.974437+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:33.922484+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:16.192496+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:02.081475+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:44.074023+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:25.880575+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:12.683378+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:55.298420+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:41.324501+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:23.250719+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:05.341190+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:52.017758+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:35.225091+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:21.420570+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:04.510549+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:46.722874+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:34.052643+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:16.104200+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:03.533657+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:45.911448+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:27.507392+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:14.209596+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:57.152381+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:42.700555+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:24.660614+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:06.947441+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:55.164852+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:37.104927+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:23.163171+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:08.259432+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:53.350747+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:36.412192+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:18.106650+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:04.184742+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:47.079579+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:32.178085+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:15.299721+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:57.158733+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:43.035837+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:26.148202+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:11.674079+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:54.487816+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:36.267997+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:22.005537+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:04.375662+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:48.935828+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:32.242300+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:14.267408+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:00.069968+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:42.836948+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:27.837264+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:11.337995+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:53.998167+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:39.916474+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:22.558451+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:15.200195+07:00",
+    "temp": 20.0,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:57.611644+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:43.608266+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:26.259621+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:11.021713+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:54.241441+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:36.169733+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:23.758820+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:06.282148+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:50.939862+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:34.254523+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:17.916902+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:04.936441+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:48.460288+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:33.664393+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:16.200762+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:58.407643+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:44.550505+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:27.706662+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:13.868988+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:56.541429+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:38.817216+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:27.297242+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:10.411849+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:55.750797+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:42.061744+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:28.977742+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:11.549962+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:57.426601+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:39.323963+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:23.724030+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:09.694721+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:52.574478+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:37.633435+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:19.155083+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:05.100041+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:51.194331+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:33.862324+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:18.687356+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:00.704108+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:44.228940+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:30.217747+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:13.134553+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:58.295508+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:39.948431+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:23.435023+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:10.095837+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:53.938536+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:39.302711+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:21.036337+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:04.516911+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:51.040018+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:33.852057+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:19.252868+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:01.219780+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:45.584531+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:32.154512+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:15.860263+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:01.591703+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:44.047943+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:27.423841+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:13.538212+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:56.134946+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:41.885628+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:25.962024+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:10.857612+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:58.303882+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:43.692982+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:25.815972+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:07.541570+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:50.856262+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:38.569190+07:00",
+    "temp": 20.1,
+    "humidity": 81.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:00.260601+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:45.730641+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:29.506682+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:12.284729+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:04.860615+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:50.002213+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:34.707611+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:17.572308+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:08.917203+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:54.341083+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:37.641144+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:21.747842+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:13.536809+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:58.640499+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:41.962778+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:24.817779+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:16.861907+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:48.048037+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:42.935702+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:35.479758+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:20.587459+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:04.226666+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:49.299769+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:46.620018+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:17.540687+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:50.996626+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:28.881374+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:59.893876+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:56.724568+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:43.880021+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:27.082295+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:12.727592+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:00.201305+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:00.848422+07:00",
+    "temp": 25.5,
+    "humidity": 70.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 32.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:21.785621+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:50.646017+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:25.056717+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:57.721041+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:31.348730+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:02.937096+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:48.363269+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:36.813613+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:21.898510+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:09.718146+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:52.680533+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:41.726966+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:27.963867+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:16.924149+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:00.408140+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:51.862348+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:37.866045+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:25.599698+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:45.276434+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:18.148207+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:51.638937+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:55.562741+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:43.182787+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:31.442753+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:16.397499+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:04.759726+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:12.534396+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:43.178511+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:29.956948+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:21.449556+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:07.810850+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:55.018682+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:40.248696+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:29.520556+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:51.587932+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:40.025603+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:01.737129+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:41.379172+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:18.620525+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:55.464884+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:34.688027+07:00",
+    "temp": 27.2,
+    "humidity": 67.0,
+    "pressure": 1014.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:33.668785+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:16.494619+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:04.444431+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:48.249679+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:40.596032+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:25.991615+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:03.261719+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:41.019709+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:19.121008+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:05.096602+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:44.061277+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:21.242826+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:58.405002+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:39.234241+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:26.934979+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:07.726549+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:45.684791+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:22.964425+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:01.545394+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:47.546721+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:27.134721+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:05.179809+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:42.663620+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:28.893680+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:31.931112+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:48.287853+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:36.537015+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:36.648248+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:42.402320+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:42.402320+07:00",
+    "temp": 27.9,
+    "humidity": 65.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.01,
+    "cloud": 83.0,
+    "city": "Quang Ninh"
+  }
+]

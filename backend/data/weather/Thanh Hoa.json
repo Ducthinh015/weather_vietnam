@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:26.626872+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:18.842216+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:59.224433+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:39.831039+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:20.295967+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:01.558315+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:54.633480+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:35.217725+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:17.722588+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:58.725421+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:39.321869+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:32.734396+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:15.294780+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:57.654888+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:40.495947+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:18.823083+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:00.884364+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:43.558025+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:27.702978+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:13.317212+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:02.176668+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:45.424966+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:29.376248+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:15.414400+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:57.125823+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:43.833841+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:27.015272+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:12.113491+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:58.148640+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:39.866151+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:25.975483+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:10.356447+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:56.386730+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:41.764456+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:28.614300+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:11.671113+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:57.489318+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:43.429619+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:25.580482+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:11.218910+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:53.993156+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:38.555274+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:24.303946+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:06.747331+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:53.148710+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:35.924639+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:20.910781+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:08.104375+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:49.906517+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:36.970238+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:23.029172+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:08.395338+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:50.865609+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:33.160490+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:19.864176+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:05.031869+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:50.451036+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:33.542725+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:16.291850+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:03.227769+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:51.906616+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:34.890255+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:16.827459+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:58.563148+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:44.811138+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:33.862235+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:17.167182+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:59.155001+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:42.099487+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:27.743918+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:16.193976+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:59.654628+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:42.713593+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:29.143877+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:16.482704+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:59.603039+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:42.556907+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:25.106548+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:12.043128+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:00.095511+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:44.797461+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:27.336869+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:14.502516+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:03.178548+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:46.034337+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:30.979282+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:17.114272+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:05.748070+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:51.136175+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:33.392585+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:31.706691+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:26.107210+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:19.088870+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:03.866194+07:00",
+    "temp": 19.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:50.004673+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:39.292044+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:23.362610+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:05.907581+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:23.744157+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:15.191082+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:57.753840+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:39.343791+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:24.152361+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:06.657524+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:53.806256+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:36.307936+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:18.050760+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:03.023951+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:44.570360+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:32.227840+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:14.737294+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:56.623915+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:42.083436+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:23.786199+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:11.892294+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:37.772466+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:23.142293+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:04.737535+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:52.788500+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:34.214856+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:17.007557+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:02.856753+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:45.670702+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:33.233052+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:15.101991+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:57.714033+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:43.950750+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:25.788080+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:12.758099+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:55.195987+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:38.927844+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:16.809223+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:04.585214+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:23.299954+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:05.122561+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:51.274786+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:39.457398+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:21.025628+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:03.361919+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:44.959722+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:30.194942+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:17.290859+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:59.033090+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:41.630041+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:24.019875+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:09.804941+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:56.918803+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:38.499827+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:21.248037+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:02.555597+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:48.281970+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:35.590371+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:17.287739+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:00.169607+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:42.074541+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:27.920161+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:15.658562+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:57.150777+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:40.476936+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:21.665599+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:06.889932+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:54.098831+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:35.649808+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:25.263770+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:32.866053+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:20.139915+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:01.177762+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:43.749813+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:24.698005+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:10.211310+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:57.347777+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:38.776800+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:21.369022+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:02.391234+07:00",
+    "temp": 18.7,
+    "humidity": 86.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:48.084794+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:35.625265+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:16.907284+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:58.991494+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:40.706821+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:26.060629+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:13.390671+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:54.714391+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:38.131038+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:28.309550+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:15.192384+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:56.430563+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:38.745515+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:20.224094+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:05.986858+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:53.568642+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:35.673799+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:18.624251+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:59.820210+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:45.347668+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:33.335244+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:14.858261+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:58.714244+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:16.562809+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:14.553018+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:56.252061+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:39.048864+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:24.500637+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:06.834537+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:53.678007+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:35.578624+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:18.334421+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:03.639908+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:42.136916+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:26.943976+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:50.846678+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:35.367931+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:18.122952+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:02.733478+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:45.956550+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:28.760749+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:13.404913+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:56.265843+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:40.956539+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:23.989816+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:07.167924+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:53.056129+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:36.004941+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:20.599255+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:04.015101+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:47.089053+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:31.766319+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:14.513375+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:59.594608+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:42.789836+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:26.963616+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:11.172010+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:54.044983+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:39.772435+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:22.563174+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:06.232876+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:53.670079+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:36.227848+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:20.905020+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:04.142568+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:47.109294+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:31.388913+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:14.492780+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:59.173670+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:42.437933+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:25.800310+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:10.903819+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:59.004735+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:46.422816+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:29.722668+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:14.242604+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:56.187725+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:39.685829+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:25.806593+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:08.682614+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:53.633856+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:36.285069+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:18.344281+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:04.382505+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:47.725362+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:32.277115+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:14.401254+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:56.638582+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:43.464745+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:26.487431+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:10.738048+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:52.888885+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:34.230634+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:20.491464+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:04.394879+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:49.280084+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:31.395374+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:13.246110+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:59.606662+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:42.701520+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:27.306737+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:09.870022+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:51.431642+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:37.471927+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:20.956590+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:05.559981+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:47.562494+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:29.382506+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:16.197481+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:59.932528+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:44.804404+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:26.648817+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:08.822263+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:55.621448+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:40.272834+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:24.878635+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:08.026356+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:50.139871+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:37.545891+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:20.804378+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:07.148170+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:49.396557+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:31.150044+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:17.685943+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:01.838555+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:46.216612+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:28.145597+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:10.414674+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:58.655386+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:41.909941+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:26.671002+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:11.848762+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:56.689173+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:39.778631+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:22.900763+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:07.756509+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:50.552364+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:35.628871+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:18.765873+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:01.968847+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:46.452149+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:29.581921+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:15.092582+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:57.823658+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:41.067208+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:25.502730+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:07.817890+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:52.450686+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:35.782543+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:18.986194+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:03.569805+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:46.382681+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:31.526591+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:15.078777+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:58.599693+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:43.412469+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:26.169616+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:18.833549+07:00",
+    "temp": 18.1,
+    "humidity": 89.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:02.194160+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:47.116967+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:29.736691+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:14.400446+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:57.695146+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:41.729275+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:27.259699+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:09.806717+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:54.461686+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:37.863347+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:23.063938+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:08.903899+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:51.968581+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:37.073767+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:19.835150+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:03.085554+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:48.082448+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:31.222287+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:17.380406+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:00.011393+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:43.436385+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:30.870573+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:13.921197+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:59.326229+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:46.730653+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:32.605568+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:15.023986+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:00.910863+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:42.961144+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:28.480614+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:13.150314+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:56.088059+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:41.109138+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:22.618703+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:09.747765+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:54.760564+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:37.252521+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:22.115934+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:04.571209+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:49.077921+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:33.770600+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:16.619144+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:01.804858+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:43.467220+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:28.287576+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:13.608510+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:57.384720+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:42.842286+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:24.491891+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:09.339981+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:54.601462+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:37.360455+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:22.767188+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:04.762562+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:50.629912+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:35.741678+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:19.479908+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:05.161708+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:47.534599+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:32.192203+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:17.008441+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:59.594610+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:45.412479+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:29.648448+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:15.830860+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:01.797067+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:47.109724+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:29.352213+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:11.008590+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:55.539096+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:42.042218+07:00",
+    "temp": 17.8,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:05.008326+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:49.222226+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:33.250871+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:15.956112+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:09.634912+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:53.634757+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:38.166132+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:21.115185+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:13.663280+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:58.033801+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:41.178605+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:25.276015+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:18.371402+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:02.238158+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:45.734322+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:28.631991+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:27.477816+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:56.876079+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:46.655059+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:40.359473+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:24.199944+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:07.841142+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:53.467899+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:56.437935+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:26.443151+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:00.968835+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:37.499975+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:09.718619+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:00.264067+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:47.489054+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:30.649688+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:17.763761+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:03.909921+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:09.548240+07:00",
+    "temp": 22.2,
+    "humidity": 67.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:30.832384+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:59.470000+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:35.287581+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:05.999987+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:41.490735+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:06.756738+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:51.990705+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:41.506510+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:25.825471+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:13.382239+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:56.244407+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:46.349799+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:32.483258+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:20.716966+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:07.005027+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:56.330966+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:41.902583+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:29.322245+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:54.002711+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:27.852414+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:00.126666+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:59.227253+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:48.017292+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:35.122819+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:20.139474+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:08.444980+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:22.390027+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:47.290900+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:33.706327+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:26.470456+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:11.488145+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:58.774750+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:43.893213+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:39.617318+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:55.762098+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:43.650386+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:05.874277+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:44.333291+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:21.679825+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:58.405089+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:37.627508+07:00",
+    "temp": 23.8,
+    "humidity": 63.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:38.231690+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:20.731775+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:08.436792+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:52.216314+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:45.820377+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:29.020331+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:06.321363+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:44.069243+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:22.086590+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:09.239068+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:47.052410+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:24.349448+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:01.449517+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:42.341641+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:31.230978+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:10.716610+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:48.636815+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:26.299213+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:04.535027+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:51.764071+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:30.276729+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:08.363584+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:45.663913+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:33.773870+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:35.352436+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:52.335745+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:41.162193+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:41.182287+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:47.609661+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:47.763015+07:00",
+    "temp": 25.0,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Thanh Hoa"
+  }
+]

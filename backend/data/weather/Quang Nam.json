@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:21.624174+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:13.282091+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:55.044944+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:35.439235+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:16.048006+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:56.582319+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:48.315384+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:31.017376+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:13.443118+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:54.448406+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:34.483900+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:26.812178+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:10.812426+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:53.198196+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:35.434713+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:13.032001+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:56.237258+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:38.623191+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:23.308189+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:08.835971+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:56.385049+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:40.496585+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:24.809111+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:10.704885+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:52.561680+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:37.408632+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:21.910636+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:07.569748+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:53.617382+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:35.287026+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:20.267825+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:05.278870+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:51.561987+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:37.290728+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:22.716571+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:06.424134+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:52.809869+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:38.836886+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:21.001188+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:05.686889+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:49.034165+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:34.057406+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:19.665710+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:02.105490+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:47.511474+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:30.864922+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:16.433061+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:03.648451+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:45.447275+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:30.866101+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:18.489967+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:03.858719+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:46.359932+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:28.496936+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:13.697889+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:00.577808+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:45.984712+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:28.876231+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:11.726764+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:56.955527+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:47.412281+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:30.473961+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:12.213226+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:53.934653+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:38.767271+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:29.300958+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:12.457505+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:54.617232+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:37.282193+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:21.588622+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:11.788480+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:55.101403+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:38.035597+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:23.045893+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:11.972821+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:54.952820+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:37.766822+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:20.597739+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:05.186868+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:55.558122+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:39.641810+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:22.894940+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:08.468788+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:58.448103+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:41.746723+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:25.922183+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:10.923970+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:01.075909+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:44.191287+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:28.923162+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:21.810233+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:21.285455+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:13.945804+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:59.096278+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:43.763205+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:34.581678+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:18.588210+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:00.964045+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:07.334820+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:10.602089+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:53.312949+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:34.831748+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:18.302104+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:01.975792+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:49.295571+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:31.838422+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:13.599827+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:57.280374+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:39.793488+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:27.679689+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:10.242023+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:52.257301+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:36.267633+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:18.961701+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:06.561870+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:33.391720+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:17.372036+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:00.009140+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:48.198201+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:29.636107+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:12.560831+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:57.070711+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:41.058041+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:28.643233+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:10.749944+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:53.274852+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:38.092185+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:21.214419+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:08.404950+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:50.743911+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:34.416037+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:10.749624+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:59.551773+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:18.756654+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:00.627553+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:45.308597+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:34.834784+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:16.440682+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:58.879985+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:40.495918+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:24.280109+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:12.798811+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:54.588661+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:37.041519+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:19.064963+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:03.666054+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:52.513772+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:33.937856+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:16.685146+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:57.973754+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:42.044548+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:31.069697+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:12.744959+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:55.757271+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:37.629241+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:21.525473+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:11.231562+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:52.692701+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:36.269149+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:17.259614+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:00.794983+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:49.527905+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:31.161107+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:14.002852+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:26.257909+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:15.593831+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:56.702976+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:39.393904+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:20.335960+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:04.145597+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:52.872137+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:34.376189+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:16.850801+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:57.862678+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:42.076944+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:31.196271+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:12.439453+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:54.604050+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:36.229890+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:19.958631+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:09.033031+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:50.250369+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:33.760156+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:21.987219+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:10.713701+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:51.990576+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:34.422776+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:15.679507+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:59.654927+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:49.157798+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:31.371916+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:14.106803+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:55.384449+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:39.281139+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:28.744711+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:10.319997+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:54.210671+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:01.150586+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:09.993991+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:51.759772+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:34.568884+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:18.276999+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:02.298867+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:49.269886+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:31.139202+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:13.882705+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:57.520791+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:37.606910+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:22.492983+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:40.918876+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:30.887004+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:13.611732+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:58.263102+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:41.545905+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:22.762040+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:08.890967+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:51.679986+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:36.566997+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:19.529626+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:01.130184+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:48.617598+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:31.520136+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:16.201351+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:59.681343+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:41.199556+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:27.315504+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:10.091643+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:55.132667+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:38.359399+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:20.905453+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:06.742579+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:49.464386+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:35.469041+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:18.160620+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:00.054189+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:49.133555+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:31.756661+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:16.438675+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:59.629226+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:41.090833+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:26.915314+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:10.000197+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:54.701406+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:37.792336+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:19.733682+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:06.332650+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:53.347958+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:41.977833+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:23.793893+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:09.734645+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:51.790647+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:34.942805+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:21.492844+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:02.687450+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:49.004216+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:31.797336+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:13.922345+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:00.032469+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:41.682440+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:27.718869+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:09.758529+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:52.250718+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:38.105142+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:20.489541+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:06.281734+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:48.393763+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:29.744134+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:15.961903+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:58.302324+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:44.677188+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:26.843141+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:08.710213+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:55.181482+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:36.669567+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:22.951137+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:05.586469+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:46.975887+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:32.916012+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:14.765251+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:01.112280+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:43.065610+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:24.917224+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:11.644986+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:53.656391+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:40.375736+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:22.265595+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:04.326914+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:51.004125+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:33.617114+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:20.436172+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:03.523831+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:45.771967+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:33.107891+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:14.692850+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:02.523193+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:44.933366+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:26.515342+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:13.199606+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:55.858762+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:41.688540+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:23.682721+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:05.906404+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:54.179318+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:35.754879+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:22.157226+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:07.285297+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:52.361029+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:35.440642+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:16.779709+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:03.142892+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:46.103979+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:31.171759+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:14.286902+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:55.850666+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:42.053142+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:25.144607+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:10.705170+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:53.465915+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:34.904937+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:21.070683+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:03.375709+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:47.954519+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:31.241836+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:12.922142+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:59.076727+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:41.832797+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:26.843651+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:10.289741+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:52.672774+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:38.902415+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:21.545653+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:14.176289+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:56.197301+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:42.629975+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:25.226197+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:10.033207+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:53.251175+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:34.812233+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:22.750420+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:05.286826+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:50.017010+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:33.237058+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:16.422772+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:03.877362+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:47.444364+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:32.689273+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:15.104936+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:57.085299+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:43.535523+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:26.661030+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:12.856295+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:55.585539+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:37.311702+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:26.289481+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:09.416762+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:54.683068+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:40.736702+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:27.982502+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:10.599827+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:56.412746+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:38.322029+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:22.319547+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:08.733326+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:51.446866+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:36.632958+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:18.172051+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:03.488465+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:50.207311+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:32.908150+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:17.671981+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:59.729402+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:42.917801+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:29.215479+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:12.119011+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:57.282490+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:38.847020+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:22.052817+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:09.082617+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:52.978836+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:38.251655+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:20.052515+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:03.185622+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:50.019860+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:32.790743+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:18.228644+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:00.209652+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:44.242085+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:31.144170+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:14.855114+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:00.521054+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:43.017411+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:26.100115+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:12.519594+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:55.222669+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:40.877139+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:24.354826+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:09.569782+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:57.317742+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:42.739979+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:24.832776+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:06.570138+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:49.555177+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1016.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:37.529536+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1016.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:58.882338+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:44.715159+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:28.437236+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:11.320747+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:03.559686+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:48.976505+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:33.649317+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:16.544371+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:07.598292+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:53.233953+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:36.629855+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:20.698676+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:12.008020+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:57.619988+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:40.952557+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:23.681115+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:15.441515+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:45.603930+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:41.978532+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:34.142950+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:19.605413+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:03.257379+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:47.967225+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:43.752412+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:15.200863+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:48.268778+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:25.953793+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:57.041044+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:55.731029+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:42.840663+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:26.058565+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:11.348437+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:59.142513+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:58.342315+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:20.290149+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:48.133309+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:22.275924+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:55.244220+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:28.616255+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:01.751015+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:47.305458+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:35.407152+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:20.862428+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:08.642834+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:51.588590+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:40.078618+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:26.761568+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:15.888150+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:59.336456+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:50.371199+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:36.903649+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:24.560250+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:42.709653+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:15.437818+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:49.195505+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:54.504934+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:41.775863+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:30.342002+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:15.277015+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:03.636032+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:09.744316+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:41.991266+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:28.918996+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:20.074003+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:06.720673+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:54.008249+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:39.188680+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:27.128449+07:00",
+    "temp": 23.1,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:50.469728+07:00",
+    "temp": 23.1,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:38.983171+07:00",
+    "temp": 23.1,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:00.440156+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:40.512877+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:17.691082+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:54.596907+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:33.839000+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:32.387343+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:15.241670+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:03.104711+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:47.198749+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:39.118519+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:25.040186+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:02.341420+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:40.168665+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:18.122795+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:03.936115+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:43.182884+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:20.447344+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:57.529650+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:38.281995+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:25.722239+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:06.694629+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:44.832477+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:22.098983+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:00.655616+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:46.346110+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:26.261041+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:04.359809+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:41.849533+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:27.399588+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:30.970388+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:47.114042+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:35.267897+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:35.324354+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:40.706518+07:00",
+    "temp": 24.2,
+    "humidity": 89.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:40.761535+07:00",
+    "temp": 24.2,
+    "humidity": 89.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Quang Nam"
+  }
+]

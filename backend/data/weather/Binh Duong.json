@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:03.918809+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:50.904938+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:38.966748+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:19.364178+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:00.192630+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:40.550030+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:26.059142+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:15.179422+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:55.438185+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:38.192815+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:18.879863+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:02.990970+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:53.498367+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:36.047960+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:18.589844+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:24.981416+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:39.652332+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:21.491265+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:06.538132+07:00",
+    "temp": 23.4,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:49.354717+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:34.291038+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:23.053679+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:08.539070+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:50.938089+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:35.898694+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:18.143966+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:05.140557+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:50.705549+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:33.595969+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:18.844099+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:00.388228+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:47.447607+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:33.956550+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:17.710814+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:02.503854+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:49.667815+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:35.501628+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:19.071584+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:03.940241+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:46.179335+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:32.511430+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:17.377746+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:59.660247+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:45.404833+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:28.063456+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:13.936939+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:59.427546+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:42.158396+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:28.755369+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:11.178609+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:01.302870+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:44.686943+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:28.887000+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:11.662950+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:53.770988+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:43.790514+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:26.861914+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:11.408886+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:53.955326+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:37.456147+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:28.154743+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:12.637286+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:55.430578+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:37.397990+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:19.351611+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:09.569760+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:54.580869+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:37.778243+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:20.042641+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:02.681308+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:52.211501+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:37.098019+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:20.535897+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:03.318747+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:53.450734+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:37.583108+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:20.307958+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:03.018469+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:45.557606+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:36.308449+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:21.076521+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:06.149364+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:49.255464+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:38.871232+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:23.773947+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:06.798996+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:51.553812+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:41.783706+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:26.619397+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:11.828718+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:54.373704+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:01.477364+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:49.470797+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:40.151410+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:24.471339+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:14.523327+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:00.302407+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:43.915611+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:26.430959+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:52.040411+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:35.938122+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:18.339516+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:59.779595+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:45.037015+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:30.745125+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:14.197870+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:57.226796+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:38.546322+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:23.377436+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:08.966175+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:52.816963+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:35.545620+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:17.137841+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:02.651191+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:47.989251+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:15.402234+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:58.215187+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:43.777752+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:28.894917+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:13.236366+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:54.701105+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:37.480045+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:24.574026+07:00",
+    "temp": 23.0,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:10.256753+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:54.617241+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:35.592085+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:18.622214+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:04.740761+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:49.788361+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:33.190861+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:15.608302+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:59.521044+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:41.137922+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:58.776959+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:43.918930+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:26.243978+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:15.806606+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:00.034463+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:41.386876+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:23.978568+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:05.548663+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:54.312786+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:37.771189+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:19.418614+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:03.061320+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:44.432271+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:33.877636+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:17.416883+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:59.052154+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:41.619675+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:23.142284+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:12.367640+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:56.235974+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:37.764740+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:20.789025+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:02.463852+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:52.421903+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:36.346982+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:17.634593+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:01.051313+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:42.159697+07:00",
+    "temp": 23.3,
+    "humidity": 78.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:31.174422+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:14.645480+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:56.092488+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:58.941550+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:57.164759+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:40.739134+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:21.659776+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:04.187473+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:45.408558+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:34.323967+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:18.008695+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:59.304009+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:41.809617+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:23.021675+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:11.871591+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:56.223943+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:37.273895+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:19.419574+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:01.129338+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:50.416108+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:33.789732+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:15.203157+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:58.773840+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:52.204737+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:35.721797+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:16.852243+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:59.142303+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:40.752482+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:30.361984+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:14.692606+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:56.207115+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:39.072852+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:20.231447+07:00",
+    "temp": 23.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:09.874080+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:53.816821+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:36.395450+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:19.322101+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:50.513069+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:35.231703+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:16.691388+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:59.475657+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:45.847581+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:30.242926+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:14.352748+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:55.932985+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:38.643853+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:52.625632+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:04.926634+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:48.605492+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:13.177318+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:55.802954+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:40.310736+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:23.359349+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:06.466185+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:51.248888+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:33.972896+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:18.721992+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:01.450422+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:44.396468+07:00",
+    "temp": 22.3,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:29.877823+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:13.610244+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:58.486748+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:41.230425+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:24.437298+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:09.349012+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:52.323787+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:37.387166+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:20.122921+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:03.205348+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:49.063014+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:31.719944+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:16.457381+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:00.138472+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:43.105395+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:28.455565+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:14.189932+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:58.531230+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:41.529633+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:24.530465+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:09.291247+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:52.019253+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:37.032983+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:19.711333+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:02.924389+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:48.036067+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:32.944074+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:22.223910+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:06.919686+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.15,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:52.111131+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:34.854978+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:16.695281+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:02.197242+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:46.164620+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:30.991285+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:14.303208+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:56.864571+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:40.562148+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:24.969258+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:10.044468+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:52.717085+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:35.152725+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:18.892929+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:03.955380+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:48.506522+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:31.179409+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:13.163398+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:56.424348+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:41.713939+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:26.567977+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:09.715045+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:51.958723+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:35.700733+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:20.282756+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:05.077731+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:48.325478+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:30.275671+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:13.662968+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:57.998039+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:43.269358+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:25.986928+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:07.943865+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:52.280844+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:36.821787+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:22.342426+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:05.238364+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:47.407723+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:31.133358+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:16.155110+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:02.688853+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:45.387039+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:28.700980+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:12.552137+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:58.090243+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:43.778497+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:27.682379+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:09.809321+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:53.917689+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:38.256412+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:23.972632+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:06.720537+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:48.739206+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:32.866244+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:19.071959+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:04.235573+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:49.666757+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:34.404837+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:17.380984+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:00.400822+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:45.108410+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:28.377211+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:13.150791+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:56.248364+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:39.192248+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:24.151294+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:07.007508+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:52.503085+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:35.572979+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:18.237653+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:03.166772+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:45.936240+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:30.158645+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:13.166313+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:56.316762+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:41.250023+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:24.247218+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:08.897215+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:52.127854+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:35.792172+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:21.062226+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:03.841883+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:48.634620+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:39.387032+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:24.391517+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:07.671188+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:52.239194+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:35.033719+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:18.147054+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:04.887579+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:47.760601+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:32.340471+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:15.147968+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:58.322956+07:00",
+    "temp": 21.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:45.672108+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:29.625396+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:14.442813+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:57.555486+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:40.474254+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:25.514923+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:08.834512+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:53.660815+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:38.186322+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:20.510290+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:07.892325+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:51.498467+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:36.484509+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:19.744342+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:09.432542+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:53.040725+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:38.189063+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:21.394115+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:04.539006+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:50.731384+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:33.685728+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:18.452382+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:01.749847+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:43.230508+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:32.170188+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:15.277109+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:59.557706+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:42.530376+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:25.069759+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:11.335773+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:54.330666+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:39.048513+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:22.274131+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:04.115533+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:50.900930+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:34.202767+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:20.257322+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:03.522637+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:45.177590+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:31.878455+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:15.099668+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:00.027311+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:43.244901+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:26.167055+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:12.950656+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:56.915513+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:42.008948+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:25.989392+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:08.098920+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:54.701754+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:37.542983+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:22.327247+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:06.195193+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:50.569777+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:38.255826+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:24.175817+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:07.865469+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:50.005013+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:31.544109+07:00",
+    "temp": 21.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:18.325550+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1016.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:04.665956+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1016.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.04,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:32.809651+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:27.703454+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:11.579825+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:54.432878+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:39.724087+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:31.957768+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:15.946494+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:59.351518+07:00",
+    "temp": 24.4,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:44.600699+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:36.273794+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:19.333128+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:02.819315+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:48.337006+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:40.891404+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:23.761560+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:06.760609+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:52.462597+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:04.774683+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:23.372046+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:10.611817+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:02.859976+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:45.500733+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:29.079145+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:16.852256+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:34.250562+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:02.876302+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:41.400094+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:13.717164+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:38.564615+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:21.723982+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:08.916735+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:51.671190+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:41.664569+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.0,
+    "rain": 0.51,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:25.922525+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:42.610653+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:07.242512+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:37.111839+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:13.612571+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:43.054367+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:20.640271+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:28.922148+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:13.919923+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:02.455094+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:49.893097+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:34.666343+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:18.092145+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:07.219153+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:57.515084+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:42.282100+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:28.496821+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:17.281974+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:06.098137+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:01.413002+07:00",
+    "temp": 24.2,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:32.081437+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:06.273874+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:36.350604+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:20.533449+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:12.820830+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:56.661731+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:43.304917+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:29.615708+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:04.195054+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:10.223731+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:55.262386+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:48.822280+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:35.201705+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:20.965557+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:05.337577+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:16.454752+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:19.659308+07:00",
+    "temp": 23.3,
+    "humidity": 89.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:37.545863+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:26.705218+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:03.447068+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:40.637191+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:19.540266+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:59.473631+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:58.179463+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:43.232572+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:29.793815+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:15.997950+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:07.444551+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:48.169467+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:26.026182+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:03.475223+07:00",
+    "temp": 24.3,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:44.192929+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:29.007634+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:06.076962+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:43.302656+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:21.934639+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:05.487076+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:51.297910+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:30.509651+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:07.823063+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:45.585612+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:26.240972+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:11.816112+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:49.958412+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:27.580378+07:00",
+    "temp": 24.4,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:03.640455+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:15.425843+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:25.792753+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:14.145793+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:17.409464+07:00",
+    "temp": 24.1,
+    "humidity": 83.0,
+    "pressure": 1017.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:15.856694+07:00",
+    "temp": 24.2,
+    "humidity": 89.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:19.037844+07:00",
+    "temp": 24.2,
+    "humidity": 89.0,
+    "pressure": 1016.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.26,
+    "cloud": 75.0,
+    "city": "Binh Duong"
+  }
+]

@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:03.350847+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:49.894319+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:38.494839+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:18.906905+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:59.679473+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:40.047448+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:25.409537+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:14.689482+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:54.957992+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:37.747317+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:18.414881+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:02.350986+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:53.066566+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:35.513069+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:18.078719+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:23.518500+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:39.159653+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:21.012141+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:06.007452+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:48.701089+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:33.786570+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:22.485741+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:07.994696+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:50.311568+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:35.357442+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:17.621788+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:04.657574+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:50.207587+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:32.919488+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:18.322418+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:59.874120+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:46.937204+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:33.436858+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:17.035734+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:01.848898+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:49.099596+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:34.944048+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:18.388038+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:03.482705+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:45.689212+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:32.034583+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:16.856455+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:59.017695+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:44.854574+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:27.559170+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:13.438094+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:58.948990+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:41.526671+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:28.238089+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:10.615408+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:00.800553+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:43.948287+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:28.400660+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:11.162613+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:53.301403+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:43.286182+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:26.190946+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:10.915110+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:53.480484+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:36.880442+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:27.397788+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:12.213114+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:54.929327+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:36.911408+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:18.835609+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:08.891629+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:54.087780+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:37.288462+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:19.529414+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:02.163166+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:51.498395+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:36.551222+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:19.995860+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:02.856694+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:52.823064+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:37.046057+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:19.738124+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:02.475058+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:45.076996+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:35.629487+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:20.442387+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:05.682262+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:48.722575+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:38.187122+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:23.270392+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:06.294885+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:51.038044+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:41.125603+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:26.103938+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:11.378867+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:53.905127+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:00.830540+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:48.165247+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:39.665306+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:23.963833+07:00",
+    "temp": 21.9,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.805555555555555,
+    "rain": 0.13,
+    "cloud": 90.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:13.840843+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:59.830722+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:43.421987+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:25.898543+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:51.384737+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:35.422117+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:17.825610+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:59.282928+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:44.517697+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:30.028497+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:13.708692+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:56.744125+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:38.074001+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:22.914664+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:08.257704+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:52.343840+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:35.025475+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:16.636916+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:02.147863+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:47.342156+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:14.938670+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:57.721696+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:43.297355+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:28.212447+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:12.766733+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:54.170263+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:36.994126+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:24.047574+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:09.621789+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:54.104072+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:35.087396+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:18.143954+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:04.245564+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:49.135079+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:32.728847+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:15.141762+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:59.020841+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:40.442039+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:57.908662+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:43.429402+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:25.740233+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:15.144322+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:59.515175+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:40.897573+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:23.450443+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:05.024044+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:53.666156+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:37.237186+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:18.913750+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:02.582404+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:43.897877+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:33.240776+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:16.919175+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:58.550714+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:41.106248+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:22.682489+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:11.717387+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:55.730240+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:37.255523+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:20.268784+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:01.999864+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:51.802890+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:35.844356+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:17.132309+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:00.544644+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:41.659541+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:30.539718+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:14.120739+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:55.585176+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:58.424179+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:56.504282+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:40.225688+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:21.185767+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:03.696380+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:44.896082+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:33.656568+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:17.529499+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:58.842743+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:41.288540+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:22.527571+07:00",
+    "temp": 21.8,
+    "humidity": 88.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.06,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:11.226646+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:55.740379+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:36.773889+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:18.917208+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:00.644240+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:49.738384+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:33.308233+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:14.715156+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:58.263842+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:51.516998+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:35.199803+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:16.309543+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:58.643871+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:40.243498+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:29.639885+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:14.191469+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:55.683176+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:38.603532+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:19.757744+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:09.171868+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:53.332390+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:35.907029+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:18.837474+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:49.785561+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:34.710419+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:16.164456+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:58.979234+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:45.334246+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:29.571848+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:13.812354+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:55.455041+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:38.140171+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:51.940487+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:04.436085+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:47.015024+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:12.482155+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:55.304320+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:39.829085+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:22.824516+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:05.940522+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:50.435169+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:33.491527+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:18.228584+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:00.982888+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:43.905381+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:29.110555+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:13.154063+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:58.008478+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:40.725181+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:23.927654+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:08.639924+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:51.834868+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:36.856598+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:19.580907+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:02.717572+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:48.403852+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:31.251363+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:15.984321+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:59.633735+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:42.593801+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:27.776796+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:13.692288+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:58.053991+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:41.024190+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:24.048077+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:08.627498+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:51.501533+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:36.527828+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:19.236831+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:02.435844+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:47.371662+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:32.386603+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:21.735683+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:06.434596+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:51.458117+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:34.353108+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:16.187888+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:01.705095+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:45.671099+07:00",
+    "temp": 21.6,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.305555555555556,
+    "rain": 0.06,
+    "cloud": 77.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:30.341877+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:13.828826+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:56.296765+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:40.068205+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:24.503442+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:09.397363+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:52.239558+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:34.681782+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:18.435018+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:03.466604+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:47.766577+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:30.727764+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:12.660925+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:55.941144+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:41.210652+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:25.919631+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:09.177702+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:51.469427+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:35.213801+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:19.759380+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:04.349679+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:47.832332+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:29.772444+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:13.136851+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:57.462060+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:42.598455+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:25.475650+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:07.462135+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:51.737115+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:36.315074+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:21.643019+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:04.721428+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:46.916262+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:30.636060+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:15.651306+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:01.998348+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:44.929272+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:28.202975+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:12.068801+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:57.593219+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:42.968704+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:27.229465+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:09.308751+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:53.386634+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:37.726721+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:23.268530+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:06.200425+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:48.279467+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:32.355843+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:18.590696+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:03.592161+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:49.117795+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:33.921281+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:16.827095+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:59.892203+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:44.407571+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:27.896595+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:12.669548+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:55.736295+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:38.728845+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:23.452542+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:06.517916+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:52.052488+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:35.114056+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:17.734723+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:02.460797+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:45.408370+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:29.620132+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:12.661723+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:55.835840+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:40.563370+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:23.774018+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:08.397000+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:51.610902+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:35.298414+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:20.409247+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:03.341833+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:48.167139+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:38.874251+07:00",
+    "temp": 21.5,
+    "humidity": 87.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.388888888888888,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:23.724107+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:07.201987+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:51.690870+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:34.529838+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:17.667157+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:04.168947+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:47.293121+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:31.816273+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:14.648064+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:57.817228+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:44.962751+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:29.150965+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:13.924983+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:57.055165+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:39.859588+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:24.887217+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:08.341365+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:53.166985+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:37.734074+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:20.034713+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:07.062111+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:51.007511+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:36.022334+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:19.235365+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:08.768770+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:52.586769+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:37.698728+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:20.878685+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:04.015699+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:50.104943+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:33.195124+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:17.961077+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:01.238232+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:42.714381+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:31.492508+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:14.779661+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:59.083482+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:42.026087+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:24.588662+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:10.667852+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:53.825975+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:38.563857+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:21.775825+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:03.653054+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:50.250909+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:33.713304+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:19.748745+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:03.021568+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:44.656507+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:31.041670+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:14.581029+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:59.472445+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:42.742492+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:25.662044+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:12.260476+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:56.400552+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:41.489319+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:25.474164+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:07.567744+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:54.060995+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:37.023271+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:21.778669+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:05.683365+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:50.101939+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:37.624098+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:23.675900+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:07.362025+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:49.522271+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:31.063400+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:17.652441+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:04.142253+07:00",
+    "temp": 21.5,
+    "humidity": 86.0,
+    "pressure": 1013.0,
+    "wind_speed": 5.194444444444444,
+    "rain": 0.03,
+    "cloud": 84.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:32.067753+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:27.244409+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:11.157296+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:53.904459+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:39.006347+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:31.424165+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:15.340177+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:58.802142+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:43.875708+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:35.789061+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:18.817749+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:02.335079+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:47.668761+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:40.371446+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:23.247274+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:06.244175+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:51.792060+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:03.622252+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:22.868933+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:09.876102+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:02.347369+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:44.979864+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:28.563052+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:16.160892+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:32.998600+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:01.691577+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:40.023759+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:12.485943+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:38.057355+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:21.020862+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:08.386753+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:51.118791+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:41.161797+07:00",
+    "temp": 24.0,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.19,
+    "cloud": 100.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:25.255354+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:41.356568+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:05.948208+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:35.727751+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:12.434602+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:41.657476+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:19.467049+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:28.377951+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:13.262769+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:01.942793+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:49.364373+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:34.152246+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:17.425190+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:06.753709+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:57.034786+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:41.674135+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:27.799216+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:16.731927+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:05.625977+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:00.035796+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:30.370726+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:05.100048+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:35.658142+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:19.915054+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:12.310405+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:56.111771+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:42.612046+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:29.148789+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:02.879113+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:09.574870+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:54.732692+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:48.263141+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:34.705482+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:20.231164+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:04.835723+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:15.224558+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:19.003242+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:36.871722+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:26.297788+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:02.997313+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:40.199640+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:19.078555+07:00",
+    "temp": 24.5,
+    "humidity": 81.0,
+    "pressure": 1015.0,
+    "wind_speed": 7.5,
+    "rain": 0.1,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:58.832471+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:57.787137+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:42.583027+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:29.292810+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:15.319643+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:06.983432+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:47.765779+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:25.576549+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:02.990134+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:43.590181+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:28.598840+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:05.604620+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:42.852814+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:21.442971+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:04.900681+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:50.910990+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:30.069375+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:07.425335+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:45.194314+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:25.638316+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:11.362280+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:49.557520+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:27.190084+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:02.768801+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:14.957340+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:25.205006+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:13.487666+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:16.996349+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:15.125264+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:18.475076+07:00",
+    "temp": 25.1,
+    "humidity": 78.0,
+    "pressure": 1014.0,
+    "wind_speed": 7.388888888888889,
+    "rain": 0.06,
+    "cloud": 85.0,
+    "city": "Binh Dinh"
+  }
+]

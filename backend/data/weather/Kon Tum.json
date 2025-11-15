@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:14.777516+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:04.844839+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:48.613776+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:29.127195+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:09.853798+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:50.389323+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:39.500499+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:24.694946+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:07.025733+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:47.970848+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:28.423336+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:16.742475+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:03.816111+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:46.572932+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:28.810322+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:03.900925+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:49.637786+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:32.068631+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:16.704947+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:02.344406+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:46.372789+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:33.908375+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:18.329450+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:04.136839+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:46.024311+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:28.878891+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:15.395140+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:01.039549+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:46.837624+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:28.685854+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:11.275541+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:58.780544+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:44.343145+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:30.779957+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:13.989114+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:59.865215+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:46.084821+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:32.232654+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:14.195721+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:56.672735+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:42.679088+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:27.345966+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:13.034912+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:55.609549+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:38.800739+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:24.306702+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:09.727528+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:57.138040+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:38.906390+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:22.077722+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:11.785665+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:57.017920+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:39.782990+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:21.862341+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:04.519501+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:53.874822+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:39.342153+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:22.250644+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:04.906490+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:47.914938+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:40.698948+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:23.648565+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:05.843244+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:47.361940+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:29.690950+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:22.545025+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:05.598053+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:48.112777+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:30.339294+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:13.033219+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:05.021337+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:48.570865+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:30.997710+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:14.051471+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:05.596013+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:48.332669+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:31.326857+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:13.848476+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:56.007662+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:49.138106+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:32.591666+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:16.348135+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:59.710139+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:51.804096+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:34.951093+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:18.379555+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:01.826829+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:54.152446+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:37.613451+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:22.372733+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:08.931727+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:14.118576+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:06.767095+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:52.140343+07:00",
+    "temp": 15.7,
+    "humidity": 97.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 52.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:34.882784+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:27.289836+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:11.952622+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:54.491125+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:41.148927+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:04.164942+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:46.801955+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:28.377011+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:09.823061+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:55.380864+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:42.711771+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:25.269766+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:07.186588+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:48.562304+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:33.389000+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:21.110174+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:03.812516+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:45.760610+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:27.385747+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:12.456865+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:00.165275+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:26.873741+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:08.473140+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:53.599007+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:41.683476+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:23.060564+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:06.183771+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:47.966659+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:34.712319+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:22.334521+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:04.363854+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:46.805031+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:28.841582+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:14.763459+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:01.942872+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:43.217168+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:27.841763+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:01.822689+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:53.222913+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:12.298911+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:53.961647+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:36.478699+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:28.091285+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:09.960777+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:52.450658+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:34.030784+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:15.686458+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:06.274215+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:47.987790+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:30.608505+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:12.797763+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:54.453823+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:45.993204+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:27.396956+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:10.177759+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:51.639456+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:33.411104+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:24.598939+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:06.119806+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:49.248001+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:30.909305+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:12.882779+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:04.697275+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:46.292977+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:29.802556+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:10.818916+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:52.297069+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:42.994836+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:24.675644+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:07.007964+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:17.449791+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:09.052753+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:50.429360+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:32.744933+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:14.040101+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:55.407811+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:46.412069+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:27.941758+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:10.443928+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:51.541806+07:00",
+    "temp": 15.5,
+    "humidity": 96.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 44.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:33.190625+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:24.012332+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:06.208559+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:48.175548+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:29.465603+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:11.132491+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:02.457552+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:43.798305+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:26.543801+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:13.186781+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:04.211014+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:45.624193+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:27.853559+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:09.170565+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:51.010240+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:42.620231+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:24.839622+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:07.691444+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:48.986013+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:30.572621+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:21.953738+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:03.735758+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:47.609628+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:29.197144+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:03.159967+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:45.123004+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:28.001237+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:09.550829+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:55.874422+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:42.376192+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:24.434597+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:07.303826+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:48.744982+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:30.182927+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:15.969247+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:12.990413+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:24.402435+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:06.682625+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:51.819098+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:33.385681+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:16.161972+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:02.407633+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:44.862306+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:29.993993+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:11.226687+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:54.496672+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:42.108703+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:24.756663+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:09.702216+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:51.442749+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:34.537576+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:20.771736+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:03.296116+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:48.614689+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:30.014787+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:13.102982+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:00.378630+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:42.717783+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:29.005550+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:09.972323+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:53.417327+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:39.792861+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:24.781466+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:10.016540+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:51.525786+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:34.483565+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:20.527059+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:03.038469+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:48.312360+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:29.612705+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:12.907140+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:59.592375+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:45.566798+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:33.745023+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:17.080718+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:03.329520+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:45.459353+07:00",
+    "temp": 15.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 37.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:27.060711+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:13.352388+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:56.075337+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:42.500975+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:25.187257+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:07.161853+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:51.916198+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:34.979625+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:21.327506+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:03.308401+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:45.298052+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:29.870322+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:13.861926+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:59.926082+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:41.847005+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:23.042976+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:07.800296+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:51.592615+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:38.009029+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:20.425441+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:01.840147+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:47.005081+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:30.131389+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:16.426944+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:59.169047+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:40.263005+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:24.654574+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:07.992077+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:54.615918+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:36.675623+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:18.069410+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:03.430220+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:46.742051+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:33.741086+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:15.779225+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:57.529941+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:42.197725+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:26.320846+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:13.967072+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:56.043169+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:38.862355+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:24.866882+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:08.000570+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:55.672810+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:38.357007+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:19.795044+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:05.076410+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:49.248437+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:35.301150+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:17.263956+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:59.024593+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:43.925635+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:29.029640+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:15.688155+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:00.544750+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:45.592570+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:27.332902+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:10.300633+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:56.608175+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:39.254987+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:24.285775+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:06.327115+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:49.167073+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:35.570101+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:18.315926+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:03.760366+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:45.502503+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:28.121223+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:14.589838+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:56.636821+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:41.174055+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:23.027303+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:06.276007+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:52.561803+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:35.140121+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:19.955074+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:02.161263+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:45.957907+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:32.475224+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:14.774162+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:01.159482+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:49.513099+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:36.330231+07:00",
+    "temp": 15.2,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:18.416550+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:03.505255+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:45.154756+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:28.164041+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:16.294935+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:58.416716+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:43.358647+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:25.062899+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:08.988868+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:57.223952+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:40.654221+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:25.654827+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:07.462604+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:50.442440+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:36.969745+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:19.695562+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:05.726756+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:48.104466+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:30.704415+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:19.610014+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:02.473502+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:47.760587+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:32.835517+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:21.340983+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:03.624238+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:49.467980+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:31.745076+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:14.523893+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:02.208512+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:44.472918+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:29.692496+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:11.784911+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:55.563364+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:43.728937+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:26.084683+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:10.722199+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:52.450003+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:35.045484+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:22.806454+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:05.128694+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:50.277780+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:32.391895+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:14.204361+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:02.455282+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:44.875520+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:31.359469+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:13.584986+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:55.183795+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:43.422285+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:25.892982+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:11.096062+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:53.358883+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:36.384817+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:24.560619+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:07.939884+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:53.396582+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:36.310792+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:18.217452+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:06.072460+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:48.505010+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:33.762117+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:17.292261+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:01.574305+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:50.592941+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:35.704131+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:18.238249+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:00.045256+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:41.735773+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:30.702431+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:16.009027+07:00",
+    "temp": 15.2,
+    "humidity": 93.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 28.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:48.385240+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:38.066662+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:21.810759+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:04.855030+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:53.154115+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:42.458834+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:27.027666+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:09.920249+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:58.474494+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:46.609494+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:29.866531+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:13.872374+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:02.804994+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:50.860582+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:34.199863+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:17.017151+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:06.389105+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:29.747482+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:34.437934+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:25.042106+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:12.991619+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:56.048212+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:39.728478+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:30.719424+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:59.100012+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:30.225542+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:09.639209+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:39.114925+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:49.120287+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:35.888369+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:19.240257+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:02.173977+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:52.321309+07:00",
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:42.909660+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:06.244836+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:32.381960+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:05.383590+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:38.228552+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:10.988459+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:45.424401+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:40.325515+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:27.501486+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:14.004858+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:00.456505+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:44.833060+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:32.093091+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:19.483237+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:07.958516+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:52.758597+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:42.551289+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:30.135667+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:16.506145+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:26.332299+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:00.207440+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:31.927856+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:47.726259+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:34.063116+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:23.438271+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:07.154731+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:54.643860+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:51.807530+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:29.408551+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:21.500243+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:11.995447+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:59.744859+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:45.788077+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:32.380893+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:18.758610+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:42.013588+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:30.808538+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:51.578960+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:35.110598+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:11.886900+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:49.027396+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:28.096612+07:00",
+    "temp": 23.4,
+    "humidity": 56.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 22.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:24.284600+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:08.337989+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:55.470989+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:40.302315+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:29.952306+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:18.150714+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:56.746491+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:34.688248+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:12.392386+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:56.037450+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:37.621373+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:14.583312+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:51.879842+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:32.299596+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:17.864155+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:01.077601+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:39.298677+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:16.493988+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:54.582100+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:38.363585+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:20.623157+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:58.678683+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:36.262521+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:18.810737+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:24.731502+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:37.939030+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:26.731998+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:26.827556+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:31.237886+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:31.399809+07:00",
+    "temp": 24.8,
+    "humidity": 53.0,
+    "pressure": 1014.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Kon Tum"
+  }
+]

@@ -1,0 +1,5102 @@
+[
+  {
+    "timestamp": "2025-11-15T00:48:57.458793+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:41.986921+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:32.628357+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:13.009325+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:53.795210+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:34.138438+07:00",
+    "temp": 19.3,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:16.907951+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:08.562799+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:49.067107+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:31.738096+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:12.448610+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:54.642368+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:46.923857+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:29.329297+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:11.865615+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:55.982939+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:32.809643+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:15.014320+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:58.948130+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:41.830236+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:27.329667+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:16.202223+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:00.820928+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:43.647037+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:29.393204+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:11.036029+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:57.845687+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:42.722923+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:26.234910+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:12.218652+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:53.800528+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:40.432394+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:25.794021+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:10.486828+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:55.722954+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:42.661520+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:27.153061+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:11.842878+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:57.509100+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:39.658541+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:25.355430+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:09.408687+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:52.747247+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:38.454283+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:21.581002+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:07.045407+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:51.434346+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:34.894208+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:22.234477+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:04.017179+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:52.754863+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:37.287700+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:22.425477+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:05.132202+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:47.349819+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:35.306136+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:19.464365+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:04.358966+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:47.550787+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:30.748183+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:18.981746+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:05.996048+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:48.985463+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:30.871703+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:12.770547+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:00.361724+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:47.914935+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:31.261614+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:13.506645+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:56.133349+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:43.346696+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:30.205129+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:13.909568+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:56.947295+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:44.728444+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:30.539150+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:13.541062+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:56.550740+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:39.086335+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:27.421824+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:14.283030+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:58.978568+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:41.932943+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:30.021448+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:17.232430+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:00.157994+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:45.085854+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:32.794858+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:19.957580+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:05.191913+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:47.546948+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:49.691503+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:40.506510+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:33.395004+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:17.743025+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:05.682950+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:53.673881+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:37.419448+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:19.928462+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:43.275712+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:29.393087+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:11.792692+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:53.440612+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:38.264990+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:22.060349+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:07.700564+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:50.451136+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:31.986174+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:16.970344+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:00.034684+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:46.194057+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:28.921896+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:10.674136+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:56.252202+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:39.262434+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:32.038027+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:51.868836+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:37.122199+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:20.116276+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:06.770019+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:48.267249+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:31.120532+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:18.033068+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:01.042791+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:47.308815+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:29.050736+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:11.779367+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:58.152146+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:41.174203+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:26.710637+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:09.080220+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:52.852068+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:32.163798+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:26.913038+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:37.333192+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:19.113457+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:06.815774+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:53.579167+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:35.071008+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:17.450972+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:58.967977+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:45.745238+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:31.252886+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:13.016898+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:55.581359+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:37.930046+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:25.148142+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:10.909714+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:52.543994+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:35.180465+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:16.633149+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:03.834421+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:49.665825+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:31.277623+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:14.230985+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:56.071191+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:43.500845+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:29.698941+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:11.082165+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:54.554811+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:35.615943+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:22.370056+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:08.112312+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:49.659494+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:45.545077+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:48.297362+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:34.183717+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:15.152946+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:57.786060+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:38.839572+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:25.566563+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:11.530160+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:52.833154+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:35.422112+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:16.447111+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:03.402881+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:49.668005+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:30.814890+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:12.874292+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:54.743165+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:41.454212+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:27.403786+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:08.718456+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:52.142180+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:43.591107+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:29.156579+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:10.363165+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:52.780488+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:34.254186+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:21.307612+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:07.538662+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:49.631851+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:32.668808+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:13.817500+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:00.860992+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:47.336876+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:28.729868+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:12.693222+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:41.780485+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:28.776905+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:10.235684+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:52.946417+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:39.199887+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:21.608758+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:07.750856+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:49.536833+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:32.281393+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:18.404157+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:56.704772+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:40.995016+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:05.709574+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:49.351919+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:32.609665+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:16.690342+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:59.970896+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:43.777727+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:27.423801+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:10.729479+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:54.961240+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:38.042767+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:22.080911+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:07.117018+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:50.442816+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:34.576751+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:17.945353+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:01.915644+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:45.777098+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:28.985102+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:13.652777+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:56.922380+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:41.691076+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:25.137365+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:08.510551+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:53.744506+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:36.627370+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:21.192254+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:07.692251+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:50.705552+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:34.952129+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:18.102296+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:01.934756+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:45.496237+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:29.050801+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:13.226494+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:56.587524+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:40.664763+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:25.941588+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:14.331479+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:00.330064+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:44.608655+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:28.300230+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:10.220600+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:54.392569+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:39.746713+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:23.556549+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:07.851439+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:50.392463+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:32.872063+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:18.555218+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:02.826844+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:46.387188+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:28.472095+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:11.057675+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:57.544180+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:41.257554+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:24.808302+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:06.781051+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:48.808446+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:34.593034+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:19.210778+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:03.148759+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:45.326105+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:27.655491+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:13.740888+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:57.576741+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:41.525287+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:23.797828+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:05.849990+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:51.455529+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:35.892705+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:19.470585+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:01.477517+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:44.074152+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:30.353735+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:14.888060+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:58.853176+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:40.902217+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:23.313543+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:09.682739+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:55.253695+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:38.846459+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:22.221728+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:04.767834+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:51.579513+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:35.707402+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:21.150915+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:03.365975+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:45.925673+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:31.717030+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:16.605347+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:00.258616+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:42.310127+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:24.930297+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:12.756314+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:56.879050+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:42.992414+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:26.474728+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:10.780137+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:53.863841+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:37.738112+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:21.893906+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:05.215756+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:49.717729+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:32.822740+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:16.661912+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:00.441353+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:44.339133+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:28.989473+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:11.921165+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:55.861199+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:39.300579+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:22.344558+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:06.608578+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:49.876755+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:33.897312+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:17.646154+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:01.044614+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:45.776404+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:29.198443+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:13.576906+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:57.367990+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:40.698276+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:32.820482+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:17.008608+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:01.108145+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:44.342538+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:28.459503+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:11.750868+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:57.475969+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:41.288919+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:24.511230+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:08.621707+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:51.833056+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:38.217333+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:23.161019+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:06.504015+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:51.071326+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:33.844008+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:18.085694+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:02.101058+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:45.862042+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:31.590006+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:14.026260+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:00.346267+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:44.902700+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:28.486783+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:13.310982+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:01.719489+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:46.637474+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:29.605461+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:14.980030+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:58.056711+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:43.460249+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:27.021208+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:10.678849+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:55.074116+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:36.641884+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:24.802296+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:08.758857+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:51.739351+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:36.211087+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:18.567193+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:04.017413+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:47.792138+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:31.248640+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:15.835807+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:57.519602+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:43.399416+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:27.580264+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:12.034459+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:56.957800+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:38.637907+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:24.285750+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:08.626480+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:51.920714+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:36.837152+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:18.929253+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:05.439399+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:49.882493+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:34.002421+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:19.233894+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:01.665766+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:47.243784+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:31.121689+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:14.170064+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:59.639246+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:43.893074+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:30.764730+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:16.383103+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:01.183467+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:43.447798+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:24.987502+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:10.677379+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:56.624115+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:19.077196+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:20.513288+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:04.672799+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:47.502362+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:30.503975+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:25.088178+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:08.266337+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:52.374663+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:35.369133+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:29.402730+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:12.358536+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:55.338231+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:39.557336+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:33.695821+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:16.480028+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:59.821071+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:42.989846+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:48.575480+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:16.410429+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:01.137037+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:55.841947+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:38.599887+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:21.987869+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:08.017513+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:17.582441+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:46.666324+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:22.271226+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:57.259468+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:30.293913+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:14.397225+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:01.909485+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:44.803089+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:33.315775+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:18.257523+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:25.849691+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:51.506560+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:19.513190+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:56.381254+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:25.976833+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:02.559509+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:21.020479+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:06.314543+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:55.629623+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:41.514569+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:27.627385+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:10.444180+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:00.436126+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:49.066128+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:34.958062+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:21.045504+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:10.429466+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:57.561095+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:44.410452+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:14.085110+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:48.529155+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:19.837074+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:13.490821+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:03.530731+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:49.506520+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:34.531125+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:22.814667+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:46.073006+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:02.252947+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:47.978256+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:41.510548+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:26.589875+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:13.156633+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:58.311836+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:00.108679+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:10.772620+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:27.774315+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:19.935258+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:57.810831+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:34.998576+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:12.218658+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:51.745275+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:52.539243+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:35.670175+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:22.732429+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:07.166115+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:00.719714+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:42.520095+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:20.289617+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:57.617603+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:36.271657+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:23.314306+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:00.452438+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:37.798771+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:14.998064+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:11:56.297071+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:45.557103+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:24.919536+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:02.160034+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:39.756810+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:18.225440+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:05.906456+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:44.397665+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:21.819773+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:58.990936+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:53.104184+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:08.227216+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:16.182945+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:06.147807+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:11.563858+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:06.270965+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:11.635490+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hanoi"
+  }
+]

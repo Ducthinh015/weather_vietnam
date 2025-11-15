@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:23.084497+07:00",
+    "temp": 19.3,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:15.168222+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:56.395088+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:36.849566+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:17.433125+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:58.025232+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:50.542459+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:32.398828+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:14.826309+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:55.870274+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:35.958061+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:28.891785+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:12.317958+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:54.685494+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:36.955675+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:15.222504+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:57.792119+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:40.081147+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:24.698154+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:10.252661+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:58.589861+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:41.943041+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:26.332665+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:12.209626+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:54.128438+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:39.668921+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:23.337520+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:09.102801+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:55.223913+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:36.916415+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:22.371810+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:06.775741+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:53.170638+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:38.783289+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:25.188671+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:07.925494+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:54.352935+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:40.376898+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:22.582002+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:07.822628+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:50.483546+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:35.519373+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:21.150656+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:03.689475+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:49.615891+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:32.393106+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:17.918287+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:05.109690+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:46.939809+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:32.917187+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:20.029692+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:05.315932+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:47.852056+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:30.050980+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:15.772971+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:02.074352+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:47.479856+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:30.542708+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:13.172758+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:59.010840+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:48.869941+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:31.932436+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:13.730168+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:55.419685+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:40.858202+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:30.802753+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:14.030652+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:56.178893+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:38.816777+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:23.606903+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:13.217225+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:56.633879+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:39.551239+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:25.070748+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:13.477029+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:56.444102+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:39.340383+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:22.067819+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:07.175366+07:00",
+    "temp": 19.3,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:57.008633+07:00",
+    "temp": 19.3,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:41.430032+07:00",
+    "temp": 19.3,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:24.356760+07:00",
+    "temp": 19.3,
+    "humidity": 75.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:10.567904+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:00.015866+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:43.204891+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:27.475539+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:12.996904+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:02.586270+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:45.724226+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:30.455345+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:25.441885+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:22.991903+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:15.615743+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:00.703022+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:45.786845+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:36.137960+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:20.100637+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:02.480523+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:17.740143+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:12.167296+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:54.785940+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:36.333385+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:20.270213+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:03.461833+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:50.824527+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:33.322675+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:15.110621+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:59.244990+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:41.271816+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:29.208292+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:11.727020+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:53.708643+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:38.270910+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:20.431770+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:07.964823+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:34.840934+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:19.380542+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:01.589700+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:49.765237+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:31.168565+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:14.116656+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:59.058802+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:42.539604+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:30.181559+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:12.247272+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:54.781702+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:40.120666+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:22.707580+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:09.820262+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:52.298125+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:35.935884+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:12.772576+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:01.083642+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:20.306711+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:02.086750+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:47.318554+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:36.353812+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:17.941731+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:00.404232+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:41.947536+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:26.312409+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:14.264358+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:56.127152+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:38.542440+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:20.993857+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:05.667368+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:53.960191+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:35.479140+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:18.213538+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:59.478709+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:44.260792+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:32.594330+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:14.231305+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:57.258539+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:39.155914+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:23.550794+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:12.705071+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:54.165619+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:37.650986+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:18.694996+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:02.809463+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:51.022756+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:32.654840+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:16.440663+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:28.430404+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:17.117368+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:58.126675+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:40.870606+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:21.786728+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:06.205004+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:54.437928+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:35.845649+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:18.387971+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:59.371619+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:44.021899+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:32.655042+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:13.925726+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:56.069705+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:37.696271+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:22.019798+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:10.475807+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:51.705613+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:35.199484+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:24.207622+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:12.178964+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:53.489375+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:35.892276+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:17.182738+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:01.825726+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:50.609533+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:32.792599+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:15.657934+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:56.886936+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:41.325649+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:30.288078+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:11.800226+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:55.710509+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:08.585811+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:11.462598+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:53.299808+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:36.063893+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:20.472203+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:03.843080+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:50.748556+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:32.692237+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:15.389027+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:59.518766+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:39.094949+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:23.958578+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:46.626217+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:32.356510+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:15.149125+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:59.716240+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:42.976439+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:24.745575+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:10.379391+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:53.208976+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:38.032040+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:21.034502+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:03.122035+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:50.150217+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:33.014078+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:17.670675+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:01.115880+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:43.157512+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:28.794587+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:11.509714+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:56.622385+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:39.822146+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:22.871502+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:08.188330+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:50.996444+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:36.897405+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:19.648205+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:02.148852+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:50.651008+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:33.280211+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:17.985786+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:01.118084+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:43.094994+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:28.466691+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:11.482822+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:56.219856+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:39.537711+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:21.750416+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:07.845730+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:55.236833+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:43.430476+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:25.730544+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:11.213873+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:53.269562+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:36.708395+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:22.916765+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:04.735765+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:50.505639+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:33.286330+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:15.421143+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:01.465571+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:43.688645+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:29.235796+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:11.341910+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:53.685641+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:39.580366+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:22.474932+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:07.762115+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:49.896032+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:31.315766+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:17.448609+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:00.322826+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:46.232243+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:28.313089+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:10.196730+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:56.704989+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:38.678863+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:24.424036+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:07.060799+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:48.427343+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:34.437967+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:16.846151+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:02.594106+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:44.600692+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:26.369052+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:13.207469+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:55.979207+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:41.814127+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:23.751387+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:05.829006+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:52.521662+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:35.977310+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:21.923862+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:05.005072+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:47.250761+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:34.536123+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:16.780125+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:04.020776+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:46.414397+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:28.059710+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:14.676936+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:57.821588+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:43.214634+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:25.142012+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:07.482476+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:55.651184+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:37.928969+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:23.645786+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:08.775426+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:53.827371+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:36.879837+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:18.786932+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:04.693687+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:47.592445+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:32.684475+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:15.777614+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:57.798229+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:43.562006+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:26.617034+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:12.122950+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:54.948461+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:36.916845+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:22.474289+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:04.852623+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:49.392432+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:32.713835+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:14.913130+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:00.570195+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:43.372552+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:28.393158+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:11.881486+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:54.629207+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:40.406015+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:23.052502+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:15.738526+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:58.241646+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:44.122915+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:26.764230+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:11.529222+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:54.733739+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:36.900929+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:24.268802+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:06.803931+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:51.475458+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:34.766128+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:18.626790+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:05.490918+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:48.944871+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:34.143767+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:16.715113+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:59.071053+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:45.052244+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:28.211891+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:14.365087+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:57.043257+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:39.457629+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:27.782738+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:10.942522+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:56.257682+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:42.725522+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:29.480668+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:12.038194+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:57.955530+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:39.834748+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:24.400982+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:10.186066+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:53.090328+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:38.129705+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:19.708710+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:05.765706+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:51.710707+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:34.317120+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:19.195264+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:01.241271+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:44.976061+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:30.748254+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:13.612082+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:58.823065+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:40.489884+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:24.120722+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:10.628992+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:54.440147+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:39.789433+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:21.558498+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:05.189635+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:51.545279+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:34.360671+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:19.774255+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:01.705323+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:46.244890+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:32.630422+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:16.356334+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:02.132328+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:44.521791+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:28.077537+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:14.020018+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:56.656528+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:42.397681+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:26.452490+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:11.613910+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:58.784643+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:44.216327+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:26.351100+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:08.038105+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:51.510840+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:39.055041+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:00.944167+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:46.250826+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:30.059559+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:12.796577+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:05.576917+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:50.526628+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:35.209523+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:18.114489+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:09.561555+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:54.890900+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:38.126912+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:22.263239+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:14.223864+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:59.154377+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:42.521979+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:25.358473+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:18.583489+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:49.346978+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:43.508583+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:36.153834+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:21.097346+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:04.711935+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:49.822409+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:47.987729+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:18.821852+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:52.441442+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:30.083550+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:01.292348+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:57.240536+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:44.381832+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:27.600646+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:13.430353+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:00.734787+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:02.084700+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:22.577855+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:51.840976+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:26.634743+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:58.924341+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:32.795713+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:03.511568+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:48.875685+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:37.515003+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:22.436878+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:10.221994+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:53.173886+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:42.426176+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:28.676543+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:17.476106+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:01.001125+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:52.534746+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:38.395159+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:26.163327+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:46.466415+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:19.513528+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:52.875990+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:56.072887+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:43.857133+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:31.986872+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:16.946825+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:05.299984+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:14.006344+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:43.836025+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:30.467793+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:22.200960+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:08.338982+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:55.487782+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:40.769593+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:31.080688+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:52.151468+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:40.537611+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:02.322274+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:41.812319+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:19.067407+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:55.875413+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:35.065662+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:34.262005+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:17.088657+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:05.249553+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:48.760569+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:41.347089+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:26.403779+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:03.670935+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:41.468557+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:19.574574+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:05.672536+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:44.486852+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:21.652665+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:58.837743+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:39.691517+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:27.522686+07:00",
+    "temp": 25.8,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:08.102442+07:00",
+    "temp": 25.8,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:46.094227+07:00",
+    "temp": 25.8,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:23.390569+07:00",
+    "temp": 25.8,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:01.986040+07:00",
+    "temp": 25.8,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:48.176887+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:27.569464+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:05.701391+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:43.118864+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:29.716268+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:32.445099+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:48.876089+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:37.150599+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:37.278844+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:43.186920+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:43.186920+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Tri"
+  }
+]

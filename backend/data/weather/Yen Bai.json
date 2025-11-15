@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:31.186144+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:22.166022+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:02.525506+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:43.306697+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:23.630662+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:06.150228+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:57.929677+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:38.576796+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:21.252414+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:01.952477+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:43.937421+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:36.406300+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:18.823791+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:01.336781+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:45.218825+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:22.301956+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:04.511725+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:48.299011+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:31.277450+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:16.816976+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:05.680067+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:50.106416+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:33.069801+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:18.918729+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:00.567883+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:47.377719+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:31.972700+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:15.702181+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:01.643737+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:43.259503+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:29.927782+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:15.053763+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:59.956684+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:45.220698+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:32.155704+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:16.500135+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:01.230454+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:46.959318+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:29.100607+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:14.843000+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:58.643073+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:42.190998+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:27.948368+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:11.054119+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:56.584608+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:40.735643+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:24.347397+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:11.758626+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:53.468727+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:42.102088+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:26.712673+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:11.882525+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:54.571107+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:36.763961+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:24.640317+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:08.796092+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:53.846746+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:37.009481+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:19.869090+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:08.216175+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:55.445021+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:38.397615+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:20.287259+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:02.179192+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:49.722465+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:37.398235+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:20.800523+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:02.880049+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:45.555784+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:32.642638+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:19.617080+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:03.382394+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:46.362380+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:34.086889+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:19.967459+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:03.002324+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:46.006717+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:28.494972+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:16.716528+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:03.762900+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:48.409331+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:31.198081+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:19.305523+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:06.703955+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:49.510310+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:34.557839+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:22.080509+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:09.458318+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:54.663370+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:37.031913+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:38.972686+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:29.898667+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:22.926278+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:07.269551+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:54.880069+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:43.082272+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:26.917468+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:09.441645+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:32.550918+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:18.805149+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:01.190063+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:42.881125+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:27.714892+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:11.369583+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:57.151857+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:39.862061+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:21.444196+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:06.481139+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:49.337322+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:35.731458+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:18.276600+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:00.068918+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:45.762150+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:28.552364+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:21.504732+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:41.246196+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:26.561812+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:09.376535+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:56.287113+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:37.768555+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:20.452071+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:07.489135+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:50.254967+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:36.843955+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:18.507652+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:01.258217+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:47.519823+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:30.448829+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:16.257585+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:58.626603+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:42.339290+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:21.456179+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:15.029338+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:26.812864+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:08.616229+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:56.131450+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:43.002285+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:24.492361+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:06.860486+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:48.388131+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:35.002235+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:20.767627+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:02.530568+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:45.061787+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:27.449298+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:14.489175+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:00.352351+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:41.990878+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:24.609429+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:06.070539+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:53.166014+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:39.079427+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:20.714631+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:03.667807+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:45.536311+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:32.836821+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:19.194418+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:00.603945+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:43.983403+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:25.096566+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:11.592683+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:57.577353+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:39.173936+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:34.234582+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:37.571967+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:23.690225+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:04.666969+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:47.231796+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:28.333335+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:14.845274+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:00.983336+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:42.285256+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:24.866371+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:05.942903+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:52.759240+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:39.152904+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:20.304856+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:02.380404+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:44.177698+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:30.736235+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:16.900889+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:58.146743+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:41.542000+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:32.912945+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:18.654751+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:59.876223+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:42.195937+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:23.728556+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:10.624481+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:57.064919+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:39.145261+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:22.144982+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:03.265796+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:50.177805+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:36.848218+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:18.241972+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:02.161657+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:31.053784+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:18.197038+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:59.745406+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:42.444650+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:28.677813+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:10.690731+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:57.222429+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:39.029217+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:21.762041+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:07.926282+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:46.012600+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:30.453801+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:55.204088+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:38.854677+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:21.898177+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:06.200931+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:49.419158+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:33.227415+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:16.925876+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:00.046268+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:44.398966+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:27.460750+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:11.516252+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:56.517994+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:39.759653+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:24.106287+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:07.495889+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:51.350413+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:35.197901+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:18.285830+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:03.130608+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:46.322600+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:31.141836+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:14.642539+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:57.816947+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:43.200516+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:26.032960+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:10.570692+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:57.225779+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:40.002079+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:24.413196+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:07.525319+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:51.369433+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:34.896216+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:18.298659+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:02.654864+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:46.054807+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:30.071897+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:15.310053+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:03.574351+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:49.853005+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:34.116077+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:17.710702+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:59.696144+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:43.692320+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:29.182787+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:12.963040+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:57.177410+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:39.804072+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:22.101229+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:07.939648+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:52.231441+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:35.792283+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:17.928887+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:00.329237+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:46.992120+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:30.705080+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:14.248042+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:56.216112+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:38.101052+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:24.066129+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:08.733587+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:52.686070+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:34.827240+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:16.935057+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:03.214176+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:46.999886+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:30.916577+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:13.235614+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:55.194988+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:40.969110+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:25.402197+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:08.952804+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:50.963431+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:33.315108+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:19.755398+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:04.322581+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:48.267934+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:30.354837+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:12.579290+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:59.212947+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:44.780308+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:28.335213+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:11.593139+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:54.050022+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:41.087334+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:25.219012+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:10.617531+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:52.840727+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:35.187683+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:21.182225+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:06.042308+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:49.675765+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:31.745986+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:14.177734+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:02.272770+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:46.387583+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:32.526759+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:15.727812+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:00.163246+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:43.279546+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:27.158387+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:11.342954+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:54.384223+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:39.184793+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:22.329680+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:06.188031+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:49.914837+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:33.536856+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:18.500906+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:01.412187+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:45.398605+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:28.816773+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:11.615967+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:56.026777+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:39.249941+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:23.336127+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:07.063660+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:50.308810+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:35.191139+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:18.579122+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:02.977855+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:46.839180+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:29.983038+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:22.306768+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:06.526847+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:50.603791+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:33.584785+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:17.893337+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:01.206676+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:46.964453+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:30.800729+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:13.792394+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:58.048733+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:41.319284+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:27.692190+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:12.614107+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:55.816010+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:40.548828+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:23.330682+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:07.585025+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:51.615916+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:35.154871+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:21.097251+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:03.489550+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:49.815906+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:34.407444+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:17.750592+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:02.724066+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:51.173821+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:36.098661+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:18.887954+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:04.364130+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:47.509612+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:32.933243+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:16.474138+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:59.985602+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:44.564892+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:26.097428+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:14.301030+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:58.237640+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:41.061788+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:25.669882+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:08.042216+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:53.468999+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:37.211564+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:20.469734+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:05.273299+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:46.955302+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:32.891420+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:17.059669+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:01.328587+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:46.374057+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:28.065436+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:13.735792+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:58.033117+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:41.219656+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:26.226859+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:08.323295+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:54.966533+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:39.325588+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:23.305828+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:08.611750+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:51.164990+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:36.617322+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:20.514125+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:03.411471+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:49.061019+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:33.329244+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:20.250704+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:05.679986+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:50.586530+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:32.871412+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:14.437793+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:00.083584+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:45.909530+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:09.960484+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:54.219051+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:36.936710+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:19.771493+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:14.537450+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:57.215006+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:41.833487+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:24.596563+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:18.778931+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:01.749683+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:44.723831+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:28.902884+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:23.143113+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:05.939579+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:49.304657+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:32.306530+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:37.322985+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:05.880685+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:50.376910+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:45.355554+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:27.902805+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:11.463178+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:57.269852+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:06.329187+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:35.421153+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:10.843188+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:46.048560+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:19.529666+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:03.882975+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:51.262905+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:34.234710+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:22.504086+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:07.745601+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:14.770095+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:40.147995+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:08.267476+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:44.935948+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:14.667188+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:51.133659+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:10.436259+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:55.736975+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:45.102439+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:30.712806+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:16.957123+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:59.816935+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:49.929235+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:38.240488+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:24.398421+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:10.470170+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:59.854617+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:46.848220+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:33.014053+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:02.748987+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:37.113822+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:08.562025+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:02.955827+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:52.845430+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:38.907482+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:24.026213+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:12.263161+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:34.669768+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:51.634512+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:37.441176+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:30.971866+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:15.844775+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:02.641052+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:47.651658+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:48.844552+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:00.040449+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:47.430127+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:17.067631+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:09.481425+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:47.341247+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:24.579507+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:01.440749+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:41.143851+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:42.109495+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:25.119369+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:12.176539+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:56.471912+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:50.148536+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:32.105780+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:09.817474+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:47.185152+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:25.641101+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:12.881976+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:50.012571+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:27.382747+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:04.455036+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:46.003501+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:35.123011+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:14.483460+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:51.719733+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:29.289039+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:07.556727+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:55.514125+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:33.989519+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:11.338593+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:48.588454+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:38.367755+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:38.619164+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:56.590119+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:45.871979+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:45.946188+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:52.693556+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Yen Bai"
+  }
+]

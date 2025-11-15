@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:12.560212+07:00",
+    "temp": 15.4,
+    "humidity": 74.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:02.198287+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:46.726648+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:27.159339+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:07.966204+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:48.388941+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:36.870017+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:22.851183+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:05.013720+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:46.069033+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:26.500765+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:13.859157+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:01.711175+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:44.498214+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:26.781378+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:54.946155+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:47.668508+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:29.645919+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:14.630469+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:00.227578+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:43.408361+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:31.950637+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:16.371982+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:02.013125+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:44.012361+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:26.138909+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:13.358624+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:58.980257+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:44.571294+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:26.776748+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:08.707638+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:56.730449+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:42.071678+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:28.530311+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:11.541786+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:57.916999+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:44.050125+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:30.018958+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:11.990165+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:54.138145+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:40.729119+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:25.349634+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:10.594961+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:53.543369+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:36.379122+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:22.303053+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:07.698586+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:54.843983+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:36.930330+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:19.548035+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:09.826481+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:54.903299+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:37.467749+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:19.791843+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:01.637482+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:51.886664+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:37.381585+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:19.872505+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:02.611742+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:45.802593+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:38.678746+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:21.346883+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:03.653986+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:45.302767+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:27.486120+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:20.460888+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:03.059914+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:45.897647+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:28.015034+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:10.856464+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:03.027552+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:46.177413+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:28.728432+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:11.854329+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:03.543123+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:46.332947+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:28.828955+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:11.245345+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:53.696211+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:46.944196+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:30.195069+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:14.215751+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:57.506223+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:49.869193+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:32.624376+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:15.748505+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:59.584636+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:52.157237+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:35.316130+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:20.165276+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:05.218805+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:12.056147+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:04.069004+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:49.875402+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:32.801351+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:25.226801+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:09.525603+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:52.308600+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:36.648232+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:02.103917+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:44.422417+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:26.244080+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:07.717626+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:53.027998+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:40.625263+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:22.967051+07:00",
+    "temp": 15.1,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:05.055049+07:00",
+    "temp": 15.1,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:46.450376+07:00",
+    "temp": 15.1,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:31.413790+07:00",
+    "temp": 15.1,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:19.122701+07:00",
+    "temp": 15.1,
+    "humidity": 75.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:01.513258+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:43.540328+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:25.190008+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:10.502460+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:58.039280+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:24.294595+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:06.270276+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:51.629675+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:39.685955+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:21.112218+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:03.595338+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:45.772279+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:32.648478+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:20.322992+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:02.332788+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:44.230201+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:26.597425+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:12.826962+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:59.989910+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:41.210588+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:25.092425+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:58.807005+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:51.208610+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:09.802851+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:51.947502+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:34.314880+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:26.077243+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:07.926369+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:49.922647+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:32.059509+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:13.480387+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:04.358724+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:45.965962+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:28.122332+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:10.849792+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:52.280215+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:43.968933+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:25.408127+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:07.590518+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:49.617197+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:31.098308+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:22.617499+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:04.072447+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:46.676591+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:28.730650+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:10.545827+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:02.655170+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:44.395974+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:27.143965+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:08.821526+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:50.124338+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:41.049576+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:22.750711+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:04.661188+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:15.290264+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:07.057664+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:48.524351+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:30.281489+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:12.087897+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:53.280114+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:44.343467+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:25.925638+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:07.921614+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:49.574826+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:30.945968+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:21.824648+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:04.258011+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:45.777751+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:27.416961+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:08.925487+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:00.535884+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:41.808830+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:23.892848+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:11.034837+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:02.157969+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:43.633469+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:25.388283+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:07.118786+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:48.762052+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:40.554308+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:22.809029+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:05.151412+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:46.992706+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:28.234909+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:19.933447+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:01.698201+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:45.124040+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:27.217928+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:01.012680+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:43.166474+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:25.437736+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:07.531413+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:53.840502+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:40.189255+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:22.353974+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:04.780223+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:46.751031+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:27.917328+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:13.367470+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:08.039137+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:22.486885+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:04.453153+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:49.308646+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:31.389060+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:14.194198+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:00.422273+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:42.690604+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:27.363123+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:09.288373+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:52.472188+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:40.150654+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:22.495018+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:07.227856+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:49.374512+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:32.561715+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:18.756735+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:01.156624+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:45.988492+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:28.086601+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:11.126596+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:58.402226+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:40.452361+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:25.192387+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:08.002428+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:51.456670+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:37.738115+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:22.620189+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:07.192826+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:49.529095+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:32.610077+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:18.512537+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:00.854163+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:45.851642+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:27.630429+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:10.973058+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:57.535857+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:42.789269+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:31.190966+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:14.983067+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:01.366055+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:43.464901+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:24.890087+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:10.949778+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:54.080914+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:40.548003+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:23.040548+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:04.981953+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:49.297553+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:32.976695+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:19.375293+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:01.285935+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:43.121977+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:27.389298+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:11.926928+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:57.931852+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:39.873201+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:20.858966+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:05.325881+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:49.663655+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:35.967228+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:18.516903+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:59.769587+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:44.523046+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:28.204547+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:14.502526+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:57.171479+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:38.111479+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:22.198042+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:05.962524+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:52.559165+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:34.657164+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:15.824470+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:00.949972+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:44.739851+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:31.704678+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:13.845370+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:55.385718+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:39.746100+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:24.312948+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:12.051383+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:54.021132+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:36.683157+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:22.207517+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:05.975748+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:53.563884+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:36.410847+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:17.609418+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:02.528499+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:47.260749+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:33.308387+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:15.312822+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:56.854844+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:41.435903+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:27.086751+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:13.652600+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:58.411984+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:43.117203+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:25.288404+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:08.327312+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:54.541803+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:37.042645+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:21.847279+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:04.172770+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:47.164624+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:33.612978+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:16.151268+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:01.122078+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:43.533502+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:26.181156+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:12.588370+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:54.460546+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:38.733050+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:20.986781+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:04.256508+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:50.534805+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:32.987416+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:17.391349+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:00.160439+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:43.900475+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:30.481024+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:12.569647+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:57.651284+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:47.476858+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:34.313305+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:16.257480+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:00.969789+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:43.139669+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:26.184072+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:14.357873+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:56.260963+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:40.860730+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:23.079994+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:06.806576+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:55.240524+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:38.478743+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:23.120886+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:05.500583+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:48.470307+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:34.971359+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:17.511627+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:03.108313+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:46.172811+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:28.664678+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:17.605401+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:00.328044+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:45.189864+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:27.601480+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:19.380319+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:01.525671+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:46.931514+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:29.680565+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:12.508652+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:00.229001+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:42.306581+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:27.225472+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:09.836030+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:53.559774+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:41.709877+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:23.952713+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:08.222456+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:50.538556+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:33.089731+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:20.850820+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:02.994919+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:47.756997+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:30.405499+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:12.181902+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:00.512804+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:42.706383+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:28.916334+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:11.625233+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:53.183253+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:41.422588+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:23.700491+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:08.676478+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:51.377030+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:34.430188+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:22.548800+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:05.727182+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:50.769844+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:34.250570+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:16.199819+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:04.049801+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:46.364569+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:31.217336+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:14.626083+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:59.406554+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:48.407646+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:33.134445+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:16.268883+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:58.077154+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:39.709152+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:28.355082+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:13.441720+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:45.043845+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:35.937823+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:19.780191+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:02.833201+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:50.531804+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:40.343917+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:24.977046+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:07.817240+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:55.609351+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:44.585778+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:27.706076+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:11.782295+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:00.018989+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:48.871218+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:32.108712+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:14.917399+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:03.590914+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:24.529294+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:31.957117+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:22.244916+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:11.064095+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:53.920527+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:37.554894+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:28.017760+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:54.076620+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:24.817472+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:04.105318+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:34.150939+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:47.073910+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:33.068938+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:17.170384+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:59.997907+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:50.354385+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:37.984509+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:01.272881+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:27.519619+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:59.554812+07:00",
+    "temp": 23.7,
+    "humidity": 57.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:33.302408+07:00",
+    "temp": 23.7,
+    "humidity": 57.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:05.461833+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:40.620759+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:38.071010+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:24.704671+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:11.930880+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:58.329362+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:42.871441+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:29.401554+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:17.396822+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:05.980716+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:50.629013+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:39.778776+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:26.897954+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:14.378474+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:21.269540+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:54.400941+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:26.583048+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:45.620329+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:31.270472+07:00",
+    "temp": 23.7,
+    "humidity": 57.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:21.476763+07:00",
+    "temp": 23.7,
+    "humidity": 57.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:05.092075+07:00",
+    "temp": 23.7,
+    "humidity": 57.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:52.551381+07:00",
+    "temp": 23.7,
+    "humidity": 57.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:46.231984+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:24.081092+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:19.336671+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:09.396196+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:57.551522+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:43.807532+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:30.257376+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:16.106788+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:36.524081+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:28.773089+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:48.626501+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:33.412136+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:10.196112+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:47.400260+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:26.407362+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:21.731238+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:06.202733+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:53.226020+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:38.244089+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:26.983612+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:15.964548+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:55.056308+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:32.984933+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:10.729721+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:53.647406+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:36.021292+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:12.935064+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:50.154150+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:30.098081+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:15.252224+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:59.316003+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:37.498935+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:14.728838+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:52.722024+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:35.948220+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:18.909769+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:56.950561+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:34.556625+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:16.108701+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:22.978001+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:35.460583+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:24.293031+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:24.833075+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:28.307703+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:28.379338+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hoa Binh"
+  }
+]

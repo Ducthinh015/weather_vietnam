@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:04.498624+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:51.597394+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:39.497420+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:19.874046+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:00.694272+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:41.021994+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:26.760541+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:15.663914+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:55.936089+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:38.695310+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:19.354142+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:03.745161+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:54.011997+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:36.574994+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:19.126374+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:26.708837+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:40.119635+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:21.994101+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:07.021257+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:50.039226+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:34.812827+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:23.635726+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:09.031422+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:51.625358+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:36.391061+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:18.624572+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:05.654511+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:51.214977+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:34.277844+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:19.365195+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:00.909390+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:47.978747+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:34.417559+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:18.390333+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:03.117488+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:50.154766+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:36.001341+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:19.779377+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:04.477526+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:46.679058+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:33.048355+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:17.866012+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:00.393334+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:45.947945+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:28.559826+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:14.429268+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:59.962250+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:42.816998+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:29.229829+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:11.708170+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:01.837405+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:45.362334+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:29.388475+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:12.150846+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:54.183561+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:44.320199+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:27.529563+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:11.940121+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:54.474357+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:37.963384+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:28.857416+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:13.144814+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:55.949558+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:37.870929+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:19.806633+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:10.209171+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:55.072572+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:38.274035+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:20.566779+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:03.203186+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:52.871839+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:37.610802+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:21.052638+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:03.780801+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:54.124218+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:38.175328+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:20.844753+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:03.509276+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:46.058456+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:37.098419+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:21.683633+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:06.620024+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:49.829984+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:39.638612+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:24.277392+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:07.312767+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:52.072603+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:42.492720+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:27.129296+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:12.326712+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:54.866387+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:02.151307+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:50.044857+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:40.675105+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:24.996012+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:15.209450+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:00.825543+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:44.429356+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:26.906158+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:52.746358+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:36.454452+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:18.837591+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:00.286795+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:45.554418+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:31.377320+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:14.747068+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:57.681878+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:39.041396+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:23.898245+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:09.603079+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:53.320008+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:36.057497+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:17.647881+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:03.143974+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:48.656450+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:15.887899+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:58.722471+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:44.242713+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:29.621041+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:13.719651+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:55.156899+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:37.946826+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:25.056181+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:10.937905+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:55.104828+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:36.096923+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:19.101180+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:05.274509+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:50.455335+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:33.641390+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:16.097241+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:00.056492+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:41.825194+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:59.336146+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:44.406412+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:26.751562+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:16.466033+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:00.541349+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:41.861001+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:24.488746+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:06.033257+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:54.968096+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:38.284955+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:19.884923+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:03.500905+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:44.967681+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:34.576580+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:17.919889+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:59.539893+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:42.148099+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:23.616806+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:13.023159+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:56.715163+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:38.212516+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:21.288639+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:02.968796+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:53.044100+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:36.836726+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:18.156450+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:01.582907+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:42.642083+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:31.848016+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:15.107454+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:56.583206+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:00.433000+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:57.804831+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:41.195572+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:22.187088+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:04.684789+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:45.910881+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:34.968563+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:18.513498+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:59.781319+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:42.321877+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:23.516478+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:12.545535+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:56.687484+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:37.734401+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:19.967210+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:01.656700+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:51.225529+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:34.299040+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:15.685245+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:59.265846+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:52.875827+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:36.216346+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:17.309552+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:59.623718+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:41.185592+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:30.987798+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:15.165703+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:56.706430+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:39.558123+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:20.744349+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:10.523055+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:54.321146+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:36.890060+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:19.808626+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:51.217464+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:35.704979+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:17.201221+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:59.980375+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:46.336674+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:30.893792+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:14.807662+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:56.447741+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:39.120260+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:55.838938+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:05.395116+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:49.182979+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:13.838338+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:56.313642+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:40.755210+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:23.858385+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:06.967962+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:51.906845+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:34.452555+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:19.206689+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:01.913984+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:44.925661+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:30.635380+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:14.131749+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:58.995375+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:41.738588+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:24.963817+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:09.981541+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:52.844601+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:37.892794+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:20.641529+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:03.715069+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:49.763520+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:32.216952+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:16.952197+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:00.631165+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:43.649664+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:29.131389+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:14.659524+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:59.026915+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:41.980411+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:25.019324+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:09.936458+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:52.499704+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:37.546076+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:20.217246+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:03.410951+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:48.691893+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:33.509036+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:22.686721+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:07.402301+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:52.775526+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:35.334890+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:17.166115+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:02.727433+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:46.655484+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:31.673984+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:14.750954+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:57.441624+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:41.068147+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:25.488496+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:10.714059+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:53.238519+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:35.668010+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:19.417328+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:04.523076+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:49.163207+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:31.638847+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:13.634863+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:56.872872+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:42.177185+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:27.220215+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:10.171223+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:52.486680+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:36.185796+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:20.855665+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:05.978920+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:48.836867+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:30.767767+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:14.160518+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:58.432483+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:43.953847+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:26.554132+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:08.441906+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:52.807018+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:37.315357+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:22.991585+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:05.688699+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:47.876635+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:31.629301+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:16.674353+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:03.346825+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:45.913184+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:29.171866+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:13.019811+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:58.580326+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:44.532818+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:28.213102+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:10.296575+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:54.430795+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:39.748024+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:24.633684+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:07.233248+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:49.250668+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:33.366309+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:19.552759+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:04.886892+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:50.160652+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:34.894445+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:17.885690+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:00.900618+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:45.773890+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:28.885219+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:13.642354+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:56.755505+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:39.682661+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:24.803200+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:07.500327+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:53.030530+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:36.087300+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:18.707495+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:03.830563+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:46.417822+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:30.721550+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:13.652236+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:56.795905+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:41.885792+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:24.744383+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:09.365920+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:52.682951+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:36.303859+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:21.736705+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:04.364191+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:49.091964+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:39.884609+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:25.192819+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:08.230297+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:52.719980+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:35.564074+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:18.635990+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:05.509351+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:48.297520+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:32.853871+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:15.655810+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:58.862022+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:46.346043+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:30.194065+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:14.941640+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:58.019781+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:40.997203+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:26.220708+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:09.350000+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:54.250729+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:38.673139+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:21.011863+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:08.584571+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:52.013902+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:37.011892+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:20.274531+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:10.092000+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:53.544235+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:38.674049+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:21.914277+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:05.011036+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:51.390816+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:34.226589+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:19.000394+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:02.265863+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:43.723979+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:32.820155+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:15.797197+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:00.021219+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:43.012051+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:25.582923+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:12.006813+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:54.819723+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:39.529572+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:22.789248+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:04.605605+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:51.551453+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:34.704868+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:20.756150+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:04.028133+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:45.659618+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:32.539150+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:15.603960+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:00.505433+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:43.752517+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:26.775477+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:13.575533+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:57.395490+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:42.507491+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:26.572742+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:08.605402+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:55.328376+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:38.037135+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:22.805017+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:06.712551+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:51.055203+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:38.949717+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:24.690863+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:08.398224+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:50.525515+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:32.071301+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:18.960775+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:05.179046+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:33.548183+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:28.184484+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:12.070265+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:54.925717+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:40.435243+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:32.496378+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:16.499484+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:59.951419+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:45.311729+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:36.769234+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:19.848749+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:03.318811+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:49.067344+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:41.405820+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:24.311838+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:07.260582+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:53.175792+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:06.021636+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:23.850581+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:11.324085+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:03.391253+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:46.027798+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:29.701093+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:17.526035+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:35.546487+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:06.372814+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:42.754978+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:15.069134+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:39.058104+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:22.435629+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:09.402444+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:52.197978+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:42.174143+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:26.641307+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:43.939227+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:08.408504+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:38.478006+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:14.811322+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:44.491230+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:21.927957+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:29.478790+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:14.615819+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:02.968737+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:50.396596+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:35.124015+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:18.780027+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:07.671158+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:58.080001+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:42.804478+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:29.171670+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:17.798641+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:06.668688+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:02.695890+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:33.457640+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:07.467434+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:37.041919+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:21.076355+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:13.359019+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:57.220429+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:44.027034+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:30.158506+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:05.416623+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:10.918867+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:55.813512+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:49.380366+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:35.737749+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:21.713855+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:05.827487+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:17.644301+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:20.329772+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:38.248202+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:27.168526+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:03.881847+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:41.078958+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:19.920951+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:00.041240+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:58.630510+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:43.913696+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:30.295835+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:16.623920+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:07.955023+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:48.605078+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:26.470201+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:03.919420+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:44.838291+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:29.442623+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:06.459023+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:43.764299+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:22.386730+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:06.108127+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:51.779943+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:30.904243+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:08.271147+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:45.978643+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:26.878507+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:12.254809+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:50.429809+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:27.997999+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:04.386775+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:15.938224+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:26.541203+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:14.754890+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:17.846443+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:16.614043+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:19.611945+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Binh Phuoc"
+  }
+]

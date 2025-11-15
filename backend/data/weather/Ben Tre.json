@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:02.850649+07:00",
+    "temp": 22.8,
+    "humidity": 95.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:49.240719+07:00",
+    "temp": 22.8,
+    "humidity": 95.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:38.001438+07:00",
+    "temp": 22.8,
+    "humidity": 95.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:18.387482+07:00",
+    "temp": 22.8,
+    "humidity": 95.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:59.219033+07:00",
+    "temp": 22.8,
+    "humidity": 95.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:39.578909+07:00",
+    "temp": 22.8,
+    "humidity": 95.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:24.686850+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:14.213489+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:54.474869+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:37.269670+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:17.911253+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:01.709522+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:52.534509+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:34.991388+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:17.460512+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:18.896549+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:38.619598+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:20.510340+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:05.485345+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:47.866333+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:33.260433+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:21.995431+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:07.498699+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:49.652465+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:34.856713+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:17.109206+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:04.153932+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:49.698062+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:32.266103+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:17.815074+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:59.403954+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:46.394264+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:32.904953+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:16.366852+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:01.385019+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:48.576464+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:34.477817+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:17.585005+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:03.008862+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:45.196920+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:31.472972+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:16.346706+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:58.383273+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:44.304535+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:27.050635+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:12.948182+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:58.425827+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:40.854018+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:27.729713+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:10.016087+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:00.285938+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:43.130598+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:27.877604+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:10.668649+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:52.816227+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:42.731766+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:25.520915+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:10.422390+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:53.015960+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:36.347522+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:26.722171+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:11.650913+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:54.451253+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:36.402260+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:18.335377+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:08.255327+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:53.567462+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:36.789026+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:19.009725+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:01.665575+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:50.823032+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:36.041768+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:19.508507+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:02.339910+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:52.148898+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:36.508002+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:19.267242+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:01.952192+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:44.608440+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:34.923798+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:19.880056+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:05.139900+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:48.172318+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:37.521604+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:22.750851+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:05.808275+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:50.559409+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:40.450595+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:25.617789+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:10.845523+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:53.388780+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:00.133110+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:47.131995+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:39.142871+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:23.438177+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:13.130831+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:59.317098+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:42.943963+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:25.439002+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:50.705038+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:34.924181+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:17.318998+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:58.771919+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:43.987359+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:29.398800+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:13.175246+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:56.275430+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:37.592293+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:22.414686+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:07.584684+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:51.808127+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:34.498435+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:16.100423+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:01.665546+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:46.669377+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:14.447323+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:57.227868+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:42.815500+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:27.550805+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:12.253925+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:53.655450+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:36.513109+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:23.578405+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:08.978820+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:53.167881+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:34.567695+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:17.628897+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:03.800643+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:48.478060+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:32.209720+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:14.653916+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:58.514596+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:39.761949+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:55.622234+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:42.920506+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:25.255654+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:14.447895+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:59.008529+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:40.425975+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:22.957399+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:04.497270+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:53.029719+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:36.736687+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:18.403870+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:02.097744+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:43.422990+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:32.581295+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:16.424215+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:58.048058+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:40.603903+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:22.168746+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:11.061311+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:55.222052+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:36.747409+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:19.774396+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:01.519292+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:51.146238+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:35.353640+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:16.628517+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:00.066526+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:41.143931+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:29.811768+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:13.629537+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:55.102310+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:56.540938+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:55.847755+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:39.746470+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:20.699675+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:03.212892+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:44.425389+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:33.020242+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:17.007171+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:58.357382+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:40.777875+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:22.025787+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:10.563049+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:55.266295+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:36.280875+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:18.434739+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:00.157635+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:49.088996+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:32.813170+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:14.234596+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:57.773807+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:50.857485+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:34.670313+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:15.797009+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:58.183331+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:39.737654+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:28.957888+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:13.675893+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:55.197315+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:38.122654+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:19.235149+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:08.553065+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:52.802362+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:35.440675+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:18.337330+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:49.132784+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:34.220055+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:15.727295+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:58.455050+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:44.820564+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:28.920236+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:13.311932+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:54.946217+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:37.619802+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:49.414572+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:03.935797+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:46.507439+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:11.822908+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:54.810842+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:39.305490+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:22.306833+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:05.432854+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:49.760607+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:32.987279+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:17.704751+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:00.487182+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:43.407213+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:28.355239+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:12.704850+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:57.511661+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:40.217018+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:23.434374+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:07.968564+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:51.285823+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:36.344386+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:19.095270+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:02.217475+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:47.717462+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:30.740562+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:15.482665+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:59.148709+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:42.123706+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:27.159660+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:13.156263+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:57.600817+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:40.442910+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:23.532967+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:07.919726+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:51.023886+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:36.061775+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:18.739246+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:01.972326+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:46.692032+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:31.856404+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:21.232465+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:05.935947+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:50.794898+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:33.852219+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:15.669766+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:01.222994+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:45.191241+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:29.610544+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:13.362400+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:55.785755+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:39.581080+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:24.010485+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:08.737323+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:51.760775+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:34.120225+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:17.953957+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:02.992191+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:47.097980+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:30.256464+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:12.184529+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:55.469094+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:40.682775+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:25.233122+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:08.707530+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:51.009521+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:34.769874+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:19.255557+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:03.736895+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:47.354048+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:29.328426+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:12.664186+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:56.963387+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:41.911659+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:24.940963+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:06.946142+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:51.204235+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:35.795726+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:20.957698+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:04.200708+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:46.419973+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:30.085582+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:15.122589+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:01.350771+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:44.443139+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:27.717954+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:11.579492+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:57.073891+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:42.277844+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:26.709146+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:08.805617+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:52.869614+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:37.222559+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:22.591332+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:05.691440+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:47.796391+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:31.853961+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:18.082987+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:02.887375+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:48.631674+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:33.414630+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:16.282819+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:59.391194+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:43.751857+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:27.394717+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:12.202990+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:55.235795+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:38.238588+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:22.815114+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:05.995521+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:51.529784+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:34.523946+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:17.265454+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:01.814684+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:44.870735+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:29.092066+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:12.149804+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:55.320024+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:39.867630+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:23.281295+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:07.858985+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:51.160153+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:34.835642+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:19.706447+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:02.849074+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:47.669023+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:38.378035+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:23.065173+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:06.658890+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:51.205244+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:34.060294+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:17.159685+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:03.468973+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:46.786712+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:31.334478+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:14.150589+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:57.291626+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:44.292148+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:28.640862+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:13.412057+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:56.547334+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:39.362402+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:24.149937+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:07.797706+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:52.631719+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:37.247189+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:19.513664+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:06.406517+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:50.473762+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:35.522049+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:18.724396+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:08.095351+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:52.075429+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:37.139531+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:20.412703+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:03.524370+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:49.400034+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:32.712376+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:17.444903+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:00.726245+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:42.247323+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:30.820792+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:14.272185+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:58.567868+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:41.528698+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:24.068584+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:10.017359+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:53.334726+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:38.042135+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:21.287667+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:03.181063+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:49.590096+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:33.237086+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:19.233092+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:02.540531+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:44.146619+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:30.370849+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:14.116308+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:58.985959+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:42.250636+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:25.173192+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:11.616692+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:55.685958+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:40.968850+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:24.975905+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:07.100268+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:53.384559+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:36.511827+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:21.297591+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:05.218991+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:49.589242+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:36.906157+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:23.202358+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:06.815081+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:48.996107+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:30.545894+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:17.008676+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:03.649641+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:31.219938+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:26.664064+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:10.637351+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:53.399614+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:38.352498+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:30.941591+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:14.824927+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:58.304667+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:43.180088+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:35.277155+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:18.343110+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:01.833460+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:46.964846+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:39.845902+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:22.711933+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:05.650693+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:51.104444+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:02.402522+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:22.324168+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:09.215246+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:01.750211+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:44.499688+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:27.964738+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:15.488780+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:31.767094+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:00.447628+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:38.536615+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:11.283604+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:37.531858+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:20.355335+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:07.847224+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:50.554875+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:40.614106+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:24.497576+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:40.044748+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:04.753224+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:34.310627+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:11.252750+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:40.309705+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:18.255533+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:27.755712+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:12.517280+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:01.365320+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:48.772847+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:33.546071+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:16.700451+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:06.231101+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:56.554613+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:41.189530+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:27.094139+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:16.201432+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:05.091970+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:58.500784+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:28.814021+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:03.836928+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:34.890141+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:19.402276+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:11.569530+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:55.465910+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:41.926834+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:28.581180+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:01.700868+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:08.879364+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:54.031421+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:47.592003+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:34.140517+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:19.499302+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:04.295424+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:13.957357+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:18.385694+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:36.066547+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:25.866258+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:02.585659+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:39.792438+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:18.609676+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:58.244416+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:57.330269+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:41.898266+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:28.809961+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:14.646083+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:06.468708+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:47.384735+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:25.146986+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:02.516062+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:42.990684+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:28.150088+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:05.203031+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:42.445174+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:20.986470+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:04.189734+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:50.441884+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:29.631335+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:06.982262+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:44.750657+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:25.066979+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:10.888679+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:49.150515+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:26.729455+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:02.017791+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:14.547040+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:24.597182+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:12.892778+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:16.557660+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:14.324994+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:17.880762+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ben Tre"
+  }
+]

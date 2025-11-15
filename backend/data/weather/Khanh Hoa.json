@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:13.714859+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:03.488625+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:47.663172+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:28.185073+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:08.934814+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:49.358085+07:00",
+    "temp": 22.8,
+    "humidity": 90.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:38.162326+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:23.758742+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:06.042191+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:46.999350+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:27.434365+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:15.235642+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:02.753127+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:45.540164+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:27.835042+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:01.116141+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:48.672695+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:30.687981+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:15.641763+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:01.363720+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:44.694283+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:32.946819+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:17.365179+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:03.106489+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:45.033206+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:27.498135+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:14.351361+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:59.998455+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:45.807038+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:27.687977+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:09.905320+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:57.776396+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:43.077020+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:29.706682+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:12.726819+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:58.919127+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:45.087545+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:31.276662+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:13.030537+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:55.365678+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:41.676423+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:26.349596+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:11.968738+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:54.479270+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:37.552101+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:23.326504+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:08.684831+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:56.013002+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:37.988476+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:20.791027+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:10.794944+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:55.887696+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:38.641532+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:20.781245+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:03.310480+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:52.917226+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:38.381838+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:21.081867+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:03.840122+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:46.796092+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:39.707136+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:22.474675+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:04.826050+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:46.317501+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:28.508288+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:21.497785+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:04.273801+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:47.085429+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:29.154091+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:11.870954+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:04.028505+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:47.366023+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:29.893871+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:12.875440+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:04.506632+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:47.365314+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:30.017376+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:12.700417+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:54.727780+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:48.048576+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:31.423018+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:15.332116+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:58.518701+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:50.836966+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:33.790030+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:16.966168+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:00.646663+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:53.165164+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:36.415828+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:21.327195+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:07.040637+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:13.019732+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:05.465530+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:51.130089+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:33.761964+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:26.305450+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:10.632546+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:53.454544+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:38.730560+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:03.122725+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:45.622050+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:27.427235+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:08.722406+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:54.077652+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:41.657346+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:24.083428+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:06.180534+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:47.404095+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:32.470695+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:20.098188+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:02.661439+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:44.719101+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:26.182727+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:11.452995+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:59.127440+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:25.690933+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:07.283062+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:52.642486+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:40.700868+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:22.084495+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:04.926937+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:46.778466+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:33.686256+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:21.342659+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:03.334485+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:45.654787+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:27.620800+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:13.785008+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:00.943969+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:42.185555+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:26.594875+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:00.487129+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:52.247436+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:11.137025+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:52.921940+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:35.318743+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:27.094706+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:08.917113+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:51.298102+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:33.026411+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:14.498761+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:05.321228+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:46.962588+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:29.415827+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:11.838512+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:53.253902+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:44.962738+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:26.429473+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:08.990868+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:50.637791+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:32.112992+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:23.586087+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:05.065992+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:48.066235+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:29.750737+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:11.556521+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:03.685884+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:45.333575+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:28.620803+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:09.851028+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:51.100915+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:42.020249+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:23.731414+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:05.910697+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:16.320864+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:08.048100+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:49.468563+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:31.582343+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:13.077810+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:54.248573+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:45.392106+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:26.920702+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:09.224128+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:50.560763+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:31.959601+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:22.900644+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:05.232466+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:47.054745+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:28.398174+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:09.921744+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:01.450529+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:42.794593+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:25.354986+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:12.067379+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:03.244352+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:44.620730+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:26.690956+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:08.159162+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:49.832102+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:41.598596+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:23.827527+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:06.531604+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:47.981425+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:29.235974+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:20.940184+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:02.702796+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:46.470929+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:28.180705+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:02.018968+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:44.198460+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:26.820212+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:08.546062+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:54.849823+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:41.181053+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:23.379252+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:06.120752+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:47.731721+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:28.897023+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:14.843924+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:11.511990+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:23.475694+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:05.397996+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:50.630616+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:32.381907+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:15.172766+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:01.422596+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:43.669064+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:28.825476+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:10.259904+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:53.454139+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:41.145362+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:23.456509+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:08.531537+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:50.424678+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:33.579215+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:19.760946+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:02.131287+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:47.441174+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:29.034740+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:12.109280+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:59.405671+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:41.505128+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:26.470693+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:08.967270+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:52.446551+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:38.777211+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:23.607250+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:08.492130+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:50.537071+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:33.547098+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:19.491224+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:01.868503+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:47.140406+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:28.622477+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:11.940558+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:58.570349+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:43.923775+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:32.522483+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:15.991475+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:02.334680+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:44.480157+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:25.868680+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:12.246594+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:55.083135+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:41.563347+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:24.073952+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:05.995480+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:50.779262+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:33.982133+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:20.356550+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:02.290998+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:44.139252+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:28.730567+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:12.854889+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:58.965229+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:40.874155+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:21.849933+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:06.609476+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:50.638603+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:37.004393+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:19.501200+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:00.735227+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:45.862505+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:29.178814+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:15.479164+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:58.152146+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:39.069765+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:23.509773+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:06.976631+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:53.598031+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:35.650609+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:16.867254+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:02.254940+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:45.736588+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:32.729605+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:14.758577+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:56.370403+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:41.025693+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:25.360789+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:12.997880+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:55.002270+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:37.646092+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:23.734888+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:06.954702+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:54.652647+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:37.420830+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:18.604067+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:03.924250+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:48.261818+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:34.307969+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:16.333223+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:57.792302+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:42.753688+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:28.048338+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:14.666793+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:59.412096+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:44.429556+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:26.301181+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:09.297222+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:55.575839+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:38.018697+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:23.172285+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:05.341559+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:48.164839+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:34.576046+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:17.151186+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:02.618772+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:44.533245+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:27.123833+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:13.600996+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:55.494708+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:40.040432+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:21.990887+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:05.281401+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:51.548897+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:33.969686+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:18.756664+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:01.111742+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:44.941009+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:31.482380+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:13.576723+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:58.957710+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:48.447471+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:35.324405+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:17.241965+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:02.337553+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:44.165254+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:27.199923+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:15.289253+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:57.256543+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:42.169839+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:24.067987+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:07.905100+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:56.250749+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:39.516981+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:24.452526+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:06.520550+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:49.473884+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:35.954402+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:18.539523+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:04.492359+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:47.101249+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:29.754985+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:18.610498+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:01.343998+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:46.660015+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:31.882937+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:20.411825+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:02.466762+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:48.263697+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:30.720040+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:13.516755+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:01.226627+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:43.343178+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:28.535910+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:10.794507+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:54.574185+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:42.697264+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:24.942700+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:09.583122+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:51.448815+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:34.072475+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:21.815193+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:03.991700+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:49.064903+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:31.402876+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:13.150618+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:01.466755+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:43.721647+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:30.230723+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:12.604010+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:54.163451+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:42.415249+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:24.708194+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:09.946756+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:52.382980+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:35.420200+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:23.583595+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:06.715967+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:52.243703+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:35.295502+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:17.208052+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:05.058596+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:47.289255+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:32.582448+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:16.204915+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:00.473998+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:49.380576+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:34.480086+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:17.230405+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:59.087551+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:40.697465+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:29.343024+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:14.883563+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:46.918566+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:37.049799+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:20.818883+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:03.834658+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:51.881238+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:41.422127+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:26.033359+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:08.823873+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:56.974028+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:45.606527+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:28.792349+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:12.850933+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:01.435923+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:49.827736+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:33.168832+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:15.918922+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:05.031119+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:27.187941+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:33.215028+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:23.668492+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:12.067376+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:54.975345+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:38.645448+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:29.343914+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:56.533522+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:27.808489+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:06.881109+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:36.575532+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:48.095891+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:34.515682+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:18.196714+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:01.121831+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:51.328896+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:39.911034+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:03.745053+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:29.990196+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:02.602394+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:35.752944+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:08.226560+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:43.000575+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:39.215893+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:26.185907+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:12.938366+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:59.406919+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:43.824583+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:30.735364+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:18.487549+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:06.953053+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:51.647678+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:41.122459+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:28.638588+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:15.466137+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:23.695086+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:57.118651+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:29.333199+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:46.786679+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:32.664918+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:22.429905+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:06.158727+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:53.560581+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:49.053299+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:26.840255+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:20.419821+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:10.698917+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:58.635798+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:44.856556+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:31.310801+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:17.428704+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:38.985649+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:29.838535+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:50.038832+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:34.291287+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:11.080584+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:48.243114+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:27.219715+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:22.957300+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:07.358332+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:54.331314+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:39.272238+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:28.448390+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:16.959896+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:55.851679+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:33.858994+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:11.556732+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:54.777771+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:36.814843+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:13.760020+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:50.981850+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:31.193031+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:16.516245+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:00.221634+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:38.418088+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:15.566459+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:53.668760+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:37.149703+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:19.761155+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:57.782847+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:35.404289+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:17.411763+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:23.894786+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:36.658274+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:25.529666+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:25.700217+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:29.749655+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:29.852360+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.02,
+    "cloud": 0.0,
+    "city": "Khanh Hoa"
+  }
+]

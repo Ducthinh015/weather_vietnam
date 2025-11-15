@@ -1,0 +1,5102 @@
+[
+  {
+    "timestamp": "2025-11-15T00:48:57.985267+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:42.698426+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:33.092323+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:13.511769+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:54.267261+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:34.637040+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:17.555312+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:09.365842+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:49.542523+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:32.228776+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:12.975521+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:55.246245+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:47.387080+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:29.813323+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:12.376877+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:56.667048+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:33.282825+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:15.505509+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:59.621519+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:42.306438+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:27.864942+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:16.662877+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:01.529395+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:44.166048+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:29.875420+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:11.621993+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:58.317634+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:43.408475+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:26.706658+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:12.729272+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:54.282240+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:40.993732+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:26.559746+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:11.022522+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:56.279888+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:43.157014+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:27.804447+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:12.332876+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:58.011925+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:40.188681+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:25.861892+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:10.110569+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:53.226599+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:38.954115+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:22.118467+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:07.544545+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:52.161050+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:35.431404+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:22.732550+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:04.598130+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:53.399526+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:37.757563+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:22.957713+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:05.617621+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:47.839315+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:36.023983+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:20.033129+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:05.000763+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:48.015173+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:31.282647+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:19.688298+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:06.565694+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:49.526097+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:31.391289+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:13.255926+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:01.224246+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:48.441229+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:31.845951+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:14.054941+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:56.619353+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:44.067187+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:30.722506+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:14.406766+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:57.435627+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:45.381365+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:31.134968+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:14.020416+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:57.038504+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:39.595839+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:28.069876+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:14.792040+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:59.560524+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:42.649632+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:30.737041+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:17.768567+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:00.716712+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:45.592235+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:33.490953+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:20.470362+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:05.767053+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:48.039325+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:51.392206+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:41.010590+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:33.878787+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:18.282515+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:06.342383+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:54.162619+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:37.900079+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:20.478809+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:44.093984+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:29.869708+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:12.308364+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:53.929715+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:38.782564+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:22.724958+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:08.200620+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:51.034677+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:32.493242+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:17.460585+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:00.698487+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:46.685028+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:29.492301+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:11.176552+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:56.737428+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:39.966329+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:37.354678+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:52.354956+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:37.660906+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:20.823745+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:07.309660+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:48.799003+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:31.574373+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:18.537939+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:01.710998+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:47.788691+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:29.531321+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:12.285515+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:58.735979+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:41.861923+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:27.189265+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:09.605026+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:53.367683+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:32.808385+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:30.912513+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:37.839634+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:19.572756+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:07.525682+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:54.037373+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:35.544636+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:17.968915+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:59.476216+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:46.419621+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:31.752887+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:13.530298+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:56.099516+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:38.434660+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:25.772358+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:11.441218+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:53.034676+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:35.656274+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:17.143991+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:04.491465+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:50.188605+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:31.817024+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:14.763786+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:56.562373+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:44.380381+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:30.226146+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:11.567830+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:55.104999+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:36.089984+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:23.043906+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:08.612372+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:50.179136+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:46.085133+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:48.992348+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:34.684582+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:15.648210+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:58.274036+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:39.314796+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:26.250666+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:12.059105+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:53.348556+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:35.934450+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:16.907283+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:04.041619+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:50.154320+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:31.287703+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:13.397686+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:55.280056+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:42.161013+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:27.880249+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:09.246996+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:52.644048+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:44.257439+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:29.647436+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:10.887040+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:53.250595+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:34.747315+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:21.963483+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:08.021778+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:50.165642+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:33.157406+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:14.365644+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:01.536907+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:47.833420+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:29.278857+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:13.219623+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:42.444256+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:29.248800+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:10.727691+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:53.408332+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:39.707367+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:22.310823+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:08.274568+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:50.019930+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:32.754942+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:18.932820+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:57.356687+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:41.508393+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:06.205791+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:49.846643+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:33.246015+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:17.180039+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:00.463916+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:44.286866+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:27.924299+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:11.422365+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:55.477643+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:38.510174+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:22.589195+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:07.629824+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:51.095032+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:35.087429+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:18.426977+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:02.417110+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:46.284516+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:29.654440+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:14.164482+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:57.400388+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:42.192324+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:25.638055+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:09.162180+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:54.260522+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:37.123902+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:21.680098+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:08.215766+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:51.357772+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:35.494656+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:18.596260+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:02.447382+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:45.998823+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:29.896456+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:13.687884+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:57.067863+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:41.177510+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:26.469198+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:15.017531+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:00.879400+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:45.094706+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:28.840497+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:10.708648+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:55.095199+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:40.239694+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:24.050133+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:08.354051+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:50.866481+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:33.529729+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:19.031193+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:03.322512+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:46.900554+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:28.955701+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:11.874258+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:58.040356+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:41.755394+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:25.309148+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:07.290293+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:49.455767+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:35.102615+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:19.741078+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:03.629403+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:45.841572+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:28.330132+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:14.258812+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:58.079717+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:42.094244+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:24.306622+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:06.521881+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:51.952355+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:36.370081+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:19.992302+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:01.999691+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:44.737365+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:30.817946+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:15.362011+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:59.388557+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:41.438032+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:23.950705+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:10.152389+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:55.720407+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:39.314046+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:22.713302+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:05.419103+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:52.063389+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:36.211283+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:21.646681+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:03.834346+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:46.604207+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:32.229519+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:17.063104+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:00.779417+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:42.796172+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:25.619627+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:13.210559+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:57.385184+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:43.529186+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:27.122720+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:11.278756+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:54.352953+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:38.242784+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:22.410741+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:05.884540+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:50.223959+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:33.382175+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:17.158096+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:00.929345+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:45.128521+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:29.425775+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:12.428919+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:56.380147+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:39.790221+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:22.987919+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:07.073054+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:50.379465+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:34.386095+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:18.169281+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:01.760253+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:46.259722+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:29.709491+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:14.087991+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:57.858600+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:41.344778+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:33.342549+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:17.526771+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:01.573148+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:45.007546+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:28.922293+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:12.206864+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:57.942799+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:41.784585+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:25.175561+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:09.105214+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:52.326823+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:38.732599+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:23.668871+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:07.181647+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:51.575587+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:34.368684+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:18.625762+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:02.621285+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:46.543036+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:32.082445+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:14.500454+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:00.846548+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:45.452632+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:29.131154+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:13.804577+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:02.218840+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:47.141380+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:30.428511+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:15.470256+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:58.532924+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:43.926740+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:27.522673+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:11.343090+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:55.573845+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:37.148688+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:25.293822+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:09.282657+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:52.412928+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:36.668788+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:19.050009+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:04.510053+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:48.298534+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:31.914512+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:16.312293+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:58.041242+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:43.907188+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:28.076644+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:12.726551+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:57.519753+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:39.170953+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:24.805380+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:09.105107+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:52.545106+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:37.329716+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:19.790253+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:05.945514+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:50.395049+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:34.686905+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:19.717265+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:02.124597+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:47.719172+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:31.604932+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:14.952309+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:00.136826+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:44.410625+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:31.250020+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:17.049643+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:01.712627+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:43.907424+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:25.454722+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:11.181387+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:57.310815+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:20.247159+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:20.979179+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:05.180122+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:48.063255+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:31.187822+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:25.638209+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:09.025206+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:52.931162+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:36.124082+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:29.963864+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:12.933574+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:55.822568+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:40.204782+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:34.217151+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:17.035550+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:00.284555+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:43.943175+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:49.820918+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:16.927217+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:01.899917+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:56.387670+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:39.132062+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:22.492094+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:08.653987+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:18.799481+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:47.855305+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:23.635881+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:58.463934+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:31.017253+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:14.902435+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:02.442190+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:45.329540+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:33.990427+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:18.776434+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:27.381859+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:52.747801+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:20.778702+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:57.740647+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:27.619059+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:03.929640+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:21.550221+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:06.850809+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:56.110311+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:42.181783+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:28.103788+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:10.952361+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:00.980162+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:49.742067+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:35.467774+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:21.577085+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:10.945424+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:58.298397+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:45.655748+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:15.329456+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:49.916150+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:21.035833+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:13.989041+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:04.251541+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:49.982735+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:35.124084+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:23.315888+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:47.440706+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:02.844935+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:48.515735+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:42.049063+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:27.290010+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:13.734892+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:58.892188+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:01.336895+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:11.600883+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:28.548153+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:20.400581+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:58.265151+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:35.393992+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:13.039174+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:52.320130+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:52.976355+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:36.313736+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:23.272298+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:07.891924+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:01.257311+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:42.999659+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:20.750012+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:58.073939+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:36.885679+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:23.748015+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:00.855898+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:38.196347+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:15.837603+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:11:56.913963+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:46.003835+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:25.359063+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:02.550874+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:40.196328+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:18.887200+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:06.341136+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:44.858466+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:22.254915+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:59.433089+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:53.956802+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:08.975140+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:17.093116+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:06.793381+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:12.080183+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:07.062204+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:12.208493+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 0.0,
+    "city": "Ho Chi Minh"
+  }
+]

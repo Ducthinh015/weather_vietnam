@@ -1,0 +1,25 @@
+v: 0
+services:
+  - name: web
+    engine: python3.11
+    src: .
+    primary: true
+    run: python -m backend.app
+    include:
+      - backend/**
+      - frontend/**
+      - requirements.txt
+      - Spacefile
+    health:
+      path: /health
+      interval: 15s
+      timeout: 5s
+    env:
+      - FETCH_INTERVAL
+      - WEATHERAPI_KEY
+      - JWT_SECRET_KEY
+      - MONGO_URI
+      - DATA_PATH
+      - GOOGLE_CLIENT_ID
+      - GOOGLE_REDIRECT_URI
+      - CACHE_TTL_SECONDS

@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:17.951944+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:08.715112+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:51.571531+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:32.047169+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:12.641825+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:53.230519+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:43.422740+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:27.556042+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:10.045954+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:51.115065+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:31.243306+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:21.949930+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:07.484909+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:49.783299+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:31.871964+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:08.045018+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:52.683428+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:35.136662+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:19.785371+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:05.298972+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:51.357773+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:36.946939+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:21.338682+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:07.058309+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:49.014099+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:32.832000+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:18.431925+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:03.999290+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:50.041485+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:31.768636+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:15.477769+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:01.825893+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:47.650353+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:33.735861+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:17.960545+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:03.032265+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:49.193984+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:35.317340+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:17.315463+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:00.872746+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:45.557426+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:30.460720+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:16.017510+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:58.640717+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:42.845659+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:27.343982+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:12.703073+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:00.257453+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:41.930062+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:26.271181+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:14.863497+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:00.263132+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:42.907694+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:24.850439+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:08.953944+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:56.855078+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:42.330675+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:25.370966+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:08.247577+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:51.969115+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:43.756545+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:26.741256+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:08.849923+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:50.471334+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:33.969794+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:25.700568+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:08.802520+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:51.152607+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:33.720078+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:16.660579+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:08.336647+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:51.663120+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:34.278945+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:18.156356+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:08.513677+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:51.395959+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:34.303632+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:16.868781+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:00.352656+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:52.119523+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:35.581102+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:19.431826+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:03.815689+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:54.772874+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:37.926051+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:22.276744+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:06.296736+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:57.487912+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:40.668713+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:25.350701+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:15.116118+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:17.710769+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:10.076345+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:55.169410+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:38.961834+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:30.742168+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:15.102903+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:57.483341+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:46.653079+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:07.204365+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:49.832929+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:31.362143+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:13.763846+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:58.412472+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:45.675513+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:28.291862+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:10.176849+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:52.678794+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:36.392689+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:24.116853+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:06.799613+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:48.768949+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:31.462827+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:15.421415+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:03.095488+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:29.875407+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:12.578419+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:56.549664+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:44.731973+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:26.084677+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:09.240494+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:52.367535+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:37.641460+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:25.271541+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:07.281622+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:49.839103+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:33.087513+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:17.695674+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:04.836866+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:46.274092+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:30.912645+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:05.995872+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:56.138899+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:15.264872+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:57.026953+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:40.648383+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:31.241277+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:12.976290+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:55.438036+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:37.057725+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:19.627533+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:09.258837+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:51.085131+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:33.545234+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:15.679290+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:58.633025+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:48.985767+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:30.421887+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:13.112186+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:54.531021+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:37.378209+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:27.525370+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:09.219745+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:52.381499+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:33.897358+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:16.931346+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:07.724111+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:49.302154+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:32.900635+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:13.774415+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:56.250753+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:46.046083+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:27.695996+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:10.014856+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:21.640072+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:12.093259+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:53.353849+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:36.017148+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:16.971341+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:59.529397+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:49.348005+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:30.977716+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:13.400977+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:54.422784+07:00",
+    "temp": 20.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:37.252400+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:27.573134+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:09.027338+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:51.100530+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:32.750604+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:15.136573+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:05.563955+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:46.796976+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:30.186891+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:17.286906+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:07.148264+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:48.572417+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:30.913141+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:12.087756+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:54.983410+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:45.670361+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:27.779702+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:10.638316+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:51.903721+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:34.647741+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:24.957622+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:06.804863+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:50.614230+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:43.634637+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:06.483201+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:48.202267+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:31.095371+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:13.398303+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:58.852315+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:45.841912+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:27.613821+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:10.303756+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:52.447269+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:34.027641+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:18.935322+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:24.979601+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:27.405722+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:09.975830+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:54.774284+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:37.170759+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:19.200805+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:05.369808+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:48.196179+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:33.071951+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:15.032462+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:57.449494+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:45.135984+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:27.924512+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:12.700767+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:55.053732+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:37.565807+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:23.777692+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:06.703700+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:51.642242+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:33.815595+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:16.149538+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:03.302050+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:46.007376+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:32.010912+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:13.503894+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:56.422251+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:45.612815+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:28.053034+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:12.955121+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:55.173165+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:37.422755+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:23.497023+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:06.415210+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:51.275420+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:33.338529+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:15.937429+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:02.823948+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:49.187005+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:37.495657+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:20.212573+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:06.277314+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:48.317815+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:31.337399+07:00",
+    "temp": 19.9,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:17.004469+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:59.118823+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:45.466321+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:28.222268+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:10.429593+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:55.570574+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:38.000382+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:24.280623+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:06.327678+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:48.806821+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:33.619768+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:16.817391+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:02.924021+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:44.875898+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:26.340216+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:11.432599+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:54.514344+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:41.006533+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:23.393319+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:05.167453+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:50.702593+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:33.065820+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:19.432474+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:02.104976+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:43.556242+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:28.278842+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:10.984629+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:57.657380+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:39.623850+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:21.485737+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:07.183120+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:49.700679+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:36.870588+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:18.813825+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:00.820913+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:46.478382+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:29.288899+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:16.947647+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:59.083648+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:42.154997+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:28.531901+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:11.031573+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:58.904842+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:41.336769+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:23.108546+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:08.786246+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:52.208475+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:38.284779+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:20.197604+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:02.411794+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:49.667032+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:32.037427+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:18.683638+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:03.853079+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:48.861046+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:30.814653+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:13.235233+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:59.600671+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:42.567154+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:27.659378+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:09.677658+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:52.229148+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:38.583432+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:21.661786+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:07.087213+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:48.777587+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:31.223684+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:17.610026+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:59.897684+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:44.539247+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:26.279828+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:09.298214+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:55.565501+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:38.474188+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:23.308855+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:05.815936+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:48.935610+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:35.466660+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:18.063270+07:00",
+    "temp": 19.5,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:07.668029+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:52.500847+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:39.225863+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:21.754332+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:06.606450+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:48.735853+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:31.244546+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:19.257492+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:01.729850+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:46.474377+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:28.637195+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:12.304919+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:00.204119+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:43.923794+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:29.050752+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:10.639482+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:53.388702+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:40.029505+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:23.069825+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:09.182539+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:51.150669+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:33.689946+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:22.687144+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:05.889399+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:51.233259+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:35.940176+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:24.372385+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:07.072635+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:52.941933+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:34.790217+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:17.689011+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:05.160386+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:47.765665+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:33.222536+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:14.794252+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:58.689726+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:46.766650+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:29.325732+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:14.172317+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:56.170047+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:38.226602+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:25.831816+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:08.490148+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:53.758638+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:35.432241+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:17.356556+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:05.426889+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:48.232019+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:34.841788+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:16.630540+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:58.420019+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:46.395382+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:29.251112+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:14.676657+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:56.572463+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:39.514784+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:27.520998+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:11.283576+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:56.960484+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:39.381413+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:21.394025+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:09.019641+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:51.821099+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:37.321900+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:20.328514+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:04.828443+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:53.881138+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:39.216774+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:21.277535+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:03.050399+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:44.815119+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:34.008028+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:19.738932+07:00",
+    "temp": 19.1,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:53.239298+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:41.109146+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:24.757141+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:07.868472+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:58.231475+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:45.485821+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:30.037668+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:13.008503+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:02.686362+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:49.662911+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:32.963607+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:17.047695+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:07.004937+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:53.950012+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:37.225774+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:20.094905+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:10.560575+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:37.010070+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:37.938276+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:29.346246+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:16.047121+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:59.478691+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:43.323008+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:34.921330+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:06.631199+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:38.457324+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:17.432258+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:47.176678+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:52.209920+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:39.310161+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:22.488748+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:06.362867+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:55.383747+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:49.752753+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:14.803959+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:39.656770+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:13.096348+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:46.186673+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:18.515933+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:53.459373+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:43.587661+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:31.158910+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:17.240864+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:04.267041+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:47.786889+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:35.621446+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:22.716017+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:11.810849+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:55.780707+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:45.958969+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:33.419714+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:20.373697+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:34.071917+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:07.892571+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:39.974187+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:50.774506+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:37.443978+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:26.597345+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:11.013121+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:57.928897+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:59.664190+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:37.071713+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:24.780465+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:15.606793+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:03.010601+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:49.723166+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:35.512902+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:22.449809+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:46.154762+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:34.899895+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:55.654748+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:37.662043+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:14.660002+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:51.647751+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:30.559720+07:00",
+    "temp": 23.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:27.885855+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:11.277143+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:59.127393+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:43.614125+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:34.246230+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:21.402104+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:59.292526+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:37.186165+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:15.088414+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:59.624283+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:40.104216+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:17.339030+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:54.365138+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:35.136978+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:21.483229+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:03.731517+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:41.904616+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:19.176863+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:57.579644+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:42.052367+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:23.267393+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:01.224433+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:38.850968+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:22.810333+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:27.389993+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:41.635714+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:30.695364+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:30.735801+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:35.576322+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:35.711923+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nam Dinh"
+  }
+]

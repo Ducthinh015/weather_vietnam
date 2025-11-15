@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:09.027318+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:56.975593+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:43.277469+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:23.752800+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:04.632702+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:44.992843+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:32.176701+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:19.536848+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:59.848130+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:42.511815+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:23.190449+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:09.151233+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:58.203451+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:40.737077+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:23.221195+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:38.386636+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:44.088349+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:26.147613+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:11.032807+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:55.500481+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:38.916173+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:28.105931+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:13.014149+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:56.922663+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:40.481219+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:22.656542+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:09.860706+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:55.349710+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:39.823323+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:23.336788+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:04.986524+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:52.243071+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:38.481105+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:23.999978+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:08.043759+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:54.326315+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:40.211348+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:25.222677+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:08.528574+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:50.650879+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:37.182854+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:21.868561+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:05.852286+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:49.967928+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:32.661249+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:18.669664+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:04.024170+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:48.374197+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:33.349865+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:15.840200+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:06.242827+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:50.691069+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:33.499894+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:16.312160+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:58.221768+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:48.452224+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:33.234660+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:16.006422+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:59.065435+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:41.991167+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:34.487445+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:17.187349+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:00.089479+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:41.872745+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:23.697587+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:16.085873+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:59.134546+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:42.307226+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:24.539286+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:07.277444+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:58.533695+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:41.857373+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:25.207114+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:07.966055+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:59.393765+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:42.576783+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:24.880118+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:07.511546+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:50.091493+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:42.750781+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:26.182759+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:10.663136+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:54.044284+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:45.583194+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:28.745134+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:11.677600+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:56.037508+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:47.941164+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:31.266867+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:16.716078+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:00.621745+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:07.792425+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:58.349567+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:45.072034+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:29.300745+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:20.470436+07:00",
+    "temp": 17.9,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:05.302448+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:48.538556+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:30.982081+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:57.827498+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:40.469043+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:22.781708+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:04.251008+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:49.490941+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:36.589688+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:18.916204+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:01.625780+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:43.019288+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:27.853675+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:14.757146+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:57.527276+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:40.027477+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:21.626856+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:07.048882+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:53.857396+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:20.138533+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:02.736106+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:48.137451+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:35.462470+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:17.617243+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:59.316220+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:42.090258+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:29.071363+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:16.253893+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:58.944260+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:40.295784+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:23.168725+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:09.276370+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:55.803791+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:37.648067+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:21.152530+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:25.218484+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:46.898928+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:05.656520+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:48.395858+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:30.737525+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:21.686788+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:04.533044+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:45.963770+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:28.516120+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:09.962030+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:00.135572+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:42.215294+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:24.111928+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:07.402297+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:48.810692+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:39.766604+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:22.017868+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:03.642595+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:46.158291+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:27.571168+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:18.534546+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:00.701233+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:42.480069+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:25.242446+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:07.077495+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:58.294050+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:40.834769+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:23.209308+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:05.421156+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:46.638960+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:36.898695+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:19.106065+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:00.645765+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:11.653347+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:03.007915+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:45.094026+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:26.337978+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:08.651246+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:49.880201+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:40.080120+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:22.494331+07:00",
+    "temp": 17.3,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 27.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:03.911816+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:46.166793+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:27.458403+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:17.619439+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:00.692253+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:41.901068+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:23.922808+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:05.516228+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:56.375267+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:38.235966+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:19.949829+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:03.242103+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:58.004121+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:40.253987+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:21.386817+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:03.563106+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:45.242394+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:36.169629+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:19.215597+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:01.165202+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:43.470203+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:24.779508+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:15.667162+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:58.298477+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:41.198059+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:23.707135+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:56.692064+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:39.617721+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:21.480165+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:03.975958+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:50.318625+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:36.062923+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:18.829515+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:00.634417+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:43.212463+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:16.790230+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:09.428851+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:58.770409+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:19.087449+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:00.344571+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:45.195875+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:27.817424+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:10.761484+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:57.077550+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:38.527742+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:23.458456+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:05.824367+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:48.953136+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:36.442036+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:18.170308+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:03.339553+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:45.779453+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:28.933445+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:15.251677+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:56.817305+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:41.958828+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:24.635564+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:07.738571+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:54.946012+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:36.329720+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:21.260459+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:04.510418+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:47.889608+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:34.303695+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:18.567987+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:03.270934+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:46.106710+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:29.020901+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:15.017076+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:56.513222+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:41.774266+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:24.132187+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:07.439017+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:53.999040+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:38.086908+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:26.997648+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:11.368989+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:57.889000+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:39.297127+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:21.340954+07:00",
+    "temp": 16.9,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:06.832730+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:50.612854+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:37.047341+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:18.833269+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:01.567519+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:45.249883+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:29.414568+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:15.789246+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:57.157305+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:39.633441+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:23.433154+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:08.436226+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:54.398918+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:35.704115+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:17.467088+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:01.328639+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:46.201044+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:32.437187+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:14.281012+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:56.332172+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:40.483262+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:24.750789+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:11.051072+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:52.843001+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:34.684625+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:18.388911+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:02.416257+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:49.066955+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:30.558689+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:12.300758+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:56.962356+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:41.311505+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:28.158783+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:09.676736+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:51.836931+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:35.685601+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:20.719207+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:08.552090+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:49.931279+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:33.202625+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:17.233680+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:02.491542+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:49.830034+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:32.153742+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:14.112978+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:58.562927+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:43.713410+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:29.757879+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:11.165939+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:53.319540+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:37.518804+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:23.559591+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:10.197012+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:54.222104+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:39.065843+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:21.929435+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:04.927356+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:51.076839+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:32.834613+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:17.814812+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:00.672026+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:43.656566+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:30.069963+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:11.610945+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:57.203068+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:40.038002+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:22.767869+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:09.084384+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:50.306228+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:34.824129+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:17.585747+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:00.780558+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:47.038805+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:28.878575+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:13.443792+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:56.688027+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:40.265162+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:26.935062+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:08.394814+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:53.277342+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:43.919591+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:30.747879+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:12.061179+07:00",
+    "temp": 16.4,
+    "humidity": 90.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 25.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:56.979140+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:39.673771+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:22.760687+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:10.922986+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:52.195035+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:36.916679+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:19.707493+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:03.153627+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:51.724423+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:34.222718+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:19.091692+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:01.980683+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:44.979464+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:31.391021+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:13.310851+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:58.824301+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:42.612512+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:25.033314+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:13.798551+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:56.061047+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:41.215583+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:24.181749+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:15.581400+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:57.448140+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:42.894275+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:26.107310+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:09.062090+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:56.559457+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:38.205224+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:23.119537+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:06.327894+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:50.100248+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:38.037907+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:19.897726+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:04.239277+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:47.040495+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:29.583373+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:17.177707+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:58.835932+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:43.717281+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:26.795244+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:08.530681+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:56.801158+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:38.655340+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:24.915333+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:08.125698+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:49.710967+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:37.796366+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:19.662892+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:04.730900+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:47.833236+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:30.936402+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:18.754299+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:01.528889+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:46.750782+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:30.681123+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:12.701877+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:00.458498+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:42.088720+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:27.027897+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:11.020135+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:55.231602+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:44.149696+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:29.112411+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:12.700781+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:54.682532+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:36.173195+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:24.216245+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:09.408827+07:00",
+    "temp": 16.0,
+    "humidity": 92.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:39.938245+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:32.267893+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:16.100599+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:59.165793+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:45.802546+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:36.739860+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:21.381462+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:04.202693+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:50.822658+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:40.968568+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:24.050053+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:07.888645+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:54.801550+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:45.381692+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:28.422290+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:11.382855+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:58.829084+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:15.685198+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:27.970200+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:16.958350+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:07.467695+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:50.215059+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:33.962109+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:23.042180+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:45.319459+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:16.475728+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:53.938388+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:25.016133+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:43.395580+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:28.288190+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:13.632968+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:56.334818+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:46.601928+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:32.188640+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:52.654794+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:18.296198+07:00",
+    "temp": 21.3,
+    "humidity": 70.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 24.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:49.688781+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:24.470848+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:55.681371+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:32.037455+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:33.725534+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:20.047725+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:08.212041+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:54.661706+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:39.282896+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:24.517117+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:11.827134+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:02.283093+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:46.955440+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:34.859929+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:21.929335+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:10.806429+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:12.662248+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:44.632295+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:17.471865+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:41.987473+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:26.324483+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:17.796105+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:01.371998+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:48.855478+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:36.268807+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:15.586997+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:15.715193+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:04.266217+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:53.637335+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:40.012716+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:26.542481+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:11.119901+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:27.720474+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:25.038995+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:43.887459+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:30.525333+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:07.273076+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:44.610284+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:23.487105+07:00",
+    "temp": 23.2,
+    "humidity": 62.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:17.103143+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:02.195570+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:49.215055+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:34.630393+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:22.073615+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:12.447443+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:52.094225+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:29.966607+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:07.481733+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:49.482855+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:32.936053+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:09.984523+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:47.118879+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:26.536824+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:11.052679+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:55.206424+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:34.400524+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:11.720341+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:49.456074+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:31.661562+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:15.870906+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:53.862099+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:31.434672+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:11.425505+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:19.770845+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:31.297744+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:19.946033+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:21.634849+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:22.844862+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:24.138541+07:00",
+    "temp": 24.4,
+    "humidity": 56.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Dong Thap"
+  }
+]

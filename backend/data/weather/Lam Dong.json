@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:15.799665+07:00",
+    "temp": 22.3,
+    "humidity": 78.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:06.145775+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:49.638198+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:30.126772+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:10.780767+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:51.307520+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:40.734755+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:25.642433+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:08.051935+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:48.956370+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:29.340293+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:18.267226+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:04.900779+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:47.654796+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:29.764274+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:05.213040+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:50.706661+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:33.109722+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:17.704782+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:03.296452+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:47.982730+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:34.941964+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:19.324108+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:05.082124+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:46.998062+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:30.164889+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:16.461836+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:02.013251+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:47.958207+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:29.621394+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:12.700687+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:59.790778+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:45.509203+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:31.692448+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:15.338008+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:01.015407+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:47.071346+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:33.252396+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:15.225922+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:58.038257+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:43.601211+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:28.388426+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:14.041137+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:56.672264+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:40.139752+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:25.319351+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:10.726186+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:58.172523+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:39.896238+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:23.462056+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:12.766306+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:58.098340+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:40.848966+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:22.861720+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:06.059193+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:54.817226+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:40.302351+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:23.262298+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:06.000762+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:49.211691+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:41.674110+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:24.660953+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:06.793167+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:48.424070+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:31.102111+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:23.620547+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:06.670556+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:49.082336+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:31.699665+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:13.962537+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:06.065975+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:49.661699+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:32.081469+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:15.353784+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:06.551932+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:49.429583+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:32.333103+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:14.817186+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:57.563791+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:50.161855+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:33.620704+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:17.429461+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:00.996394+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:52.786619+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:35.946271+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:20.212570+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:03.187519+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:55.172310+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:38.614057+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:23.355692+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:10.670665+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:15.403907+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:07.842575+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:53.086975+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.05,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:36.237740+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:28.330649+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:13.085521+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:55.487540+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:42.589327+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:05.200972+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:47.831979+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:29.319417+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:11.152426+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:56.344373+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:43.727233+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:26.334876+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:08.198040+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:50.025426+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:34.385558+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:22.119233+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:04.793191+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:46.739632+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:28.711969+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:13.454779+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:01.136407+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:27.855752+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:09.843048+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:54.541188+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:42.680518+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:24.085576+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:07.193910+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:49.309675+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:35.698453+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:23.318614+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:05.316486+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:47.882254+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:30.172309+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:15.770688+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:02.924023+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:44.217632+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:28.812812+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:03.285812+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:54.172580+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:13.320336+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:54.947474+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:37.942380+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:29.085730+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:10.949115+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:53.426859+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:35.045106+07:00",
+    "temp": 21.2,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:16.985080+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:07.297727+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:48.986919+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:31.594031+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:13.765480+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:55.817750+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:46.982784+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:28.433036+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:11.188167+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:52.586510+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:34.787287+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:25.591235+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:07.118643+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:50.340633+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:31.895247+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:14.179912+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:05.768960+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:47.337241+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:30.917521+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:11.795907+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:53.616165+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:44.068624+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:25.675706+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:08.020194+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:18.841212+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:10.073848+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:51.375349+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:33.760588+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:15.007427+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:56.837300+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:47.402218+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:28.892634+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:11.426906+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:52.531228+07:00",
+    "temp": 21.3,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.03,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:34.575937+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:25.247388+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:07.137094+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:49.202001+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:30.586821+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:12.476826+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:03.458947+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:44.809586+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:27.728698+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:14.538126+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:05.176904+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:46.620505+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:28.827569+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:10.114892+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:52.337952+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:43.651191+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:25.821276+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:08.665455+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:49.974057+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:31.987841+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:22.967833+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:04.786921+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:48.597916+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:32.367488+07:00",
+    "temp": 21.1,
+    "humidity": 88.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:04.505708+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:46.106485+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:29.071775+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:10.539017+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:56.839986+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:43.694088+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:25.469224+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:08.280995+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:49.742426+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:31.760265+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:16.958579+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:21.723806+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:25.416134+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:08.049569+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:52.810647+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:34.430237+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:17.172811+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:03.398141+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:46.181222+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:31.106674+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:12.208195+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:55.456909+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:43.098886+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:26.027862+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:10.708736+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:52.389722+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:35.567238+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:21.768813+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:04.702606+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:49.599986+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:31.069550+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:14.105031+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:01.349927+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:44.067179+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:30.010957+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:10.929620+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:54.408159+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:43.628878+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:26.086895+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:11.016368+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:52.519957+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:35.419641+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:21.501568+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:04.383112+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:49.283220+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:30.700960+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:13.909359+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:00.950654+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:46.966699+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:34.789204+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:18.100882+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:04.330351+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:46.370591+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.48,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:28.460958+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:14.350289+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:57.063462+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:43.492103+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:26.204209+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:08.502369+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:52.916513+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:35.993047+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:22.336671+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:04.362977+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:46.785913+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:30.906563+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:14.888879+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:00.903133+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:42.888009+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:24.375270+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:08.799868+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:52.573014+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:38.974154+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:21.457573+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:03.162921+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:48.027636+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:31.137902+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:17.480401+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:00.156460+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:41.622152+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:25.634183+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:08.979419+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:55.633600+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:37.667855+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:19.482540+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:04.518950+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:47.798947+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:34.806800+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:16.774348+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:58.850776+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:43.234479+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:27.291205+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:14.994829+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:57.047036+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:40.179953+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:25.850945+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:09.006524+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:56.804932+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:39.391393+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:21.129161+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:06.122949+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:50.240004+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:36.280491+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:18.245957+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:00.367094+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:44.925537+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:29.962311+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:16.682175+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:01.871719+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:46.564077+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:28.347022+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:11.298508+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:57.614213+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:40.570752+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:25.249119+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:07.315500+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:50.183687+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:36.529548+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:19.659299+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:04.745250+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:46.500551+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:29.183580+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:15.613033+07:00",
+    "temp": 20.0,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:57.941068+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:42.174618+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:24.010696+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:07.304485+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:53.552400+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:36.462311+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:20.925575+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:03.145438+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:46.956259+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:33.446361+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:16.123777+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:02.197172+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:50.469859+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:37.307404+07:00",
+    "temp": 20.4,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 2.5,
+    "rain": 0.24,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:19.764927+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:04.479979+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:46.189786+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:29.198154+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:17.284326+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:59.777643+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:44.334676+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:26.072987+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:10.094811+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:58.221433+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:41.909661+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:26.654251+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:08.457898+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:51.453814+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:37.998372+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:21.069995+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:06.712933+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:49.069840+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:31.749002+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:20.650384+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:03.876979+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:48.817659+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:33.794066+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:22.386962+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:04.991072+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:50.439627+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:32.755643+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:15.529139+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:03.172416+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:45.811106+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:30.736439+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:12.794137+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:56.581307+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:44.675524+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:27.426416+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:11.734963+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:53.691544+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:36.083754+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:23.821886+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:06.469894+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:51.293329+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:33.379868+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:15.175948+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:03.391861+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:46.180735+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:32.346771+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:14.664890+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:56.250971+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:44.384528+07:00",
+    "temp": 20.2,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:27.259937+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:12.143337+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:54.487669+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:37.391821+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:25.546017+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:09.290214+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:54.440167+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:37.322162+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:19.238869+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:07.059462+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:49.816991+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:34.775470+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:18.371990+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:02.652370+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:51.934944+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:36.664673+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:19.295493+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:01.019821+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:42.660954+07:00",
+    "temp": 20.1,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:32.042668+07:00",
+    "temp": 20.3,
+    "humidity": 94.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:16.982968+07:00",
+    "temp": 20.3,
+    "humidity": 94.0,
+    "pressure": 1016.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:49.915703+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:39.063599+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:22.808509+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:05.829891+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:54.496371+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 3.0,
+    "rain": 0.59,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:43.483647+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 3.0,
+    "rain": 0.59,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:28.020106+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 3.0,
+    "rain": 0.59,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:10.959752+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 3.0,
+    "rain": 0.59,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:59.938443+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:47.597707+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:30.937991+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:14.947714+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:04.268712+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:51.865302+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:35.222113+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:18.110237+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:07.709381+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:32.150835+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:35.591993+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:26.495537+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:13.985608+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:57.497057+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:40.800412+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:32.150885+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:01.526915+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:32.769933+07:00",
+    "temp": 21.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:12.496131+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:41.541916+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:50.146107+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:37.310987+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:20.348190+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:03.276622+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:53.289617+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.77,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:45.699793+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:08.884491+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:34.781218+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:08.179453+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:40.683178+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:13.747213+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:47.921805+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:41.356184+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:29.010387+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:15.045013+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:01.486830+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:45.777870+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:33.438859+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:20.565129+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:08.999599+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:53.830313+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:43.957429+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:31.411743+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:17.561876+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:29.099020+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:02.967408+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:34.417565+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:48.709281+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:35.443930+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:24.413271+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:08.235120+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:55.729507+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:54.659333+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:31.942278+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:22.583239+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:13.469134+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:00.772858+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:46.881299+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:33.462398+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:20.267389+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:43.671044+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:31.900831+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:53.013687+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:36.014843+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:12.799889+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:49.861100+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:28.921884+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.88,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:25.521959+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:09.302172+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:56.759547+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:41.392481+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:31.309592+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:19.357335+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:57.559479+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:35.524294+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:13.306746+07:00",
+    "temp": 22.1,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:57.220830+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:38.467935+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:15.500708+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:52.708695+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:33.213825+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:19.119326+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:01.947045+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:40.076013+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:17.367049+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:55.472461+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:39.562131+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:21.499963+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:59.526484+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:37.173627+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:20.103055+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:25.605687+07:00",
+    "temp": 22.2,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:39.091611+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:28.042538+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:28.159087+07:00",
+    "temp": 22.3,
+    "humidity": 94.0,
+    "pressure": 1017.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:32.677710+07:00",
+    "temp": 23.2,
+    "humidity": 89.0,
+    "pressure": 1016.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:32.794108+07:00",
+    "temp": 23.2,
+    "humidity": 89.0,
+    "pressure": 1016.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.66,
+    "cloud": 75.0,
+    "city": "Lam Dong"
+  }
+]

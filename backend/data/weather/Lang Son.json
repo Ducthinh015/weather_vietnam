@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:16.287886+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:06.792560+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:50.106636+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:30.653604+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:11.225441+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:51.812284+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:41.470639+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:26.100872+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:08.537492+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:49.464925+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:29.778676+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:19.395670+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:05.463982+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:48.183472+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:30.330655+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:05.862900+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:51.182834+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:33.576375+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:18.214352+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:03.781224+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:48.838906+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:35.436359+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:19.809651+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:05.549576+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:47.479575+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:30.863308+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:16.936046+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:02.491507+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:48.465170+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:30.160580+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:13.397710+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:00.264134+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:46.102182+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:32.191345+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:15.956599+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:01.506729+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:47.633066+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:33.720826+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:15.813836+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:58.715613+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:44.099675+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:28.884608+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:14.547249+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:57.177515+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:40.820844+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:25.809637+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:11.225534+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:58.681326+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:40.409135+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:24.172624+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:13.300676+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:58.642877+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:41.364531+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:23.379543+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:06.819636+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:55.283075+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:40.822757+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:23.775981+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:06.546127+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:49.911032+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:42.167371+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:25.144263+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:07.317467+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:48.987982+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:31.755078+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:24.142749+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:07.204313+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:49.562424+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:32.201237+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:14.619075+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:06.650694+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:50.170147+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:32.620629+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:16.020603+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:07.069912+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:49.956688+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:32.858187+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:15.293990+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:58.263872+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:50.678676+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:34.080096+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:17.933987+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:01.668990+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:53.275282+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:36.466520+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:20.735132+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:03.825397+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:55.700949+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:39.204509+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:23.845636+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:12.652434+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:16.050712+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:08.370466+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:53.612872+07:00",
+    "temp": 14.9,
+    "humidity": 78.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:36.909730+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:29.180481+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:13.605464+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:55.985949+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:44.334528+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:05.668680+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:48.342832+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:29.815319+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:11.805499+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:56.837125+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:44.182654+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:26.823024+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:08.711158+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:50.680543+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:34.865977+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:22.587684+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:05.275810+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:47.245402+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:29.365187+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:13.981617+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:01.633576+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:28.359396+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:10.537590+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:55.039834+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:43.178492+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:24.590635+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:07.712891+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:49.958482+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:36.178383+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:23.806795+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:05.848797+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:48.348093+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:31.012804+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:16.232124+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:03.417195+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:44.700097+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:29.296380+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:03.982746+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:54.664776+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:13.782256+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:55.522914+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:38.600087+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:29.580895+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:11.431634+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:53.935550+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:35.570387+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:17.606384+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:07.771336+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:49.473711+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:32.046242+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:14.242900+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:56.561214+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:47.468138+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:28.882622+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:11.662581+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:53.079043+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:35.439509+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:26.055079+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:07.622704+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:50.853606+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:32.402494+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:14.842563+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:06.276299+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:47.828952+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:31.427307+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:12.295045+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:54.253909+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:44.569116+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:26.172572+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:08.493383+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:19.520835+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:10.588216+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:51.847850+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:34.570155+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:15.482951+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:57.566800+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:47.883332+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:29.387747+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:11.907549+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:52.980926+07:00",
+    "temp": 14.6,
+    "humidity": 80.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:35.250718+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:25.811322+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:07.595147+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:49.681010+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:31.100806+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:13.139366+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:03.982907+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:45.310612+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:28.350777+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:15.215286+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:05.645260+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:47.067482+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:29.332391+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:10.587234+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:52.962399+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:44.151363+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:26.339753+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:09.128801+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:50.449851+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:32.698238+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:23.505307+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:05.267096+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:49.173812+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:40.131321+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:04.955531+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:46.630350+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:29.546467+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:11.205130+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:57.326662+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:44.173164+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:26.075367+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:08.806697+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:50.376156+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:32.311617+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:17.443809+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:22.477450+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:25.913016+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:08.536836+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:53.294176+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:35.095043+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:17.687584+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:03.881586+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:46.684969+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:31.595504+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:13.018872+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:55.960599+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:43.604664+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:26.524586+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:11.194191+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:53.069667+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:36.046680+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:22.272193+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:05.187887+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:50.132737+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:31.773821+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:14.586503+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:01.869816+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:44.569064+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:30.559351+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:11.534449+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:54.895014+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:44.126644+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:26.569937+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:11.502460+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:53.218845+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:35.934850+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:22.045463+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:04.877093+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:49.758837+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:31.381219+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:14.420136+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:01.393895+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:47.582045+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:35.478367+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:18.653084+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:04.834684+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:46.879493+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:29.410716+07:00",
+    "temp": 14.3,
+    "humidity": 81.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:14.997273+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:57.583287+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:44.037840+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:26.725698+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:09.002721+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:53.610615+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:36.495390+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:22.835606+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:04.804834+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:47.313384+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:31.621767+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:15.361904+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:01.400752+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:43.381325+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:24.852232+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:09.458753+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:53.040479+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:39.465333+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:21.942274+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:03.702509+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:48.696507+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:31.644184+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:17.948159+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:00.657547+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:42.094943+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:26.262676+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:09.480825+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:56.165055+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:38.168086+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:19.946651+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:05.195981+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:48.259567+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:35.286110+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:17.283293+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:59.326946+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:44.316376+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:27.797651+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:15.512687+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:57.555314+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:40.666596+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:26.547749+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:09.510573+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:57.304958+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:39.862622+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:21.637278+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:06.783445+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:50.727249+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:36.776923+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:18.720104+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:00.919792+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:45.594979+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:30.558487+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:17.184440+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:02.393888+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:47.253698+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:28.854948+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:11.804566+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:58.091021+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:41.063544+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:25.914213+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:07.794577+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:50.750651+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:37.025407+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:20.143053+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:05.444258+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:46.992004+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:29.684373+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:16.150737+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:58.432057+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:42.822570+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:24.491680+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:07.786041+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:54.061336+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:36.980028+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:21.611819+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:03.667248+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:47.422491+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:33.973003+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:16.633224+07:00",
+    "temp": 14.1,
+    "humidity": 83.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:02.876698+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:51.022983+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:37.816336+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:20.256884+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:05.141207+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:46.702514+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:29.716093+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:17.772334+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:00.273168+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:45.001047+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:26.598433+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:10.648332+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:58.710377+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:42.403771+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:27.266081+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:08.981492+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:51.926173+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:38.495946+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:21.552245+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:07.367180+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:49.543314+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:32.222657+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:21.166614+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:04.390577+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:49.479299+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:34.268717+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:22.921168+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:05.514808+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:51.086411+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:33.257014+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:16.034748+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:03.656479+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:46.283414+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:31.420436+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:13.284742+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:57.095248+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:45.188091+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:27.898196+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:12.409729+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:54.306530+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:36.612835+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:24.328675+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:06.928521+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:51.941968+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:33.882971+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:15.677303+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:03.869695+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:46.709325+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:33.031464+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:15.140756+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:56.773002+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:44.897493+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:27.753912+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:12.795246+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:55.052326+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:37.885263+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:26.063456+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:09.765224+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:55.117061+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:37.850658+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:19.729086+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:07.532170+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:50.283632+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:35.436981+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:18.889098+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:03.187518+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:52.435809+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:37.380175+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:19.772591+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:01.558071+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:43.162128+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:32.542342+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:17.675193+07:00",
+    "temp": 12.8,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:50.658132+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:39.550832+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:23.276938+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:06.301398+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:55.258815+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:43.951013+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:28.573034+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:11.455719+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:00.597346+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:48.098456+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:31.446360+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:15.562875+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:04.993436+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:52.384411+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:35.737426+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:18.609585+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:08.373729+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:33.434772+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:36.107400+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:27.237914+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:14.514620+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:58.013407+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:41.364841+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:32.885617+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:02.831426+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:34.176322+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:13.770797+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:43.034665+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:50.689852+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:37.850635+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:20.866325+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:04.022499+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:53.880741+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:46.697190+07:00",
+    "temp": 18.7,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:10.355556+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:36.000301+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:09.382332+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:42.098609+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:14.882928+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:49.307523+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:41.954951+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:29.591978+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:15.590104+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:02.187867+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:46.308673+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:33.965910+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:21.104690+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:09.708500+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:54.317839+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:44.497068+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:31.952010+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:18.245837+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:30.349989+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:04.246577+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:35.785822+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:49.188303+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:35.939695+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:24.931890+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:08.927462+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:56.245824+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:55.923155+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:33.345427+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:23.092874+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:14.029347+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:01.415578+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:47.579249+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:33.941729+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:20.839991+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:44.285304+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:32.580317+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:53.668155+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:36.438818+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:13.204934+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:50.327739+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:29.340237+07:00",
+    "temp": 20.5,
+    "humidity": 60.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:26.089376+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:09.760379+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:57.338448+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:41.971810+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:31.989031+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:19.838258+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:57.976642+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:35.961131+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:13.792427+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:57.813690+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:38.879677+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:15.925467+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:53.107848+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:33.691958+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:19.738531+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:02.365083+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:40.571469+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:17.809485+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:56.312945+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:40.191529+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:21.922468+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:59.994011+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:37.594210+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:20.780241+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:26.061586+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:39.777425+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:28.707573+07:00",
+    "temp": 22.9,
+    "humidity": 56.0,
+    "pressure": 1020.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:28.771792+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:33.406589+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:33.537558+07:00",
+    "temp": 21.7,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Lang Son"
+  }
+]

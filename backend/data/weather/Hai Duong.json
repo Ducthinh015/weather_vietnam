@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:11.535639+07:00",
+    "temp": 19.1,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:00.912121+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:45.757041+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:26.096472+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:07.004486+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:47.419859+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:35.535152+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:21.846295+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:04.023797+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:45.079995+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:25.563175+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:12.468763+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:00.737808+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:43.458551+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:25.715270+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:52.462423+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:46.633635+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:28.619812+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:13.572889+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:58.917316+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:41.915030+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:30.892023+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:15.397383+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:00.697220+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:43.011000+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:25.161844+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:12.337360+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:57.978822+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:43.194910+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:25.797833+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:07.540928+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:55.784638+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:40.992344+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:27.238130+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:10.521744+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:56.894718+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:42.972207+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:28.697816+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:11.004887+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:53.106675+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:39.758775+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:24.393861+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:09.246966+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:52.489624+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:35.227007+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:21.191925+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:06.625338+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:53.515752+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:35.875497+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:18.385749+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:08.850032+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:53.937515+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:36.153065+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:18.782696+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:00.691194+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:50.927528+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:36.434592+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:18.512313+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:01.602118+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:44.772512+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:37.724077+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:19.967490+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:02.681192+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:44.352886+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:26.420229+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:19.400543+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:01.743351+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:44.834596+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:27.016379+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:09.752300+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:01.922884+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:44.773945+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:27.698146+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:10.720874+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:02.439858+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:45.259431+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:27.618895+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:10.138122+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:52.704783+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:45.937171+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:28.808740+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:13.157293+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:56.505575+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:48.884819+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:31.316063+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:14.753034+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:58.548533+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:51.173737+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:33.942968+07:00",
+    "temp": 19.1,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:19.203125+07:00",
+    "temp": 19.1,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:03.863123+07:00",
+    "temp": 19.1,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:11.079038+07:00",
+    "temp": 19.1,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:02.320480+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:48.837824+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:31.836332+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:24.327973+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:08.211989+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:51.166212+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:35.204875+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:01.149048+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:43.095963+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:25.252849+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:06.683631+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:52.004737+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:39.653941+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:21.669637+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:04.065748+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:45.497440+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:30.401489+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:18.071743+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:00.139827+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:42.511906+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:24.196271+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:09.479448+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:57.047937+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:22.883462+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:05.253652+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:50.622581+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:38.663168+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:20.100894+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:02.122713+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:44.762415+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:31.643988+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:19.361738+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:01.354790+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:42.910183+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:25.614475+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:11.811642+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:59.016065+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:40.215295+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:23.721713+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:50.126786+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:08.342016+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:50.927228+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:33.247240+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:25.072708+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:06.885991+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:48.609424+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:31.048801+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:12.512165+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:03.388908+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:44.803976+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:26.786150+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:09.851313+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:51.329574+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:42.956181+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:24.431084+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:06.226772+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:48.609755+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:30.044270+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:21.683161+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:03.082058+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:45.355261+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:27.755696+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:09.604255+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:01.687040+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:43.397531+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:25.853895+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:07.850783+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:49.089518+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:40.057606+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:21.676001+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:03.322349+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:14.265817+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:06.052473+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:47.566823+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:28.940049+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:11.150754+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:52.337788+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:43.326928+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:24.938847+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:06.566571+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:48.586688+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:29.881661+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:20.784371+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:03.212992+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:44.496072+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:26.406671+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:07.961086+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:59.512816+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:40.772918+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:22.572740+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:05.737805+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:01.118791+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:42.677608+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:24.082789+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:06.134600+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:47.738795+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:39.467029+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:21.800665+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:03.807470+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:45.964755+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:27.315645+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:18.914968+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:00.713795+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:43.868070+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:26.247443+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:59.973111+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:42.157093+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:24.135800+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:06.462782+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:52.834738+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:39.170885+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:21.375849+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:03.514240+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:45.783548+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:26.931064+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:12.058111+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:06.570958+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:21.496261+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:03.477586+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:47.937999+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:30.386559+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:13.210630+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:59.502410+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:41.740343+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:26.037591+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:08.315359+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:51.394546+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:39.172757+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:21.460107+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:05.969742+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:48.313307+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:31.547403+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:17.787512+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:59.925461+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:44.662409+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:27.105379+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:10.195960+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:57.400881+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:39.485140+07:00",
+    "temp": 18.5,
+    "humidity": 78.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:23.875637+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:06.975419+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:50.383063+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:36.766116+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:21.674438+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:05.892368+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:48.591307+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:31.608404+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:17.430363+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:59.820451+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:44.477520+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:26.625913+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:09.956769+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:56.529321+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:41.662440+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:29.748178+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:14.006537+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:00.367865+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:42.404964+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:23.872063+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:09.579243+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:53.083564+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:39.522779+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:22.038033+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:04.037281+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:47.953863+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:31.996889+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:18.370106+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:00.282705+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:42.120795+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:26.063327+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:10.945742+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:56.946976+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:38.891121+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:19.878566+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:03.978748+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:48.666561+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:34.991423+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:17.494187+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:58.762475+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:43.133485+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:27.238108+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:13.495510+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:56.191303+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:37.123757+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:20.926791+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:04.921534+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:51.588032+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:33.635178+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:14.798326+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:59.582331+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:43.759372+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:30.703045+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:12.904761+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:54.366868+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:38.341408+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:23.342111+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:11.064669+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:53.023758+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:35.674420+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:20.901410+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:04.972773+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:52.520376+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:35.413557+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:16.604075+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:01.122386+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:46.214987+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:32.352196+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:14.329663+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:55.882517+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:40.138654+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:26.087683+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:12.676619+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:57.415022+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:41.792503+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:24.343173+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:07.347744+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:53.597507+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:36.026968+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:20.506710+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:03.155734+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:46.165062+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:32.586607+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:15.120964+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:59.818506+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:42.530510+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:25.218596+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:11.575200+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:53.395223+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:37.436950+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:19.988986+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:03.317430+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:49.533140+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:32.028626+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:16.077827+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:59.149498+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:42.814888+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:29.363614+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:11.549784+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:56.307621+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:46.459400+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:33.299910+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:15.212948+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:59.581580+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:42.179268+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:25.230096+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:13.361629+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:55.274330+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:39.512841+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:22.072956+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:05.787845+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:54.242938+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:37.504812+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:21.792294+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:04.484399+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:47.453090+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:33.943209+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:16.532140+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:01.733363+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:45.126627+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:27.583234+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:16.556792+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:59.308992+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:43.832203+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:26.631555+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:18.366908+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:00.479991+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:45.533664+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:28.623066+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:11.507823+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:59.207704+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:41.282243+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:25.868023+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:08.839847+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:52.564650+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:40.745010+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:22.910496+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:06.927564+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:49.495074+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:32.124382+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:19.875677+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:01.994553+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:46.434590+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:29.265271+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:11.161854+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:59.504356+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:41.737707+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:27.627767+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:10.631591+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:52.179619+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:40.445422+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:22.717822+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:07.392865+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:50.344071+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:33.433224+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:21.572092+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:04.736314+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:49.411115+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:33.227145+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:15.141171+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:03.101721+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:45.415334+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:29.801573+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:13.576407+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:58.149666+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:47.418074+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:31.842400+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:15.236373+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:57.083652+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:38.695936+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:27.380342+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:12.082907+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:43.622140+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:34.880619+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:18.708848+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:01.805718+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:49.181071+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:39.342156+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:23.967153+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:06.748508+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:54.264605+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:43.473925+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:26.701952+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:10.743009+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:58.500192+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:47.886305+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:30.995913+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:13.909490+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:02.225994+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:21.918761+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:30.800806+07:00",
+    "temp": 22.3,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:20.714046+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:10.054416+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:52.878563+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:36.595688+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:26.570243+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:51.626598+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:22.418819+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:01.230434+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:31.743114+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:46.022161+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:31.650982+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:16.084063+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:58.880901+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:49.289584+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:35.829618+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:58.732916+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:24.790613+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:56.585721+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:30.869012+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:02.598059+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:38.231492+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:36.705072+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:23.477627+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:10.911988+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:57.302208+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:41.811741+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:28.048696+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:14.435071+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:05.019353+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:49.606485+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:38.420146+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:25.645430+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:13.310767+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:18.894665+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:51.675135+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:23.948169+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:44.547252+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:29.862549+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:20.471552+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:04.023176+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:51.488315+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:43.468952+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:21.692369+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:18.352650+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:07.966282+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:56.374361+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:42.815053+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:29.200921+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:14.742395+07:00",
+    "temp": 23.7,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:34.014526+07:00",
+    "temp": 23.7,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:27.723219+07:00",
+    "temp": 23.7,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:47.304014+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:32.603862+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:09.394517+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:46.610577+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:25.605147+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.305555555555556,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:20.521194+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:05.150707+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:52.158497+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:37.284284+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:25.535027+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:14.831064+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:54.257205+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:32.168966+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:09.822824+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:52.475744+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:35.128302+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:12.049461+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:49.291357+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:29.132156+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:14.042834+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:58.463279+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:36.646010+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:13.898172+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:51.846418+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:34.708604+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:18.019540+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:56.059227+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:33.639990+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:14.774135+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:22.094400+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:34.296760+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:23.084727+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:23.895019+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:26.729507+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:26.941168+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Hai Duong"
+  }
+]

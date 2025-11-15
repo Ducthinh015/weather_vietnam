@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:27.866047+07:00",
+    "temp": 19.4,
+    "humidity": 73.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:19.759700+07:00",
+    "temp": 19.4,
+    "humidity": 73.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:00.183850+07:00",
+    "temp": 19.4,
+    "humidity": 73.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:40.853675+07:00",
+    "temp": 19.4,
+    "humidity": 73.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:21.212275+07:00",
+    "temp": 19.4,
+    "humidity": 73.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:02.866119+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:55.552971+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:36.174786+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:18.660699+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:59.665926+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:40.650919+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:33.735287+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:16.320802+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:58.672869+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:41.844985+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:19.796558+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:01.840366+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:44.916752+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:28.696215+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:14.342476+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:03.224668+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:46.725638+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:30.501976+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:16.398441+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:58.152612+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:44.847220+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:28.391000+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:13.124223+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:59.133085+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:40.881318+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:26.965915+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:11.772488+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:57.363206+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:42.755462+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:29.617228+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:13.004963+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:58.569794+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:44.413006+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:26.588133+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:12.241027+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:55.338630+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:39.601204+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:25.370438+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:07.732712+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:54.076658+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:37.272649+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:21.909168+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:09.120583+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:50.908021+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:38.436960+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:24.209443+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:09.361230+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:51.822329+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:34.226813+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:21.219048+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:06.055348+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:51.436874+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:34.534865+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:17.348367+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:04.711949+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:52.873938+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:35.894293+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:17.815995+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:59.550001+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:46.220181+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:34.904004+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:18.161774+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:00.168668+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:43.120687+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:29.091793+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:17.137473+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:00.739694+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:43.811556+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:30.575436+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:17.453474+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:00.575434+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:43.489332+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:26.063226+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:13.344803+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:01.159357+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:45.766625+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:28.324587+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:15.930568+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:04.183396+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:46.994560+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:31.922565+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:18.442209+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:06.875981+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:52.180542+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:34.434547+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:33.562317+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:27.240866+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:20.202648+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:04.900499+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:51.330470+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:40.431458+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:24.371394+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:06.920781+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:25.788560+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:16.270167+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:58.734666+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:40.375730+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:25.162801+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:07.979829+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:54.767229+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:37.301620+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:19.008484+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:03.997282+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:45.949730+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:33.241741+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:15.755444+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:57.564852+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:43.092669+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:25.053938+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:13.309786+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:38.766264+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:24.140908+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:06.052488+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:53.767203+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:35.287177+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:18.041332+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:03.919101+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:46.988335+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:34.225675+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:16.082298+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:58.665943+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:45.022526+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:27.120677+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:13.695983+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:56.173193+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:39.897253+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:18.147505+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:09.048722+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:24.304115+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:06.112818+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:52.592143+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:40.477527+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:22.053809+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:04.355021+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:45.926134+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:31.588652+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:18.240067+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:00.033758+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:42.601352+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:25.023966+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:11.169764+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:57.901985+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:39.575946+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:22.190128+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:03.526276+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:49.624341+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:36.567532+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:18.263712+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:01.168619+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:43.083705+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:29.254261+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:16.669094+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:58.168948+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:41.499873+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:22.653267+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:08.220118+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:55.127547+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:36.674193+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:26.406289+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:34.181219+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:21.071247+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:02.162280+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:44.712862+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:25.785595+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:11.505868+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:58.342775+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:39.732134+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:22.355088+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:03.416762+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:49.423882+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:36.653431+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:17.827239+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:59.997448+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:41.696331+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:27.344930+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:14.416138+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:55.686847+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:39.083045+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:29.626936+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:16.163694+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:57.381430+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:39.741772+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:21.264227+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:07.290058+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:54.600943+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:36.631262+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:19.636611+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:00.822341+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:46.721578+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:34.262823+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:15.889044+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:59.695844+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:18.032397+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:15.582161+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:57.229962+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:40.024148+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:25.759649+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:07.839258+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:54.611832+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:36.575231+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:19.303843+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:04.969034+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:43.149956+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:27.937762+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:52.230501+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:36.318965+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:19.106661+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:03.694500+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:46.929544+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:30.145731+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:14.418512+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:57.205136+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:41.919508+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:24.957391+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:08.548954+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:54.027799+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:36.952377+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:21.582291+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:04.982093+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:48.440036+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:32.806745+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:15.480320+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:00.607766+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:43.757464+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:28.231414+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:12.171553+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:55.012944+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:40.800663+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:23.569620+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:07.544302+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:54.686929+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:37.179279+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:21.882069+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:05.088149+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:48.413894+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:32.380411+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:15.482410+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:00.179564+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:43.467377+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:27.090424+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:12.058576+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:00.249756+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:47.378723+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:31.056670+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:15.235622+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:57.208692+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:40.703940+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:26.730157+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:10.014225+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:54.634784+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:37.309488+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:19.300077+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:05.358228+07:00",
+    "temp": 18.4,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:49.236503+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:33.284878+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:15.479288+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:57.592896+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:44.462500+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:27.761179+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:11.709459+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:53.840705+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:35.251400+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:21.541060+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:05.710911+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:50.221452+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:32.359436+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:14.225742+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:00.688647+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:44.067489+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:28.285819+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:10.811973+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:52.448309+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:38.476704+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:22.358473+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:06.611766+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:48.497523+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:30.461650+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:17.171754+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:01.297048+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:45.773833+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:27.735142+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:09.857400+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:56.679262+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:41.800738+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:25.884658+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:09.048324+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:51.118880+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:38.524484+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:22.100850+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:08.104671+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:50.372451+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:32.210674+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:18.657540+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:03.154969+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:47.179019+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:29.143098+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:11.381167+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:59.730505+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:43.376938+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:27.628423+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:12.832216+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:57.665159+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:40.772642+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:24.208146+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:08.778666+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:51.541404+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:36.620906+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:19.777665+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:03.323036+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:47.454992+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:30.598055+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:16.058032+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:58.823105+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:42.422169+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:26.452377+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:08.804035+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:53.486221+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:36.797440+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:20.343479+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:04.574077+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:47.437630+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:32.586182+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:16.086932+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:59.897000+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:44.448363+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:27.180437+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:19.824435+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:03.539173+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:48.084733+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:30.767823+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:15.391805+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:58.651364+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:43.263670+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:28.228404+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:10.868650+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:55.509047+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:38.817065+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:24.565950+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:10.000548+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:52.970053+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:38.037620+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:20.820733+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:04.491007+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:49.080445+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:32.238757+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:18.434744+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:01.010515+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:44.762613+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:31.861316+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:14.962883+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:00.291179+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:48.042711+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:33.625522+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:16.061890+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:01.939885+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:43.962418+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:29.812874+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:14.104784+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:57.099493+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:42.055647+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:23.656687+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:11.138513+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:55.737283+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:38.227664+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:23.135086+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:05.603924+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:50.365745+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:34.724174+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:17.583565+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:02.817382+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:44.487905+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:29.729429+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:14.586280+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:58.423763+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:43.819528+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:25.497913+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:10.691973+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:55.554402+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:38.394199+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:23.759630+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:05.781816+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:51.997644+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:36.700614+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:20.446685+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:06.168650+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:48.565115+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:33.489219+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:18.010621+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:00.620781+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:46.440907+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:30.722388+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:17.249686+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:02.847955+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:48.120881+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:30.435016+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:12.004267+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:56.868657+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:43.039904+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:06.423016+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:50.255247+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:34.309371+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:16.960363+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:11.052280+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:54.631135+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:39.183164+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:22.085076+07:00",
+    "temp": 23.2,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:15.074057+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:59.114122+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:42.157123+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:26.278896+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:19.732842+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:03.375701+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:46.815151+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:29.735725+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:30.366671+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:59.363807+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:47.706925+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:41.792421+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:25.209626+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:08.881376+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:54.660679+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:59.233340+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:29.267016+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:03.859589+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:39.989962+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:12.617095+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:01.248983+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:48.599114+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:31.710913+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:19.149493+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:05.038786+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:11.457758+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:33.534456+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:02.033356+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:38.176813+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:08.398169+07:00",
+    "temp": 24.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:44.204945+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:07.776488+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:53.100938+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:42.487694+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:27.256798+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:14.374787+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:57.296274+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:47.331817+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:33.964370+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:21.812382+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:08.027285+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:57.330269+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:43.348400+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:30.349808+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:56.563023+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:30.654052+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:02.483169+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:00.304721+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:49.314966+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:36.219047+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:21.212576+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:09.514043+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:25.225756+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:48.780899+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:34.733279+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:27.941282+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:12.636944+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:59.889251+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:44.937539+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:42.425951+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:56.839252+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:44.696836+07:00",
+    "temp": 25.1,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:07.099104+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:45.194634+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:22.545893+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:59.262141+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:38.479046+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:39.485884+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:21.947382+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:09.475135+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:53.341274+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:47.229994+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:29.893122+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:07.358446+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:44.926283+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:23.017446+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:10.513420+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:47.868755+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:25.238853+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:02.357726+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:43.190502+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:32.474569+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:11.588267+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:49.526360+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:27.107745+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:05.345551+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:52.967430+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:31.170795+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:09.242945+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:46.503931+07:00",
+    "temp": 26.1,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:35.102126+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:36.263940+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:53.598074+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:42.567160+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:42.589021+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:49.029304+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:49.140473+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tien Giang"
+  }
+]

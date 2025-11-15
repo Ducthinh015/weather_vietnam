@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:28.554313+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:20.267834+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:00.670582+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:41.337134+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:21.704196+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:03.539975+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:55.987049+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:36.652719+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:19.141003+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:00.168539+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:41.307953+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:34.269668+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:16.820023+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:59.167588+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:42.521210+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:20.309200+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:02.402556+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:45.606355+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:29.243137+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:14.834823+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:03.736795+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:47.415937+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:31.034382+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:16.950735+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:58.625193+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:45.383706+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:29.112627+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:13.635927+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:59.670784+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:41.410528+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:27.480929+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:12.408252+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:57.905050+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:43.263107+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:30.129320+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:13.710289+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:59.165068+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:44.909786+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:27.093919+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:12.816920+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:55.998066+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:40.108200+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:25.899313+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:08.200720+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:54.569018+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:37.984938+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:22.401395+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:09.710533+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:51.410465+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:39.145583+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:24.694852+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:09.887499+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:52.322166+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:34.769120+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:21.907934+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:06.600539+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:51.909577+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:35.057317+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:17.842769+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:05.347531+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:53.384725+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:36.458413+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:18.316998+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:00.064809+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:46.936901+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:35.405054+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:18.695030+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:00.647929+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:43.597424+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:29.753067+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:17.602089+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:01.269757+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:44.309058+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:31.291807+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:17.969232+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:01.055029+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:44.006575+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:26.569517+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:13.999690+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:01.667003+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:46.318921+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:28.923063+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:16.619660+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:04.684552+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:47.453819+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:32.475851+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:19.099988+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:07.400023+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:52.700324+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:34.998335+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:34.841524+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:27.801649+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:20.694939+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:05.380500+07:00",
+    "temp": 23.7,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.03,
+    "cloud": 70.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:52.062951+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:41.042397+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:24.889334+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:07.434880+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:26.925393+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:16.764716+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:59.239442+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:40.885997+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:25.692057+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:08.676442+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:55.243073+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:37.800831+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:19.494767+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:04.485101+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:46.620198+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:33.739724+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:16.237263+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:58.064812+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:43.641100+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:25.910793+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:16.434920+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:39.282477+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:24.616149+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:06.726248+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:54.321723+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:35.841551+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:18.510785+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:04.416454+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:47.635779+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:34.713025+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:16.549700+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:59.156576+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:45.534738+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:27.775642+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:14.187159+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:56.670101+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:40.401303+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:18.821109+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:09.801474+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:24.813935+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:06.637975+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:53.316690+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:41.025559+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:22.519129+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:04.787803+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:46.418880+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:32.269701+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:18.746010+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:00.525973+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:43.086844+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:25.508527+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:11.934798+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:58.378877+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:40.049897+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:22.647971+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:04.026476+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:50.322707+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:37.025635+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:18.748058+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:01.664429+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:43.585256+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:29.927288+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:17.180397+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:58.666765+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:41.993203+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:23.153138+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:08.847509+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:55.610466+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:37.179872+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:28.011968+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:34.848729+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:21.606519+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:02.671140+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:45.230678+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:26.324551+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:12.172294+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:58.840977+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:40.248534+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:22.909318+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:03.887850+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:50.067282+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:37.122449+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:18.343849+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:00.463042+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:42.179666+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:27.980080+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:14.926907+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:56.225639+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:39.565681+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:30.308296+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:16.692448+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:57.896918+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:40.261722+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:21.751185+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:07.981972+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:55.096083+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:37.161151+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:20.142319+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:01.300609+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:47.443905+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:34.741259+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:16.358706+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:00.196458+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:19.109734+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:16.078406+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:57.740804+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:40.537370+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:26.390650+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:08.322918+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:55.098564+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:37.033703+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:19.816969+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:05.594006+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:43.676263+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:28.383852+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:52.912623+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:36.814205+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:19.620910+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:04.177669+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:47.448277+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:30.864800+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:14.894198+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:57.700039+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:42.422195+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:25.480113+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:09.204926+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:54.508806+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:37.467366+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:22.092965+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:05.535855+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:49.090681+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:33.292459+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:15.987961+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:01.100662+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:44.262905+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:28.872277+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:12.693216+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:55.481446+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:41.284735+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:24.096577+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:08.228194+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:55.159568+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:37.677534+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:22.419758+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:05.570988+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:49.055669+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:32.859734+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:15.983528+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:00.667608+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:43.970931+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:27.754612+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:12.580073+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:00.871361+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:47.856574+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:31.700245+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:15.678687+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:57.698619+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:41.242440+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:27.227201+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:10.679278+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:55.123238+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:37.815259+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:19.746852+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:05.868802+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:49.900642+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:33.760647+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:15.972148+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:58.083283+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:44.928380+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:28.470007+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:12.232628+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:54.294637+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:35.729536+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:22.060952+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:06.444750+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:50.707664+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:32.862619+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:14.712522+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:01.215022+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:44.731081+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:28.782987+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:11.295692+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:52.945478+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:38.990158+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:23.018027+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:07.085322+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:48.996680+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:30.963277+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:17.711105+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:01.939361+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:46.252448+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:28.238152+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:10.340283+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:57.160237+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:42.507606+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:26.386017+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:09.550005+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:51.594100+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:39.001040+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:22.786081+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:08.615263+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:50.855582+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:32.698125+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:19.162206+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:03.797390+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:47.686731+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:29.651340+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:11.909532+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:00.231699+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:44.044016+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:28.094973+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:13.355009+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:58.235296+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:41.283220+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:24.871436+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:09.284686+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:52.050807+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:37.138533+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:20.329888+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:03.982146+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:47.954774+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:31.053692+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:16.552939+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:59.357685+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:43.087554+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:26.948910+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:09.316374+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:54.036669+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:37.294877+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:20.985461+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:05.077874+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:47.927172+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:33.092716+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:16.611152+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:00.594921+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:44.905758+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:27.645633+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:20.344089+07:00",
+    "temp": 23.0,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:04.174241+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:48.602269+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:31.265321+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:15.893144+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:59.127376+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:44.141132+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:28.706712+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:11.404023+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:56.026591+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:39.329224+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:25.277095+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:10.498139+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:53.483203+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:38.566606+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:21.321820+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:05.289757+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:49.593951+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:32.750060+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:18.973122+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:01.458576+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:45.392154+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:32.361947+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:15.459346+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:00.793675+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:48.719824+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:34.093612+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:16.552215+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:02.413247+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:44.482985+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:30.567261+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:14.566219+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:57.562416+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:42.550079+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:24.146529+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:11.904847+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:56.241780+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:38.765350+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:23.629513+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:06.083422+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:51.046554+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:35.186766+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:18.077505+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:03.279234+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:44.973082+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:30.474191+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:15.041489+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:58.968928+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:44.319662+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:25.975127+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:11.363980+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:55.998203+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:38.886816+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:24.274467+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:06.252255+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:52.683226+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:37.261049+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:20.970810+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:06.680109+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:49.084687+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:34.203704+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:18.521793+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:01.107482+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:46.948151+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:31.233839+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:17.895206+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:03.354907+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:48.639587+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:30.922427+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:12.512149+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:57.596150+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:43.522600+07:00",
+    "temp": 22.6,
+    "humidity": 95.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:07.129671+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:50.975112+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:34.820872+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:17.462746+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:11.739126+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:55.150861+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:39.738965+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:22.567458+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:15.835099+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:59.635697+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:42.659584+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:26.801879+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:20.412960+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:03.893211+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:47.283279+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:30.231440+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:31.700571+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:00.646985+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:48.276530+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:42.531547+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:25.759511+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:09.461885+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:55.165328+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:00.620061+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:30.538064+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:05.246798+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:41.196522+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:13.930676+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:01.809226+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:49.219259+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:32.185870+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:19.784570+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:05.612518+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:12.230083+07:00",
+    "temp": 27.4,
+    "humidity": 75.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.0,
+    "rain": 0.01,
+    "cloud": 76.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:34.845490+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:03.250048+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:39.562102+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:09.624314+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:45.595909+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:08.313494+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:53.637077+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:42.985975+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:27.990972+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:14.902544+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:57.809080+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:47.825480+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:34.736867+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:22.363103+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:08.532544+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:57.844695+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:44.030748+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:30.878870+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:57.806193+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:31.994544+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:03.750732+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:00.828366+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:49.995050+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:36.736837+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:21.810952+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:10.130154+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:26.817896+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:49.381215+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:35.280010+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:28.654079+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:13.186942+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:00.419013+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:45.481595+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:43.826153+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:57.376268+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:45.240773+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:07.644530+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:45.630189+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:22.986410+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:59.686830+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:38.929567+07:00",
+    "temp": 28.9,
+    "humidity": 64.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.02,
+    "cloud": 88.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:40.083206+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:22.523619+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:10.010569+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:53.789934+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:47.940607+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:30.375694+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:07.802023+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:45.378670+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:23.471459+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:11.026901+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:48.266030+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:25.639841+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:02.791469+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:43.636981+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:33.120419+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:12.026978+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:49.946945+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:27.578380+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:05.844661+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:53.571557+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:31.643819+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:09.628949+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:46.925652+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:35.713738+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:36.763155+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:54.223398+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:43.200515+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:43.216277+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:49.675639+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:49.820692+07:00",
+    "temp": 29.9,
+    "humidity": 60.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.05,
+    "cloud": 79.0,
+    "city": "Tra Vinh"
+  }
+]

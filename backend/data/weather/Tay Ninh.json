@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:24.695340+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:17.322200+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:57.787498+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:38.292395+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:18.830446+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:59.493159+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:53.176729+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:33.829604+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:16.292938+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:57.335707+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:37.373863+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:31.217123+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:13.839896+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:56.188991+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:38.504411+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:17.319288+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:59.382707+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:41.541405+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:26.204959+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:11.750658+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:00.658240+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:43.529505+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:27.812040+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:13.779127+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:55.678772+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:42.100676+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:24.846079+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:10.629938+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:56.745894+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:38.387038+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:24.458725+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:08.284834+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:54.766341+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:40.288094+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:27.157973+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:09.422455+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:55.926772+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:41.862450+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:24.077367+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:09.796676+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:51.980190+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:37.065358+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:22.736986+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:05.200806+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:51.616613+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:33.806432+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:19.394594+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:06.567982+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:48.413509+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:34.898265+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:21.546072+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:06.855370+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:49.377008+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:31.621085+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:17.912913+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:03.571609+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:48.968668+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:32.047984+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:14.685666+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:01.012744+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:50.373853+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:33.421253+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:15.233016+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:57.015731+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:42.826893+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:32.359118+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:15.579141+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:57.706311+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:40.424123+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:25.676024+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:14.650692+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:58.169201+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:41.081039+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:27.184852+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:14.973961+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:58.054550+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:40.976684+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:23.624263+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:09.912957+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:58.528936+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:43.311906+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:25.845130+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:12.496712+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:01.556690+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:44.608490+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:28.986199+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:15.139082+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:04.122926+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:49.717562+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:31.936484+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:29.422056+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:24.607677+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:17.386949+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:02.194385+07:00",
+    "temp": 21.8,
+    "humidity": 82.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:47.883832+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:37.806685+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:21.519068+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:04.107005+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:20.745343+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:13.700443+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:56.295514+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:37.784535+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:22.328965+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:04.959510+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:52.340969+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:34.838216+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:16.581905+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:01.270581+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:42.812049+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:30.744579+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:13.224281+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:55.208661+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:40.212057+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:22.083578+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:09.409914+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:36.348809+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:21.355021+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:03.066868+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:51.266821+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:32.699735+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:15.560630+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:01.015984+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:44.038505+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:31.717457+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:13.691080+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:56.269500+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:42.102748+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:24.178384+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:11.379993+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:53.707093+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:37.441915+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:14.817320+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:02.626368+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:21.779556+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:03.575593+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:49.258503+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:37.810534+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:19.472915+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:01.868900+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:43.502143+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:28.261025+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:15.822254+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:57.594085+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:40.093851+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:22.481899+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:07.847016+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:55.455067+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:36.920409+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:19.774132+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:01.025051+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:46.202510+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:34.074610+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:15.740656+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:58.759958+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:40.619051+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:25.926687+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:14.188671+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:55.614817+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:39.065660+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:20.212004+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:04.887949+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:52.559565+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:34.135973+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:23.481475+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:30.517016+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:18.621936+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:59.672676+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:42.263489+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:23.218828+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:08.236297+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:55.930409+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:37.320616+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:19.864215+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:00.898514+07:00",
+    "temp": 21.4,
+    "humidity": 80.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:45.906827+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:34.084437+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:15.404865+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:57.535804+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:39.201678+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:24.098638+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:11.962223+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:53.220594+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:36.702353+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:26.192698+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:13.669672+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:54.977304+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:37.304377+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:18.749583+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:04.009542+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:52.084513+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:34.189653+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:17.130000+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:58.350996+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:43.355585+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:31.882709+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:13.313369+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:57.256484+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:14.136908+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:13.016036+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:54.825903+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:37.564400+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:22.516557+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:05.337659+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:52.265768+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:34.144150+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:16.855324+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:01.598173+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:40.610537+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:25.432616+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:48.791893+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:33.883906+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:16.663004+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:01.202419+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:44.489981+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:26.767925+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:11.897002+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:54.734970+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:39.498821+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:22.495910+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:05.135632+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:51.572827+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:34.497207+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:19.111597+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:02.582398+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:45.144476+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:30.346103+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:12.968686+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:58.107045+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:41.311384+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:25.005034+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:09.718828+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:52.509591+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:38.352329+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:21.082459+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:04.195621+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:52.158032+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:34.749791+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:19.484666+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:02.630267+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:45.025717+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:29.900752+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:12.965573+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:57.699925+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:40.984404+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:23.795215+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:09.385222+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:57.231198+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:44.907764+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:27.727678+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:12.703268+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:54.719281+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:38.144500+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:24.386749+07:00",
+    "temp": 20.9,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:06.655537+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:52.011890+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:34.702790+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:16.872925+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:02.963221+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:45.717383+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:30.789586+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:12.843132+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:55.124473+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:41.016229+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:24.507100+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:09.274087+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:51.391118+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:32.806623+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:18.951367+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:02.423745+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:47.763786+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:29.798377+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:11.743044+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:58.179006+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:40.786083+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:25.863433+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:08.496603+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:49.911148+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:35.981532+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:18.931185+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:04.100106+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:46.035926+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:27.872093+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:14.696096+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:57.935733+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:43.338468+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:25.215027+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:07.358500+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:54.067211+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:38.290345+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:23.390811+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:06.535591+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:48.689334+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:36.013925+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:18.779700+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:05.604788+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:47.876508+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:29.518578+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:16.221579+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:59.831474+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:44.714034+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:26.635979+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:08.927455+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:57.146503+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:39.904671+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:25.164306+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:10.342423+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:55.292765+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:38.317633+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:20.908241+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:06.243882+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:49.089196+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:34.174706+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:17.306761+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:59.775577+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:44.994870+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:28.070728+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:13.571620+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:56.398022+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:39.030109+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:23.998310+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:06.336996+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:50.891835+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:34.273922+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:16.944055+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:02.043097+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:44.878794+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:29.904893+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:13.598206+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:56.568666+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:41.905043+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:24.585457+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:17.319390+07:00",
+    "temp": 20.4,
+    "humidity": 76.0,
+    "pressure": 1011.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:00.219120+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:45.623894+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:28.252679+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:12.935773+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:56.227780+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:38.955414+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:25.737799+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:08.305815+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:52.976407+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:36.280884+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:20.930886+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:07.281017+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:50.481305+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:35.573205+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:18.253828+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:01.015203+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:46.539543+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:29.730199+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:15.880814+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:58.566469+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:41.447736+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:29.292530+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:12.457678+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:57.763223+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:44.708788+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:31.183345+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:13.558527+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:59.444122+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:41.409838+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:26.439515+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:11.674770+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:54.518829+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:39.592797+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:21.130417+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:07.698403+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:53.241771+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:35.804757+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:20.650547+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:02.972341+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:46.966768+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:32.255036+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:15.076821+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:00.361717+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:41.981436+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:26.150229+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:12.096058+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:55.951372+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:41.389486+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:22.985702+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:07.363577+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:53.072539+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:35.843117+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:21.292814+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:03.180318+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:48.563953+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:34.184902+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:17.896394+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:03.678758+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:46.039847+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:30.070200+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:15.522416+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:58.141762+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:43.892970+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:28.061828+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:13.622257+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:00.285755+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:45.652433+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:27.816979+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:09.518828+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:53.530431+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:40.561085+07:00",
+    "temp": 20.0,
+    "humidity": 75.0,
+    "pressure": 1011.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:03.039933+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:47.713808+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:31.663784+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:14.340006+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:07.584932+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:52.095701+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:36.607834+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:19.660771+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:11.689484+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:56.465850+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:39.669167+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:23.753990+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:16.345684+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:00.762208+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:44.184720+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:26.954899+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:22.953784+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:53.186933+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:45.034553+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:38.188096+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:22.653653+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:06.332058+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:51.699051+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:52.178097+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:22.489567+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:56.616493+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:33.830538+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:05.466254+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:58.831055+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:45.924023+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:29.100593+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:15.604882+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:02.308381+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:05.804060+07:00",
+    "temp": 24.2,
+    "humidity": 70.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:26.362079+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:55.664144+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:31.180404+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:02.436503+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:37.326659+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:05.145305+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:50.352938+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:39.799756+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:23.986541+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:11.798244+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:54.681182+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:44.569514+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:30.319496+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:19.030006+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:02.627671+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:54.602567+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:40.000326+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:27.668599+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:50.317907+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:23.474374+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:56.463532+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:57.617104+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:45.940732+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:33.557604+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:18.527775+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:06.872939+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:18.094869+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:45.605581+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:32.088984+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:24.354091+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:09.962415+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:57.207598+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:42.409551+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:35.439355+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:53.970685+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:42.158982+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:04.152711+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:43.124451+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:20.380694+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:57.207149+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:36.371353+07:00",
+    "temp": 26.0,
+    "humidity": 67.0,
+    "pressure": 1013.0,
+    "wind_speed": 4.611111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:36.171621+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:18.990990+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:06.825311+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:50.273670+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:43.699620+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:27.665436+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:05.031527+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:42.721238+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:20.891121+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:07.505383+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:45.758883+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:23.027661+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:00.117090+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:41.012949+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:29.364284+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:09.453527+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:47.348272+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:24.992154+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:03.254057+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:49.936905+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:28.861781+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:07.048439+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:44.353259+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:31.777539+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:33.927678+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:50.616214+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:39.168759+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:39.215400+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:45.483222+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:45.571726+07:00",
+    "temp": 27.5,
+    "humidity": 63.0,
+    "pressure": 1012.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tay Ninh"
+  }
+]

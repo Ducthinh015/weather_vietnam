@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:29.181605+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:20.797357+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:01.143101+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:41.815714+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:22.142526+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:04.218696+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:56.491363+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:37.141197+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:19.581544+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:00.608243+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:41.950788+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:34.772537+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:17.348192+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:59.729473+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:43.204256+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:20.801146+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:02.895190+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:46.282213+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:29.722983+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:15.320631+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:04.217796+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:48.034908+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:31.539663+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:17.457823+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:59.097044+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:45.902889+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:29.771783+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:14.167091+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:00.161480+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:41.863483+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:28.004007+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:13.058724+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:58.382188+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:43.758202+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:30.655747+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:14.431851+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:59.698421+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:45.389561+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:27.578987+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:13.347233+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:56.680192+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:40.615583+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:26.369674+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:08.654690+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:55.080013+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:38.703072+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:22.886521+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:10.209524+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:51.953902+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:39.823861+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:25.196686+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:10.377759+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:52.897599+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:35.221975+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:22.604212+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:07.189976+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:52.422876+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:35.544576+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:18.344000+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:06.090349+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:53.884668+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:36.970318+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:18.833290+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:00.571766+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:47.693904+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:35.908614+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:19.204706+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:01.225904+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:44.098394+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:30.539686+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:18.075411+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:01.789134+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:44.841491+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:32.025832+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:18.430812+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:01.523961+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:44.510344+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:27.037210+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:14.741906+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:02.137955+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:46.817641+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:29.458415+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:17.325611+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:05.236492+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:47.963529+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:32.961930+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:19.741477+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:07.919823+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:53.199835+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:35.527431+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:36.537938+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:28.311717+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:21.266059+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:05.862213+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:52.776895+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:41.534415+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:25.386303+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:07.955664+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:28.674268+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:17.266535+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:59.742246+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:41.385811+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:26.222367+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:09.336862+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:55.709754+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:38.310509+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:19.976094+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:04.952326+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:47.302213+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:34.264717+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:16.734748+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:58.577707+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:44.159636+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:26.515803+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:16.979495+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:39.754774+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:25.100673+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:07.405185+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:54.813453+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:36.322896+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:19.003639+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:04.959524+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:48.260682+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:35.242104+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:17.045672+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:59.648664+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:46.048603+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:28.415546+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:14.709624+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:57.155075+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:40.915821+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:19.477331+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:10.721420+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:25.297620+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:07.120789+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:53.945740+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:41.551181+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:23.020715+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:05.359057+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:46.933137+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:32.934936+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:19.248268+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:00.999651+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:43.590668+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:26.028755+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:12.566590+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:58.871645+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:40.526734+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:23.171253+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:04.547336+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:51.022709+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:37.525217+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:19.229910+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:02.161605+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:44.042990+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:30.720583+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:17.720896+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:59.132342+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:42.493098+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:23.652428+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:09.493793+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:56.086744+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:37.679282+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:29.236837+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:35.560276+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:22.118950+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:03.169513+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:45.691349+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:26.798407+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:12.863898+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:59.326275+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:40.769602+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:23.405294+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:04.367240+07:00",
+    "temp": 18.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 13.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:50.733239+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:37.637033+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:18.803131+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:00.933172+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:42.640414+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:28.650767+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:15.413900+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:56.723894+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:40.057535+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:30.940003+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:17.209030+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:58.380023+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:40.772048+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:22.210642+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:08.632907+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:55.592687+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:37.629486+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:20.633511+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:01.736964+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:48.106620+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:35.224012+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:16.839471+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:00.714675+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:20.775659+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:16.648438+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:58.225379+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:41.022513+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:27.015780+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:08.811456+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:55.612807+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:37.535798+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:20.297161+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:06.287273+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:44.183129+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:28.845041+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:53.604849+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:37.308406+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:20.114684+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:04.687958+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:47.929333+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:31.522097+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:15.376015+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:58.197549+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:42.900561+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:25.966500+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:09.876105+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:54.998204+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:37.947505+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:22.586551+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:06.022798+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:49.723887+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:33.768000+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:16.512166+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:01.582710+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:44.767935+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:29.542280+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:13.163078+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:55.971758+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:41.752236+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:24.560831+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:08.888624+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:55.673932+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:38.185080+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:22.924151+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:06.063871+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:49.713362+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:33.376546+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:16.454632+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:01.129399+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:44.558613+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:28.424204+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:13.143766+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:01.519025+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:48.349930+07:00",
+    "temp": 17.7,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:32.412484+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:16.170549+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:58.179165+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:41.713040+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:27.731719+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:11.331173+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:55.638792+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:38.313238+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:20.257489+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:06.375271+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:50.589323+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:34.242371+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:16.441449+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:58.570373+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:45.413960+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:29.095965+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:12.725612+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:54.745944+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:36.225229+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:22.544014+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:07.100678+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:51.228938+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:33.335632+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:15.199649+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:01.727756+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:45.366430+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:29.242451+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:11.802322+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:53.430539+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:39.482868+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:23.693896+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:07.539223+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:49.499876+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:31.491944+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:18.214283+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:02.621856+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:46.773927+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:28.742233+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:10.817890+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:57.668812+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:43.162235+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:26.861603+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:10.057762+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:52.101035+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:39.486658+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:23.545695+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:09.147432+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:51.337180+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:33.210772+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:19.650297+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:04.439114+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:48.184693+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:30.178893+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:12.424391+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:00.758171+07:00",
+    "temp": 18.5,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 14.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:44.717100+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:28.604006+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:13.885692+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:58.716503+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:41.761038+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:25.535654+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:09.764280+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:52.546079+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:37.633519+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:20.779367+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:04.604765+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:48.412092+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:31.559388+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:17.022339+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:59.824510+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:43.754815+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:27.433769+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:09.791264+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:54.556650+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:37.812491+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:21.637867+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:05.549989+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:48.458513+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:33.586822+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:17.106629+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:01.282721+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:45.343662+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:28.129959+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:20.829339+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:04.835583+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:49.093042+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:31.754126+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:16.363640+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:59.611285+07:00",
+    "temp": 17.4,
+    "humidity": 80.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:45.126874+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:29.209286+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:11.889491+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:56.525499+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:39.805322+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:25.985839+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:11.058807+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:53.955323+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:39.068983+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:21.799735+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:05.925608+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:50.100479+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:33.245260+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:19.492415+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:01.995931+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:46.046623+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:32.847223+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:15.932399+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:01.329263+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:49.464637+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:34.565114+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:17.045178+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:02.914700+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:45.990734+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:31.203160+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:15.079985+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:58.074161+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:43.068944+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:24.624164+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:12.561857+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:56.751374+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:39.252406+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:24.151918+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:06.555373+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:51.775699+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:35.673261+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:18.594624+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:03.761738+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:45.449557+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:31.156153+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:15.529568+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:59.480609+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:44.838950+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:26.500690+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:12.026807+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:56.524587+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:39.398521+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:24.771020+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:06.764930+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:53.348864+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:37.761253+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:21.459157+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:07.171111+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:49.576757+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:34.921907+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:19.013857+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:01.627940+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:47.459312+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:31.717028+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:18.546288+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:03.851268+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:49.152691+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:31.423983+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:13.005351+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:58.216731+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:44.077307+07:00",
+    "temp": 17.1,
+    "humidity": 81.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:07.849572+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:51.817051+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:35.386941+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:18.021163+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:12.453024+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:55.673788+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:40.271174+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:23.093254+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:16.620157+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:00.220901+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:43.204373+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:27.307338+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:21.034323+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:04.413420+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:47.750933+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:30.764721+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:33.110059+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:01.898207+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:48.804897+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:43.257692+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:26.361866+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:10.000703+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:55.670763+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:02.079664+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:31.772002+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:06.742500+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:42.380260+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:15.413477+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:02.340647+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:49.727795+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:32.729160+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:20.492621+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:06.182851+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:12.816922+07:00",
+    "temp": 22.0,
+    "humidity": 66.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:36.240636+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:04.494630+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:40.909270+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:10.863143+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:46.978814+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:08.870589+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:54.157727+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:43.494257+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:28.694372+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:15.433129+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:58.329949+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:48.295862+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:35.674077+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:22.841397+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:09.037444+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:58.349409+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:44.733516+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:31.415282+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:58.990702+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:33.180619+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:04.971827+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:01.341849+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:50.691276+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:37.235591+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:22.360751+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:10.663145+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:28.403932+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:50.006510+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:35.789869+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:29.356808+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:13.721499+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:00.959531+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:46.049104+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:45.230243+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:57.888871+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:45.780276+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:12.903757+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:08.052449+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:46.036983+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:23.387280+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:00.122197+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:39.531506+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:40.527493+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:23.207550+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:10.550653+07:00",
+    "temp": 23.6,
+    "humidity": 59.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:54.531144+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:48.398222+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:30.790609+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:08.256694+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:45.836935+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:24.048165+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:11.455446+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:48.694529+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:26.075238+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:03.190001+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:44.244084+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:33.633452+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:12.698707+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:50.427197+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:27.982802+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:06.286358+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:54.014542+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:32.288778+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:10.036803+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:47.334485+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:36.424506+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:37.151075+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:54.814500+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:43.884261+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:50.370037+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:50.506566+07:00",
+    "temp": 24.7,
+    "humidity": 55.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Tuyen Quang"
+  }
+]

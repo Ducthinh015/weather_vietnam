@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:18.998464+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:10.059982+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:52.638983+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:33.002249+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:13.594623+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:54.227535+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:44.816114+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:28.515400+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:10.998053+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:52.085203+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:32.137879+07:00",
+    "temp": 18.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:23.410502+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:08.453932+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:50.805034+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:32.907151+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:09.452699+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:53.644802+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:36.110659+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:20.836605+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:06.302397+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:52.705818+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:37.956358+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:22.305540+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:08.117825+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:49.982853+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:34.185133+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:19.409760+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:05.042261+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:51.078565+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:32.803436+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:16.823850+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:02.892986+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:48.666398+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:34.696553+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:19.280015+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:03.997219+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:50.217157+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:36.275428+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:18.368598+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:02.164094+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:46.522517+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:31.438550+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:17.067361+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:59.646921+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:44.134432+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:28.303947+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:13.794741+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:01.247193+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:42.952997+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:27.576362+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:16.012947+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:01.270013+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:43.859590+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:25.919354+07:00",
+    "temp": 18.4,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:10.292877+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:58.013732+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:43.366507+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:26.354197+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:09.282508+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:53.467677+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:44.839603+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:27.803096+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:09.787532+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:51.467519+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:35.317121+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:26.693281+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:09.912541+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:52.098176+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:34.721095+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:18.172651+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:09.272937+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:52.584475+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:35.375825+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:19.521587+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:09.492862+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:52.406471+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:35.266274+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:17.920868+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:01.646516+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:53.090968+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:36.572228+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:20.399714+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:05.159046+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:55.902668+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:39.052234+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:23.295074+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:07.600593+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:58.569703+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:41.675722+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:26.408923+07:00",
+    "temp": 20.3,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:17.563074+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:18.710712+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:11.176760+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:56.144092+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:40.325862+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:31.768724+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:16.075344+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:58.450796+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:49.063126+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:08.196368+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:50.864482+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:32.266949+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:15.045248+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:59.515945+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:46.841279+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:29.323834+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:11.172273+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:53.982011+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:37.338053+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:25.125837+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:07.869936+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:49.748529+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:32.833388+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:16.450040+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:04.069803+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:30.956963+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:13.930400+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:57.511508+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:45.733599+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:27.082516+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:10.226661+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:53.717961+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:38.644612+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:26.226243+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:08.240287+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:50.772317+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:34.792520+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:18.684807+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:05.868914+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:47.292368+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:31.889057+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:07.371102+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:57.098952+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:16.228937+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:58.160142+07:00",
+    "temp": 18.1,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:41.954496+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:32.249765+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:13.957624+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:56.474473+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:38.014821+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:20.998513+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:10.271633+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:52.104943+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:34.513574+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:16.647800+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:00.160597+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:50.043941+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:31.415470+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:14.128623+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:55.515922+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:38.756626+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:28.515785+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:10.174014+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:53.328498+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:34.881817+07:00",
+    "temp": 18.3,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:18.245946+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:08.695016+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:50.273179+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:33.894390+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:14.735299+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:57.524029+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:47.077460+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:28.641713+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:11.019973+07:00",
+    "temp": 20.0,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:22.964177+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:13.072363+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:54.286163+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:37.010163+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:17.945230+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:00.853665+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:50.358720+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:31.949849+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:14.377403+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:55.365935+07:00",
+    "temp": 19.4,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:38.578876+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:28.623139+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:09.958073+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:52.181465+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:33.820984+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:16.478521+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:06.568138+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:47.757038+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:31.257518+07:00",
+    "temp": 19.1,
+    "humidity": 78.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:18.615024+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:08.177702+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:49.549605+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:31.889735+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:13.057334+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:56.244057+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:46.689966+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:28.822040+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:11.638185+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:52.876950+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:35.979264+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:26.270505+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:07.828563+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:51.637823+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:45.492325+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:07.567274+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:49.242218+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:32.061196+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:14.888309+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:59.906612+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:46.823914+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:28.629639+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:11.336851+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:53.804840+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:35.126734+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:19.882677+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:28.754144+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:28.372705+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:11.000920+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:55.767379+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:38.505650+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:20.168813+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:06.373810+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:49.209331+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:34.098687+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:16.361848+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:58.423812+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:46.159510+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:28.942037+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:13.707529+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:56.392988+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:38.529431+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:24.846440+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:07.652518+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:52.648795+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:35.173988+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:17.137771+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:04.303024+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:46.979319+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:32.994997+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:14.821050+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:57.425457+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:46.602235+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:29.005403+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:13.937270+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:56.522971+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:38.430363+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:24.446667+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:07.417918+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:52.232909+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:34.594787+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:16.933107+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:03.844662+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:50.405041+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:38.838749+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:21.191394+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:07.195236+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:49.307495+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:32.360838+07:00",
+    "temp": 19.7,
+    "humidity": 79.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:18.260222+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:00.072419+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:46.480167+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:29.232040+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:11.434520+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:56.906276+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:39.016010+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:25.252177+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:07.346298+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:49.786977+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:34.898832+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:17.789729+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:03.872368+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:45.857681+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:27.325308+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:12.765771+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:55.529515+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:42.164237+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:24.365748+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:06.167144+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:52.071702+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:34.044122+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:20.415272+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:03.111153+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:44.523698+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:29.690614+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:12.050898+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:58.685818+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:40.628666+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:22.487297+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:08.596332+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:50.730487+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:37.826865+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:19.823719+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:01.839537+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:47.809893+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:30.500243+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:17.926642+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:00.058136+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:43.231195+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:29.898215+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:12.067447+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:59.947645+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:42.356701+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:24.124386+07:00",
+    "temp": 18.2,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:10.087010+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:53.212939+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:39.216331+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:21.209603+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:03.455483+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:51.003981+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:33.063327+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:19.664773+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:04.826050+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:49.872780+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:32.125807+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:14.190649+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:00.613837+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:43.583067+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:28.656678+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:11.081424+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:53.227671+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:39.549985+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:22.650376+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:08.138921+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:50.101413+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:32.227712+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:18.659725+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:00.938726+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:45.547240+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:27.668708+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:10.295123+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:56.591566+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:39.435753+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:24.336026+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:07.175598+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:49.924541+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:36.442313+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:19.090602+07:00",
+    "temp": 19.3,
+    "humidity": 81.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:10.945970+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:53.477222+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:40.207490+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:22.745188+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:07.588690+07:00",
+    "temp": 17.0,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:50.031232+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:32.165391+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:20.287366+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:02.756459+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:47.529450+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:29.951542+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:13.425389+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:01.206591+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:44.963066+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:29.998106+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:11.956750+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:54.427175+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:41.002686+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:24.187191+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:10.200953+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:52.458876+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:34.663283+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:23.772942+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:06.913938+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:52.242456+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:37.364148+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:25.428612+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:08.076899+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:53.891681+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:35.789867+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:19.013676+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:06.211019+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:48.744470+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:34.219637+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:15.758062+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:00.048048+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:47.764495+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:30.382045+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:15.144184+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:57.206349+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:39.550622+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:26.848977+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:09.527068+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:54.768553+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:36.414721+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:18.652324+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:06.463836+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:49.176988+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:35.833485+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:17.602020+07:00",
+    "temp": 17.1,
+    "humidity": 88.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:59.913195+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:47.443896+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:30.295780+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:15.707482+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:57.611042+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:40.831552+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:28.520499+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:12.308499+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:58.033043+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:40.426513+07:00",
+    "temp": 18.0,
+    "humidity": 83.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:22.689103+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:09.980778+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:52.793998+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:38.357618+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:21.478019+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:06.155335+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:54.834724+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:40.233184+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:22.275304+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:04.033065+07:00",
+    "temp": 18.4,
+    "humidity": 77.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:46.154861+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:34.988937+07:00",
+    "temp": 19.0,
+    "humidity": 82.0,
+    "pressure": 1019.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T08:46:00.152284+07:00",
+    "temp": 20.9,
+    "humidity": 71.0,
+    "pressure": 1021.0,
+    "wind_speed": 2.888888888888889,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:55.402256+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:42.183855+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:25.867547+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:08.855066+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:00.169172+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:46.516350+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:31.056884+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:14.002340+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:04.094099+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:50.680223+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:34.007374+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:17.985117+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:08.527567+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:54.962148+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:38.307965+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:21.100504+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:11.910337+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:39.508630+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:39.154029+07:00",
+    "temp": 23.3,
+    "humidity": 65.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:30.683322+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:17.056775+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:00.542700+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:44.541830+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:36.307514+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:09.121039+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:41.231197+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:19.772289+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:50.125460+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:53.204655+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:40.318880+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:23.480837+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:07.915110+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:56.427092+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:52.125410+07:00",
+    "temp": 22.5,
+    "humidity": 65.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:16.609292+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:42.102444+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:15.592323+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:48.913407+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:21.063500+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:56.172627+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:44.673919+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:32.148113+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:18.282663+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:05.680637+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:48.842781+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:36.696874+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:23.760870+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:13.120861+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:56.794812+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:46.996437+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:34.417697+07:00",
+    "temp": 24.3,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:21.737341+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:36.533103+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:10.372868+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:42.867187+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:51.829865+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:38.468061+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:27.683434+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:12.409635+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:59.031737+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:02.593999+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:38.702188+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:25.881970+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:16.733381+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:04.041805+07:00",
+    "temp": 25.0,
+    "humidity": 54.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:51.175594+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:36.532902+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:23.524062+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:47.325927+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:36.316228+07:00",
+    "temp": 24.0,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 3.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:56.958431+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:38.451390+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:15.528734+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:52.517017+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:31.480583+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:29.117167+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:12.377764+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:00.150831+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:44.643164+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:35.614116+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:22.428738+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:00.271704+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:38.005467+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:15.967940+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:00.832153+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:41.001124+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:18.195307+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:55.281639+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:36.053774+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:22.648934+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:04.544485+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:42.718777+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:20.054402+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:58.360879+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:43.371739+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:24.101355+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:02.089361+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:39.679760+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:24.162516+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:28.302919+07:00",
+    "temp": 26.3,
+    "humidity": 51.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:42.960795+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:31.952641+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:32.084461+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:37.026384+07:00",
+    "temp": 25.1,
+    "humidity": 52.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Ninh Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:37.143029+07:00",
+    "temp": 26.2,
+    "humidity": 54.0,
+    "pressure": 1021.0,
+    "wind_speed": 3.8055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ninh Binh"
+  }
+]

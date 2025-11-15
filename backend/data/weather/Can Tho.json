@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:48:59.486498+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:44.822698+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:34.531361+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:15.121390+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:55.723699+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:36.105457+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:19.481254+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:10.837407+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:51.059570+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:33.942112+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:14.512511+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:57.176497+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:48.875691+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:31.440671+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:13.857656+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:58.881231+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:34.786571+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:16.962379+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:01.637879+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:43.809217+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:29.344768+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:18.146311+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:03.600677+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:45.686026+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:31.414507+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:13.148407+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:59.905065+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:45.709819+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:28.270944+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:14.185699+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:55.799957+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:42.486840+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:28.649978+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:12.509520+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:57.825397+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:44.732126+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:30.030366+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:13.885089+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:59.505076+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:41.686047+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:27.383201+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:12.195317+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:54.708815+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:40.449894+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:23.552421+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:09.060695+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:54.240870+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:37.036970+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:24.297784+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:06.263028+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:55.414641+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:39.298661+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:24.447147+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:07.102611+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:49.366227+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:38.218583+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:21.750789+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:06.734988+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:49.481137+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:32.808749+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:21.735935+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:08.150790+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:51.024188+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:32.852219+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:14.697241+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:03.358193+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:50.010821+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:33.369709+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:15.455312+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:58.190719+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:46.092665+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:32.402406+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:15.914016+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:58.935350+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:47.319968+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:32.893885+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:15.659696+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:58.562916+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:41.141189+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:30.097494+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:16.237738+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:01.256691+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:44.445134+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:32.790293+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:19.247279+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:02.319760+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:47.092217+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:35.530395+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:21.984859+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:07.306500+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:49.668828+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:55.409793+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:42.910841+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:35.405520+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:19.831612+07:00",
+    "temp": 23.6,
+    "humidity": 91.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:08.398214+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:55.636876+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:39.390202+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:21.923165+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:46.119597+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:31.408442+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:13.822790+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:55.370351+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:40.315094+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:24.716316+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:09.699614+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:52.717090+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:33.958608+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:18.945239+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:02.936062+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:48.218762+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:31.014851+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:12.657322+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:58.225696+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:42.108154+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:58.438776+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:53.842964+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:39.197378+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:22.798928+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:08.780555+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:50.281305+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:33.083066+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:20.100889+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:03.757666+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:49.309790+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:31.092608+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:13.863723+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:00.240692+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:43.845547+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:28.663496+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:11.081185+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:54.829287+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:34.837629+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:34.232413+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:39.394484+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:21.397628+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:09.493974+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:55.458697+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:37.022212+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:19.449926+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:01.056448+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:48.357662+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:33.227677+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:14.970701+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:57.655496+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:39.915903+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:27.787047+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:12.975478+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:54.563300+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:37.169270+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:18.690184+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:06.477627+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:51.701083+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:33.294950+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:16.260406+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:58.042931+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:46.487870+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:31.792243+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:13.141272+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:56.537514+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:37.588134+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:24.998846+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:10.087077+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:51.674142+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:49.592877+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:51.258366+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:36.233021+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:17.200075+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:59.781617+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:40.854993+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:28.264961+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:13.561782+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:54.881698+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:37.442788+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:18.446323+07:00",
+    "temp": 23.4,
+    "humidity": 91.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:06.062843+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:51.708438+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:32.776029+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:14.916706+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:56.787297+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:44.189351+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:29.368881+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:10.829182+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:54.185646+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:46.262569+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:31.185991+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:12.261594+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:54.727524+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:36.262210+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:24.064922+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:10.285191+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:51.606972+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:34.652086+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:15.831580+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:03.731574+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:49.290749+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:31.859380+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:14.740874+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:44.482930+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:30.781193+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:12.255100+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:54.899989+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:41.349733+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:24.331389+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:09.770238+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:51.538368+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:34.194028+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:20.417483+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:59.677718+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:42.973817+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:07.731348+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:51.339226+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:35.220871+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:18.739485+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:01.960340+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:45.786649+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:29.367267+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:13.387225+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:56.986924+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:40.045519+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:24.125608+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:09.167212+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:53.409464+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:36.760039+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:19.931118+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:03.959181+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:47.747126+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:31.641869+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:15.668579+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:58.858252+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:43.715991+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:27.199773+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:11.330282+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:55.766975+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:38.617183+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:23.177257+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:09.686058+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:53.405633+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:37.029464+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:20.080389+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:03.920661+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:47.483448+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:32.030015+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:15.229048+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:58.575936+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:42.685259+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:28.017594+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:17.000826+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:02.367466+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:46.621041+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:30.351108+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:12.111292+07:00",
+    "temp": 23.3,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 16.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:57.102830+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:41.779730+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:25.523641+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:09.868452+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:52.379992+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:35.466913+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:20.504921+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:04.771577+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:48.387834+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:30.591937+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:13.880617+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:59.553024+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:43.198496+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:26.794031+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:08.730521+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:51.408444+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:36.624155+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:21.213319+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:05.143046+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:47.404983+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:30.510770+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:15.770177+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:59.601089+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:43.850726+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:25.813239+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:08.483133+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:53.472780+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:37.847309+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:21.426134+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:03.424126+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:46.883514+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:32.254888+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:16.817288+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:00.912759+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:42.921604+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:25.942674+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:11.580261+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:57.276200+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:40.841348+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:24.251428+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:07.507308+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:53.572522+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:38.163028+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:23.127253+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:05.338222+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:48.773654+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:33.690691+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:18.544642+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:02.244563+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:44.347855+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:27.644872+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:14.664565+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:58.921752+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:45.065822+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:29.057470+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:12.811866+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:55.798651+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:39.715576+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:23.846634+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:08.017227+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:51.658602+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:34.825543+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:18.670304+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:02.542755+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:47.383093+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:30.995027+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:13.902155+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:57.867468+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:41.390058+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:24.970717+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:08.610835+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:51.822817+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:35.909518+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:19.703635+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:03.716618+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:47.672495+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:31.319797+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:15.627612+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:59.360741+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:43.316449+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:34.867917+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:19.020816+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:03.121991+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:47.030056+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:30.546188+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:13.647244+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:59.432855+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:43.288319+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:27.192486+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:10.590468+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:53.831349+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:40.303060+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:25.269800+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:09.192797+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:53.065176+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:35.888060+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:20.141029+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:04.159469+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:48.529667+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:33.609368+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:16.001230+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:02.341991+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:46.956641+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:31.269622+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:15.304770+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:04.098408+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:48.608111+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:32.779686+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:16.967631+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:00.050156+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:45.471345+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:28.977665+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:13.295399+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:57.167159+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:38.690061+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:26.755650+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:10.733469+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:54.396446+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:38.120683+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:20.637800+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:06.042690+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:49.809129+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:33.875502+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:17.817584+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:59.601957+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:45.402858+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:29.640738+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:14.807320+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:59.026127+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:40.714612+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:26.285245+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:10.624208+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:54.742279+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:38.748160+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:21.401549+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:07.481508+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:51.956419+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:36.869622+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:21.319361+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:03.599677+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:49.218503+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:33.071663+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:17.004011+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:01.652476+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:45.957327+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:32.705488+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:19.040445+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:03.241126+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:45.502210+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:26.928991+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:12.738659+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:59.416693+07:00",
+    "temp": 23.0,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:23.596125+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:22.858388+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:06.960341+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:49.633700+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:33.285666+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:27.249193+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:10.760200+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:54.605191+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:38.183671+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:31.626259+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:14.534680+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:57.508617+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:42.277378+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:35.743164+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:18.611622+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:01.871279+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:46.000879+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:53.527471+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:18.590762+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:04.091432+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:57.959745+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:40.723994+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:24.145087+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:10.670076+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:22.466259+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:51.643212+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:28.342449+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:02.083278+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:33.102940+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:16.514702+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:04.002720+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:46.975576+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:36.105326+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:20.409818+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:31.184756+07:00",
+    "temp": 26.1,
+    "humidity": 61.0,
+    "pressure": 1013.0,
+    "wind_speed": 2.694444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:56.402959+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:24.600624+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:01.915784+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:31.222788+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:08.112063+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:23.495161+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:08.308110+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:57.670162+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:44.241103+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:29.706979+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:12.568746+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:02.542246+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:51.835628+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:37.193849+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:23.138370+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:12.482082+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:00.327294+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:49.412691+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:19.072661+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:54.112981+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:24.570782+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:15.594304+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:06.713130+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:51.583197+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:37.686887+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:24.856237+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:51.869474+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:04.582736+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:50.303008+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:43.659549+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:29.419866+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:15.349606+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:00.507508+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:05.022645+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:13.649866+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:30.725538+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:21.725291+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:59.551915+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:36.820132+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:15.277186+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:54.112450+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:54.317959+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:37.967449+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:24.996110+07:00",
+    "temp": 27.5,
+    "humidity": 57.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.611111111111111,
+    "rain": 0.0,
+    "cloud": 2.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:09.846091+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:02.796898+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:44.318699+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:22.030508+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:59.319984+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:38.640273+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:25.075443+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:02.092375+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:39.369831+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:17.358741+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:11:59.917023+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:47.293070+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:26.588037+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:03.833477+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:41.499672+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:20.641596+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:07.769174+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:46.124095+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:23.604938+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:56.430155+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:11.225264+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:19.763547+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:08.574074+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:13.447756+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:09.171118+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:13.866254+07:00",
+    "temp": 28.7,
+    "humidity": 54.0,
+    "pressure": 1012.0,
+    "wind_speed": 2.388888888888889,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Can Tho"
+  }
+]

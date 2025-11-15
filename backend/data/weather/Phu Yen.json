@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:20.655537+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:12.003720+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:54.098372+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:34.470038+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:15.073037+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:55.617442+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:46.797278+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:29.992898+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:12.473957+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:53.545538+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:33.519240+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:25.486125+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:09.850439+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:52.203358+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:34.444639+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:11.530646+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:55.229709+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:37.644705+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:22.312476+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:07.782808+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:54.896700+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:39.481420+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:23.836842+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:09.682884+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:51.514215+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:36.101319+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:20.956844+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:06.540057+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:52.613132+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:34.266579+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:18.911682+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:04.346027+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:50.333485+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:36.251652+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:21.402091+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:05.425569+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:51.771157+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:37.758006+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:19.949666+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:04.391485+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:48.059855+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:33.009752+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:18.589482+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:01.177951+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:46.161714+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:29.811995+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:15.403866+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:02.709966+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:44.454091+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:29.581477+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:17.519666+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:02.813947+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:45.342842+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:27.470140+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:12.387647+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:59.555695+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:44.937861+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:27.867709+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:10.769709+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:55.524044+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:46.347696+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:29.343828+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:11.236849+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:52.897871+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:37.419854+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:28.310786+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:11.475678+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:53.567364+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:36.244399+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:20.198513+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:10.766264+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:54.094612+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:37.000146+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:21.608618+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:10.951098+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:53.895701+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:36.752439+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:19.436006+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:03.798056+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:54.564074+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:38.207524+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:21.908586+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:07.122985+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:57.511196+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:40.703966+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:24.910423+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:09.598779+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:00.108809+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:43.197098+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:27.901174+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:20.465014+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:20.295682+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:12.825871+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:58.069392+07:00",
+    "temp": 14.7,
+    "humidity": 94.0,
+    "pressure": 1015.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:42.458529+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:33.413173+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:17.589523+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:59.988154+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:00.929092+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:09.663416+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:52.343132+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:33.802773+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:16.988930+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:00.972576+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:48.278887+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:30.850580+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:12.624039+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:56.030314+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:38.787243+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:26.620713+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:09.320993+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:51.272793+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:34.948024+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:17.974337+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:05.577814+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:32.431194+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:16.020769+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:59.006396+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:47.197625+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:28.597974+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:11.647706+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:55.720067+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:40.104810+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:27.700682+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:09.737311+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:52.292631+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:36.791098+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:20.226262+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:07.392632+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:48.804969+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:33.358624+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:09.439207+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:58.563034+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:17.786036+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:59.632926+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:43.980561+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:33.759335+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:15.432698+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:57.896005+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:39.522475+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:22.972808+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:11.808048+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:53.585836+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:36.029545+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:18.102556+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:02.348906+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:51.504031+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:32.923921+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:15.632178+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:56.997599+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:40.711788+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:30.012859+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:11.733539+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:54.803007+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:36.346922+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:20.193876+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:10.221615+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:51.740923+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:35.332551+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:16.229288+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:59.513253+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:48.545655+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:30.088446+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:12.557555+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:24.989942+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:14.615222+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:55.729398+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:38.394299+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:19.418546+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:02.808991+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:51.826181+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:33.427646+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:15.866843+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:56.860769+07:00",
+    "temp": 14.6,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:40.744687+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:30.161704+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:11.505399+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:53.659769+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:35.257344+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:18.614783+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:08.031840+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:49.241756+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:32.789103+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:20.627243+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:09.660354+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:51.052154+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:33.373768+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:14.671222+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:58.262437+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:48.176790+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:30.382490+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:13.104232+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:54.380310+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:37.982577+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:27.744613+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:09.325716+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:53.212187+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:57.415162+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:09.035599+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:50.749087+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:33.560428+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:16.954436+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:01.354843+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:48.286440+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:30.110458+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:12.817073+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:55.964766+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:36.616459+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:21.358293+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:32.072803+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:29.884745+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:12.589613+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:57.243577+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:40.434795+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:21.631286+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:07.862126+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:50.678646+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:35.535604+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:18.320672+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:59.931335+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:47.618902+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:30.563259+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:15.225264+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:58.530369+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:40.016761+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:26.330586+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:09.110496+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:54.154552+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:37.217815+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:19.727931+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:05.762806+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:48.470917+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:34.498766+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:17.055713+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:58.917530+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:48.108634+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:30.576054+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:15.455602+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:58.472071+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:39.927607+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:25.875504+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:09.027174+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:53.708101+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:36.606474+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:18.475741+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:05.333467+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:52.207790+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:40.787744+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:22.628294+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:08.712599+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:50.813089+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:33.921131+07:00",
+    "temp": 14.5,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 30.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:20.330967+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:01.520907+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:47.971641+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:30.788592+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:12.922331+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:58.895798+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:40.524114+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:26.723138+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:08.797947+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:51.276502+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:36.889551+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:19.305511+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:05.320593+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:47.416788+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:28.798164+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:14.813314+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:56.963259+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:43.709684+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:25.837873+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:07.699607+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:54.033350+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:35.533721+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:21.960436+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:04.590845+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:46.010525+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:31.759820+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:13.537898+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:00.157339+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:42.110029+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:23.933742+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:10.536839+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:52.489029+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:39.339578+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:21.291626+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:03.344255+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:49.841235+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:32.356378+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:19.429583+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:01.556832+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:44.737416+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:31.944999+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:13.528990+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:01.518860+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:43.923989+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:25.543089+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:12.052224+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:54.686911+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:40.721032+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:22.665450+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:04.923781+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:53.057803+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:34.569995+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:21.178546+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:06.281860+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:51.326680+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:34.285116+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:15.632120+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:02.148244+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:45.098163+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:30.164948+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:13.057304+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:54.702728+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:41.070081+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:24.153923+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:09.696330+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:52.269562+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:33.721200+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:20.098416+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:02.446202+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:47.035984+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:29.962432+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:11.739558+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:58.013615+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:40.854859+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:25.793864+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:09.145720+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:51.516727+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:37.866531+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:20.562742+07:00",
+    "temp": 14.4,
+    "humidity": 94.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 31.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:12.988878+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:54.965419+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:41.671425+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:24.267801+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:09.028726+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:52.065687+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:33.681042+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:21.754576+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:04.266349+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:49.047306+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:31.987434+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:15.179501+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:02.848705+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:46.472208+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:31.661727+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:13.948866+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:55.952601+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:42.548969+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:25.681352+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:11.793371+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:54.469760+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:36.165054+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:25.297609+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:08.400178+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:53.697590+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:39.404906+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:26.951387+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:09.610919+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:55.426046+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:37.355719+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:20.992090+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:07.722930+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:50.343783+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:35.664837+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:17.217454+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:02.128045+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:49.216933+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:31.924013+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:16.654613+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:58.709391+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:41.611762+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:28.280525+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:11.115979+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:56.288832+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:37.911286+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:20.651002+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:07.977149+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:50.656683+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:37.256272+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:19.074093+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:01.881799+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:49.035855+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:31.804209+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:17.181843+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:59.189641+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:42.936939+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:30.010336+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:13.828798+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:59.572956+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:42.005001+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:24.798297+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:11.476035+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:54.261064+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:39.852059+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:23.107289+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:08.156838+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:56.335640+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:41.742596+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:23.820319+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:05.579858+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:48.151236+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:36.465555+07:00",
+    "temp": 14.3,
+    "humidity": 95.0,
+    "pressure": 1014.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:57.462292+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:43.680593+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:27.479418+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:10.331407+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:02.235992+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:48.010923+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:32.667105+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:15.561835+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:06.234505+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:52.180617+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:35.564408+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:19.558148+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:10.654443+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:56.547570+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:39.905075+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:22.639248+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:14.050190+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:43.140271+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:40.891290+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:32.759161+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:18.590475+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:02.191259+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:46.725307+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:38.329361+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:12.817487+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:45.466341+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:23.481077+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:54.320501+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:54.774250+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:41.855258+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:25.015422+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:09.991674+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:58.122067+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:55.777454+07:00",
+    "temp": 23.7,
+    "humidity": 69.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.305555555555555,
+    "rain": 0.0,
+    "cloud": 51.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:18.786431+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:45.660624+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:19.560968+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:52.748198+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:25.103937+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:00.012759+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:46.254736+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:33.965017+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:19.819807+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:07.561664+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:50.465779+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:38.596758+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:25.382803+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:14.805033+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:58.304696+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:48.990813+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:35.909503+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:23.471127+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:40.267496+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:13.319044+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:46.750546+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:53.416432+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:40.376684+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:29.237905+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:14.226493+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:02.642394+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:06.907500+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:40.729343+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:27.824140+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:18.609526+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:05.634919+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:52.937975+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:38.162773+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:25.453836+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:49.308384+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:37.992146+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:59.012019+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:39.718928+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:16.811007+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:53.727467+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:32.951480+07:00",
+    "temp": 25.5,
+    "humidity": 61.0,
+    "pressure": 1015.0,
+    "wind_speed": 4.5,
+    "rain": 0.0,
+    "cloud": 43.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:31.152407+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:14.060657+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:01.956378+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:46.120986+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:37.760853+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:24.066898+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:01.512289+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:39.307978+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:17.244371+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:02.732293+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:42.322478+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:19.568135+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:56.631891+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:37.367593+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:24.517164+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:05.869440+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:44.004004+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:21.270723+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:59.731448+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:45.152587+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:25.391894+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:03.401110+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:40.977483+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:26.208721+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:30.030571+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:44.773785+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:33.930437+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:34.060821+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:39.124065+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:39.291470+07:00",
+    "temp": 26.7,
+    "humidity": 54.0,
+    "pressure": 1014.0,
+    "wind_speed": 4.388888888888889,
+    "rain": 0.0,
+    "cloud": 29.0,
+    "city": "Phu Yen"
+  }
+]

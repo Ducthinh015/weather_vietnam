@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:05.657444+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:52.919550+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:40.423016+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:20.840511+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:01.661850+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:41.982545+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:28.102865+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:16.633065+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:56.884707+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:39.722882+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:20.329971+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:05.129007+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:55.077631+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:37.629448+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:20.199520+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:29.849924+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:41.183567+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:23.005045+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:07.991223+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:51.367441+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:35.816301+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:24.672788+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:10.097273+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:52.947456+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:37.421094+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:19.665841+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:06.690909+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:52.244646+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:35.721923+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:20.366300+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:01.950672+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:49.086543+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:35.436818+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:19.849732+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:04.808407+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:51.213451+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:37.034720+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:21.153295+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:05.465882+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:47.640027+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:34.089108+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:18.860035+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:01.745906+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:46.932310+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:29.567543+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:15.633492+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:00.944337+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:44.237460+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:30.363417+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:12.821796+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:02.852951+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:46.677142+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:30.526654+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:13.173676+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:55.118809+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:45.420211+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:28.904710+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:13.022650+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:55.692112+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:39.107695+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:30.327047+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:14.229464+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:56.992821+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:38.869636+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:20.746069+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:11.760567+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:56.011950+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:39.331475+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:21.566684+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:04.170815+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:54.215651+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:38.571658+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:22.083045+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:04.802219+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:55.448389+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:39.357472+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:21.850247+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:04.524153+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:47.054839+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:38.468918+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:22.859618+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:07.681820+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:50.805764+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:40.968729+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:25.353958+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:08.367327+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:53.069801+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:43.924887+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:28.101355+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:13.317275+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:55.926549+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:03.619339+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:53.122948+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:41.699467+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:25.961935+07:00",
+    "temp": 23.5,
+    "humidity": 92.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 35.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:16.602645+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:01.794850+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:45.426310+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:27.901241+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:54.042465+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:37.395030+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:19.792977+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:01.305548+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:46.566106+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:32.738817+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:15.739412+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:58.706482+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:39.991160+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:24.857726+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:10.902354+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:54.374413+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:37.095020+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:18.648858+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:04.098284+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:50.034625+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:16.812158+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:59.702121+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:45.219646+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:31.388077+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:14.673852+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:56.126290+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:38.944354+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:26.088549+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:12.280513+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:56.105831+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:37.064933+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:20.100756+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:06.302637+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:51.782343+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:34.650689+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:17.093082+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:01.278762+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:43.152652+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:01.005730+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:45.395532+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:27.758592+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:17.814528+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:01.545881+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:42.856630+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:25.498913+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:06.983352+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:56.308452+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:39.246064+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:20.971887+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:04.507571+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:45.928424+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:35.956687+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:18.880333+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:00.519785+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:43.125695+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:24.608433+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:14.375743+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:57.696069+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:39.190814+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:22.292100+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:03.957241+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:54.315656+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:37.810469+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:20.097410+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:02.544270+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:43.642934+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:33.160886+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:16.048352+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:57.595632+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:02.954872+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:59.153745+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:42.148943+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:23.184652+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:05.669391+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:46.964074+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:36.293017+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:19.476894+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:00.749876+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:43.325359+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:24.472523+07:00",
+    "temp": 23.4,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 38.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:13.804998+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:57.743140+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:38.710384+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:20.964094+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:02.604717+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:52.552233+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:35.278979+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:16.770017+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:00.260942+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:54.212351+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:37.221359+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:18.256068+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:00.640999+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:42.197455+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:32.296222+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:16.166851+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:57.720794+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:40.492272+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:21.744998+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:11.833047+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:55.330608+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:37.904039+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:20.738138+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:52.459658+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:36.661659+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:18.172637+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:00.942548+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:47.380733+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:32.271479+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:15.800712+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:57.454797+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:40.126428+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:07.049000+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:06.389632+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:52.015140+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:15.185802+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:57.333414+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:41.781530+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:24.883143+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:07.876530+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:53.284448+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:35.448296+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:20.255283+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:02.900043+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:45.898799+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:32.331831+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:15.105490+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:00.109495+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:42.755036+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:25.959259+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:11.439248+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:53.812273+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:38.856510+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:21.634234+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:04.737908+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:51.138558+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:33.234453+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:17.935739+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:01.571055+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:44.686919+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:30.517689+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:15.622898+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:59.998104+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:43.019895+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:26.031417+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:11.220554+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:53.462712+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:38.598874+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:21.198415+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:04.425693+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:50.107482+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:34.578691+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:23.739106+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:08.381012+07:00",
+    "temp": 23.2,
+    "humidity": 92.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:54.100506+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:36.307751+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:18.186336+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:03.716359+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:47.604852+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:33.118860+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:15.763047+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:58.444189+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:42.066573+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:26.419294+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:12.025374+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:54.225432+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:36.674616+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:20.421826+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:05.516978+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:50.552100+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:32.647634+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:14.590386+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:57.875432+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:43.153973+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:28.522267+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:11.191663+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:53.409485+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:37.200706+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:21.799602+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:07.338855+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:49.834466+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:31.782392+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:15.199391+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:59.444864+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:45.331972+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:27.553982+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:09.404484+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:53.791646+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:38.300695+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:24.348500+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:06.745639+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:48.870063+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:32.608598+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:17.740285+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:04.692351+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:46.873693+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:30.205593+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:14.000421+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:59.562321+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:45.896028+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:29.211387+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:11.216339+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:55.417093+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:40.746429+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:25.917818+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:08.194709+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:50.233360+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:34.372956+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:20.547033+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:06.228580+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:51.204796+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:35.899994+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:18.955008+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:01.908394+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:47.116642+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:29.904858+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:14.605026+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:57.722730+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:40.650594+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:26.140832+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:08.538904+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:54.034323+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:37.038439+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:19.718935+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:05.177355+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:47.394244+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:31.735971+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:14.611806+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:57.767164+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:43.202600+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:25.834584+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:10.321345+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:53.655771+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:37.291071+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:23.081799+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:05.398152+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:50.074279+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:40.875087+07:00",
+    "temp": 23.0,
+    "humidity": 93.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:26.523732+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:09.183187+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:53.680508+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:36.611049+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:19.654849+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:06.853662+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:49.241025+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:33.860550+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:16.654920+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:59.890433+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:47.819674+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:31.198267+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:15.992123+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:58.965114+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:42.007452+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:27.572868+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:10.331565+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:55.272789+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:39.671710+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:22.028624+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:09.918723+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:53.017950+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:38.001279+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:21.291723+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:11.372888+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:54.450913+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:39.647323+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:22.936688+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:06.058666+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:52.753970+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:35.266999+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:19.972670+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:03.259584+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:44.744777+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:34.187675+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:16.832127+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:01.154205+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:44.017163+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:26.607463+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:13.372337+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:55.836968+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:40.550083+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:23.760835+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:05.592616+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:52.905140+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:35.713598+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:21.749135+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:04.978539+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:46.659222+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:33.917724+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:16.630119+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:01.534833+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:44.794266+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:27.784241+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:14.900757+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:58.444559+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:43.511683+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:27.562224+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:09.622475+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:56.615592+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:39.032762+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:23.840088+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:07.800277+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:52.104974+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:40.298915+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:25.722817+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:09.446448+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:51.542049+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:33.107780+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:20.379482+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:06.112478+07:00",
+    "temp": 22.8,
+    "humidity": 94.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:35.112219+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:29.173818+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:13.094368+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:55.981479+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:41.740030+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:33.557865+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:17.794566+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:01.025693+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:46.683394+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:37.774132+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:20.817012+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:04.372796+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:50.491176+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:42.425444+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:25.337889+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:08.335077+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:54.687009+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:08.396495+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:24.868051+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:12.718799+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:04.339979+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:47.059726+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:30.784695+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:18.936439+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:37.967229+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:08.765180+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:45.609086+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:17.590762+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:40.237403+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:23.892096+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:10.466196+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:53.237024+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:43.308084+07:00",
+    "temp": 27.3,
+    "humidity": 69.0,
+    "pressure": 1013.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:27.998371+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:46.237578+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:10.876436+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:41.209679+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:17.180383+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:47.246402+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:24.341176+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:30.531743+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:16.000186+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:03.984919+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:51.471972+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:36.218798+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:20.192476+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:08.734690+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:59.107313+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:43.853039+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:30.611562+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:18.881802+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:07.686479+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:05.152743+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:36.306500+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:09.961819+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:38.498093+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:22.165190+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:14.432649+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:58.232341+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:45.421298+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:31.254324+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:07.838130+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:12.319944+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:56.911837+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:50.520901+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:36.880394+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:23.154680+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:06.971832+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:20.081446+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:21.454263+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:39.691121+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:28.010854+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:04.747129+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:41.899871+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:20.858585+07:00",
+    "temp": 28.7,
+    "humidity": 56.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:01.330329+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:59.473950+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:45.229309+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:31.476116+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:18.039456+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:09.037733+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:49.438909+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:27.357342+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:04.741142+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:46.051382+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:30.304753+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:07.317133+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:44.543279+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:23.411826+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:07.332905+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:52.607933+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:31.808602+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:09.173979+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:46.812110+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:28.036159+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:13.297949+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:51.273013+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:28.828778+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:05.915713+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:16.806816+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:27.710553+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:16.032095+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:18.866305+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:18.096327+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:20.742294+07:00",
+    "temp": 29.6,
+    "humidity": 51.0,
+    "pressure": 1012.0,
+    "wind_speed": 3.3888888888888884,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Ca Mau"
+  }
+]

@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:18.439974+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:09.388000+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:52.097296+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:32.560275+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:13.097334+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:53.727449+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:44.142694+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:28.069524+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:10.509578+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:51.602616+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:31.680210+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:22.682421+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:07.973979+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:50.295348+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:32.398477+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:08.727420+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:53.168978+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:35.616655+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:20.323805+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:05.787032+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:52.059752+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:37.464566+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:21.798975+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:07.599744+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:49.465504+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:33.477340+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:18.945873+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:04.542635+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:50.587833+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:32.266084+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:16.132168+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:02.341136+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:48.116889+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:34.238008+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:18.636190+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:03.508697+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:49.671695+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:35.790045+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:17.844072+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:01.528517+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:46.077773+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:30.964182+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:16.525365+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:59.138930+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:43.499735+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:27.808535+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:13.255054+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:00.751306+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:42.448192+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:26.902225+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:15.457774+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:00.788250+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:43.398072+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:25.410689+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:09.652955+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:57.466628+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:42.798704+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:25.850849+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:08.787098+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:52.655018+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:44.282545+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:27.274211+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:09.339739+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:50.957244+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:34.660801+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:26.217093+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:09.366027+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:51.623104+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:34.256291+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:17.320319+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:08.792177+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:52.141300+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:34.862944+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:18.830097+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:09.002387+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:51.926116+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:34.802212+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:17.395710+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:00.977882+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:52.614050+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:36.096222+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:19.894118+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:04.483014+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:55.354839+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:38.495132+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:22.785165+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:06.944482+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:58.079299+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:41.159336+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:25.799007+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:15.898624+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:18.202146+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:10.594016+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:55.667419+07:00",
+    "temp": 16.0,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 18.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:39.686970+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:31.275708+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:15.575013+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:57.961114+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:47.382958+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:07.697822+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:50.318719+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:31.815292+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:14.414999+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:58.948387+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:46.179280+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:28.803937+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:10.687121+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:53.342189+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:36.857345+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:24.624108+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:07.334794+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:49.298091+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:32.110757+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:15.935866+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:03.598459+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:30.464201+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:13.269572+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:57.016057+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:45.238802+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:26.617127+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:09.745803+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:53.056527+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:38.145998+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:25.726923+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:07.761758+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:50.330441+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:33.761810+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:18.180548+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:05.346620+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:46.778622+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:31.381394+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:06.698566+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:56.591160+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:15.738887+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:57.681705+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:41.317777+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:31.744004+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:13.483267+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:55.948763+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:37.524123+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:20.369037+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:09.775537+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:51.615630+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:34.026679+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:16.121207+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:59.324272+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:49.496342+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:30.912756+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:13.624964+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:55.010654+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:38.069128+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:28.055317+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:09.679199+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:52.856475+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:34.367407+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:17.576004+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:08.193068+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:49.792578+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:33.407737+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:14.247351+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:56.901252+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:46.581652+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:28.164003+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:10.530076+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:22.322533+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:12.595314+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:53.814598+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:36.487618+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:17.449037+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:00.195447+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:49.836947+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:31.448366+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:13.884859+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:54.884612+07:00",
+    "temp": 15.7,
+    "humidity": 86.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:37.893962+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:28.112017+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:09.486929+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:51.621670+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:33.331206+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:15.810912+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:06.048108+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:47.282712+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:30.757346+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:17.929890+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:07.657226+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:49.085873+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:31.395700+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:12.550631+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:55.619313+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:46.177000+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:28.309543+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:11.156395+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:52.385741+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:35.313021+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:25.433019+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:07.303072+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:51.147833+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:44.806269+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:07.044068+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:48.721464+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:31.602213+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:14.149722+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:59.412389+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:46.339268+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:28.130699+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:10.820852+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:53.106668+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:34.573812+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:19.412937+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:27.998212+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:27.892026+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:10.522968+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:55.298033+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:37.875797+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:19.670725+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:05.857270+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:48.723779+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:33.606383+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:15.702705+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:57.950501+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:45.636601+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:28.389661+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:13.226089+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:55.717022+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:38.064948+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:24.330483+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:07.159295+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:52.157550+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:34.469929+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:16.647054+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:03.800174+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:46.462256+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:32.495141+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:14.163396+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:56.933444+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:46.090191+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:28.500003+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:13.419424+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:55.869973+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:37.917264+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:23.979631+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:06.924652+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:51.752605+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:33.966407+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:16.457564+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:03.347075+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:49.777077+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:38.185869+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:20.692297+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:06.722477+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:48.810850+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:31.865872+07:00",
+    "temp": 15.4,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 17.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:17.640358+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:59.569764+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:45.982895+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:28.724300+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:10.907534+07:00",
+    "temp": 14.4,
+    "humidity": 84.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:56.222893+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:38.494933+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:24.755516+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:06.808201+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:49.302244+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:34.263302+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:17.322001+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:03.416568+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:45.358664+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:26.835998+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:12.101688+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:55.013532+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:41.557788+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:23.858715+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:05.681762+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:51.371549+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:33.566605+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:19.924026+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:02.609072+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:44.069563+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:28.969059+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:11.510416+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:58.194256+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:40.127690+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:21.952081+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:07.852537+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:50.223079+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:37.342249+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:19.331464+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:01.356510+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:47.159325+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:29.854218+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:17.434428+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:59.561280+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:42.659905+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:29.196676+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:11.526687+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:59.448130+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:41.835827+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:23.642161+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:09.439856+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:52.693673+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:38.740486+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:20.700756+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:02.933029+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:50.353994+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:32.566341+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:19.210793+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:04.341066+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:49.354821+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:31.502489+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:13.727969+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:00.079561+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:43.082875+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:28.195484+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:10.315107+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:52.720574+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:39.058621+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:22.174623+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:07.610540+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:49.450979+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:31.720996+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:18.122016+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:00.398629+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:45.032078+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:26.980148+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:09.820092+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:56.065182+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:38.959672+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:23.853271+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:06.481547+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:49.424216+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:35.951226+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:18.568877+07:00",
+    "temp": 15.1,
+    "humidity": 87.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 15.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:10.224177+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:53.004226+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:39.725327+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:22.244279+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:07.095955+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:49.396007+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:31.706485+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:19.797218+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:02.228784+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:47.007608+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:29.307559+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:12.839108+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:00.702390+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:44.436344+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:29.515849+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:11.294389+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:53.922764+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:40.495569+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:23.602850+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:09.705562+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:51.810731+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:34.179981+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:23.249913+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:06.383283+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:51.716708+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:36.600774+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:24.936010+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:07.579623+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:53.400325+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:35.300836+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:18.339225+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:05.661839+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:48.275895+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:33.731505+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:15.272069+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:59.387690+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:47.270182+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:29.828812+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:14.662117+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:56.676988+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:38.880341+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:26.329386+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:08.997663+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:54.255513+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:35.917215+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:18.007511+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:05.924478+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:48.697284+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:35.340761+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:17.123950+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:59.240222+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:46.940207+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:29.762412+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:15.200449+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:57.076162+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:40.225875+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:28.031876+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:11.802266+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:57.514843+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:39.894887+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:22.066029+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:09.498704+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:52.312684+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:37.833582+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:20.841985+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:05.538734+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:54.361678+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:39.710584+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:21.771853+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:03.514736+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:45.508186+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:34.481798+07:00",
+    "temp": 14.9,
+    "humidity": 87.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 12.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:54.107666+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:41.648420+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:25.309384+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:08.376133+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:59.191930+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:46.001350+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:30.545562+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:13.485694+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:03.390409+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:50.138508+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:33.522974+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:17.526349+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:07.807459+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:54.460839+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:37.822105+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:20.572620+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:11.242789+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:38.253882+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:38.521347+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:30.004809+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:16.567862+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:00.037996+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:43.917051+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:35.638378+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:07.916820+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:39.840306+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:18.590810+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:48.581513+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:52.690470+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:39.837931+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:23.010530+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:07.196818+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:55.919792+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:50.911589+07:00",
+    "temp": 21.6,
+    "humidity": 61.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 8.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:15.792179+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:40.846806+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:14.328437+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:47.578788+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:19.815061+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:54.813158+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:44.154056+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:31.644268+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:17.752729+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:04.989622+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:48.317815+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:36.102318+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:23.207563+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:12.477916+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:56.278916+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:46.482548+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:33.908006+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:21.085804+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:35.352537+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:09.141248+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:41.478527+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:51.331942+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:37.984934+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:27.194945+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:11.710991+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:58.506600+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:00.893904+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:37.915787+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:25.309594+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:16.180664+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:03.527456+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:50.459380+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:35.988108+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:22.970774+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:46.798255+07:00",
+    "temp": 21.2,
+    "humidity": 51.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:35.511825+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:56.288494+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:38.087577+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:15.042286+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:52.088617+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:30.998389+07:00",
+    "temp": 23.7,
+    "humidity": 53.0,
+    "pressure": 1022.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:28.546657+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:11.827527+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:59.626120+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:44.128921+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:34.920669+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:21.866622+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:59.835706+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:37.619886+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:15.588145+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:00.238521+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:40.551600+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:17.727645+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:54.837494+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:35.598732+07:00",
+    "temp": 22.7,
+    "humidity": 47.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.1111111111111112,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:22.078713+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:04.140882+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:42.296750+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:19.632647+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:57.930200+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:42.598984+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:23.689078+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:01.638296+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:39.271738+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:23.488811+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:27.883327+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:42.219792+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:31.348935+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:31.397891+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:36.323053+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:36.404965+07:00",
+    "temp": 25.3,
+    "humidity": 48.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.0,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Nghe An"
+  }
+]

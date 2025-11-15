@@ -1,0 +1,5082 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:21.156242+07:00",
+    "temp": 22.9,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:12.648949+07:00",
+    "temp": 22.9,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:54.550449+07:00",
+    "temp": 22.9,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:34.973895+07:00",
+    "temp": 22.9,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:15.573006+07:00",
+    "temp": 22.9,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:56.096581+07:00",
+    "temp": 22.9,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 7.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:47.430993+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:30.518996+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:12.974794+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:53.976994+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:34.019554+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:26.171837+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:10.327400+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:52.698456+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:34.965323+07:00",
+    "temp": 25.3,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:12.226690+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:55.743953+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:38.121876+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:22.815972+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:08.281693+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:55.644887+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:39.979412+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:24.313441+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:10.234601+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:52.004852+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:36.774199+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:21.413498+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:07.054993+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:53.094280+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:34.762690+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:19.612418+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:04.798831+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:51.024019+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:36.769812+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:22.061708+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:05.898055+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:52.270326+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:38.314584+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:20.460277+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:05.051707+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:48.547168+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:33.558049+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:19.133681+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:01.652798+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:46.840588+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:30.406697+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:15.878395+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:03.162573+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:44.931198+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:30.245540+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:17.988078+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:03.363931+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:45.851081+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:28.017011+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:13.040960+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:00.057687+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:45.462846+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:28.410372+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:11.260053+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:56.240314+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:46.890921+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:29.828841+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:11.741083+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:53.412421+07:00",
+    "temp": 25.2,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:38.083435+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:28.773102+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:11.954146+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:54.102150+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:36.766866+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:20.889157+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:11.293836+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:54.594030+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:37.560757+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:22.345925+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:11.466040+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:54.399523+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:37.282680+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:20.021074+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:04.552952+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:55.072062+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:39.012851+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:22.409782+07:00",
+    "temp": 25.4,
+    "humidity": 94.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:07.797196+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:57.990676+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:41.224315+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:25.403910+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:10.240947+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:00.595257+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:43.687220+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:28.407329+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:21.137636+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:20.786942+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:13.431061+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:58.559419+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:43.106460+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:34.013031+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:18.082500+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:00.464856+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:02.899742+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:10.147353+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:52.853799+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:34.305568+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:17.647504+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:01.481044+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:48.783208+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:31.321884+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:13.111160+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:56.667077+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:39.283356+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:27.133931+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:09.800630+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:51.749948+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:35.588121+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:18.455614+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:06.065591+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:32.905723+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:16.682526+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:59.511033+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:47.699683+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:29.127863+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:12.123023+07:00",
+    "temp": 25.2,
+    "humidity": 79.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:56.419756+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:40.531772+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:28.174571+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:10.238983+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:52.797571+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:37.453053+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:20.721881+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:07.894819+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:49.305651+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:33.845900+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:10.072473+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:59.052214+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:18.252451+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:00.135662+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:44.673927+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:34.292929+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:15.979862+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:58.405112+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:40.004060+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:23.611133+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:12.311358+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:54.081503+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:36.504833+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:18.570821+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:03.024540+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:51.986247+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:33.430418+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:16.176869+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:57.498714+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:41.356496+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:30.594291+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:12.217630+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:55.304637+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:36.852482+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:20.887475+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:10.698455+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:52.226196+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:35.833305+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:16.712411+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:00.140384+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:49.032720+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:30.664501+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:13.126949+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:25.640571+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:15.096567+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:56.223068+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:38.879120+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:19.847197+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:03.464750+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:52.368817+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:33.907687+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:16.367496+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:57.357688+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:41.420856+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:30.689233+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:11.988618+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:54.125674+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:35.760711+07:00",
+    "temp": 24.3,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:19.289005+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:08.531125+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:49.753885+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:33.290844+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:21.292898+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:10.158111+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:51.512978+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:33.888488+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:15.173828+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:58.972393+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:48.656762+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:30.863738+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:13.605301+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:54.849832+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:38.621921+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:28.247008+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:09.810893+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:53.703547+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:58.181203+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:09.534843+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:51.250018+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:34.105569+07:00",
+    "temp": 24.1,
+    "humidity": 78.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:17.644169+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:01.817213+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:48.782174+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:30.622402+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:13.353131+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:56.821922+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:37.087632+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:21.892698+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:30:40.093935+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:30.388785+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:13.092128+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:57.758673+07:00",
+    "temp": 24.0,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:41.072349+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:22.127433+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:08.371464+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:51.173068+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:36.052345+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:18.985112+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:00.475747+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:48.119643+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:31.029383+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:15.727380+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:59.198764+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:40.523130+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:26.805254+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:09.567903+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:54.642142+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:37.886558+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:20.233027+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:06.259935+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:48.994083+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:34.959190+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:17.694245+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:59.403383+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:48.617329+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:31.172644+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:15.953042+07:00",
+    "temp": 24.2,
+    "humidity": 78.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:59.142342+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:40.392088+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:26.390070+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:09.492147+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:54.214673+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:37.267005+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:18.975271+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:05.827313+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:52.813752+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:41.456738+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:23.100318+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:09.204958+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:51.309582+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:34.412449+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:20.999577+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:02.020264+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:48.522890+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:31.296183+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:13.426770+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:59.562499+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:41.030237+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:27.210464+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:09.261993+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:51.759772+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:37.608530+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:19.820539+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:05.802546+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:47.918681+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:29.276913+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:15.495927+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:57.472528+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:44.201138+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:26.340042+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:08.176806+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:54.707281+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:36.015149+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:22.465412+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:05.098557+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:46.478264+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1009.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:32.428491+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:14.106908+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:00.656759+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:42.594229+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:24.409228+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:11.188600+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:52.983241+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:39.857597+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:21.783643+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:03.791742+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:50.478782+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:32.905809+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:19.952153+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:03.060980+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:45.267464+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:32.615096+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:14.002841+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:02.008712+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:44.423893+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:26.023298+07:00",
+    "temp": 23.1,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:12.698876+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:55.211973+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:41.205039+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:23.175688+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:05.404889+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:53.697522+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:35.097312+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:21.692753+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:06.809087+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:51.838266+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:34.951012+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:16.105392+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:02.666066+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:45.594999+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:30.694069+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:13.737109+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:55.177693+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:41.586596+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:24.668916+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:10.194419+07:00",
+    "temp": 23.0,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:52.936883+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:34.215180+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:20.592260+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:02.907599+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:47.516595+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:30.767417+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:12.228780+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:58.547082+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:41.380114+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:26.308283+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:09.806928+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:52.004143+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:38.385863+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:21.078956+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:13.688332+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:55.470327+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:42.142613+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:24.738495+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:09.524200+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:52.762998+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:34.151303+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:22.252626+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:04.765878+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:49.535502+07:00",
+    "temp": 23.2,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:32.714942+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:15.725870+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:03.354157+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:46.954645+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:32.164314+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:14.584849+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:56.417326+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:43.027357+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:26.166696+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:12.321777+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:55.093999+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:36.652361+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:25.769101+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:08.916391+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:54.199638+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:40.080545+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:27.471817+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:10.116904+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:55.924443+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:37.855968+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:21.679218+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:08.194452+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:50.897370+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:36.145039+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:17.701809+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:02.831694+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:49.703173+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:32.403765+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:17.167184+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:59.236129+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:42.262465+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:28.752583+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:11.635621+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:56.784785+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:38.377263+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:21.335646+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:08.520398+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:52.481193+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:37.751368+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:19.572707+07:00",
+    "temp": 23.3,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:02.513132+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:49.519767+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:32.313046+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:17.716978+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:59.711043+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:43.594369+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:30.639368+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:14.340940+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:00.049892+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:42.516754+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:25.449848+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:12.008500+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:54.753702+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:40.352887+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:23.770675+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:08.859662+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:56.860708+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:42.246437+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:24.314184+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:06.089269+07:00",
+    "temp": 22.1,
+    "humidity": 88.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:48.853149+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:36.964768+07:00",
+    "temp": 22.4,
+    "humidity": 83.0,
+    "pressure": 1010.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:58.110671+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:44.211875+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:27.977234+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:10.860795+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:02.906374+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:48.500690+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:33.145516+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:16.071427+07:00",
+    "temp": 27.1,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:06.872889+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:52.715269+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:36.096251+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:20.157658+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:11.277022+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:57.068614+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:40.442947+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:23.132719+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:14.760793+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:44.392135+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:41.448136+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:33.446104+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:19.101094+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:02.708926+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:47.366916+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:42.270074+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:13.997526+07:00",
+    "temp": 27.3,
+    "humidity": 66.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:46.816424+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:24.654532+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:55.663541+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:55.274003+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:42.337356+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:25.561533+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:10.696300+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:58.651617+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:57.038598+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:19.511971+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:46.856466+07:00",
+    "temp": 28.4,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:20.929432+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:53.981536+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:08:27.098811+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:01.162907+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:46.759782+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:34.709015+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:20.348474+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:08.130305+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:50.952182+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:39.346070+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:26.184676+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:15.295314+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:58.823897+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:49.679466+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:36.386770+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:24.062593+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:41.504965+07:00",
+    "temp": 28.2,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:14.043957+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:47.957921+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:53.966663+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:41.052484+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:29.761097+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:14.738315+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:03.135290+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:08.324058+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:41.368956+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:28.365285+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:19.371209+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:06.146644+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:53.426537+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:38.717003+07:00",
+    "temp": 29.1,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:26.187570+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:49.927635+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:38.487799+07:00",
+    "temp": 29.0,
+    "humidity": 58.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:59.717383+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:40.125367+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:17.261771+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:54.187400+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:33.380713+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:31.748332+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:14.662968+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:02.524140+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:46.657215+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:38.431207+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:24.557135+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:01.935242+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:39.706928+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:17.684009+07:00",
+    "temp": 30.4,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:03.330119+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:42.713528+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:20.024697+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:57.071512+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:37.834457+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:25.113591+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:06.291070+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:44.457941+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:21.662248+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:00.204200+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:45.761186+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:25.805275+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:03.906568+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:41.444871+07:00",
+    "temp": 30.3,
+    "humidity": 59.0,
+    "pressure": 1012.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:26.786987+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:30.475562+07:00",
+    "temp": 31.4,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:46.471386+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:34.594511+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:34.641331+07:00",
+    "temp": 31.0,
+    "humidity": 52.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:39.944192+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:40.039992+07:00",
+    "temp": 30.2,
+    "humidity": 55.0,
+    "pressure": 1011.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 0.0,
+    "city": "Quang Binh"
+  }
+]

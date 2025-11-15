@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:48:58.523776+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:43.374539+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:33.559646+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:14.086021+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:54.774719+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:35.118997+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:18.197257+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:09.869261+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:50.019886+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:32.836026+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:13.520286+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:55.867479+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:47.873765+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:30.371240+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:12.864806+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:57.513897+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:33.800329+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:15.977550+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:00.294019+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:42.798291+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:28.356422+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:17.148297+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:02.204865+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:44.685192+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:30.390170+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:12.136138+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:58.853630+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:44.246300+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:27.177101+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:13.197707+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:54.802484+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:41.487567+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:27.215218+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:11.511026+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:56.786782+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:43.657837+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:28.716793+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:12.797982+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:58.511053+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:40.691406+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:26.395193+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:10.783348+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:53.703150+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:39.441581+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:22.618910+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:08.016564+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:52.883504+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:35.983852+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:23.272587+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:05.161289+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:54.063085+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:38.234928+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:23.440612+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:06.108091+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:48.327294+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:36.790537+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:20.634575+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:05.590396+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:48.468516+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:31.785273+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:20.387364+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:07.112437+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:50.005644+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:31.850451+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:13.743147+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:01.922951+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:48.990758+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:32.402837+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:14.548085+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:57.133604+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:44.777563+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:31.314967+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:14.959741+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:57.960055+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:46.034749+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:31.806491+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:14.641546+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:57.509363+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:40.136208+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:28.726763+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:15.281372+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:00.147168+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:43.225548+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:31.429905+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:18.258299+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:01.280513+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:46.069723+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:34.181121+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:21.005145+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:06.233029+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:48.612031+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:52.495538+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:41.567089+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:34.372629+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:18.802478+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:07.018906+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:54.652703+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:38.397433+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:20.987427+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:44.748216+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:30.411025+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:12.779707+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:54.398003+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:39.248334+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:23.413212+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:08.709580+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:51.547618+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:32.971178+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:17.981905+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:01.556443+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:47.181591+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:29.959603+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:11.673858+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:57.232898+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:40.605241+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:37.861757+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:52.875670+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:38.195107+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:21.503658+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:07.785721+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:49.298490+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:32.122286+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:19.045657+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:02.395372+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:48.339306+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:30.038034+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:12.810975+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:59.257482+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:42.535909+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:27.666202+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:10.123852+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:53.833136+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:33.487343+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:32.499707+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:38.391079+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:20.096928+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:08.160612+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:54.509356+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:36.061931+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:18.470031+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:59.989014+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:47.046272+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:32.221614+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:14.026541+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:56.609192+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:38.911886+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:26.433206+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:11.930558+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:53.556444+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:36.185855+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:17.674493+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:05.186893+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:50.665589+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:32.294400+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:15.267067+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:57.059532+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:45.100025+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:30.748291+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:12.104929+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:55.635809+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:36.591804+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:23.685634+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:09.136185+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:50.678652+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:47.598937+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:49.878934+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:35.194603+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:16.175671+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:58.785240+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:39.823144+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:26.911057+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:12.569013+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:53.882368+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:36.432732+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:17.437034+07:00",
+    "temp": 19.0,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.0,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:04.698535+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:50.680396+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:31.774491+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:13.882857+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:55.803060+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:42.845480+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:28.362162+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:09.759687+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:53.201043+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:44.909524+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:30.147135+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:11.322538+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:53.704961+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:35.249715+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:22.669253+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:08.514918+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:50.647715+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:33.657854+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:14.879557+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:02.189883+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:48.316994+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:29.787316+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:13.721683+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:43.112353+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:29.758582+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:11.249998+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:53.926011+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:40.248185+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:22.979748+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:08.782712+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:50.536684+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:33.237396+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:19.452115+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:58.029687+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:41.993125+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:06.736026+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:50.382504+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:33.905390+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:17.686915+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:00.962695+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:44.796875+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:28.417968+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:12.057560+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:56.000584+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:39.014549+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:23.108635+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:08.133640+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:51.766840+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:35.734356+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:18.938840+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:02.931090+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:46.787531+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:30.338760+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:14.663421+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:57.872655+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:42.681049+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:26.155701+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:09.891728+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:54.735383+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:37.592640+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:22.186188+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:08.689002+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:52.050498+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:36.026665+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:19.103594+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:02.945263+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:46.488060+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:30.682528+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:14.197857+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:57.570751+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:41.684982+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:27.010429+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:15.671240+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:01.371786+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:45.617325+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:29.325911+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:11.176556+07:00",
+    "temp": 18.6,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 5.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:55.771115+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:40.748199+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:24.511869+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:08.859349+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:51.348025+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:34.153744+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:19.538561+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:03.784915+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:47.380428+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:29.499649+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:12.527470+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:58.519248+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:42.245546+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:25.816825+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:07.737505+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:50.131658+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:35.583490+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:20.239963+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:04.115611+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:46.430785+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:29.045647+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:14.776909+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:58.580641+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:42.735139+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:24.820939+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:07.168689+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:52.423868+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:36.844906+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:20.460840+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:02.488389+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:45.576400+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:31.286785+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:15.866961+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:59.926508+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:41.924454+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:24.606699+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:10.662240+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:56.259632+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:39.829802+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:23.215536+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:06.097718+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:52.571772+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:36.710524+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:22.145424+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:04.350059+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:47.258100+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:32.671938+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:17.525692+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:01.240495+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:43.297272+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:26.265213+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:13.697735+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:57.868845+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:44.039079+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:27.762402+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:11.812315+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:54.781533+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:38.713376+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:22.888142+07:00",
+    "temp": 19.2,
+    "humidity": 76.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.111111111111111,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:06.560780+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:50.724248+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:33.845366+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:17.706892+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:01.526048+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:45.926614+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:29.911870+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:12.926667+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:56.864904+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:40.370064+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:23.636095+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:07.604909+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:50.841226+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:34.866330+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:18.669637+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:02.430059+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:46.719660+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:30.322753+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:14.603766+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:58.367256+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:41.982001+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:33.874801+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:17.986698+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:02.106371+07:00",
+    "temp": 18.2,
+    "humidity": 77.0,
+    "pressure": 1018.0,
+    "wind_speed": 2.1944444444444446,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:45.656376+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:29.401965+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:12.696835+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:58.459362+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:42.246163+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:25.891286+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:09.617603+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:52.846436+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:39.261595+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:24.210762+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:07.847137+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:52.053997+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:34.878452+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:19.148994+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:03.152299+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:47.212169+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:32.587639+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:15.018803+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:01.387563+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:45.936992+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:29.840550+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:14.305528+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:02.706497+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:47.641939+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:31.235531+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:15.927295+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:59.062854+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:44.472227+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:28.014795+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:11.998742+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:56.077639+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:37.654648+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:25.771000+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:09.762182+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:53.079484+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:37.139673+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:19.592008+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:05.027806+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:48.800846+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:32.539493+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:16.777002+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:58.563012+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:44.398230+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:28.610896+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:13.390001+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:58.024208+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:39.704721+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:25.287987+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:09.638605+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:53.324281+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:37.824017+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:20.412213+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:06.467384+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:50.927281+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:35.443065+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:20.298300+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:02.608463+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:48.229651+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:32.104577+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:15.621578+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:00.627203+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:44.942887+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:31.752141+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:17.744198+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:02.242624+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:44.429058+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:25.955500+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:11.705539+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:57.978782+07:00",
+    "temp": 17.9,
+    "humidity": 76.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 10.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:21.607262+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:21.731688+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:05.767098+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:48.602662+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:31.850492+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:26.280606+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:09.594270+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:53.474339+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:36.787089+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:30.474061+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:13.417777+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:56.382232+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:40.922920+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:34.763361+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:17.567890+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:00.808572+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:44.673175+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:51.106859+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:17.472607+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:02.642514+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:56.927987+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:39.633498+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:23.130179+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:09.332923+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:20.054254+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:49.177648+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:25.053441+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:54:59.705013+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:31.734595+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:15.432674+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:02.954635+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:45.863535+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:34.682937+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:19.346394+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:28.655430+07:00",
+    "temp": 22.9,
+    "humidity": 58.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8888888888888888,
+    "rain": 0.0,
+    "cloud": 4.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:54.028829+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:22.033131+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:05:59.138122+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:28.852822+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:05.267709+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:22.169682+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:07.323214+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:56.657967+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:42.869573+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:28.667308+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:11.473174+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:01.499798+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:50.447927+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:36.027756+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:22.105152+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:11.410013+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:58.968239+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:46.980269+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:16.623478+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:51.265790+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:22.244179+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:14.538319+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:04.977106+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:50.520143+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:36.599168+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:23.827744+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:48.829236+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:03.500714+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:49.165485+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:42.564793+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:28.007673+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:14.297098+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:59.464289+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:02.577654+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:12.261660+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:29.236030+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:20.852663+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:58.699892+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:35.930130+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:13.794622+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:52.910918+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:53.431147+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:36.883591+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:23.799668+07:00",
+    "temp": 24.5,
+    "humidity": 53.0,
+    "pressure": 1021.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 6.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:08.580122+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:01.746636+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:43.450883+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:21.147102+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:58.529894+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:37.450604+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:24.196154+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:01.272623+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:38.575877+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:16.377539+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:11:57.567490+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:46.456886+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:25.741135+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:02.992247+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:40.633577+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:19.447529+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:06.817381+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:45.317529+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:22.738047+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:54.758367+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:09.613909+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:17.913274+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:07.391084+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:12.591546+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:07.716863+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:12.823290+07:00",
+    "temp": 25.7,
+    "humidity": 50.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Hai Phong"
+  }
+]

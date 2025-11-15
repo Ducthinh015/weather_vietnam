@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:49:07.899614+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:55.627276+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:42.357777+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:22.828621+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:03.685129+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:43.961054+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:30.773407+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:18.587697+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:58.805503+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:41.578845+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:22.237131+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:07.767274+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:57.143856+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:39.764145+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:22.272381+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:00:36.972538+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:43.189490+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:25.148881+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:10.009679+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:54.145962+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:37.896532+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:26.857561+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:12.074327+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:55.573058+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:39.454259+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:21.638562+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:08.882774+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:54.306719+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:38.450833+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:22.335926+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:03.924388+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:51.085979+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:37.480666+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:22.584747+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:07.021898+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:53.309120+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:39.113695+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:23.845624+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:07.556653+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:49.625823+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:36.126098+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:20.873066+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:04.475529+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:48.933100+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:31.653926+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:17.648618+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:03.029036+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:47.038641+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:32.382865+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:14.864587+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:05.184605+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:49.396355+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:32.514358+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:15.192638+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:57.237989+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:47.486797+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:31.735859+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:15.000865+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:58.052881+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:41.004015+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:33.019976+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:16.191896+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:59.107704+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:40.803223+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:22.691173+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:14.741371+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:58.046672+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:41.331513+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:23.542698+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:06.285777+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:57.170762+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:40.800865+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:24.227860+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:06.885614+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:58.188544+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:41.377377+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:23.858191+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:06.521729+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:49.027211+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:41.585087+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:24.981694+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:09.717949+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:52.948222+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:44.355499+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:27.539292+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:10.399712+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:55.061164+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:46.719741+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:30.072541+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:15.652678+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:58.296445+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:06.560086+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:57.170992+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:43.734463+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:28.359875+07:00",
+    "temp": 16.5,
+    "humidity": 98.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.5,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:19.267160+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:03.941061+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:47.488903+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:29.870748+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:56.642636+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:39.317369+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:21.822621+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:03.283355+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:48.528449+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:35.421714+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:17.763501+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:00.654772+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:41.965959+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:26.869615+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:13.616318+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:56.327694+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:39.050714+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:20.632968+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:06.055695+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:52.674252+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:18.856553+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:01.714533+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:47.157795+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:34.324681+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:16.609551+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:58.158814+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:41.022916+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:28.068942+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:15.058270+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:58.025257+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:39.116604+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:22.102444+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:08.310440+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:54.514928+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:36.653584+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:19.861864+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:29:12.305012+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:45.725761+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:04.422565+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:47.378795+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:29.756882+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:20.507503+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:03.505135+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:44.816071+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:27.528480+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:08.991599+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:58.958694+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:41.233321+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:22.942801+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:06.447813+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:47.851151+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:38.604267+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:20.976318+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:02.505557+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:45.154007+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:26.606585+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:17.396918+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:59.683268+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:41.231915+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:24.237663+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:05.963972+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:57.184474+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:39.814061+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:22.075293+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:04.459123+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:45.632935+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:35.777358+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:18.077690+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:59.474025+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:08.403921+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:01.824049+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:44.130845+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:25.145069+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:07.651857+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:48.933901+07:00",
+    "temp": 16.0,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:38.919925+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:21.488321+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:02.754690+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:45.212778+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:26.488141+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:16.422439+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:59.714847+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:40.744908+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:22.934487+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:04.547243+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:55.183539+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:37.257644+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:18.758050+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:02.241988+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:56.897699+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:39.245787+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:20.226910+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:02.572337+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:44.248960+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:35.010932+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:18.251167+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:59.721824+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:42.454269+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:23.798517+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:14.491537+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:57.303816+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:39.915092+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:22.709748+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:55.165842+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:38.664614+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:20.260714+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:02.949621+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:49.302286+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:34.931465+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:17.838424+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:59.496207+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:42.178447+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:15.278837+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:08.294425+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:57.582488+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:17.898984+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:59.336850+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:43.960567+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:26.884433+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:09.805130+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:55.945967+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:37.496826+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:22.275473+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:04.854189+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:47.912105+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:35.234711+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:17.115922+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:02.154137+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:44.759443+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:27.950485+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:14.067901+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:55.871998+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:40.806306+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:23.645217+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:06.743238+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:53.813812+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:35.358444+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:19.912878+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:03.580418+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:46.888824+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:33.184578+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:17.593923+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:02.074250+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:45.113739+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:28.065841+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:13.841568+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:55.507410+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:40.607396+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:23.142503+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:06.405468+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:52.792449+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:36.925919+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:25.782959+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:10.304987+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:56.683225+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:38.266367+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:20.172462+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:05.680427+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:49.598115+07:00",
+    "temp": 15.6,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:35.852371+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:17.781256+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:00.516982+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:44.040726+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:28.370489+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:14.640127+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:56.189733+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:38.635751+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:22.361772+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:07.495827+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:53.213683+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:34.699025+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:16.476616+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:00.067266+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:45.184502+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:31.266515+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:13.236813+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:55.357723+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:39.220058+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:23.763200+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:09.895310+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:51.853639+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:33.722929+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:17.208845+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:01.394333+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:47.931391+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:29.501319+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:11.317092+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:55.810611+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:40.313777+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:26.981219+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:08.714494+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:50.831432+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:34.531497+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:19.712867+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:07.386923+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:48.979586+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:32.197746+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:16.067166+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:01.493919+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:48.644981+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:31.240235+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:13.143779+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:57.414497+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:42.700814+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:28.609530+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:10.139859+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:52.302168+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:36.367697+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:22.561714+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:08.932818+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:53.180836+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:37.893019+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:20.973232+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:03.944471+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:49.917598+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:31.868922+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:16.639403+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:59.656707+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:42.678763+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:28.950713+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:10.584907+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:56.083594+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:39.041820+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:21.733894+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:07.952710+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:49.347196+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:33.682834+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:16.628418+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:59.813624+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:45.877376+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:27.872319+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:12.282520+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:55.646824+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:39.288260+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:25.745078+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:07.394729+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:52.057741+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:42.902955+07:00",
+    "temp": 15.2,
+    "humidity": 99.0,
+    "pressure": 1017.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:29.479254+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:11.077353+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:55.682348+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:38.648085+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:21.695939+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:09.700654+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:51.195513+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:35.830386+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:18.695506+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:02.121378+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:50.539759+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:33.197030+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:17.978578+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:00.979546+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:43.998042+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:30.240680+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:12.308699+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:57.446720+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:41.648055+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:24.025858+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:12.577560+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:55.004204+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:40.018159+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:23.218932+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:14.320437+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:56.469892+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:41.675479+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:25.056710+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:08.062852+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:55.413783+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:37.249933+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:21.965487+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:05.295482+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:49.144781+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:36.902825+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:18.853928+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:03.153853+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:45.986511+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:28.608583+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:16.020392+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:57.855065+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:42.517268+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:25.778453+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:07.538082+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:55.645445+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:37.598746+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:23.766590+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:07.097863+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:48.675704+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:36.617820+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:18.667398+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:03.492252+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:46.800822+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:29.838324+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:17.567623+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:00.490250+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:45.582045+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:29.510774+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:11.666472+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:59.285154+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:41.060516+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:25.869588+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:10.005107+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:54.181800+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:42.967082+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:27.758147+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:11.634723+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:53.622505+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:35.120637+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:23.099783+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T05:53:08.244275+07:00",
+    "temp": 14.9,
+    "humidity": 99.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 100.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:38.356134+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:31.211160+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:15.130599+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:58.138302+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:44.469748+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:35.651098+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:20.318639+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:03.173890+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:49.352714+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:39.924239+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:22.966144+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:06.750759+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:53.450894+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:44.402499+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:27.371692+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:10.331115+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:57.392089+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:44:13.240743+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:26.961881+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:15.580494+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:06.421581+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:49.119126+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:32.904504+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:21.587218+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:42.886037+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:52:13.953266+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:51.191528+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:22.542186+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:42.370688+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:26.854115+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:12.616111+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:55.290766+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:45.463293+07:00",
+    "temp": 20.9,
+    "humidity": 67.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 11.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:30.762391+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:50.280538+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:03:15.887877+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:46.904747+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:22.058279+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:52.882219+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:29.621453+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:32.625480+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:18.653823+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:07.237942+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:53.614121+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:38.270391+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:23.128760+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:10.798232+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:01.215035+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:45.893165+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:33.457021+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:20.916160+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:09.772744+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:20:10.225244+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:41.866967+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:23:15.002546+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:40.871626+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:24.789984+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:16.666735+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:00.317479+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:47.772335+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:33.887209+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:30:13.042925+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:14.662196+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:02.838186+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:52.657605+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:39.020677+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:25.409195+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:35:09.672128+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:24.892866+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:23.509974+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:42.442125+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:29.717397+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:06.420570+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:43.721607+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:22.656767+07:00",
+    "temp": 23.1,
+    "humidity": 57.0,
+    "pressure": 1020.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 9.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:12.797688+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:01.329281+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:47.915967+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:33.606565+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:20.714602+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:11.347585+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:51.233359+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:29.074850+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:06.537523+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:48.287817+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:32.152809+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:09.099525+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:46.321148+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:25.481253+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:09.710306+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:54.291554+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:33.529555+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:10.863392+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:48.547310+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:30.409060+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:15.007646+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:53.002434+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:30.540270+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:09.471338+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:18.788304+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:30.099854+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:18.616817+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:20.708491+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:21.260849+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:23.010589+07:00",
+    "temp": 24.2,
+    "humidity": 49.0,
+    "pressure": 1019.0,
+    "wind_speed": 1.3888888888888888,
+    "rain": 0.0,
+    "cloud": 23.0,
+    "city": "Dien Bien"
+  }
+]

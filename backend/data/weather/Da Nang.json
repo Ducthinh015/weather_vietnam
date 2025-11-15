@@ -1,0 +1,5092 @@
+[
+  {
+    "timestamp": "2025-11-15T00:48:59.007492+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:49:44.027541+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:50:34.044041+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:14.591755+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:51:55.259603+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:52:35.623375+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:53:18.850180+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:10.367902+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:54:50.543245+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:55:33.449145+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:13.978985+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:56:56.511044+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:57:48.394966+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:58:30.922089+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:13.356421+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T00:59:58.235665+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:01:34.279398+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:02:16.463924+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:00.986375+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:03:43.319855+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:04:28.853095+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:05:17.622541+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:02.884554+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:06:45.196970+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:07:30.907489+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:12.655028+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:08:59.365991+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:09:45.040107+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:10:27.737338+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:13.708527+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:11:55.305137+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:12:41.982042+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:13:27.907597+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:12.007814+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:14:57.309609+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:15:44.173915+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:16:29.389909+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:13.329234+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:17:59.026646+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:18:41.211245+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:19:26.882811+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:11.472196+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:20:54.204988+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:21:39.950935+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:22:23.070259+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:08.538845+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:23:53.550846+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:24:36.504342+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:25:23.794325+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:05.720112+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:26:54.709389+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:27:38.764698+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:28:23.939284+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:06.610784+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:29:48.838136+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:30:37.504282+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:31:21.209518+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:06.119722+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:32:48.956621+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:33:32.304741+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:34:21.075356+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:07.625819+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:35:50.504744+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:36:32.356825+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:37:14.207113+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:02.605602+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:38:49.504500+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:39:32.903772+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:15.002425+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:40:57.645831+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:41:45.490630+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:42:31.900700+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:15.450709+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:43:58.434286+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:44:46.701324+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:45:32.397732+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:15.143316+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:46:57.996030+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:47:40.646932+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:48:29.435927+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:49:15.770215+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:00.756771+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:50:43.836064+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:51:32.119529+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:52:18.755241+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:01.784611+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:53:46.584588+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:54:34.816010+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:55:21.489327+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:06.867612+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:56:49.110450+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:57:54.137025+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:58:42.236113+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T01:59:34.876542+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:00:19.369737+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:07.696812+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:01:55.156604+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:02:38.876254+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:03:21.415898+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:04:45.458647+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:05:30.908190+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:13.303967+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:06:54.920556+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:07:39.793790+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:08:24.077835+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:09.191659+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:09:52.111449+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:10:33.439319+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:11:18.465213+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:02.266937+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:12:47.662709+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:13:30.515416+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:12.150531+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:14:57.712065+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:15:41.351808+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:16:54.107987+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:17:53.379334+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:18:38.659617+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:19:22.153060+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:08.292474+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:20:49.781036+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:21:32.619634+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:22:19.544961+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:03.069699+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:23:48.827678+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:24:30.610991+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:13.320103+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:25:59.789977+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:26:43.189979+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:27:28.181067+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:10.601184+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:28:54.330120+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:30:34.163542+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:31:32.995263+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:32:38.879498+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:33:20.722494+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:08.788276+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:34:54.974110+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:35:36.537324+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:36:18.963355+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:00.486882+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:37:47.700384+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:38:32.747930+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:14.504176+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:39:57.157741+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:40:39.431826+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:41:27.097057+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:12.459939+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:42:54.054212+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:43:36.720689+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:44:18.190831+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:05.847403+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:45:51.200811+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:46:32.810510+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:15.765997+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:47:57.557887+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:48:45.834747+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:49:31.266330+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:12.627236+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:50:56.100737+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:51:37.081720+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:52:24.341097+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:09.613809+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:53:51.190671+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:54:48.779497+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:55:50.592603+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:56:35.710067+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:16.704094+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:57:59.259158+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:58:40.336092+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.3055555555555556,
+    "rain": 0.0,
+    "cloud": 63.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T02:59:27.538950+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:13.095574+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:00:54.364897+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:01:36.922664+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:02:17.948097+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:05.384382+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:03:51.192890+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:04:32.257499+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:14.426693+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:05:56.315646+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:06:43.502566+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:07:28.880025+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:10.287558+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:08:53.704934+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:09:45.584439+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:10:30.709089+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:11.797368+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:11:54.218102+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:12:35.763110+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:13:23.362659+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:09.008536+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:14:51.146051+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:15:34.153123+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:16:15.364687+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:03.064899+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:17:48.830093+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:18:30.656582+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:19:14.191033+07:00",
+    "temp": 15.5,
+    "humidity": 97.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.1944444444444444,
+    "rain": 0.0,
+    "cloud": 53.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:20:43.773816+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:21:30.323880+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:11.737843+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:22:54.400417+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:23:40.759547+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:24:23.646118+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:09.269699+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:25:51.023270+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:26:33.739100+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:27:19.910896+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:28:58.854873+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:29:42.445766+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:07.232624+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:31:50.864732+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:32:34.585715+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:33:18.217840+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:01.484878+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:34:45.264631+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:35:28.900704+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:12.733341+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:36:56.483508+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:37:39.546160+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:38:23.627805+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:08.631867+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:39:52.434339+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:40:36.273741+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:41:19.444452+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:03.449726+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:42:47.289564+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:43:30.999920+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:15.142362+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:44:58.350886+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:45:43.196800+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:46:26.683569+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:10.631225+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:47:55.252333+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:48:38.090315+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:49:22.689828+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:09.144958+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:50:52.717082+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:51:36.486253+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:52:19.586185+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:03.421577+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:53:46.987282+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:54:31.338654+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:14.695342+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:55:58.076604+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:56:42.177114+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:57:27.519709+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:58:16.333839+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:01.888639+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T03:59:46.114933+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:00:29.802613+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:11.639165+07:00",
+    "temp": 16.2,
+    "humidity": 93.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.611111111111111,
+    "rain": 0.0,
+    "cloud": 74.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:01:56.434697+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:02:41.296633+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:03:25.025460+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:09.368441+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:04:51.876574+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:05:34.819099+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:06:20.006701+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:04.307980+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:07:47.896096+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:08:29.977391+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:13.210666+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:09:59.036447+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:10:42.714990+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:11:26.288292+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:08.222419+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:12:50.759014+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:13:36.126830+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:14:20.727337+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:04.607004+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:15:46.926704+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:16:29.760542+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:15.266021+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:17:59.076467+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:18:43.325597+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:19:25.323864+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:07.849864+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:20:52.957681+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:21:37.345576+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:22:20.955299+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:02.963270+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:23:46.264738+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:24:31.756589+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:25:16.339178+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:00.471749+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:26:42.410339+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:27:25.276481+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:11.133551+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:28:56.794874+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:29:40.350684+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:30:23.745019+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:06.826687+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:31:53.034661+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:32:37.192084+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:33:22.625965+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:04.819936+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:34:47.942746+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:35:33.205389+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:36:18.030232+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:01.724484+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:37:43.807704+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:38:26.972774+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:14.197881+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:39:58.404945+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:40:44.533764+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:41:28.430990+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:12.308748+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:42:55.262317+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:43:39.210680+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:44:23.367894+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:07.276678+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:45:51.194949+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:46:34.333026+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:47:18.192477+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:02.059255+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:48:46.718779+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:49:30.468898+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:13.390949+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:50:57.341733+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:51:40.884893+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:52:24.288272+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:08.125406+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:53:51.335806+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:54:35.362703+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:55:19.175624+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:03.071885+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:56:47.203146+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:57:30.836319+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:15.130294+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:58:58.877566+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.8055555555555556,
+    "rain": 0.0,
+    "cloud": 72.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T04:59:42.663753+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:00:34.354944+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:01:18.492378+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:02.609545+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:02:46.344396+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:03:29.925393+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:13.142424+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:04:58.945331+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:05:42.750101+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:06:26.552137+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:10.098175+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:07:53.332702+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:08:39.786683+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:09:24.738955+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:08.484789+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:10:52.576111+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:11:35.383335+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:12:19.650089+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:03.605027+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:13:47.870183+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:14:33.085569+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:15:15.530279+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:01.849563+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:16:46.440641+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:17:30.552997+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:18:14.801675+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:03.188100+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:19:48.117426+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:20:32.005401+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:16.434916+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:21:59.562110+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:22:44.961955+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:23:28.488575+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:12.637687+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:24:56.617313+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:25:38.197707+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:26:26.243790+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:10.233305+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:27:53.751199+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:28:37.625720+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:29:20.099643+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:05.535211+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:30:49.300658+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:31:33.225299+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:17.293561+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:32:59.102137+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:33:44.923754+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:34:29.108487+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:14.091894+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:35:58.539042+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:36:40.207654+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:37:25.767022+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:10.117657+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:38:54.005058+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:39:38.262903+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:40:20.890010+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:06.988581+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:41:51.445344+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:42:36.155723+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:43:20.783396+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:03.109442+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:44:48.739387+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:45:32.602544+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:46:16.318763+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:01.160261+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:47:45.459169+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:48:32.216244+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:49:18.365846+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:02.752436+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:50:44.925962+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:51:26.425152+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:12.263452+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T05:52:58.644936+07:00",
+    "temp": 16.6,
+    "humidity": 91.0,
+    "pressure": 1018.0,
+    "wind_speed": 1.6944444444444442,
+    "rain": 0.02,
+    "cloud": 77.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:30:22.591991+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:31:22.316006+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:06.413126+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:32:49.077435+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:33:32.604083+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:34:26.731051+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:10.154695+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:35:54.087096+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:36:37.452441+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:37:31.103977+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:13.991596+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:38:56.909120+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:39:41.638128+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:40:35.277007+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:41:18.078425+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:01.308463+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:42:45.363499+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:43:52.351901+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:45:18.104823+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:03.359584+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:46:57.439580+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:47:40.173958+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:48:23.637214+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:49:09.949182+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:50:21.247679+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:51:50.397578+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:53:26.691317+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:55:00.880717+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:56:32.384911+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:57:16.005603+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:03.505235+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:58:46.386323+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T09:59:35.387773+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:00:19.900512+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:01:29.915011+07:00",
+    "temp": 20.4,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.1111111111111107,
+    "rain": 0.01,
+    "cloud": 84.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:02:55.230002+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:04:23.302317+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:06:00.486794+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:07:30.041065+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:09:06.722197+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:10:22.845791+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:07.799902+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:11:57.156872+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:12:43.544261+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:13:29.166512+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:14:11.979866+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:02.039516+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:15:51.135597+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:16:36.639366+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:17:22.638540+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:11.970238+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:18:59.669628+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:19:48.191399+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:21:17.840680+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:22:52.686756+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:24:23.405137+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:25:15.066722+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:05.981221+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:26:51.067553+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:27:37.134396+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:28:24.362990+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:29:50.480388+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:04.007674+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:31:49.650616+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:32:43.139908+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:33:28.755207+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:14.846335+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:34:59.987879+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:36:03.800686+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:37:12.967962+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:56:30.037543+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:21.282163+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:57:59.094689+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:58:36.400291+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:14.536177+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T10:59:53.529430+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:00:53.856657+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:01:37.444082+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:02:24.359309+07:00",
+    "temp": 20.7,
+    "humidity": 77.0,
+    "pressure": 1020.0,
+    "wind_speed": 3.3055555555555554,
+    "rain": 0.02,
+    "cloud": 83.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:03:09.208287+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:02.238556+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:04:43.899858+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:21.619962+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:05:58.926606+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:06:38.029991+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:07:24.613610+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:01.692774+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:08:38.989578+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:09:16.915325+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:11:59.175793+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:12:46.861912+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:13:26.157033+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:03.426348+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:14:41.079283+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:15:20.071383+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:07.260802+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:16:45.738560+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:17:23.209295+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:33:55.627607+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:34:10.380848+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:38:18.861603+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:07.975215+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:43:13.038655+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:08.468932+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  },
+  {
+    "timestamp": "2025-11-15T11:53:13.333137+07:00",
+    "temp": 20.9,
+    "humidity": 79.0,
+    "pressure": 1019.0,
+    "wind_speed": 3.194444444444444,
+    "rain": 0.02,
+    "cloud": 100.0,
+    "city": "Da Nang"
+  }
+]

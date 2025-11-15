@@ -1,4 +1,4 @@
-﻿import Chart from 'https://esm.sh/chart.js@4.4.1/auto';
+import Chart from 'https://esm.sh/chart.js@4.4.1/auto';
 
 const _charts = new Map();
 
