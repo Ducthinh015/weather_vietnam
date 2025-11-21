@@ -33,7 +33,7 @@
           </form>
           <hr/>
           <div class="d-flex gap-2">
-            <a class="btn btn-outline-danger d-flex align-items-center gap-2" href="http://localhost:5000/api/auth/google/login">
+            <a class="btn btn-outline-danger d-flex align-items-center gap-2" href="http://localhost:8000/api/auth/google/login">
               <svg width="16" height="16" viewBox="0 0 48 48" aria-hidden="true">
                 <path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.9 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3 0 5.7 1.1 7.8 3l5.7-5.7C33.7 6.3 29.1 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20c10.4 0 19-8.5 19-19 0-1.1-.1-2.2-.4-3.5z"/>
                 <path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.3 16 18.8 12 24 12c3 0 5.7 1.1 7.8 3l5.7-5.7C33.7 6.3 29.1 4 24 4 16.2 4 9.5 8.5 6.3 14.7z"/>
@@ -56,6 +56,15 @@
 </div>
 
 <script>
+  const AUTH_BASE = (window.AUTH_BASE) || (window.API_BASE ? `${window.API_BASE}/auth` : 'http://localhost:8000/api/auth');
+  // Set OAuth links dynamically
+  document.addEventListener('DOMContentLoaded', ()=>{
+    const g = document.querySelector('a[href*="/api/auth/google/login"]');
+    const f = document.querySelector('a[href*="/api/auth/facebook/login"]');
+    if(g) g.href = AUTH_BASE.replace(/\/auth$/, '') + '/auth/google/login';
+    if(f) f.href = AUTH_BASE.replace(/\/auth$/, '') + '/auth/facebook/login';
+  });
+
   const form = document.getElementById('regForm');
   form.addEventListener('submit', async (e)=>{
     e.preventDefault();
@@ -63,13 +72,13 @@
     const email = document.getElementById('email').value.trim();
     const password = document.getElementById('password').value;
     try{
-      const res = await fetch('/api/auth/register', {
+      const res = await fetch(`${AUTH_BASE}/register`, {
         method:'POST', headers:{'Content-Type':'application/json'},
         body: JSON.stringify({ name, email, password })
       });
       const data = await res.json();
-      if(!res.ok) throw new Error(data.message || 'Đăng ký thất bại');
-      localStorage.setItem('token', data.token);
+      if(!res.ok || data.error) throw new Error(data.error || data.message || 'Đăng ký thất bại');
+      localStorage.setItem('token', data.token || data?.data?.token);
       location.href = '../index.html';
     }catch(err){ alert(err.message); }
   });

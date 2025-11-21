@@ -47,7 +47,7 @@ def me():
 @auth_bp.route("/google/login", methods=["GET"])
 def google_login():
     client_id = os.getenv("GOOGLE_CLIENT_ID", "")
-    redirect_uri = os.getenv("GOOGLE_REDIRECT_URI", "http://localhost:5000/api/auth/google/callback")
+    redirect_uri = os.getenv("GOOGLE_REDIRECT_URI", "http://localhost:8000/api/auth/google/callback")
     scope = "openid email profile"
     params = {
         "client_id": client_id,
@@ -71,7 +71,7 @@ def google_callback():
         "code": code,
         "client_id": os.getenv("GOOGLE_CLIENT_ID", ""),
         "client_secret": os.getenv("GOOGLE_CLIENT_SECRET", ""),
-        "redirect_uri": os.getenv("GOOGLE_REDIRECT_URI", "http://localhost:5000/api/auth/google/callback"),
+        "redirect_uri": os.getenv("GOOGLE_REDIRECT_URI", "http://localhost:8000/api/auth/google/callback"),
         "grant_type": "authorization_code",
     }
     tok = requests.post(token_url, data=data, timeout=20).json()
@@ -95,7 +95,7 @@ def google_callback():
 @auth_bp.route("/facebook/login", methods=["GET"])
 def facebook_login():
     client_id = os.getenv("FACEBOOK_CLIENT_ID", "")
-    redirect_uri = os.getenv("FACEBOOK_REDIRECT_URI", "http://localhost:5000/api/auth/facebook/callback")
+    redirect_uri = os.getenv("FACEBOOK_REDIRECT_URI", "http://localhost:8000/api/auth/facebook/callback")
     params = {
         "client_id": client_id,
         "redirect_uri": redirect_uri,
@@ -115,7 +115,7 @@ def facebook_callback():
     params = {
         "client_id": os.getenv("FACEBOOK_CLIENT_ID", ""),
         "client_secret": os.getenv("FACEBOOK_CLIENT_SECRET", ""),
-        "redirect_uri": os.getenv("FACEBOOK_REDIRECT_URI", "http://localhost:5000/api/auth/facebook/callback"),
+        "redirect_uri": os.getenv("FACEBOOK_REDIRECT_URI", "http://localhost:8000/api/auth/facebook/callback"),
         "code": code,
     }
     tok = requests.get(token_url, params=params, timeout=20).json()

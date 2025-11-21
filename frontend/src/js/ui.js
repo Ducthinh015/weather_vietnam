@@ -1,4 +1,4 @@
-import { getWeather, getForecast, getForecast3, getHistory } from './api.js';
+import { getWeather, getForecast, getForecast3, getHistory, getForecasts } from './api.js?v=20251115-1';
 import { renderLineChart, renderMultiLineChart } from './chart.js';
 
 async function handleWeatherForm(e){

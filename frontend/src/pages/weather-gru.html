@@ -3,199 +3,296 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AgriCast AI • Dự báo</title>
-
+  <title>AgriCast AI • Weather Dashboard</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="../styles/main.css" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-  <!-- Load UI + Navbar -->
-  <script type="module" src="../js/ui.js"></script>
-  <script defer src="/js/navbar.js"></script>
-
-  <style>
-    body { background: var(--bg); color: var(--text); }
-    .card { background: var(--card-bg); border:1px solid var(--card-border); }
-  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script defer src="../js/navbar.js"></script>
 </head>
-
 <body>
   <div id="navbar"></div>
+  <main class="container py-4">
+    <section class="d-flex flex-wrap align-items-center gap-3 mb-4">
+      <div>
+        <p class="text-uppercase text-muted mb-1 small">AgriCast AI</p>
+        <h1 class="fw-bold mb-1">Bảng điều khiển thời tiết thông minh</h1>
+        <p class="text-muted mb-0"> • Dự báo GRU 6 giờ • </p>
+      </div>
+      <div class="ms-auto d-flex flex-wrap gap-2 align-items-center">
+        <select id="citySelect" class="form-select"></select>
+        <button class="btn btn-outline-secondary" id="btnFetch">Lấy dữ liệu mới</button>
+        <button class="btn btn-outline-secondary" id="btnTrain">Huấn luyện lại</button>
+      </div>
+    </section>
 
-  <div class="container mt-4">
-    <h1 class="mb-4">Dự báo thời tiết (GRU)</h1>
-
-    <div class="mb-3 d-flex gap-2 align-items-center">
-      <label for="city" class="form-label mb-0 me-2">Tỉnh/Thành:</label>
-      <select id="city" class="form-select w-auto"></select>
-      <button id="btnNow" class="btn btn-primary">Thời tiết hiện tại</button>
-      <button id="btnFetchNow" class="btn btn-outline-secondary">Lấy dữ liệu mới nhất</button>
-      <button id="btnPred" class="btn btn-success">Dự báo 6 giờ</button>
-    </div>
-
-    <div class="row g-3">
-      <div class="col-md-6">
-        <div class="card p-3 h-100">
-          <h5>Hiện tại</h5>
-          <div id="now" class="small"></div>
+    <section class="row g-3 mb-4" id="kpiRow">
+      <div class="col-md-4">
+        <div class="card p-4 kpi-card h-100">
+          <div class="kpi-title">NHIỆT ĐỘ</div>
+          <div id="kpiTemp" class="kpi-value">--</div>
+          <p class="text-muted mb-0">°C • cảm biến thời gian thực </p>
         </div>
       </div>
-
-      <div class="col-md-6">
-        <div class="card p-3 h-100">
-          <h5>Dự báo</h5>
-          <canvas id="chartTemp"></canvas>
-          <canvas id="chartHum" class="mt-3"></canvas>
+      <div class="col-md-4">
+        <div class="card p-4 kpi-card h-100">
+          <div class="kpi-title">ĐỘ ẨM</div>
+          <div id="kpiHumidity" class="kpi-value">--</div>
+          <p class="text-muted mb-0">% • cập nhật từng phút</p>
         </div>
       </div>
-    </div>
-  </div>
+      <div class="col-md-4">
+        <div class="card p-4 kpi-card h-100">
+          <div class="kpi-title">LƯỢNG MƯA</div>
+          <div id="kpiRain" class="kpi-value">--</div>
+          <p class="text-muted mb-0">mm • tổng trong giờ</p>
+        </div>
+      </div>
+    </section>
 
-<script>
-// Dùng chung API_BASE với js/api.js (mặc định: http://localhost:5000/api)
-const API_BASE = (window.API_BASE) || "http://localhost:5000/api";
-const API = API_BASE + "/weather";
+    <section class="row g-4 mb-4">
+      <div class="col-lg-5">
+        <div class="card p-4 h-100">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h5 class="mb-0">Thời tiết thời gian thực</h5>
+            <span class="pill-muted small" id="realtimeUpdated">--</span>
+          </div>
+          <div id="realtimeList" class="small"></div>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="card p-4 h-100">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h5 class="mb-0">Dự báo 6 giờ tiếp theo</h5>
+            <span class="pill-muted small" id="forecastUpdated">--</span>
+          </div>
+          <canvas id="forecastChart" height="200"></canvas>
+          <ul class="forecast-list list-unstyled mt-3" id="forecastList"></ul>
+        </div>
+      </div>
+    </section>
 
-async function loadCities() {
-  const select = document.getElementById("city");
-  select.innerHTML = "";
-  try {
-    const r = await fetch(API + "/cities");
-    const cities = await r.json();
-    for (const c of cities) {
-      const opt = document.createElement("option");
-      opt.value = c;
-      opt.textContent = c;
-      select.appendChild(opt);
-    }
-  } catch (e) {
-    console.error("loadCities failed", e);
-  }
-}
-
-function getSelectedCity() {
-  const sel = document.getElementById("city");
-  return sel.value || "";
-}
-
-async function realtime(){
-  const city = getSelectedCity();
-  if (!city) throw new Error("Chưa chọn tỉnh/thành");
-  const r = await fetch(API + "/realtime?city=" + encodeURIComponent(city));
-  if(!r.ok) throw new Error("Không có dữ liệu realtime");
-  return r.json();
-}
-
-async function predict(){
-  const city = getSelectedCity();
-  if (!city) throw new Error("Chưa chọn tỉnh/thành");
-  const r = await fetch(API + "/predict?city=" + encodeURIComponent(city));
-  if(!r.ok) throw new Error("Lỗi dự báo");
-  return r.json();
-}
-
-function formatNumber(value, digits = 1) {
-  if (value === null || value === undefined || isNaN(value)) return "-";
-  return Number(value).toFixed(digits);
-}
-
-function renderNow(d){
-  const box = document.getElementById("now");
-  const city = d.city || getSelectedCity() || "";
-
-  const items = [
-    { key: "temp", label: "Nhiệt độ", unit: "°C", value: formatNumber(d.temp, 1) },
-    { key: "humidity", label: "Độ ẩm", unit: "%", value: formatNumber(d.humidity, 0) },
-    { key: "pressure", label: "Áp suất", unit: "hPa", value: formatNumber(d.pressure, 0) },
-    { key: "wind_speed", label: "Tốc độ gió", unit: "m/s", value: formatNumber(d.wind_speed, 1) },
-    { key: "cloud", label: "Mây", unit: "%", value: formatNumber(Math.max(0, d.cloud || 0), 0) },
-    { key: "rain", label: "Lượng mưa", unit: "mm", value: formatNumber(Math.max(0, d.rain || 0), 1) },
-  ];
-
-  const tsRaw = d.timestamp || "";
-  let tsDisplay = tsRaw;
-  try {
-    if (tsRaw) {
-      const dt = new Date(tsRaw);
-      tsDisplay = dt.toLocaleString("vi-VN", {
-        timeZone: "Asia/Bangkok",
-        day: "2-digit",
-        month: "2-digit",
-        year: "numeric",
-        hour: "2-digit",
-        minute: "2-digit",
-      });
-    }
-  } catch (e) {
-    tsDisplay = tsRaw;
-  }
-
-  box.innerHTML = `
-    <div class="mb-2 fw-semibold">${city ? "Khu vực: " + city : ""}</div>
-    <div class="row g-2">
-      ${items.map(it => `
-        <div class="col-6">
-          <div class="d-flex justify-content-between small border rounded px-2 py-1 bg-light-subtle">
-            <span>${it.label}</span>
-            <span class="fw-semibold">${it.value} ${it.unit}</span>
+    <section class="row g-4 mb-4">
+      <div class="col-lg-5">
+        <div class="card p-4">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h5 class="mb-0">Danh sách tỉnh</h5>
+            <span class="text-muted small">Chọn để xem </span>
+          </div>
+          <div id="provinceList" class="d-flex flex-column gap-2"></div>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="card p-4">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h5 class="mb-0">Lịch sử dữ liệu</h5>
+            <span id="datasetSummary" class="text-muted small"></span>
+          </div>
+          <div class="table-responsive">
+            <table class="table dataset-table align-middle">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Thời điểm ghi nhận</th>
+                  <th>Số mẫu</th>
+                  <th>Độ phủ (giờ)</th>
+                  <th>Bản ghi mới nhất</th>
+                </tr>
+              </thead>
+              <tbody id="datasetTableBody">
+                <tr><td colspan="5" class="text-muted">Chưa có dữ liệu.</td></tr>
+              </tbody>
+            </table>
           </div>
         </div>
-      `).join("")}
-    </div>
-    <div class="text-muted mt-2 small">Thời điểm đo: ${tsDisplay}</div>
-  `;
-}
+      </div>
+    </section>
+  </main>
 
-let chartT, chartH;
+  <script>
+    // Ưu tiên window.API_BASE (nếu inject từ server), fallback về localhost:5000 cho dev
+    const API_BASE = window.API_BASE || "http://localhost:8000/api";
+    const weatherEndpoint = `${API_BASE}/weather`;
+    let forecastChart = null;
+    let currentCity = "";
 
-function renderCharts(p){
-  const labels = p.prediction_steps || p.prediction_hours;
+    const formatNumber = (value, digits = 1) => {
+      if (value === null || value === undefined || Number.isNaN(value)) return "--";
+      return Number(value).toFixed(digits);
+    };
 
-  if(chartT) chartT.destroy();
-  if(chartH) chartH.destroy();
+    const parseResponse = async (res) => {
+      const payload = await res.json();
+      if (!res.ok || payload.status === "error") {
+        throw new Error(payload?.error?.message || "API error");
+      }
+      return payload.data || payload;
+    };
 
-  chartT = new Chart(document.getElementById("chartTemp"), {
-    type: "line",
-    data: {
-      labels,
-      datasets: [{ label: "Nhiệt độ (°C)", data: p.temp, borderColor:"#3578ff" }]
-    }
-  });
+    const loadCities = async () => {
+      const select = document.getElementById("citySelect");
+      select.innerHTML = "";
+      const res = await fetch(`${weatherEndpoint}/cities`);
+      const data = await res.json();
+      const cities = data?.data?.cities || data?.cities || [];
+      cities.forEach((city) => {
+        const opt = document.createElement("option");
+        opt.value = city;
+        opt.textContent = city;
+        select.appendChild(opt);
+      });
+      currentCity = cities[0] || "";
+      select.value = currentCity;
+      select.addEventListener("change", () => {
+        currentCity = select.value;
+        loadDashboard();
+      });
+    };
 
-  chartH = new Chart(document.getElementById("chartHum"), {
-    type: "line",
-    data: {
-      labels,
-      datasets: [{ label: "Độ ẩm (%)", data: p.humidity, borderColor:"#22c55e" }]
-    }
-  });
-}
+    const renderRealtime = (data) => {
+      const container = document.getElementById("realtimeList");
+      const timestamp = data?.timestamp || data?.timestamp_utc;
+      const ts = timestamp ? new Date(timestamp).toLocaleString("vi-VN", { timeZone: "Asia/Bangkok" }) : "--";
+      document.getElementById("realtimeUpdated").textContent = `Cập nhật: ${ts}`;
+      const metrics = [
+        { label: "Nhiệt độ", value: formatNumber(data?.temp, 1) + " °C" },
+        { label: "Độ ẩm", value: formatNumber(data?.humidity, 0) + " %" },
+        { label: "Áp suất", value: formatNumber(data?.pressure, 0) + " hPa" },
+        { label: "Tốc độ gió", value: formatNumber(data?.wind_speed, 1) + " m/s" },
+        { label: "Mây", value: formatNumber(data?.cloud, 0) + " %" },
+        { label: "Mưa", value: formatNumber(data?.rain, 1) + " mm" },
+      ];
+      container.innerHTML = metrics.map((m) => `<div class="realtime-item"><span>${m.label}</span><strong>${m.value}</strong></div>`).join("");
+      document.getElementById("kpiTemp").textContent = formatNumber(data?.temp, 1);
+      document.getElementById("kpiHumidity").textContent = formatNumber(data?.humidity, 0);
+      document.getElementById("kpiRain").textContent = formatNumber(data?.rain, 1);
+    };
 
-document.getElementById("btnNow").onclick = async ()=>{
-  try { renderNow(await realtime()); }
-  catch(e){ alert(e.message); }
-};
+    const renderForecast = (forecast) => {
+      const labels = forecast?.prediction_steps || [];
+      const temps = forecast?.temp || [];
+      const humiditySeries = forecast?.history?.humidity?.slice(-labels.length) || [];
+      const rainSeries = forecast?.history?.rain?.slice(-labels.length) || [];
+      const upd = document.getElementById("forecastUpdated");
+      if (upd) upd.textContent = forecast?.generated_at ? new Date(forecast.generated_at).toLocaleString("vi-VN") : "--";
 
-document.getElementById("btnPred").onclick = async ()=>{
-  try { renderCharts(await predict()); }
-  catch(e){ alert(e.message); }
-};
+      if (forecastChart) forecastChart.destroy();
+      const ctx = document.getElementById("forecastChart");
+      if (!labels.length || !temps.length) {
+        // Hiển thị placeholder khi chưa có dự báo
+        ctx.getContext("2d").clearRect(0,0,ctx.width,ctx.height);
+        document.getElementById("forecastList").innerHTML = `<li class="text-muted">Chưa có dự báo. Vui lòng huấn luyện mô hình hoặc chọn tỉnh khác.</li>`;
+        return;
+      }
+      forecastChart = new Chart(ctx, {
+        type: "line",
+        data: {
+          labels,
+          datasets: [
+            { label: "Nhiệt độ (°C)", data: temps, borderColor: "#2563eb", tension: 0.3, fill: false },
+            { label: "Độ ẩm (%)", data: humiditySeries, borderColor: "#22c55e", tension: 0.3, borderDash: [4, 4] },
+            { label: "Mưa (mm)", data: rainSeries, borderColor: "#f97316", tension: 0.3, borderDash: [2, 2] },
+          ],
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: true } },
+          scales: { y: { beginAtZero: false } },
+        },
+      });
 
-// Lấy dữ liệu mới nhất (gọi collector ngay)
-document.getElementById("btnFetchNow").onclick = async ()=>{
-  try {
-    const r = await fetch(API_BASE + "/weather/fetch-now", { method: "POST" });
-    const d = await r.json();
-    alert("Đã lấy dữ liệu lúc: " + (d.fetched_at || "-"));
-  } catch(e) {
-    alert("Không lấy được dữ liệu: " + e.message);
-  }
-};
+      const list = document.getElementById("forecastList");
+      list.innerHTML = labels
+        .map((label, idx) => `<li class="d-flex justify-content-between"><span>${label}</span><span>${formatNumber(temps[idx], 1)} °C</span></li>`)
+        .join("");
+    };
 
-// Khởi tạo: load danh sách tỉnh và tự chọn tỉnh đầu tiên
-window.addEventListener("DOMContentLoaded", async () => {
-  await loadCities();
-});
-</script>
+    const renderDatasetHistory = (items = []) => {
+      const body = document.getElementById("datasetTableBody");
+      if (!items.length) {
+        body.innerHTML = `<tr><td colspan="5" class="text-muted">Chưa có snapshot.</td></tr>`;
+        document.getElementById("datasetSummary").textContent = "";
+        return;
+      }
+      document.getElementById("datasetSummary").textContent = `Gần nhất: ${new Date(items[0].snapshot_at).toLocaleString("vi-VN")}`;
+      body.innerHTML = items
+        .map((item, idx) => `
+          <tr>
+            <td>${idx + 1}</td>
+            <td>${new Date(item.snapshot_at).toLocaleString("vi-VN")}</td>
+            <td><span class="history-pill">${item.samples}</span></td>
+            <td>${formatNumber(item.coverage_hours, 1)}</td>
+            <td>${item.latest_timestamp ? new Date(item.latest_timestamp).toLocaleString("vi-VN") : "--"}</td>
+          </tr>
+        `)
+        .join("");
+    };
+
+    const renderProvinceList = (provinces = []) => {
+      const container = document.getElementById("provinceList");
+      container.innerHTML = provinces
+        .map((province) => `
+          <button class="btn btn-light text-start province-chip ${province === currentCity ? "active" : ""}" data-city="${province}">
+            <span>${province}</span>
+            <small class="text-muted">Realtime + Forecast</small>
+          </button>
+        `)
+        .join("");
+      container.querySelectorAll("button").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          currentCity = btn.dataset.city;
+          document.getElementById("citySelect").value = currentCity;
+          loadDashboard();
+        });
+      });
+    };
+
+    const loadDashboard = async () => {
+      if (!currentCity) return;
+      const res = await fetch(`${weatherEndpoint}/dashboard?city=${encodeURIComponent(currentCity)}`);
+      const data = await parseResponse(res);
+      renderRealtime(data.realtime);
+      if (!data?.forecast || !data?.forecast?.temp?.length) {
+        // Fallback: gọi predict riêng nếu dashboard chưa có forecast
+        try {
+          const fres = await fetch(`${weatherEndpoint}/predict?city=${encodeURIComponent(currentCity)}`);
+          const fdata = await parseResponse(fres);
+          renderForecast(fdata);
+        } catch (e) {
+          renderForecast({ prediction_steps: [], temp: [] });
+        }
+      } else {
+        renderForecast(data.forecast);
+      }
+      renderDatasetHistory(data.dataset_history);
+      renderProvinceList(data.provinces || []);
+    };
+
+    const triggerFetch = async () => {
+      const res = await fetch(`${weatherEndpoint}/fetch-now`, { method: "POST" });
+      const payload = await res.json();
+      if (!res.ok) throw new Error(payload?.error || "Fetch failed");
+      alert(`Đã kích hoạt fetch lúc ${payload.fetched_at || new Date().toLocaleString("vi-VN")}`);
+      loadDashboard();
+    };
+
+    const triggerTrain = async () => {
+      const res = await fetch(`${weatherEndpoint}/train-now`, { method: "POST" });
+      const payload = await res.json();
+      if (!res.ok) throw new Error(payload?.error || "Train failed");
+      alert(`Huấn luyện đã bắt đầu (${payload.trained_at || new Date().toISOString()})`);
+    };
+
+    document.getElementById("btnFetch").addEventListener("click", () => triggerFetch().catch((err) => alert(err.message)));
+    document.getElementById("btnTrain").addEventListener("click", () => triggerTrain().catch((err) => alert(err.message)));
+
+    window.addEventListener("DOMContentLoaded", async () => {
+      try {
+        await loadCities();
+        await loadDashboard();
+      } catch (err) {
+        alert(err.message || "Không tải được dashboard");
+      }
+    });
+  </script>
 </body>
 </html>

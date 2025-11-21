@@ -1,29 +1,16 @@
 import os
 import json
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 from typing import Dict, Any
 from pathlib import Path
 import requests
 from ..config import Config
+import logging
+from ..db import get_db
 
-try:
-    from pymongo import MongoClient
-except Exception:
-    MongoClient = None
-
-
-DATA_DIR = Path("backend/data/weather")
-DATA_DIR.mkdir(parents=True, exist_ok=True)
 CITIES_FILE = Path("backend/data/cities.json")
-# Retention policy: keep only the latest N records
-RETAIN_MIN = 2000
-
-
-def _ensure_dir(path: str) -> None:
-    if not os.path.exists(path):
-        os.makedirs(path, exist_ok=True)
 
 
 def fetch_current(city: str, api_key: str) -> Dict[str, Any]:
@@ -49,6 +36,9 @@ def fetch_current(city: str, api_key: str) -> Dict[str, Any]:
     # Precipitation in mm (not strictly per-hour but acceptable proxy)
     rain = float(cur.get("precip_mm")) if cur.get("precip_mm") is not None else 0.0
     cloud = float(cur.get("cloud")) if cur.get("cloud") is not None else 0.0
+    feel = float(cur.get("feelslike_c")) if cur.get("feelslike_c") is not None else None
+    uv = float(cur.get("uv")) if cur.get("uv") is not None else None
+    condition = (cur.get("condition") or {}).get("text")
     item = {
         "timestamp": ts,
         "temp": temp,
@@ -57,59 +47,56 @@ def fetch_current(city: str, api_key: str) -> Dict[str, Any]:
         "wind_speed": wind_speed,
         "rain": rain,
         "cloud": cloud,
+        # Extra fields to support Google Sheets appends
+        "wind_kph": float(wind_kph) if wind_kph is not None else None,
+        "feel": feel,
+        "uv": uv,
+        "condition": condition,
+        "rain_mm": rain,
     }
     return item
 
 
-def save_record(record: Dict[str, Any], cfg: Config) -> None:
-    if cfg.MONGO_URI and MongoClient is not None:
-        client = MongoClient(cfg.MONGO_URI)
-        db = client.get_database()
-        # insert a copy so that original dict is not mutated with _id
-        db.weather.insert_one(dict(record))
-        return
-    _ensure_dir(cfg.DATA_PATH)
-    fp = os.path.join(cfg.DATA_PATH, "weather.json")
-    data = []
-    if os.path.exists(fp):
+def _to_datetime(value):
+    if isinstance(value, datetime):
+        return value
+    if isinstance(value, str):
         try:
-            with open(fp, "r", encoding="utf-8") as f:
-                data = json.load(f)
-        except Exception:
-            data = []
-    data.append(record)
-    # keep only the latest RETAIN_MIN records
-    if len(data) > RETAIN_MIN:
-        data = data[-RETAIN_MIN:]
-    with open(fp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+            return datetime.fromisoformat(value)
+        except ValueError:
+            return None
+    return None
 
 
-def save_record_city(record: Dict[str, Any]) -> None:
-    """Save a single city's record to backend/data/weather/<city>.json"""
-    city = record.get("city")
-    if not city:
-        return
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    fp = DATA_DIR / f"{city}.json"
-    data = []
-    if fp.exists():
-        try:
-            with open(fp, "r", encoding="utf-8") as f:
-                data = json.load(f)
-        except Exception:
-            data = []
-    data.append(record)
-    # keep only the latest RETAIN_MIN records per city
-    if len(data) > RETAIN_MIN:
-        data = data[-RETAIN_MIN:]
-    with open(fp, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+def _capture_dataset_snapshot(db, city: str):
+    latest = db.weather.find({"province": city}).sort("timestamp", -1).limit(1)
+    earliest = db.weather.find({"province": city}).sort("timestamp", 1).limit(1)
+    latest_doc = next(iter(latest), None)
+    earliest_doc = next(iter(earliest), None)
+
+    latest_dt = _to_datetime(latest_doc.get("timestamp")) if latest_doc else None
+    earliest_dt = _to_datetime(earliest_doc.get("timestamp")) if earliest_doc else None
+    coverage_hours = 0.0
+    if latest_dt and earliest_dt:
+        coverage_hours = max((latest_dt - earliest_dt).total_seconds() / 3600.0, 0.0)
+
+    db.dataset_history.insert_one(
+        {
+            "city": city,
+            "snapshot_at": datetime.now(timezone.utc),
+            "samples": db.weather.count_documents({"province": city}),
+            "coverage_hours": coverage_hours,
+            "latest_timestamp": latest_dt.isoformat() if latest_dt else None,
+        }
+    )
 
 
 def run_once():
     cfg = Config()
     api_key = cfg.WEATHERAPI_KEY or cfg.OPENWEATHER_API_KEY
+    db = get_db()
+    logger = logging.getLogger(__name__)
+    disable_db = os.getenv("DISABLE_WEATHER_DB", "").lower() in ("1", "true", "yes", "on")
 
     # Load list of cities from backend/data/cities.json if available
     cities = []
@@ -127,17 +114,29 @@ def run_once():
         if not cities:
             cities = [cfg.CITY]
 
+    inserted = 0
     for city in cities:
         try:
             rec = fetch_current(city, api_key)
             rec["city"] = city
-            # Save into legacy dataset (single file) if needed
-            save_record(rec, cfg)
-            # Save per-city dataset
-            save_record_city(rec)
+            rec["province"] = city  # explicit province field
+            now_local = datetime.now(ZoneInfo("Asia/Bangkok"))
+            rec["timestamp"] = now_local.isoformat()
+            # Store UTC timestamp as ISO string to ensure JSON serializable
+            rec["timestamp_utc"] = now_local.astimezone(timezone.utc).isoformat()
+            if not disable_db:
+                # Write to MongoDB (can be disabled via env)
+                db.weather.insert_one(dict(rec))
+                _capture_dataset_snapshot(db, city)
+                inserted += 1
+                logger.info("fetch_weather inserted: %s", city)
+            else:
+                logger.info("fetch_weather (DB disabled), city=%s", city)
+            # Sheets integration removed for local Mongo-only setup
         except Exception:
-            # Skip city on error, continue others
+            logger.exception("fetch_weather failed: %s", city)
             continue
+    logger.info("fetch_weather done: inserted=%d", inserted)
 
 
 if __name__ == "__main__":

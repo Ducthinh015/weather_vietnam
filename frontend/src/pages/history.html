@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AgriCast AI • Lịch sử dữ liệu</title>
+  <link rel="stylesheet" href="../styles/main.css" />
+  <script type="module" src="../js/ui.js"></script>
+  <script defer src="../js/navbar.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div id="navbar"></div>
+  <div class="container">
+    <h1>Lịch sử dữ liệu</h1>
+    <form id="historyForm" style="margin-bottom: 12px;">
+      <input class="input" list="cityList" type="text" name="city" placeholder="Chọn tỉnh/thành" required />
+      <input class="input" type="number" name="limit" value="100" min="10" max="500" />
+      <button class="button" type="submit">Tải dữ liệu</button>
+    </form>
+    <datalist id="cityList"></datalist>
+
+    <div id="emptyNote" class="alert" style="display:none; margin-bottom:12px;">Chưa có dữ liệu để hiển thị. Hãy bấm "Tải dữ liệu" sau khi chọn tỉnh.</div>
+    <div class="card" style="padding: 12px; margin-bottom: 12px;">
+      <canvas id="histChart" height="140"></canvas>
+    </div>
+
+    <div class="card" style="padding: 0; overflow-x: auto;">
+      <table class="table" id="histTable">
+        <thead>
+          <tr>
+            <th>Thời điểm</th>
+            <th>Nhiệt độ (°C)</th>
+            <th>Độ ẩm (%)</th>
+            <th>Mưa (mm)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+  <script type="module" src="../js/history.js"></script>
+</body>
+</html>

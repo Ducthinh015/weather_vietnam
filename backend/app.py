@@ -1,52 +1,88 @@
 import os
 import logging
-from flask import Flask
+from flask import Flask, jsonify
 from flask_cors import CORS
-from .config import Config
-from apscheduler.schedulers.background import BackgroundScheduler
+
+from backend.config import Config
+from backend.db import get_db
+from backend.jobs.scheduler import start_scheduler
+from backend.utils.responses import ApiError, error_response
+
+
+
 
 
 def create_app():
     logging.basicConfig(level=logging.INFO)
     app = Flask(__name__)
     app.config.from_object(Config)
-    CORS(
-        app,
-        resources={r"/api/*": {"origins": ["http://localhost:8080", "http://127.0.0.1:8080"]}},
-        supports_credentials=False,
-        allow_headers=["Content-Type", "Authorization"],
-    )
+    # Allow all origins for local testing/Render frontend
+    CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
 
-    # Register blueprints
-    from .routes.weather_routes import weather_bp
-    from .routes.irrigation_routes import irrigation_bp
-    from .routes.auth_routes import auth_bp
-    from .routes.user_routes import user_bp
+    # Register blueprints using absolute package imports
+    from backend.routes.weather_routes import weather_bp
+    from backend.routes.irrigation_routes import irrigation_bp
+    from backend.routes.auth_routes import auth_bp
+    from backend.routes.user_routes import user_bp
+    try:
+        from backend.routes.cron_routes import cron_bp
+    except Exception:
+        cron_bp = None
 
     app.register_blueprint(weather_bp, url_prefix="/api")
     app.register_blueprint(irrigation_bp, url_prefix="/api")
     app.register_blueprint(auth_bp, url_prefix="/api/auth")
     app.register_blueprint(user_bp, url_prefix="/api/user")
+    if cron_bp:
+        app.register_blueprint(cron_bp)
 
     @app.route("/health")
     def health():
         return {"status": "ok", "name": "AgriCast AI"}
 
-    # Scheduler: fetch every FETCH_INTERVAL minutes; train twice daily at 00:00 and 12:00
-    if not app.config.get("TESTING", False):
-        scheduler = BackgroundScheduler()
-        from .collector.fetch_weather import run_once as fetch_once
-        from .trainer.train_gru import train_all as train_gru
-        cfg = Config()
-        scheduler.add_job(fetch_once, "interval", minutes=cfg.FETCH_INTERVAL, id="fetch-weather")
-        # Train at 00:00 and 12:00 daily
-        scheduler.add_job(train_gru, "cron", hour="0,12", minute="0", id="daily-train")
-        scheduler.start()
+    @app.route("/health/db")
+    def health_db():
+        try:
+            db = get_db()
+            wc = db.weather.count_documents({})
+            mc = db.models.count_documents({})
+            hc = db["history_recommendations"].count_documents({})
+            return {"weather_count": wc, "model_count": mc, "history_count": hc}
+        except Exception as e:
+            return {"error": str(e)}, 500
+
+    @app.route("/")
+    def index():
+        return {"status": "ok"}
+
+    # Register error handlers
+    @app.errorhandler(ApiError)
+    def handle_api_error(exc: ApiError):
+        payload = exc.to_dict()
+        return jsonify(payload), exc.status_code
+
+    @app.errorhandler(404)
+    def handle_not_found(_: Exception):
+        return error_response("not_found", status_code=404, error_code="not_found" )
+
+    @app.errorhandler(Exception)
+    def handle_generic_error(exc: Exception):
+        logging.exception("Unhandled error")
+        return error_response("internal_error", status_code=500, error_code="internal_error")
+
+    # Start background scheduler
+    try:
+        start_scheduler(app)
+    except Exception as ex:
+        logging.warning("Scheduler not started: %s", ex)
 
     return app
 
 
+# Expose WSGI app for servers like gunicorn: `backend.app:app`
+app = create_app()
+
 if __name__ == "__main__":
-    # For local development convenience
-    app = create_app()
-    app.run(host="0.0.0.0", port=int(os.getenv("PORT", 5000)), debug=True)
+    port = int(os.environ.get("PORT", 8000))
+    # Disable reloader to prevent WinError 10038 with APScheduler
+    app.run(host="0.0.0.0", port=port, debug=False, use_reloader=False)

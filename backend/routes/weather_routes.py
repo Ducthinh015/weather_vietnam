@@ -1,59 +1,53 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request
 import logging
-import os
-import json
 import requests
-import numpy as np
 from datetime import datetime, timezone
-from ..ai.gru_model import load_gru
-from ..config import Config
-from joblib import load as joblib_load
 from threading import Thread
+
+from ..config import Config
+from ..db import get_db
+from ..services.weather_service import WeatherService
+from ..schemas.weather_schemas import CityQuerySchema, DatasetHistoryQuerySchema, TrainAllQuerySchema, OptionalCitySchema
+from ..utils.responses import success_response, error_response, ApiError
 
 weather_bp = Blueprint("weather", __name__)
 logger = logging.getLogger(__name__)
+svc = WeatherService()
+
+
+def _load_query(schema, source=None):
+    from marshmallow import ValidationError
+
+    data = source
+    if data is None:
+        data = request.args.to_dict() if hasattr(request.args, "to_dict") else dict(request.args)
+    
+    try:
+        return schema.load(data)
+    except ValidationError as exc:
+        raise ApiError("validation_error", status_code=400, error_code="validation_error", details=exc.messages)
+
+
+def _city_source():
+    return {
+        "city": (request.args.get("city") or request.args.get("province") or "").strip()
+    }
 
 
 @weather_bp.route("/weather/cities", methods=["GET"])
 def list_cities():
-    """Return list of available cities/provinces.
-
-    Priority:
-        1) backend/data/cities.json
-        2) CITIES env (comma separated)
-    """
-    cfg = Config()
-
-    # 1) Try cities.json
-    data_dir = os.path.join("backend", "data")
-    cities_fp = os.path.join(data_dir, "cities.json")
-    cities = []
-    if os.path.exists(cities_fp):
-        try:
-            with open(cities_fp, "r", encoding="utf-8") as f:
-                cities = json.load(f)
-        except Exception:
-            logger.exception("Failed to read cities.json")
-
-    # 2) Fallback: CITIES env
-    if not cities:
-        raw = getattr(cfg, "CITIES", "") or ""
-        if raw:
-            cities = [c.strip() for c in raw.split(",") if c.strip()]
-
-    return jsonify(cities)
+    return success_response({"cities": svc.list_cities()})
 
 
 @weather_bp.route("/weather", methods=["GET"])
 def weather_by_city():
-    city = (request.args.get("city") or "").strip()
-    if not city:
-        return jsonify({"error": "missing_city"}), 400
+    query = _load_query(CityQuerySchema(), _city_source())
+    city = query["city"]
 
     cfg = Config()
     api_key = cfg.WEATHERAPI_KEY or cfg.OPENWEATHER_API_KEY
     if not api_key:
-        return jsonify({"error": "missing_api_key"}), 500
+        return error_response("missing_api_key", status_code=500, error_code="missing_api_key")
 
     try:
         res = requests.get(
@@ -63,12 +57,12 @@ def weather_by_city():
         )
         if res.status_code == 400:
             data = res.json()
-            return jsonify({"error": data.get("error", {}).get("message", "invalid_city")}), 400
+            return error_response(data.get("error", {}).get("message", "invalid_city"), status_code=400, error_code="invalid_city")
         res.raise_for_status()
         data = res.json()
     except requests.RequestException as exc:
         logger.exception("weather_api_error")
-        return jsonify({"error": "weatherapi_unavailable", "detail": str(exc)}), 502
+        return error_response("weatherapi_unavailable", status_code=502, error_code="upstream_unavailable", details={"detail": str(exc)})
 
     location = data.get("location", {})
     current = data.get("current", {})
@@ -102,9 +96,9 @@ def weather_by_city():
         "timestamp": current.get("last_updated"),
     }
 
-    return jsonify(result)
+    return success_response({"city": city, "weather": result})
 
-@weather_bp.route("/weather/train-now", methods=["POST"])
+@weather_bp.route("/weather/train-now", methods=["POST", "GET"])
 def train_now():
     from ..trainer.train_gru import train_all as train_gru
 
@@ -115,13 +109,10 @@ def train_now():
             logger.exception("train_now failed")
 
     Thread(target=_run, daemon=True).start()
-    return jsonify({
-        "status": "ok",
-        "trained_at": datetime.utcnow().isoformat() + "Z",
-    })
+    return success_response({"mode": "parallel", "triggered_at": datetime.utcnow().isoformat() + "Z"})
 
 
-@weather_bp.route("/weather/fetch-now", methods=["POST"])
+@weather_bp.route("/weather/fetch-now", methods=["POST", "GET"])
 def fetch_now():
     from ..collector.fetch_weather import run_once as fetch_once
 
@@ -132,139 +123,130 @@ def fetch_now():
             logger.exception("fetch_now failed")
 
     Thread(target=_run, daemon=True).start()
-    return jsonify({
-        "status": "ok",
-        "fetched_at": datetime.utcnow().isoformat() + "Z",
-    })
+    return success_response({"trigger": "fetch_now", "fetched_at": datetime.utcnow().isoformat() + "Z"})
+
+@weather_bp.route("/weather/train-city", methods=["POST", "GET"])
+def train_city():
+    query = _load_query(CityQuerySchema(), _city_source())
+    city = query["city"]
+
+    from ..trainer.train_gru import build_and_train
+
+    result = {"status": "started", "city": city, "started_at": datetime.utcnow().isoformat() + "Z"}
+
+    def _run():
+        try:
+            msg = build_and_train(city)
+            logger.info("train_city result: %s", msg)
+        except Exception:
+            logger.exception("train_city failed for %s", city)
+
+    Thread(target=_run, daemon=True).start()
+    return success_response(result)
 
 @weather_bp.route("/weather/realtime", methods=["GET"])
 def realtime():
-    """Return latest realtime record for a specific city.
-
-    Query params:
-        city: required, name of the city/province as in backend/data/cities.json
-    """
-    city = (request.args.get("city") or "").strip()
-    if not city:
-        return jsonify({"error": "missing_city"}), 400
-
-    cfg = Config()
-
-    # 1) Try MongoDB first, filtered by city
-    if cfg.MONGO_URI:
-        try:
-            from pymongo import MongoClient
-
-            client = MongoClient(cfg.MONGO_URI)
-            db = client.get_database()
-            cur = db.weather.find({"city": city}).sort("timestamp", -1).limit(1)
-            items = list(cur)
-            if items:
-                x = items[0]
-                x.pop("_id", None)
-                return jsonify(x)
-        except Exception:
-            logger.exception("Mongo realtime failed")
-
-    # 2) Fallback: per-city JSON file backend/data/weather/<city>.json
-    data_dir = os.path.join("backend", "data", "weather")
-    city_fp = os.path.join(data_dir, f"{city}.json")
-    try:
-        if os.path.exists(city_fp):
-            with open(city_fp, "r", encoding="utf-8") as f:
-                arr = json.load(f)
-            if arr:
-                return jsonify(arr[-1])
-    except Exception:
-        logger.exception("Per-city realtime file failed")
-
-    # 3) Legacy fallback: single weather.json (no city filter)
-    fp = os.path.join(cfg.DATA_PATH, "weather.json")
-    try:
-        with open(fp, "r", encoding="utf-8") as f:
-            arr = json.load(f)
-        if arr:
-            # best-effort: try to find last record of this city
-            for row in reversed(arr):
-                if row.get("city") == city:
-                    return jsonify(row)
-            # otherwise return very last record (legacy behaviour)
-            return jsonify(arr[-1])
-    except Exception:
-        logger.exception("Legacy realtime file failed")
-
-    return jsonify({"error": "no_data_for_city", "city": city}), 404
+    query = _load_query(CityQuerySchema(), _city_source())
+    data = svc.get_realtime(query["city"])
+    return success_response({"city": query["city"], "realtime": data})
 
 @weather_bp.route("/weather/predict", methods=["GET"])
 def predict_gru():
-    """GRU forecast for a specific city.
+    query = _load_query(CityQuerySchema(), _city_source())
+    data = svc.get_forecast(query["city"])
+    return success_response(data)
 
-    Query params:
-        city: required, name of the city/province as in backend/data/cities.json
-    """
-    city = (request.args.get("city") or "").strip()
+
+@weather_bp.route("/weather/datasets", methods=["GET"])
+def dataset_history():
+    query = _load_query(DatasetHistoryQuerySchema())
+    rows = svc.get_dataset_history(city=query.get("city"), limit=query["limit"])
+    return success_response({"items": rows, "city": query.get("city")})
+
+
+@weather_bp.route("/weather/history", methods=["GET"])
+def history_series():
+    # Reuse DatasetHistoryQuerySchema for (city, limit)
+    query = _load_query(DatasetHistoryQuerySchema())
+    city = query.get("city") or (request.args.get("city") or "").strip()
+    if not city:
+        raise ApiError("city_required", status_code=400, error_code="city_required")
+    limit = int(query.get("limit") or 100)
+    items = svc.get_recent_series(city, limit=limit)
+    return success_response({"city": city, "items": items, "limit": limit})
+
+
+@weather_bp.route("/weather/dashboard", methods=["GET"])
+def dashboard():
+    query = request.args or {}
+    city = (query.get("city") or "").strip() or None
+    data = svc.get_dashboard(city=city)
+    return success_response(data)
+
+@weather_bp.route("/weather/train-all", methods=["POST", "GET"])
+def train_all_seq():
+    from ..trainer.train_gru import train_all_sequential
+
+    def _run():
+        try:
+            train_all_sequential()
+        except Exception:
+            logger.exception("train_all (sequential) failed")
+
+    Thread(target=_run, daemon=True).start()
+    return success_response({"status": "started", "mode": "sequential", "started_at": datetime.utcnow().isoformat() + "Z"})
+
+
+@weather_bp.route("/weather/train-all-parallel", methods=["POST", "GET"])
+def train_all_par():
+    from ..trainer.train_gru import train_all_parallel
+
+    query = _load_query(TrainAllQuerySchema())
+    workers = query["workers"]
+
+    def _run():
+        try:
+            train_all_parallel(max_workers=workers)
+        except Exception:
+            logger.exception("train_all (parallel) failed")
+
+    Thread(target=_run, daemon=True).start()
+    return success_response({"status": "started", "mode": "parallel", "workers": workers, "started_at": datetime.utcnow().isoformat() + "Z"})
+
+
+@weather_bp.route("/weather/model-info", methods=["GET"])
+def model_info():
+    city = (request.args.get("city") or request.args.get("province") or "").strip()
     if not city:
         return jsonify({"error": "missing_city"}), 400
+    db = get_db()
+    doc = db.models.find_one({"province": city}) or db.models.find_one({"model_name": f"{city}_gru.h5"})
+    if not doc:
+        return success_response({"province": city, "exists": False})
+    mb = bytes(doc.get("model_bytes") or b"")
+    sb = bytes(doc.get("scaler_bytes") or b"")
+    return success_response({
+        "province": city,
+        "exists": True,
+        "model_size": len(mb),
+        "scaler_size": len(sb),
+        "train_date": doc.get("trained_at") or doc.get("updated_at")
+    })
 
-    cfg = Config()
-    # Use the same feature set and sequence lengths as trainer
-    features = ["temp", "humidity", "pressure", "wind_speed", "cloud", "rain"]
-    seq_in, seq_out = 48, 6
-
-    models_dir = os.path.join("backend", "models")
-    model_path = os.path.join(models_dir, f"{city}_gru.h5")
-    scaler_path = os.path.join(models_dir, f"{city}_scaler.pkl")
-    if not os.path.exists(model_path) or not os.path.exists(scaler_path):
-        return jsonify({"error": "model_not_trained", "city": city}), 400
-
-    model = load_gru(model_path)
-    scaler = joblib_load(scaler_path)
-
-    # 1) Load latest seq_in records for this city from MongoDB if available
-    rows = []
-    if cfg.MONGO_URI:
-        try:
-            from pymongo import MongoClient
-
-            client = MongoClient(cfg.MONGO_URI)
-            db = client.get_database()
-            cur = db.weather.find({"city": city}).sort("timestamp", -1).limit(seq_in)
-            rows = list(cur)[::-1]  # chronological
-            for r in rows:
-                r.pop("_id", None)
-        except Exception:
-            rows = []
-
-    # 2) Fallback: per-city JSON file backend/data/weather/<city>.json
-    if not rows:
-        data_dir = os.path.join("backend", "data", "weather")
-        city_fp = os.path.join(data_dir, f"{city}.json")
-        try:
-            if os.path.exists(city_fp):
-                with open(city_fp, "r", encoding="utf-8") as f:
-                    arr = json.load(f)
-                rows = arr[-seq_in:]
-        except Exception:
-            rows = []
-
-    if len(rows) < seq_in:
-        return jsonify({"error": "not_enough_data", "city": city}), 400
-
-    Xdf = [[float(r.get(k, 0.0)) for k in features] for r in rows]
-    Xscaled = scaler.transform(np.array(Xdf))
-    Xin = np.expand_dims(Xscaled, axis=0)
-
-    y = model.predict(Xin, verbose=0)[0]
-    y = y.reshape(seq_out, len(features))
-    y_inv = scaler.inverse_transform(y)
-
-    result = {k: [float(v) for v in y_inv[:, i]] for i, k in enumerate(features)}
-
-    return jsonify(
-        {
-            "city": city,
-            "prediction_steps": [f"+{i}h" for i in range(1, seq_out + 1)],
-            **result,
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-        }
-    )
+@weather_bp.route("/weather/model-check", methods=["GET"])
+def model_check():
+    query = _load_query(CityQuerySchema(), _city_source())
+    province = query["city"]
+    db = get_db()
+    doc = db.models.find_one({"province": province}) or db.models.find_one({"model_name": f"{province}_gru.h5"})
+    if not doc:
+        return success_response({"exists": False, "province": province})
+    mb = bytes(doc.get("model_bytes") or b"")
+    sb = bytes(doc.get("scaler_bytes") or b"")
+    return success_response({
+        "exists": True,
+        "province": province,
+        "model_size": len(mb),
+        "scaler_size": len(sb),
+        "train_date": doc.get("trained_at") or doc.get("updated_at")
+    })

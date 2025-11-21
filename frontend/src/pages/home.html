@@ -6,7 +6,7 @@
   <title>AgriCast AI • Trang chủ</title>
   <link rel="stylesheet" href="../styles/main.css" />
   <script type="module" src="../js/ui.js"></script>
-  <script defer src="/js/navbar.js"></script>
+  <script defer src="../js/navbar.js"></script>
   <script>
     (function(){
       try{
@@ -22,11 +22,38 @@
   <div class="container">
     <h1>Thời tiết hiện tại</h1>
     <form id="weatherForm">
-      <input class="input" type="text" name="city" placeholder="Nhập tên thành phố" required />
+      <input class="input" list="cityList" type="text" name="city" placeholder="Chọn tỉnh/thành" required />
       <button class="button" type="submit">Kiểm tra</button>
     </form>
     <p id="error" class="error"></p>
-    <pre id="weatherResult" class="card"></pre>
+    <div id="kpis" class="cards">
+      <div class="card">
+        <div class="title">Nhiệt độ</div>
+        <div class="value" style="padding-left:3rem"><span id="kpi-temp">--</span> °C</div>
+      </div>
+      <div class="card">
+        <div class="title">Độ ẩm</div>
+        <div class="value" style="padding-left:3rem"><span id="kpi-humidity">--</span> %</div>
+      </div>
+      <div class="card">
+        <div class="title">Áp suất</div>
+        <div class="value" style="padding-left:3rem"><span id="kpi-pressure">--</span> hPa</div>
+      </div>
+      <div class="card">
+        <div class="title">Gió</div>
+        <div class="value" style="padding-left:3rem"><span id="kpi-wind">--</span> m/s</div>
+      </div>
+      <div class="card">
+        <div class="title">Trạng thái</div>
+        <div class="value" style="padding-left:3rem"><img id="kpi-icon" alt="" style="height:24px;vertical-align:middle;margin-right:6px;"/><span id="kpi-condition">--</span></div>
+      </div>
+      <div class="card">
+        <div class="title">Thời điểm</div>
+        <div class="value" style="padding-left:3rem"><span id="kpi-time">--</span></div>
+      </div>
+    </div>
+    <datalist id="cityList"></datalist>
   </div>
+  <script type="module" src="../js/home.js"></script>
 </body>
 </html>
