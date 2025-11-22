@@ -1,14 +1,14 @@
-from flask import Blueprint, request
+from flask import Blueprint, request, jsonify
 import logging
 import requests
 from datetime import datetime, timezone
 from threading import Thread
 
-from ..config import Config
-from ..db import get_db
-from ..services.weather_service import WeatherService
-from ..schemas.weather_schemas import CityQuerySchema, DatasetHistoryQuerySchema, TrainAllQuerySchema, OptionalCitySchema
-from ..utils.responses import success_response, error_response, ApiError
+from backend.config import Config
+from backend.db import get_db
+from backend.services.weather_service import WeatherService
+from backend.schemas.weather_schemas import CityQuerySchema, DatasetHistoryQuerySchema, TrainAllQuerySchema, OptionalCitySchema
+from backend.utils.responses import success_response, error_response, ApiError
 
 weather_bp = Blueprint("weather", __name__)
 logger = logging.getLogger(__name__)
@@ -100,7 +100,10 @@ def weather_by_city():
 
 @weather_bp.route("/weather/train-now", methods=["POST", "GET"])
 def train_now():
-    from ..trainer.train_gru import train_all as train_gru
+    try:
+        from backend.trainer.train_gru import train_all as train_gru
+    except Exception as exc:
+        return error_response("training_not_supported", status_code=501, error_code="training_not_supported", details={"detail": str(exc)})
 
     def _run():
         try:
@@ -114,7 +117,10 @@ def train_now():
 
 @weather_bp.route("/weather/fetch-now", methods=["POST", "GET"])
 def fetch_now():
-    from ..collector.fetch_weather import run_once as fetch_once
+    try:
+        from backend.collector.fetch_weather import run_once as fetch_once
+    except Exception as exc:
+        return error_response("fetch_not_available", status_code=500, error_code="fetch_not_available", details={"detail": str(exc)})
 
     def _run():
         try:
@@ -130,7 +136,10 @@ def train_city():
     query = _load_query(CityQuerySchema(), _city_source())
     city = query["city"]
 
-    from ..trainer.train_gru import build_and_train
+    try:
+        from backend.trainer.train_gru import build_and_train
+    except Exception as exc:
+        return error_response("training_not_supported", status_code=501, error_code="training_not_supported", details={"detail": str(exc)})
 
     result = {"status": "started", "city": city, "started_at": datetime.utcnow().isoformat() + "Z"}
 
@@ -185,7 +194,10 @@ def dashboard():
 
 @weather_bp.route("/weather/train-all", methods=["POST", "GET"])
 def train_all_seq():
-    from ..trainer.train_gru import train_all_sequential
+    try:
+        from backend.trainer.train_gru import train_all_sequential
+    except Exception as exc:
+        return error_response("training_not_supported", status_code=501, error_code="training_not_supported", details={"detail": str(exc)})
 
     def _run():
         try:
@@ -199,7 +211,10 @@ def train_all_seq():
 
 @weather_bp.route("/weather/train-all-parallel", methods=["POST", "GET"])
 def train_all_par():
-    from ..trainer.train_gru import train_all_parallel
+    try:
+        from backend.trainer.train_gru import train_all_parallel
+    except Exception as exc:
+        return error_response("training_not_supported", status_code=501, error_code="training_not_supported", details={"detail": str(exc)})
 
     query = _load_query(TrainAllQuerySchema())
     workers = query["workers"]

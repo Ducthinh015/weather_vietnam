@@ -13,7 +13,8 @@ class Config:
     USE_REDIS: bool = os.getenv("USE_REDIS", "false").lower() == "true"
     REDIS_URL: str = os.getenv("REDIS_URL", "redis://localhost:6379/0")
     CITY: str = os.getenv("CITY", "Hanoi")
-    MONGO_URI: str = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+    # Prefer Cloud Run style MONGO_URL, fallback to legacy MONGO_URI
+    MONGO_URI: str = os.getenv("MONGO_URL", os.getenv("MONGO_URI", "mongodb://localhost:27017"))
     DB_NAME: str = os.getenv("DB_NAME", "agricast_ai")
     DATA_PATH: str = os.getenv("DATA_PATH", "/data")
     # Fetch interval in minutes (for scheduler); default 10

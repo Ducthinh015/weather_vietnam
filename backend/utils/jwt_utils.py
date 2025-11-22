@@ -4,7 +4,7 @@ import functools
 from typing import Dict, Any, Optional, Callable
 import jwt
 from flask import request, jsonify
-from ..config import Config
+from backend.config import Config
 
 
 def _secret() -> str:

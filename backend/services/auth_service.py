@@ -2,8 +2,8 @@ import os
 import uuid
 import bcrypt
 from typing import Optional, Dict, Any
-from ..models.user_model import User, UserRepository
-from ..utils.jwt_utils import generate_token
+from backend.models.user_model import User, UserRepository
+from backend.utils.jwt_utils import generate_token
 
 
 class AuthService:

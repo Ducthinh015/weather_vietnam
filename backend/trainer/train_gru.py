@@ -15,8 +15,8 @@ from bson.binary import Binary
 from datetime import datetime, timezone
 
 import os
-from ..config import Config
-from ..db import get_db
+from backend.config import Config
+from backend.db import get_db
 
 FEATURES = ["temp", "humidity", "pressure", "wind_speed", "cloud", "rain"]
 SEQ_IN = 48

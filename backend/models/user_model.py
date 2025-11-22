@@ -2,8 +2,8 @@ import os
 import json
 from dataclasses import dataclass, asdict
 from typing import Optional, Dict, Any
-from ..config import Config
-from ..db import get_db
+from backend.config import Config
+from backend.db import get_db
 
 
 @dataclass

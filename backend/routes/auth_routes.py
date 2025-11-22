@@ -2,8 +2,8 @@ import os
 import urllib.parse
 import requests
 from flask import Blueprint, request, jsonify, redirect
-from ..services.auth_service import AuthService
-from ..utils.jwt_utils import require_auth
+from backend.services.auth_service import AuthService
+from backend.utils.jwt_utils import require_auth
 
 auth_bp = Blueprint("auth", __name__)
 svc = AuthService()

@@ -1,6 +1,6 @@
 import os
 from flask import Blueprint, request, jsonify
-from ..utils.jwt_utils import verify_token
+from backend.utils.jwt_utils import verify_token
 
 user_bp = Blueprint("user", __name__)
 

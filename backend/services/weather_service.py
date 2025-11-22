@@ -11,11 +11,10 @@ from io import BytesIO
 import joblib
 import numpy as np
 from pymongo.collection import Collection
-from tensorflow.keras.models import load_model
 
-from ..config import Config
-from ..db import get_db
-from ..utils.responses import ApiError
+from backend.config import Config
+from backend.db import get_db
+from backend.utils.responses import ApiError
 
 FEATURES = ["temp", "humidity", "pressure", "wind_speed", "cloud", "rain"]
 SEQ_IN = 48
@@ -79,6 +78,12 @@ class WeatherService:
         fs_scaler = model_dir / "scaler.pkl"
         scaler = None
         model = None
+
+        # Lazy import TensorFlow only when needed
+        try:
+            from tensorflow.keras.models import load_model  # type: ignore
+        except Exception as exc:
+            raise ApiError("ml_unavailable", status_code=501, error_code="ml_unavailable", details={"detail": str(exc)})
 
         if fs_model.exists() and fs_scaler.exists():
             # Keras 3 compatibility: allow loading legacy models

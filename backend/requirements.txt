@@ -3,12 +3,9 @@ Flask-Cors
 pymongo
 python-dotenv
 requests
-apscheduler
-pandas
 numpy
-scikit-learn
-tensorflow
-matplotlib
 joblib
 marshmallow
 gunicorn
+bcrypt
+PyJWT

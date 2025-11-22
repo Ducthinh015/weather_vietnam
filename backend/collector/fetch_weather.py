@@ -6,9 +6,9 @@ from zoneinfo import ZoneInfo
 from typing import Dict, Any
 from pathlib import Path
 import requests
-from ..config import Config
+from backend.config import Config
 import logging
-from ..db import get_db
+from backend.db import get_db
 
 CITIES_FILE = Path("backend/data/cities.json")
 

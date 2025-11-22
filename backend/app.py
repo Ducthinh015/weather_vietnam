@@ -3,10 +3,9 @@ import logging
 from flask import Flask, jsonify
 from flask_cors import CORS
 
-from config import Config
-from db import get_db
-from jobs.scheduler import start_scheduler
-from utils.responses import ApiError, error_response
+from backend.config import Config
+from backend.db import get_db
+from backend.utils.responses import ApiError, error_response
 
 
 
@@ -20,14 +19,12 @@ def create_app():
     CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
 
     # Register blueprints using absolute package imports
-    from routes.weather_routes import weather_bp
-    from routes.irrigation_routes import irrigation_bp
-    from routes.auth_routes import auth_bp
-    from routes.user_routes import user_bp
-    try:
-        from routes.cron_routes import cron_bp
-    except Exception:
-        cron_bp = None
+    from backend.routes.weather_routes import weather_bp
+    from backend.routes.irrigation_routes import irrigation_bp
+    from backend.routes.auth_routes import auth_bp
+    from backend.routes.user_routes import user_bp
+    # Avoid importing cron routes at startup to prevent heavy deps loading
+    cron_bp = None
 
     app.register_blueprint(weather_bp, url_prefix="/api")
     app.register_blueprint(irrigation_bp, url_prefix="/api")
@@ -70,11 +67,7 @@ def create_app():
         logging.exception("Unhandled error")
         return error_response("internal_error", status_code=500, error_code="internal_error")
 
-    # Start background scheduler
-    try:
-        start_scheduler(app)
-    except Exception as ex:
-        logging.warning("Scheduler not started: %s", ex)
+    # Cloud Run forbids background schedulers/threads; do not start any scheduler here
 
     return app
 
