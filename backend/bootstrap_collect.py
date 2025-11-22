@@ -6,13 +6,10 @@ from pathlib import Path
 # Allow running as a script: python backend/bootstrap_collect.py
 if __package__ is None or __package__ == "":
     sys.path.append(os.path.dirname(os.path.dirname(__file__)))
-    from backend.collector.fetch_weather import run_once  # type: ignore
-    from backend.config import Config  # type: ignore
-    from backend.db import get_db  # type: ignore
-else:
-    from .collector.fetch_weather import run_once
-    from .config import Config
-    from .db import get_db
+
+from backend.collector.fetch_weather import run_once  # type: ignore
+from backend.config import Config  # type: ignore
+from backend.db import get_db  # type: ignore
 import json
 
 DEF_SLEEP_SECONDS = 10

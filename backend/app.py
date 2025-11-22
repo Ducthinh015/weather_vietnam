@@ -1,7 +1,11 @@
 import os
+import sys
 import logging
 from flask import Flask, jsonify
 from flask_cors import CORS
+
+if __package__ is None or __package__ == "":
+    sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 
 from backend.config import Config
 from backend.db import get_db
@@ -15,8 +19,8 @@ def create_app():
     logging.basicConfig(level=logging.INFO)
     app = Flask(__name__)
     app.config.from_object(Config)
-    # Allow production frontend
-    CORS(app, resources={r"/*": {"origins": ["https://weather-vn.onrender.com"]}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
+    allowed_origins = os.getenv("FRONTEND_BASE_URL", "*")
+    CORS(app, resources={r"/api/*": {"origins": allowed_origins}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
 
     # Register blueprints using absolute package imports
     from backend.routes.weather_routes import weather_bp

@@ -7,9 +7,9 @@ from typing import Optional
 
 from apscheduler.schedulers.background import BackgroundScheduler
 
-from ..collector.fetch_weather import run_once as fetch_once
-from ..trainer.train_gru import train_all_sequential as train_job
-from ..config import Config
+from backend.collector.fetch_weather import run_once as fetch_once
+from backend.trainer.train_gru import train_all_sequential as train_job
+from backend.config import Config
 
 _scheduler: Optional[BackgroundScheduler] = None
 
