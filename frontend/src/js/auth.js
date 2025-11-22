@@ -21,7 +21,7 @@ export async function getCurrentUser() {
 
     if (!res.ok) return null;
     const data = await res.json();
-    return data;
+    return data?.user || data;
   } catch {
     return null;
   }

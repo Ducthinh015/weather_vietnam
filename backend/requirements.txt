@@ -3,6 +3,7 @@ Flask-Cors
 pymongo
 python-dotenv
 requests
+requests-oauthlib
 numpy
 joblib
 marshmallow

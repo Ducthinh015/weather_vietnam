@@ -4,9 +4,11 @@ import requests
 from flask import Blueprint, request, jsonify, redirect
 from backend.services.auth_service import AuthService
 from backend.utils.jwt_utils import require_auth
+from backend.models.user_model import UserRepository
 
 auth_bp = Blueprint("auth", __name__)
 svc = AuthService()
+user_repo = UserRepository()
 
 
 @auth_bp.route("/register", methods=["POST"])
@@ -40,7 +42,17 @@ def login():
 @require_auth
 def me():
     payload = getattr(request, "user", {})
-    return jsonify({"user": {"id": payload.get("sub"), "email": payload.get("email"), "name": payload.get("name")}})
+    email = payload.get("email")
+    user_doc = user_repo.find_by_email(email) if email else None
+    if user_doc:
+        user_data = user_repo.to_public_dict(user_doc)
+    else:
+        user_data = {
+            "id": payload.get("sub"),
+            "email": email,
+            "name": payload.get("name"),
+        }
+    return jsonify({"user": user_data})
 
 
 # Google OAuth
