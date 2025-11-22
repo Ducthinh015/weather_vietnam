@@ -11,7 +11,8 @@ import logging
 from backend.db import get_db
 
 logger = logging.getLogger(__name__)
-CITIES_FILE = Path("backend/data/cities.json")
+BASE_DIR = Path(__file__).resolve().parents[1]
+CITIES_FILE = BASE_DIR / "data" / "cities.json"
 
 
 def load_cities() -> list[str]:
