@@ -11,6 +11,7 @@ from io import BytesIO
 import joblib
 import numpy as np
 from pymongo.collection import Collection
+import tflite_runtime.interpreter as tflite
 
 from backend.config import Config
 from backend.db import get_db
@@ -24,7 +25,7 @@ SEQ_OUT = 6
 @dataclass
 class ModelArtifacts:
     scaler: Any
-    model: Any
+    interpreter: tflite.Interpreter
 
 
 class WeatherService:
@@ -74,43 +75,30 @@ class WeatherService:
     # ------------------------------------------------------------------
     def _load_model_artifacts(self, city: str) -> ModelArtifacts:
         model_dir = self.model_base / city
-        fs_model = model_dir / "gru.keras"
+        fs_tflite = model_dir / "model.tflite"
         fs_scaler = model_dir / "scaler.pkl"
-        scaler = None
-        model = None
-
-        # Lazy import TensorFlow only when needed
-        try:
-            from tensorflow.keras.models import load_model  # type: ignore
-        except Exception as exc:
-            raise ApiError("ml_unavailable", status_code=501, error_code="ml_unavailable", details={"detail": str(exc)})
-
-        if fs_model.exists() and fs_scaler.exists():
-            # Keras 3 compatibility: allow loading legacy models
-            model = load_model(str(fs_model), compile=False, safe_mode=False)
+        # Prefer filesystem
+        if fs_tflite.exists() and fs_scaler.exists():
             scaler = joblib.load(fs_scaler)
-            return ModelArtifacts(scaler=scaler, model=model)
+            interpreter = tflite.Interpreter(model_path=str(fs_tflite))
+            interpreter.allocate_tensors()
+            return ModelArtifacts(scaler=scaler, interpreter=interpreter)
 
-        model_doc = self.db.models.find_one({"province": city, "model_bytes": {"$exists": True}})
-        if model_doc and model_doc.get("scaler_bytes"):
-            scaler_bytes = bytes(model_doc["scaler_bytes"])
-            model_bytes = bytes(model_doc["model_bytes"])
-        else:
-            legacy_model = self.db.models.find_one({"model_name": f"{city}_gru.h5", "model_bytes": {"$exists": True}})
-            legacy_scaler = self.db.models.find_one({"model_name": f"{city}_scaler.pkl"})
-            if not legacy_model or not legacy_scaler:
-                raise ApiError("model_not_trained", status_code=400, error_code="model_not_trained")
-            model_bytes = bytes(legacy_model.get("model_bytes") or b"")
-            scaler_bytes = bytes(legacy_scaler.get("scaler_bytes") or legacy_scaler.get("model_bytes") or b"")
-
-        if not model_bytes or not scaler_bytes:
+        # Fallback to MongoDB
+        doc = self.db.models.find_one({"province": city, "tflite_bytes": {"$exists": True}})
+        if not doc or not doc.get("scaler_bytes"):
+            raise ApiError("model_not_trained", status_code=400, error_code="model_not_trained")
+        tflite_bytes = bytes(doc.get("tflite_bytes") or b"")
+        scaler_bytes = bytes(doc.get("scaler_bytes") or b"")
+        if not tflite_bytes or not scaler_bytes:
             raise ApiError("model_not_trained", status_code=400, error_code="model_not_trained")
 
         scaler = joblib.load(BytesIO(scaler_bytes))
-        with NamedTemporaryFile(suffix=".keras") as tmp:
-            Path(tmp.name).write_bytes(model_bytes)
-            model = load_model(tmp.name, compile=False, safe_mode=False)
-        return ModelArtifacts(scaler=scaler, model=model)
+        with NamedTemporaryFile(suffix=".tflite") as tmp:
+            Path(tmp.name).write_bytes(tflite_bytes)
+            interpreter = tflite.Interpreter(model_path=tmp.name)
+            interpreter.allocate_tensors()
+        return ModelArtifacts(scaler=scaler, interpreter=interpreter)
 
     # ------------------------------------------------------------------
     def get_realtime(self, city: str) -> Dict[str, Any]:
@@ -129,11 +117,19 @@ class WeatherService:
         Xdf = [[float(r.get(k, 0.0)) for k in FEATURES] for r in rows]
         artifacts = self._load_model_artifacts(city)
         scaler = artifacts.scaler
-        model = artifacts.model
+        interpreter = artifacts.interpreter
 
         Xscaled = scaler.transform(np.array(Xdf))
-        Xin = np.expand_dims(Xscaled, axis=0)
-        pred = model.predict(Xin, verbose=0)[0]
+        Xin = np.expand_dims(Xscaled, axis=0).astype("float32")
+
+        input_details = interpreter.get_input_details()
+        output_details = interpreter.get_output_details()
+        interpreter.set_tensor(input_details[0]["index"], Xin)
+        interpreter.invoke()
+        pred = interpreter.get_tensor(output_details[0]["index"])
+        if isinstance(pred, np.ndarray):
+            if pred.ndim == 2 and pred.shape[0] == 1:
+                pred = pred[0]
 
         temps: List[float] = []
         if np.isscalar(pred) or (hasattr(pred, "shape") and pred.shape in {(), (1,)}):
@@ -148,7 +144,7 @@ class WeatherService:
                 inv = scaler.inverse_transform(vec)[0]
                 temps.append(float(inv[0]))
         else:
-            horizon = pred.reshape(SEQ_OUT, len(FEATURES))
+            horizon = np.array(pred).reshape(SEQ_OUT, len(FEATURES))
             inv = scaler.inverse_transform(horizon)
             temps = [float(v[0]) for v in inv]
 

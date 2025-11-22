@@ -15,8 +15,8 @@ def create_app():
     logging.basicConfig(level=logging.INFO)
     app = Flask(__name__)
     app.config.from_object(Config)
-    # Allow all origins for local testing/Render frontend
-    CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
+    # Allow production frontend
+    CORS(app, resources={r"/*": {"origins": ["https://weather-vn.onrender.com"]}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
 
     # Register blueprints using absolute package imports
     from backend.routes.weather_routes import weather_bp

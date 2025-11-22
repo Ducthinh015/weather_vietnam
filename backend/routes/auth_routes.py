@@ -46,9 +46,15 @@ def me():
 # Google OAuth
 @auth_bp.route("/google/login", methods=["GET"])
 def google_login():
-    client_id = os.getenv("GOOGLE_CLIENT_ID", "")
-    redirect_uri = os.getenv("GOOGLE_REDIRECT_URI", "http://localhost:8000/api/auth/google/callback")
+    client_id = os.getenv("GOOGLE_CLIENT_ID")
+    redirect_uri = os.getenv("GOOGLE_REDIRECT_URI")
     scope = "openid email profile"
+    missing = [k for k, v in {
+        "GOOGLE_CLIENT_ID": client_id,
+        "GOOGLE_REDIRECT_URI": redirect_uri,
+    }.items() if not v]
+    if missing:
+        return jsonify({"error": "missing_oauth_config", "missing": missing}), 500
     params = {
         "client_id": client_id,
         "redirect_uri": redirect_uri,
@@ -67,11 +73,21 @@ def google_callback():
     if not code:
         return jsonify({"error": "missing_code"}), 400
     token_url = "https://oauth2.googleapis.com/token"
+    client_id = os.getenv("GOOGLE_CLIENT_ID")
+    client_secret = os.getenv("GOOGLE_CLIENT_SECRET")
+    redirect_uri = os.getenv("GOOGLE_REDIRECT_URI")
+    missing = [k for k, v in {
+        "GOOGLE_CLIENT_ID": client_id,
+        "GOOGLE_CLIENT_SECRET": client_secret,
+        "GOOGLE_REDIRECT_URI": redirect_uri,
+    }.items() if not v]
+    if missing:
+        return jsonify({"error": "missing_oauth_config", "missing": missing}), 500
     data = {
         "code": code,
-        "client_id": os.getenv("GOOGLE_CLIENT_ID", ""),
-        "client_secret": os.getenv("GOOGLE_CLIENT_SECRET", ""),
-        "redirect_uri": os.getenv("GOOGLE_REDIRECT_URI", "http://localhost:8000/api/auth/google/callback"),
+        "client_id": client_id,
+        "client_secret": client_secret,
+        "redirect_uri": redirect_uri,
         "grant_type": "authorization_code",
     }
     tok = requests.post(token_url, data=data, timeout=20).json()
@@ -86,7 +102,9 @@ def google_callback():
     email = userinfo.get("email")
     name = userinfo.get("name") or email
     res = svc.oauth_login(name=name, email=email, provider="google")
-    fe_base = os.getenv("FRONTEND_BASE_URL", "http://localhost:8080")
+    fe_base = os.getenv("FRONTEND_BASE_URL")
+    if not fe_base:
+        return jsonify({"error": "missing_oauth_config", "missing": ["FRONTEND_BASE_URL"]}), 500
     success_url = f"{fe_base}/pages/oauth_success.html?token=" + urllib.parse.quote(res["token"]) 
     return redirect(success_url)
 
@@ -94,8 +112,14 @@ def google_callback():
 # Facebook OAuth
 @auth_bp.route("/facebook/login", methods=["GET"])
 def facebook_login():
-    client_id = os.getenv("FACEBOOK_CLIENT_ID", "")
-    redirect_uri = os.getenv("FACEBOOK_REDIRECT_URI", "http://localhost:8000/api/auth/facebook/callback")
+    client_id = os.getenv("FACEBOOK_CLIENT_ID")
+    redirect_uri = os.getenv("FACEBOOK_REDIRECT_URI")
+    missing = [k for k, v in {
+        "FACEBOOK_CLIENT_ID": client_id,
+        "FACEBOOK_REDIRECT_URI": redirect_uri,
+    }.items() if not v]
+    if missing:
+        return jsonify({"error": "missing_oauth_config", "missing": missing}), 500
     params = {
         "client_id": client_id,
         "redirect_uri": redirect_uri,
@@ -112,10 +136,20 @@ def facebook_callback():
     if not code:
         return jsonify({"error": "missing_code"}), 400
     token_url = "https://graph.facebook.com/v18.0/oauth/access_token"
+    client_id = os.getenv("FACEBOOK_CLIENT_ID")
+    client_secret = os.getenv("FACEBOOK_CLIENT_SECRET")
+    redirect_uri = os.getenv("FACEBOOK_REDIRECT_URI")
+    missing = [k for k, v in {
+        "FACEBOOK_CLIENT_ID": client_id,
+        "FACEBOOK_CLIENT_SECRET": client_secret,
+        "FACEBOOK_REDIRECT_URI": redirect_uri,
+    }.items() if not v]
+    if missing:
+        return jsonify({"error": "missing_oauth_config", "missing": missing}), 500
     params = {
-        "client_id": os.getenv("FACEBOOK_CLIENT_ID", ""),
-        "client_secret": os.getenv("FACEBOOK_CLIENT_SECRET", ""),
-        "redirect_uri": os.getenv("FACEBOOK_REDIRECT_URI", "http://localhost:8000/api/auth/facebook/callback"),
+        "client_id": client_id,
+        "client_secret": client_secret,
+        "redirect_uri": redirect_uri,
         "code": code,
     }
     tok = requests.get(token_url, params=params, timeout=20).json()
@@ -129,6 +163,8 @@ def facebook_callback():
     email = userinfo.get("email") or f"fb_{userinfo.get('id')}@facebook.local"
     name = userinfo.get("name") or email
     res = svc.oauth_login(name=name, email=email, provider="facebook")
-    fe_base = os.getenv("FRONTEND_BASE_URL", "http://localhost:8080")
+    fe_base = os.getenv("FRONTEND_BASE_URL")
+    if not fe_base:
+        return jsonify({"error": "missing_oauth_config", "missing": ["FRONTEND_BASE_URL"]}), 500
     success_url = f"{fe_base}/pages/oauth_success.html?token=" + urllib.parse.quote(res["token"]) 
     return redirect(success_url)

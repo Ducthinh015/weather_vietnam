@@ -9,6 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import GRU, Dense, Input, Bidirectional
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras import backend as K
+import tensorflow as tf
 import joblib
 from io import BytesIO
 from bson.binary import Binary
@@ -90,14 +91,17 @@ def build_and_train(city: str) -> str:
 
     # Save model and scaler to MongoDB by province
     db = get_db()
-    from tempfile import NamedTemporaryFile
-    # Save model locally in Keras format
     from pathlib import Path as _Path
     out_dir = _Path("backend/models/weather") / city
     out_dir.mkdir(parents=True, exist_ok=True)
-    model_path = out_dir / "gru.keras"
-    model.save(str(model_path))
-    model_bytes = model_path.read_bytes()
+
+    # Convert to TFLite (optimized) and save to filesystem
+    converter = tf.lite.TFLiteConverter.from_keras_model(model)
+    converter.optimizations = [tf.lite.Optimize.DEFAULT]
+    tflite_model = converter.convert()
+    tflite_path = out_dir / "model.tflite"
+    with open(tflite_path, "wb") as f:
+        f.write(tflite_model)
     buf = BytesIO()
     joblib.dump(scaler, buf)
     scaler_bytes = buf.getvalue()
@@ -115,7 +119,7 @@ def build_and_train(city: str) -> str:
         {"province": city},
         {
             "province": city,
-            "model_bytes": Binary(model_bytes),
+            "tflite_bytes": Binary(tflite_model),
             "scaler_bytes": Binary(scaler_bytes),
             "trained_at": now,
             "samples_used": len(df),
