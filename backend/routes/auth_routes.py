@@ -114,7 +114,8 @@ def google_callback():
     email = userinfo.get("email")
     name = userinfo.get("name") or email
     res = svc.oauth_login(name=name, email=email, provider="google")
-    fe_base = os.getenv("FRONTEND_BASE_URL")
+    fe_raw = os.getenv("FRONTEND_BASE_URL", "")
+    fe_base = next((x.strip() for x in fe_raw.split(",") if x.strip()), "")
     if not fe_base:
         return jsonify({"error": "missing_oauth_config", "missing": ["FRONTEND_BASE_URL"]}), 500
     success_url = f"{fe_base}/pages/oauth_success.html?token=" + urllib.parse.quote(res["token"]) 
