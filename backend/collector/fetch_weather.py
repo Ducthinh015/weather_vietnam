@@ -10,7 +10,27 @@ from backend.config import Config
 import logging
 from backend.db import get_db
 
+logger = logging.getLogger(__name__)
 CITIES_FILE = Path("backend/data/cities.json")
+
+
+def load_cities() -> list[str]:
+    if CITIES_FILE.exists():
+        try:
+            data = json.loads(CITIES_FILE.read_text(encoding="utf-8"))
+            if isinstance(data, dict):
+                items = data.get("cities", [])
+            else:
+                items = data
+            return [c for c in items if isinstance(c, str) and c.strip()]
+        except Exception as exc:
+            logging.getLogger(__name__).warning("Failed to load cities.json: %s", exc)
+
+    cfg = Config()
+    raw = getattr(cfg, "CITIES", "") or ""
+    if raw:
+        return [c.strip() for c in raw.split(",") if c.strip()]
+    return [cfg.CITY]
 
 
 def fetch_current(city: str, api_key: str) -> Dict[str, Any]:
@@ -95,28 +115,15 @@ def run_once():
     cfg = Config()
     api_key = cfg.WEATHERAPI_KEY or cfg.OPENWEATHER_API_KEY
     db = get_db()
-    logger = logging.getLogger(__name__)
     disable_db = os.getenv("DISABLE_WEATHER_DB", "").lower() in ("1", "true", "yes", "on")
-
-    # Load list of cities from backend/data/cities.json if available
-    cities = []
-    if CITIES_FILE.exists():
-        try:
-            with open(CITIES_FILE, "r", encoding="utf-8") as f:
-                cities = json.load(f)
-        except Exception:
-            cities = []
-    if not cities:
-        # Fallback: use CITIES env or single CITY
-        raw = getattr(cfg, "CITIES", "")
-        if raw:
-            cities = [c.strip() for c in raw.split(",") if c.strip()]
-        if not cities:
-            cities = [cfg.CITY]
+    cities = load_cities()
+    logger.info("Loaded %d cities", len(cities))
+    logger.info("Starting full fetch cycle...")
 
     inserted = 0
     for city in cities:
         try:
+            logger.info("Fetching %s ...", city)
             rec = fetch_current(city, api_key)
             rec["city"] = city
             rec["province"] = city  # explicit province field
@@ -129,12 +136,12 @@ def run_once():
                 db.weather.insert_one(dict(rec))
                 _capture_dataset_snapshot(db, city)
                 inserted += 1
-                logger.info("fetch_weather inserted: %s", city)
+                logger.info("Fetching %s ... OK", city)
             else:
-                logger.info("fetch_weather (DB disabled), city=%s", city)
+                logger.info("Fetching %s ... skipped DB (disabled)", city)
             # Sheets integration removed for local Mongo-only setup
-        except Exception:
-            logger.exception("fetch_weather failed: %s", city)
+        except Exception as exc:
+            logger.error("Failed %s: %s", city, exc, exc_info=True)
             continue
     logger.info("fetch_weather done: inserted=%d", inserted)
 

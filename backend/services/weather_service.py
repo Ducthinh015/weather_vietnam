@@ -11,7 +11,10 @@ from io import BytesIO
 import joblib
 import numpy as np
 from pymongo.collection import Collection
-import tflite_runtime.interpreter as tflite
+try:
+    import tflite_runtime.interpreter as tflite
+except ModuleNotFoundError:  # Allow running components (e.g. collector) without tflite
+    tflite = None
 
 from backend.config import Config
 from backend.db import get_db
@@ -43,7 +46,14 @@ class WeatherService:
         cities_fp = self._data_dir / "cities.json"
         if cities_fp.exists():
             try:
-                return json.loads(cities_fp.read_text(encoding="utf-8"))
+                payload = json.loads(cities_fp.read_text(encoding="utf-8"))
+                if isinstance(payload, dict):
+                    data = payload.get("cities", [])
+                else:
+                    data = payload
+                data = [c for c in data if isinstance(c, str) and c.strip()]
+                if data:
+                    return data
             except Exception:
                 pass
         raw = getattr(self.cfg, "CITIES", "") or ""
