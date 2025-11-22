@@ -11,7 +11,7 @@ export async function getCurrentUser() {
   if (!token) return null;
 
   try {
-    const AUTH_BASE = (window.AUTH_BASE) || (window.API_BASE ? `${window.API_BASE}/auth` : "https://agricast-ai-vn-838179290451.asia-southeast1.run.app/api/auth");
+    const AUTH_BASE = (window.AUTH_BASE) || (window.API_BASE ? `${window.API_BASE}/auth` : "https://agricast-backend-k9p3.onrender.com/api/auth");
     const res = await fetch(`${AUTH_BASE}/me`, {
       headers: { "Authorization": `Bearer ${token}` }
     });
