@@ -5,4 +5,3 @@ if (typeof window !== "undefined") {
   window.API_BASE = API_BASE;
   window.weatherEndpoint = weatherEndpoint;
 }
->>>>>>> 064e4f78934d17fd2d4157f7542541212b9d8470
