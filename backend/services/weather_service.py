@@ -32,13 +32,15 @@ class WeatherService:
     def __init__(self):
         self.cfg = Config()
         self.db = get_db()
-        self.model_base = Path("backend/models/weather")
+        self._pkg_root = Path(__file__).resolve().parents[1]
+        self.model_base = self._pkg_root / "models" / "weather"
+        self._data_dir = self._pkg_root / "data"
 
     # ------------------------------------------------------------------
     # Cities & dataset helpers
     # ------------------------------------------------------------------
     def list_cities(self) -> List[str]:
-        cities_fp = Path("backend/data/cities.json")
+        cities_fp = self._data_dir / "cities.json"
         if cities_fp.exists():
             try:
                 return json.loads(cities_fp.read_text(encoding="utf-8"))
