@@ -5,7 +5,7 @@ function $(sel){ return document.querySelector(sel); }
 let CITIES = [];
 let CITY_SET = new Set();
 
-async function loadCities(){
+async function populateCities(){
   try{
     const cities = await fetchCities();
     CITIES = cities;
@@ -84,7 +84,7 @@ async function onSubmit(e){
 }
 
 export function initHomePage(){
-  loadCities();
+  populateCities();
   const form = document.getElementById('weatherForm');
   if(form){ form.addEventListener('submit', onSubmit); }
 }
