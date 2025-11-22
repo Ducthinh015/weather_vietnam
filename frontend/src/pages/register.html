@@ -56,7 +56,7 @@
 </div>
 
 <script>
-  const AUTH_BASE = (window.AUTH_BASE) || (window.API_BASE ? `${window.API_BASE}/auth` : 'http://localhost:8000/api/auth');
+  const AUTH_BASE = (window.AUTH_BASE) || (window.API_BASE ? `${window.API_BASE}/auth` : 'https://agricast-ai-vn-838179290451.asia-southeast1.run.app/api/auth');
   // Set OAuth links dynamically
   document.addEventListener('DOMContentLoaded', ()=>{
     const g = document.querySelector('a[href*="/api/auth/google/login"]');

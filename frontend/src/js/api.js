@@ -1,6 +1,6 @@
 const API_BASE =
   (window.API_BASE) ||
-  "http://localhost:8000/api";
+  "https://agricast-ai-vn-838179290451.asia-southeast1.run.app/api";
 
 // Legacy-style helpers (kept for compatibility if some pages import them)
 export async function getWeather(city) {

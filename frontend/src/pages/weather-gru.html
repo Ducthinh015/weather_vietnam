@@ -109,8 +109,8 @@
   </main>
 
   <script>
-    // Ưu tiên window.API_BASE (nếu inject từ server), fallback về localhost:5000 cho dev
-    const API_BASE = window.API_BASE || "http://localhost:8000/api";
+    // Ưu tiên window.API_BASE (nếu inject từ server)
+    const API_BASE = window.API_BASE || "https://agricast-ai-vn-838179290451.asia-southeast1.run.app/api";
     const weatherEndpoint = `${API_BASE}/weather`;
     let forecastChart = null;
     let currentCity = "";

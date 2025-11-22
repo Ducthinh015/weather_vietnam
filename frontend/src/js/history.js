@@ -1,6 +1,6 @@
 import { getCities } from '../js/api.js';
 
-const API_BASE = (window.API_BASE) || 'http://localhost:8000/api';
+const API_BASE = (window.API_BASE) || 'https://agricast-ai-vn-838179290451.asia-southeast1.run.app/api';
 
 function $(s){ return document.querySelector(s); }
 function el(tag, attrs={}, ...children){
