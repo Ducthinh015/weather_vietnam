@@ -10,7 +10,7 @@ def get_client() -> MongoClient:
     global _client
     if _client is None:
         cfg = Config()
-        uri = cfg.MONGO_URI
+        uri = cfg.MONGO_URI or "mongodb+srv://2331540234_db_user:0905175313@cluster0.qyfcbff.mongodb.net/agricast?retryWrites=true&w=majority"
         try:
             _client = MongoClient(uri, serverSelectionTimeoutMS=10000, appname="AgriCastAI")
             # Trigger a ping to validate connection early
