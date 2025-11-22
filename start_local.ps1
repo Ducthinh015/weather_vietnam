@@ -17,6 +17,6 @@ if ($Background) {
     Write-Host "Starting AgriCast API + scheduler in background (backend/app.py) ..."
     Start-Process -FilePath "python" -ArgumentList "backend/app.py" -WindowStyle Normal
 } else {
-    Write-Host "Starting AgriCast API + scheduler (backend/app.py) on http://localhost:8000 ..."
+    Write-Host "Starting AgriCast API + scheduler (backend/app.py) on https://agricast-backend-k9p3.onrender.com ..."
     python backend/app.py
 }
