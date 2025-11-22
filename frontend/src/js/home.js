@@ -1,4 +1,4 @@
-import { getWeather, getRealtime, getCities } from '../js/api.js';
+import { getWeather, getRealtime, loadCities as fetchCities } from './api.js';
 
 function $(sel){ return document.querySelector(sel); }
 
@@ -7,8 +7,7 @@ let CITY_SET = new Set();
 
 async function loadCities(){
   try{
-    const res = await getCities();
-    const cities = res?.data?.cities || [];
+    const cities = await fetchCities();
     CITIES = cities;
     CITY_SET = new Set(cities.map(c => (typeof c === 'string' ? c : c?.name || c)));
     const dl = document.getElementById('cityList');
@@ -84,11 +83,11 @@ async function onSubmit(e){
   }
 }
 
-window.addEventListener('DOMContentLoaded', ()=>{
+export function initHomePage(){
   loadCities();
   const form = document.getElementById('weatherForm');
   if(form){ form.addEventListener('submit', onSubmit); }
-});
+}
 
 // ---------------- helpers ----------------
 function translateCondition(en){

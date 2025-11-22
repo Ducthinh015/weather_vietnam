@@ -55,31 +55,34 @@
   </div>
 </div>
 
-<script>
-  const AUTH_BASE = (window.AUTH_BASE) || (window.API_BASE ? `${window.API_BASE}/auth` : 'https://agricast-ai-vn-838179290451.asia-southeast1.run.app/api/auth');
-  // Set OAuth links dynamically
-  document.addEventListener('DOMContentLoaded', ()=>{
+<script type="module">
+  import { API_BASE } from "../js/config.js";
+
+  const AUTH_BASE = `${API_BASE}/auth`;
+  window.API_BASE = API_BASE;
+
+  document.addEventListener('DOMContentLoaded', () => {
     const g = document.querySelector('a[href*="/api/auth/google/login"]');
     const f = document.querySelector('a[href*="/api/auth/facebook/login"]');
-    if(g) g.href = AUTH_BASE.replace(/\/auth$/, '') + '/auth/google/login';
-    if(f) f.href = AUTH_BASE.replace(/\/auth$/, '') + '/auth/facebook/login';
-  });
+    if(g) g.href = `${AUTH_BASE.replace(/\/auth$/, '')}/auth/google/login`;
+    if(f) f.href = `${AUTH_BASE.replace(/\/auth$/, '')}/auth/facebook/login`;
 
-  const form = document.getElementById('loginForm');
-  form.addEventListener('submit', async (e)=>{
-    e.preventDefault();
-    const email = document.getElementById('email').value.trim();
-    const password = document.getElementById('password').value;
-    try{
-      const res = await fetch(`${AUTH_BASE}/login`, {
-        method:'POST', headers:{'Content-Type':'application/json'},
-        body: JSON.stringify({ email, password })
-      });
-      const data = await res.json();
-      if(!res.ok || data.error) throw new Error(data.error || data.message || 'Đăng nhập thất bại');
-      localStorage.setItem('token', data.token || data?.data?.token);
-      location.href = '../index.html';
-    }catch(err){ alert(err.message); }
+    const form = document.getElementById('loginForm');
+    form.addEventListener('submit', async (e)=>{
+      e.preventDefault();
+      const email = document.getElementById('email').value.trim();
+      const password = document.getElementById('password').value;
+      try{
+        const res = await fetch(`${AUTH_BASE}/login`, {
+          method:'POST', headers:{'Content-Type':'application/json'},
+          body: JSON.stringify({ email, password })
+        });
+        const data = await res.json();
+        if(!res.ok || data.error) throw new Error(data.error || data.message || 'Đăng nhập thất bại');
+        localStorage.setItem('token', data.token || data?.data?.token);
+        location.href = '../index.html';
+      }catch(err){ alert(err.message); }
+    });
   });
 </script>
 </body>

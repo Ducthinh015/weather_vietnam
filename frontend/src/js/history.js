@@ -1,6 +1,5 @@
-import { getCities } from '../js/api.js';
-
-const API_BASE = (window.API_BASE) || 'https://agricast-backend-k9p3.onrender.com/api';
+import { API_BASE } from './config.js';
+import { loadCities as fetchCities } from './api.js';
 
 function $(s){ return document.querySelector(s); }
 function el(tag, attrs={}, ...children){
@@ -12,10 +11,9 @@ function el(tag, attrs={}, ...children){
   return e;
 }
 
-async function loadCities(){
+async function populateCityList(){
   try{
-    const res = await getCities();
-    const cities = res?.data?.cities || [];
+    const cities = await fetchCities();
     const dl = $('#cityList');
     if(dl){
       dl.innerHTML = '';
@@ -90,8 +88,8 @@ async function onSubmit(e){
   renderTable(items);
 }
 
-window.addEventListener('DOMContentLoaded', ()=>{
-  loadCities();
+export function initHistoryPage(){
+  populateCityList();
   const form = document.getElementById('historyForm');
   if(form) form.addEventListener('submit', onSubmit);
-});
+}

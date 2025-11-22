@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>AgriCast AI • Lịch sử dữ liệu</title>
   <link rel="stylesheet" href="../styles/main.css" />
-  <script src="../js/config.js"></script>
   <script type="module" src="../js/ui.js"></script>
   <script defer src="../js/navbar.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -40,6 +39,16 @@
       </table>
     </div>
   </div>
-  <script type="module" src="../js/history.js"></script>
+  <script type="module">
+    import { API_BASE, weatherEndpoint } from "../js/config.js";
+    import { initHistoryPage } from "../js/history.js";
+
+    window.API_BASE = API_BASE;
+    window.weatherEndpoint = weatherEndpoint;
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initHistoryPage();
+    });
+  </script>
 </body>
 </html>

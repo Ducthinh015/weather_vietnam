@@ -6,8 +6,6 @@
   <title>AgriCast AI • Weather Dashboard</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" href="../styles/main.css" />
-  <script src="../js/config.js"></script>
-  <script type="module" src="../js/api.js"></script>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script defer src="../js/navbar.js"></script>
@@ -111,10 +109,19 @@
     </section>
   </main>
 
-  <script>
-    // Ưu tiên window.API_BASE (nếu inject từ server)
-    const API_BASE = window.API_BASE || "https://agricast-backend-k9p3.onrender.com/api";
-    const weatherEndpoint = `${API_BASE}/weather`;
+  <script type="module">
+    import { API_BASE, weatherEndpoint } from "../js/config.js";
+    import {
+      loadCities as fetchCities,
+      loadDashboard as fetchDashboard,
+      predict,
+      triggerFetchNow,
+      triggerTrainNow,
+    } from "../js/api.js";
+
+    window.API_BASE = API_BASE;
+    window.weatherEndpoint = weatherEndpoint;
+
     let forecastChart = null;
     let currentCity = "";
 
@@ -123,20 +130,10 @@
       return Number(value).toFixed(digits);
     };
 
-    const parseResponse = async (res) => {
-      const payload = await res.json();
-      if (!res.ok || payload.status === "error") {
-        throw new Error(payload?.error?.message || "API error");
-      }
-      return payload.data || payload;
-    };
-
-    const loadCities = async () => {
+    const hydrateCities = async () => {
       const select = document.getElementById("citySelect");
       select.innerHTML = "";
-      const res = await fetch(`${weatherEndpoint}/cities`);
-      const data = await res.json();
-      const cities = data?.data?.cities || data?.cities || [];
+      const cities = await fetchCities();
       cities.forEach((city) => {
         const opt = document.createElement("option");
         opt.value = city;
@@ -251,14 +248,12 @@
 
     const loadDashboard = async () => {
       if (!currentCity) return;
-      const res = await fetch(`${weatherEndpoint}/dashboard?city=${encodeURIComponent(currentCity)}`);
-      const data = await parseResponse(res);
+      const data = await fetchDashboard(currentCity);
       renderRealtime(data.realtime);
       if (!data?.forecast || !data?.forecast?.temp?.length) {
         // Fallback: gọi predict riêng nếu dashboard chưa có forecast
         try {
-          const fres = await fetch(`${weatherEndpoint}/predict?city=${encodeURIComponent(currentCity)}`);
-          const fdata = await parseResponse(fres);
+          const fdata = await predict(currentCity);
           renderForecast(fdata);
         } catch (e) {
           renderForecast({ prediction_steps: [], temp: [] });
@@ -271,17 +266,13 @@
     };
 
     const triggerFetch = async () => {
-      const res = await fetch(`${weatherEndpoint}/fetch-now`, { method: "POST" });
-      const payload = await res.json();
-      if (!res.ok) throw new Error(payload?.error || "Fetch failed");
+      const payload = await triggerFetchNow();
       alert(`Đã kích hoạt fetch lúc ${payload.fetched_at || new Date().toLocaleString("vi-VN")}`);
       loadDashboard();
     };
 
     const triggerTrain = async () => {
-      const res = await fetch(`${weatherEndpoint}/train-now`, { method: "POST" });
-      const payload = await res.json();
-      if (!res.ok) throw new Error(payload?.error || "Train failed");
+      const payload = await triggerTrainNow();
       alert(`Huấn luyện đã bắt đầu (${payload.trained_at || new Date().toISOString()})`);
     };
 
@@ -290,7 +281,7 @@
 
     window.addEventListener("DOMContentLoaded", async () => {
       try {
-        await loadCities();
+        await hydrateCities();
         await loadDashboard();
       } catch (err) {
         alert(err.message || "Không tải được dashboard");
