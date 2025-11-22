@@ -1,12 +1,15 @@
-app = "agricast-ai"
+app = "shy-thunder-5656"
 primary_region = "sin"
 
+[build]
+  dockerfile = "./Dockerfile"
+
 [env]
-PORT = "8080"
+  PORT = "8080"
 
 [[services]]
-internal_port = 8080
-protocol = "tcp"
+  internal_port = 8080
+  protocol = "tcp"
 
   [[services.ports]]
     port = 80
@@ -15,8 +18,3 @@ protocol = "tcp"
   [[services.ports]]
     port = 443
     handlers = ["tls", "http"]
-
-  [services.concurrency]
-    type = "requests"
-    soft_limit = 20
-    hard_limit = 25

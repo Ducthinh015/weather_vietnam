@@ -11,3 +11,4 @@ tensorflow
 matplotlib
 joblib
 marshmallow
+gunicorn

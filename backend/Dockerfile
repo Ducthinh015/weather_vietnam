@@ -1,20 +1,21 @@
+# 1) Base image
 FROM python:3.11-slim
 
+# 2) Set working directory
 WORKDIR /app
 
-# Copy requirements first for caching
+# 3) Copy requirements
 COPY requirements.txt .
+
+# 4) Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the backend source code into a 'backend' directory
-# This mimics the local structure where we run 'python -m backend.app' from the root
-COPY . backend/
+# 5) Copy toàn bộ backend code vào container
+COPY . .
 
-# Set PYTHONPATH to /app so python can find the 'backend' package
-ENV PYTHONPATH=/app
+# 6) Cloud Run requires PORT env
 ENV PORT=8080
-ENV PYTHONUNBUFFERED=1 PYTHONDONTWRITEBYTECODE=1
-
 EXPOSE 8080
 
-CMD ["python", "-m", "backend.app"]
+# 7) Start Flask normally
+CMD ["gunicorn", "backend.app:app", "--bind", "0.0.0.0:8080", "--timeout", "0"]

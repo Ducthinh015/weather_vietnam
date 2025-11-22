@@ -3,10 +3,10 @@ import logging
 from flask import Flask, jsonify
 from flask_cors import CORS
 
-from backend.config import Config
-from backend.db import get_db
-from backend.jobs.scheduler import start_scheduler
-from backend.utils.responses import ApiError, error_response
+from config import Config
+from db import get_db
+from jobs.scheduler import start_scheduler
+from utils.responses import ApiError, error_response
 
 
 
@@ -20,12 +20,12 @@ def create_app():
     CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
 
     # Register blueprints using absolute package imports
-    from backend.routes.weather_routes import weather_bp
-    from backend.routes.irrigation_routes import irrigation_bp
-    from backend.routes.auth_routes import auth_bp
-    from backend.routes.user_routes import user_bp
+    from routes.weather_routes import weather_bp
+    from routes.irrigation_routes import irrigation_bp
+    from routes.auth_routes import auth_bp
+    from routes.user_routes import user_bp
     try:
-        from backend.routes.cron_routes import cron_bp
+        from routes.cron_routes import cron_bp
     except Exception:
         cron_bp = None
 
@@ -83,6 +83,6 @@ def create_app():
 app = create_app()
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    # Disable reloader to prevent WinError 10038 with APScheduler
-    app.run(host="0.0.0.0", port=port, debug=False, use_reloader=False)
+    import os
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host="0.0.0.0", port=port)
