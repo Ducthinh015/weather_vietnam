@@ -135,8 +135,6 @@ python -m http.server 8080
 python -m backend.app
 
 
-> Gợi ý: triển khai backend lên Render/Fly hoặc Cloud Run và cấu hình `window.API_BASE` trong frontend nếu domain khác.
-
 ## 9. UI Dashboard
 - **Realtime panel**: card hiển thị nhiệt độ/độ ẩm/áp suất/gió/mây/mưa với timestamp cập nhật.
 - **Forecast panel**: Chart.js hiển thị 6 bước tiếp theo (temp) + overlay humidity/rain history, kèm danh sách forecast.
