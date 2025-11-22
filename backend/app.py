@@ -19,8 +19,14 @@ def create_app():
     logging.basicConfig(level=logging.INFO)
     app = Flask(__name__)
     app.config.from_object(Config)
-    allowed_origins = os.getenv("FRONTEND_BASE_URL", "*")
-    CORS(app, resources={r"/api/*": {"origins": allowed_origins}}, supports_credentials=True, allow_headers=["Content-Type", "Authorization"])
+    allowed_origins_raw = os.getenv("FRONTEND_BASE_URL", "*")
+    allowed_origins = [o.strip() for o in allowed_origins_raw.split(",") if o.strip()] or ["*"]
+    CORS(
+        app,
+        resources={r"/api/*": {"origins": allowed_origins}},
+        supports_credentials=True,
+        allow_headers=["Content-Type", "Authorization"],
+    )
 
     # Register blueprints using absolute package imports
     from backend.routes.weather_routes import weather_bp
