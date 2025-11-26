@@ -23,17 +23,14 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        working-directory: weather_vietnam
         run: |
-          pip install -r backend/requirements.txt
+          pip install -r requirements.txt
 
       - name: Train GRU
-        working-directory: weather_vietnam
         run: |
-          python backend/trainer/train_gru.py
+          python trainer/train_gru.py
 
       - name: Commit trained model
-        working-directory: weather_vietnam
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
