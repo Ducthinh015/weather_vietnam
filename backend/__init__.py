@@ -1,3 +1,5 @@
-﻿"""Backend package entrypoint for Render deployments."""
+import os
 
-from backend.app import app  # noqa: F401
+# Chỉ load app nếu không phải chạy training
+if os.getenv("DISABLE_BACKEND_APP") != "1":
+    from backend.app import app
