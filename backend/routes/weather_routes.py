@@ -98,7 +98,7 @@ def weather_by_city():
 
     return success_response({"city": city, "weather": result})
 
-@weather_bp.route("/train-now", methods=["POST"])
+@weather_bp.route("/weather/train-now", methods=["POST"])
 def train_now():
     return success_response(
         {"note": "training is handled automatically by GitHub Actions"},
