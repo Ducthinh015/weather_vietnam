@@ -12,3 +12,5 @@ gunicorn
 bcrypt
 PyJWT
 tflite-runtime
+matplotlib
+scikit-learn
