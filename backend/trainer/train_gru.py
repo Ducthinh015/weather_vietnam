@@ -14,7 +14,7 @@ import joblib
 from io import BytesIO
 from bson.binary import Binary
 from datetime import datetime, timezone
-from dateutil import parser   # <-- quan trọng
+from dateutil import parser
 
 import os
 from backend.config import Config
@@ -25,6 +25,7 @@ from backend.db import get_db
 # CONFIG
 # ===========================
 FEATURES = ["temp", "humidity", "wind_kph", "rain_mm", "cloud", "uv"]
+
 SEQ_IN = 48
 SEQ_OUT = 6
 
@@ -36,10 +37,10 @@ BATCH_SIZE = 16
 
 
 # ===========================
-# FIX QUAN TRỌNG – PARSE TIMESTAMP
+# UTIL: PARSE TIMESTAMP
 # ===========================
 def _to_datetime(value):
-    """Parse mọi loại timestamp từ MongoDB."""
+    """Parse bất kỳ dạng timestamp nào từ MongoDB."""
     if isinstance(value, datetime):
         return value
 
@@ -57,8 +58,10 @@ def _to_datetime(value):
 # ===========================
 def load_city_data(city: str) -> Optional[pd.DataFrame]:
     db = get_db()
+
+    # ❗ FIX 1 – SORT đúng theo timestamp_utc
     rows = list(
-        db.weather.find({"province": city}, {"_id": 0}).sort("timestamp", 1)
+        db.weather.find({"province": city}, {"_id": 0}).sort("timestamp_utc", 1)
     )
 
     if not rows or len(rows) < TARGET_SAMPLES:
@@ -66,8 +69,13 @@ def load_city_data(city: str) -> Optional[pd.DataFrame]:
 
     df = pd.DataFrame(rows).tail(TARGET_SAMPLES)
 
-    first_ts = _to_datetime(df.iloc[0].get("timestamp"))
-    last_ts = _to_datetime(df.iloc[-1].get("timestamp"))
+    # ❗ FIX 2 – lấy đúng field timestamp hoặc timestamp_utc
+    first_ts = _to_datetime(
+        df.iloc[0].get("timestamp") or df.iloc[0].get("timestamp_utc")
+    )
+    last_ts = _to_datetime(
+        df.iloc[-1].get("timestamp") or df.iloc[-1].get("timestamp_utc")
+    )
 
     if not first_ts or not last_ts:
         return None
@@ -87,7 +95,7 @@ def build_and_train(city: str) -> str:
     if df is None:
         return f"[Skip] {city} dataset < {TARGET_SAMPLES} samples or < {MIN_COVERAGE_HOURS}h"
 
-    # chuẩn hóa data
+    # Chuẩn hóa data
     data = df[FEATURES].astype(float).values
     scaler = MinMaxScaler().fit(data)
     scaled = scaler.transform(data)
@@ -105,7 +113,7 @@ def build_and_train(city: str) -> str:
 
     X, Y = np.array(X), np.array(Y)
 
-    # model GRU
+    # Model GRU
     model = Sequential([
         Input(shape=(SEQ_IN, len(FEATURES))),
         Bidirectional(GRU(128, return_sequences=True, dropout=0.2)),
@@ -119,7 +127,6 @@ def build_and_train(city: str) -> str:
     model.compile(optimizer=Adam(learning_rate=0.0005), loss="mse", metrics=["mae"])
     model.fit(X, Y, epochs=EPOCHS, batch_size=BATCH_SIZE, verbose=0)
 
-    # save
     db = get_db()
     out_dir = Path("backend/models/weather") / city
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -128,24 +135,26 @@ def build_and_train(city: str) -> str:
     converter = tf.lite.TFLiteConverter.from_keras_model(model)
     converter.optimizations = [tf.lite.Optimize.DEFAULT]
     tflite_model = converter.convert()
+
     with open(out_dir / "model.tflite", "wb") as f:
         f.write(tflite_model)
 
-    # scaler
+    # Save scaler
     buf = BytesIO()
     joblib.dump(scaler, buf)
     scaler_bytes = buf.getvalue()
+
     with open(out_dir / "scaler.pkl", "wb") as f:
         f.write(scaler_bytes)
 
+    # ❗ FIX 3 – coverage tính đúng timestamp_utc
+    first = _to_datetime(df.iloc[0].get("timestamp") or df.iloc[0].get("timestamp_utc"))
+    last = _to_datetime(df.iloc[-1].get("timestamp") or df.iloc[-1].get("timestamp_utc"))
+    coverage_hours = (last - first).total_seconds() / 3600.0
+
     now = datetime.now(timezone.utc).isoformat()
 
-    coverage_hours = (
-        _to_datetime(df.iloc[-1].get("timestamp"))
-        - _to_datetime(df.iloc[0].get("timestamp"))
-    ).total_seconds() / 3600.0
-
-    # lưu vào MongoDB
+    # Lưu MongoDB
     db.models.replace_one(
         {"province": city},
         {
@@ -162,7 +171,7 @@ def build_and_train(city: str) -> str:
         upsert=True,
     )
 
-    # cleanup
+    # Cleanup RAM
     try:
         del model, X, Y, data, scaled
     except:
@@ -175,7 +184,7 @@ def build_and_train(city: str) -> str:
 
 
 # ===========================
-# LOAD CITIES
+# LOAD LIST CITY
 # ===========================
 def _load_cities() -> List[str]:
     cfg = Config()
