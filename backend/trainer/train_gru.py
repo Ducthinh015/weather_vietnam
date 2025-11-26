@@ -19,7 +19,7 @@ import os
 from backend.config import Config
 from backend.db import get_db
 
-FEATURES = ["temp", "humidity", "pressure", "wind_speed", "cloud", "rain"]
+FEATURES = ["temp", "humidity", "wind_kph", "rain_mm", "cloud", "uv"]
 SEQ_IN = 48
 SEQ_OUT = 6
 # Allow overriding thresholds for development via env vars
