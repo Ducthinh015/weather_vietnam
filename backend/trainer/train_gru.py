@@ -1,119 +1,100 @@
-from concurrent.futures import ProcessPoolExecutor
+import os
 from pathlib import Path
 from typing import Optional, List
+from datetime import datetime, timezone
+from io import BytesIO
 
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler
+from dateutil import parser
+from bson.binary import Binary
+
+import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import GRU, Dense, Input, Bidirectional
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras import backend as K
-import tensorflow as tf
-import joblib
-from io import BytesIO
-from bson.binary import Binary
-from datetime import datetime, timezone
-from dateutil import parser
 
-import os
-from backend.config import Config
+from sklearn.preprocessing import MinMaxScaler
+import joblib
+
 from backend.db import get_db
 
 
-# ===========================
+# ==========================
 # CONFIG
-# ===========================
+# ==========================
 FEATURES = ["temp", "humidity", "wind_kph", "rain_mm", "cloud", "uv"]
+SEQ_IN = 48      # 48 giờ
+SEQ_OUT = 6      # dự đoán 6 giờ tiếp theo
 
-SEQ_IN = 48
-SEQ_OUT = 6
-
-TARGET_SAMPLES = int(os.getenv("MIN_TRAIN_SAMPLES", "10"))
-MIN_COVERAGE_HOURS = float(os.getenv("MIN_TRAIN_HOURS", "0"))
-
-EPOCHS = 10
-BATCH_SIZE = 16
+MIN_SAMPLES = 200      # tối thiểu 200 mẫu để train
+MIN_COVERAGE_HOURS = 0  # không kiểm coverage
 
 
-# ===========================
-# UTIL: PARSE TIMESTAMP
-# ===========================
-def _to_datetime(value):
-    """Parse bất kỳ dạng timestamp nào từ MongoDB."""
-    if isinstance(value, datetime):
-        return value
-
-    if isinstance(value, str):
+# ==========================
+# PARSE TIME
+# ==========================
+def to_dt(v):
+    if isinstance(v, datetime):
+        return v
+    if isinstance(v, str):
         try:
-            return parser.parse(value)
-        except Exception:
+            return parser.parse(v)
+        except:
             return None
-
     return None
 
 
-# ===========================
-# LOAD DATA CITY
-# ===========================
+# ==========================
+# LOAD DATA 1 CITY
+# ==========================
 def load_city_data(city: str) -> Optional[pd.DataFrame]:
     db = get_db()
 
-    # ❗ FIX 1 – SORT đúng theo timestamp_utc
     rows = list(
-        db.weather.find({"province": city}, {"_id": 0}).sort("timestamp_utc", 1)
+        db.weather.find({"province": city}, {"_id": 0}).sort("timestamp", 1)
     )
 
-    if not rows or len(rows) < TARGET_SAMPLES:
+    if not rows or len(rows) < MIN_SAMPLES:
         return None
 
-    df = pd.DataFrame(rows).tail(TARGET_SAMPLES)
+    df = pd.DataFrame(rows)
 
-    # ❗ FIX 2 – lấy đúng field timestamp hoặc timestamp_utc
-    first_ts = _to_datetime(
-        df.iloc[0].get("timestamp") or df.iloc[0].get("timestamp_utc")
-    )
-    last_ts = _to_datetime(
-        df.iloc[-1].get("timestamp") or df.iloc[-1].get("timestamp_utc")
-    )
+    # clean
+    df = df.dropna(subset=FEATURES)
+    df["timestamp"] = df["timestamp"].apply(to_dt)
+    df = df[df["timestamp"].notnull()]
+    df = df.sort_values("timestamp")
 
-    if not first_ts or not last_ts:
-        return None
-
-    coverage = (last_ts - first_ts).total_seconds() / 3600.0
-    if coverage < MIN_COVERAGE_HOURS:
-        return None
-
-    return df
+    return df.tail(2000)   # tối đa 2000 mẫu mới nhất
 
 
-# ===========================
+# ==========================
 # TRAIN 1 CITY
-# ===========================
+# ==========================
 def build_and_train(city: str) -> str:
     df = load_city_data(city)
-    if df is None:
-        return f"[Skip] {city} dataset < {TARGET_SAMPLES} samples or < {MIN_COVERAGE_HOURS}h"
+    if df is None or len(df) < MIN_SAMPLES:
+        return f"[Skip] {city} dataset < {MIN_SAMPLES} samples"
 
-    # Chuẩn hóa data
+    # scale
     data = df[FEATURES].astype(float).values
     scaler = MinMaxScaler().fit(data)
     scaled = scaler.transform(data)
 
+    # tạo sequence
     X, Y = [], []
-    horizon = SEQ_OUT
-    target_idx = 0  # predict temp
-
-    for i in range(len(scaled) - SEQ_IN - horizon):
+    for i in range(len(scaled) - SEQ_IN - SEQ_OUT):
         X.append(scaled[i:i + SEQ_IN])
-        Y.append([scaled[i + SEQ_IN + j][target_idx] for j in range(horizon)])
+        Y.append(scaled[i + SEQ_IN:i + SEQ_IN + SEQ_OUT, 0])  # predict temp
 
     if not X:
         return f"[Skip] {city} not enough windows"
 
     X, Y = np.array(X), np.array(Y)
 
-    # Model GRU
+    # model
     model = Sequential([
         Input(shape=(SEQ_IN, len(FEATURES))),
         Bidirectional(GRU(128, return_sequences=True, dropout=0.2)),
@@ -124,110 +105,89 @@ def build_and_train(city: str) -> str:
         Dense(SEQ_OUT),
     ])
 
-    model.compile(optimizer=Adam(learning_rate=0.0005), loss="mse", metrics=["mae"])
-    model.fit(X, Y, epochs=EPOCHS, batch_size=BATCH_SIZE, verbose=0)
+    model.compile(optimizer=Adam(0.0005), loss="mse", metrics=["mae"])
+    model.fit(X, Y, epochs=10, batch_size=16, verbose=0)
 
-    db = get_db()
+    # ================================
+    # TFLITE CONVERSION (FIXED)
+    # ================================
+    converter = tf.lite.TFLiteConverter.from_keras_model(model)
+
+    converter.target_spec.supported_ops = [
+        tf.lite.OpsSet.TFLITE_BUILTINS,
+        tf.lite.OpsSet.SELECT_TF_OPS
+    ]
+    converter._experimental_lower_tensor_list_ops = False
+    converter.optimizations = [tf.lite.Optimize.DEFAULT]
+
+    tflite_model = converter.convert()
+
+    # save files
     out_dir = Path("backend/models/weather") / city
     out_dir.mkdir(parents=True, exist_ok=True)
-
-    # TFLite
-    converter = tf.lite.TFLiteConverter.from_keras_model(model)
-    converter.optimizations = [tf.lite.Optimize.DEFAULT]
-    tflite_model = converter.convert()
 
     with open(out_dir / "model.tflite", "wb") as f:
         f.write(tflite_model)
 
-    # Save scaler
     buf = BytesIO()
     joblib.dump(scaler, buf)
-    scaler_bytes = buf.getvalue()
-
     with open(out_dir / "scaler.pkl", "wb") as f:
-        f.write(scaler_bytes)
+        f.write(buf.getvalue())
 
-    # ❗ FIX 3 – coverage tính đúng timestamp_utc
-    first = _to_datetime(df.iloc[0].get("timestamp") or df.iloc[0].get("timestamp_utc"))
-    last = _to_datetime(df.iloc[-1].get("timestamp") or df.iloc[-1].get("timestamp_utc"))
-    coverage_hours = (last - first).total_seconds() / 3600.0
-
+    # save metadata DB
+    db = get_db()
     now = datetime.now(timezone.utc).isoformat()
 
-    # Lưu MongoDB
     db.models.replace_one(
         {"province": city},
         {
             "province": city,
-            "tflite_bytes": Binary(tflite_model),
-            "scaler_bytes": Binary(scaler_bytes),
             "trained_at": now,
             "samples_used": len(df),
-            "coverage_hours": coverage_hours,
             "seq_in": SEQ_IN,
             "seq_out": SEQ_OUT,
             "features": FEATURES,
+            "tflite_bytes": Binary(tflite_model),
+            "scaler_bytes": Binary(buf.getvalue()),
         },
         upsert=True,
     )
 
-    # Cleanup RAM
+    # clean
     try:
-        del model, X, Y, data, scaled
+        del model, X, Y
     except:
         pass
     K.clear_session()
-    import gc
-    gc.collect()
 
-    return f"[OK] {city}"
+    return f"[OK] {city} ({len(df)} samples)"
 
 
-# ===========================
-# LOAD LIST CITY
-# ===========================
+# ==========================
+# LOAD CITIES
+# ==========================
 def _load_cities() -> List[str]:
-    cfg = Config()
-    import json
-
     cities_file = Path("backend/data/cities.json")
     if cities_file.exists():
+        import json
         try:
-            return json.loads(cities_file.read_text(encoding="utf-8"))
+            data = json.loads(cities_file.read_text(encoding="utf-8"))
+            if isinstance(data, list):
+                return data
+            if "cities" in data:
+                return data["cities"]
         except:
             pass
 
-    raw = getattr(cfg, "CITIES", "")
-    if raw:
-        return [c.strip() for c in raw.split(",") if c.strip()]
-
-    return []
+    raise RuntimeError("No cities found in cities.json")
 
 
-# ===========================
+# ==========================
 # TRAIN ALL
-# ===========================
+# ==========================
 def train_all_sequential():
-    cities = _load_cities()
-    if not cities:
-        print("[WARN] No cities configured for training")
-        return
-    for c in cities:
+    for c in _load_cities():
         print(build_and_train(c))
-
-
-def train_all_parallel(max_workers: int = 4):
-    cities = _load_cities()
-    if not cities:
-        print("[WARN] No cities configured for training")
-        return
-    with ProcessPoolExecutor(max_workers=max_workers) as exe:
-        for r in exe.map(build_and_train, cities):
-            print(r)
-
-
-def train_all():
-    train_all_parallel(max_workers=4)
 
 
 if __name__ == "__main__":
