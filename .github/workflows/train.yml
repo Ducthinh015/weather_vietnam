@@ -16,8 +16,7 @@ jobs:
 
     env:
       MONGO_URI: ${{ secrets.MONGO_URI }}
-      DB_NAME: ${{ secrets.DB_NAME }}
-
+      DB_NAME: agricast_ai
     steps:
       - uses: actions/checkout@v3
 
