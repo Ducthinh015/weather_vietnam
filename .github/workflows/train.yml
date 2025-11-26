@@ -35,6 +35,10 @@ jobs:
       - name: Test DB content
         run: |
           python backend/trainer/test_actions_db.py
+      - name: Test raw DB data
+      run: |
+        python backend/trainer/test_actions_raw_query.py
+
 
       - name: Train GRU
         run: |
