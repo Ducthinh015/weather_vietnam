@@ -10,7 +10,7 @@ from io import BytesIO
 import joblib
 import numpy as np
 from tensorflow import keras
-from keras.layers import GRU
+from keras.layers import GRU, Bidirectional
 from pymongo.collection import Collection
 
 from backend.config import Config
@@ -93,18 +93,36 @@ class WeatherService:
         return list(cursor)[::-1]  # đảo lại đúng thứ tự thời gian
 
     # ==============================================================
-    # LOAD MODEL (FS → Mongo) + PATCH time_major
+    # LOAD MODEL (FS → Mongo) + PATCH GRU & BIDIRECTIONAL
     # ==============================================================
     def _load_model_artifacts(self, city: str) -> ModelArtifacts:
 
-        # Patch GRU để loại bỏ time_major khi load model
+        # ===== PATCH 1: GRU - remove time_major =====
         def patched_gru(**kwargs):
-            if "time_major" in kwargs:
-                kwargs.pop("time_major")
+            kwargs.pop("time_major", None)
             return GRU(**kwargs)
 
-        model_dir = self.model_base / city
+        # ===== PATCH 2: Bidirectional - remove time_major inside layer config =====
+        def patched_bidirectional(**kwargs):
+            layer_cfg = kwargs.get("layer")
+            if isinstance(layer_cfg, dict):
+                layer_cfg.pop("time_major", None)
+            return Bidirectional(keras.layers.deserialize(layer_cfg))
 
+        # ===== PATCH 3: Recursive patch for configs =====
+        def recursive_clean(config):
+            if isinstance(config, dict):
+                if "time_major" in config:
+                    config.pop("time_major")
+                for k, v in config.items():
+                    config[k] = recursive_clean(v)
+                return config
+            elif isinstance(config, list):
+                return [recursive_clean(x) for x in config]
+            else:
+                return config
+
+        model_dir = self.model_base / city
         fs_keras = model_dir / "gru.keras"
         fs_scaler = model_dir / "scaler.pkl"
 
@@ -113,10 +131,25 @@ class WeatherService:
         # ============================
         if fs_keras.exists() and fs_scaler.exists():
             scaler = joblib.load(fs_scaler)
-            model = keras.models.load_model(
+
+            # Đọc config trước để patch
+            raw_model = keras.models.load_model(
                 fs_keras,
-                custom_objects={"GRU": patched_gru}
+                custom_objects={
+                    "GRU": patched_gru,
+                    "Bidirectional": patched_bidirectional,
+                },
+                compile=False
             )
+
+            cfg = raw_model.get_config()
+            cfg = recursive_clean(cfg)
+
+            model = keras.Model.from_config(cfg, custom_objects={
+                "GRU": patched_gru,
+                "Bidirectional": patched_bidirectional
+            })
+
             return ModelArtifacts(scaler=scaler, model=model)
 
         # ============================
@@ -131,10 +164,22 @@ class WeatherService:
 
         scaler = joblib.load(BytesIO(scaler_bytes))
 
-        model = keras.models.load_model(
+        raw_model = keras.models.load_model(
             BytesIO(keras_bytes),
-            custom_objects={"GRU": patched_gru}
+            custom_objects={
+                "GRU": patched_gru,
+                "Bidirectional": patched_bidirectional,
+            },
+            compile=False
         )
+
+        cfg = raw_model.get_config()
+        cfg = recursive_clean(cfg)
+
+        model = keras.Model.from_config(cfg, custom_objects={
+            "GRU": patched_gru,
+            "Bidirectional": patched_bidirectional
+        })
 
         return ModelArtifacts(scaler=scaler, model=model)
 
