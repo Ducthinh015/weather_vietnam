@@ -24,7 +24,7 @@ SEQ_IN = 48
 SEQ_OUT = 6
 # Allow overriding thresholds for development via env vars
 TARGET_SAMPLES = int(os.getenv("MIN_TRAIN_SAMPLES", "10"))
-MIN_COVERAGE_HOURS = float(os.getenv("MIN_TRAIN_HOURS", "48"))
+MIN_COVERAGE_HOURS = float(os.getenv("MIN_TRAIN_HOURS", "0"))
 EPOCHS = 10
 BATCH_SIZE = 16
 
