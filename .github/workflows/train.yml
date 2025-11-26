@@ -30,6 +30,7 @@ jobs:
           echo "PYTHONPATH=$(pwd)" >> $GITHUB_ENV
       - name: Train GRU
         run: |
+          export DISABLE_BACKEND_APP=1
           python backend/trainer/train_gru.py
 
 
