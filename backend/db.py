@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 import logging
+import os
 from backend.config import Config
 
 _client = None
@@ -10,14 +11,21 @@ def get_client() -> MongoClient:
     global _client
     if _client is None:
         cfg = Config()
-        uri = cfg.MONGO_URI or "mongodb+srv://2331540234_db_user:0905175313@cluster0.qyfcbff.mongodb.net/agricast?retryWrites=true&w=majority"
+
+        uri = (
+            os.getenv("MONGO_URL")
+            or os.getenv("MONGO_URI")
+            or cfg.MONGO_URI
+            or "mongodb://localhost:27017"
+        )
+
         try:
             _client = MongoClient(uri, serverSelectionTimeoutMS=10000, appname="AgriCastAI")
-            # Trigger a ping to validate connection early
-            _client.admin.command("ping")
+            _client.admin.command("ping")  # validate connection
         except Exception as exc:
             logging.error("Mongo connection failed: %s", exc)
             raise
+
     return _client
 
 
@@ -28,6 +36,5 @@ def get_db():
         try:
             _db = get_client()[cfg.DB_NAME]
         except Exception:
-            # Bubble up after logging in get_client; keep None to retry on next call
             raise
     return _db
