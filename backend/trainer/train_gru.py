@@ -179,7 +179,7 @@ def _load_cities() -> List[str]:
         except:
             pass
 
-    raise RuntimeError("No cities found in cities.json")
+    raise RuntimeError("❌ No cities found in cities.json")
 
 
 # ==========================
