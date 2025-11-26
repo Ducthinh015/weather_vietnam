@@ -98,12 +98,14 @@ def weather_by_city():
 
     return success_response({"city": city, "weather": result})
 
-@weather_bp.route("/weather/train-now", methods=["POST"])
+@weather_bp.route("/weather/train-now", methods=["POST", "GET"])
 def train_now():
-    return success_response(
-        {"note": "training is handled automatically by GitHub Actions"},
-        "training_disabled_on_server"
-    )
+    return success_response({
+        "status": "ok",
+        "note": "training is handled automatically by GitHub Actions",
+        "message": "training_disabled_on_server"
+    })
+
 
 @weather_bp.route("/weather/fetch-now", methods=["POST", "GET"])
 def fetch_now():
