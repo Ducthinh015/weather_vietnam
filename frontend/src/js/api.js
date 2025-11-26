@@ -10,7 +10,10 @@ async function request(url, options = {}) {
   }
 
   if (!res.ok || payload?.status === "error") {
-    const message = payload?.error?.message || payload?.message || `Request failed: ${res.status}`;
+    const message =
+      payload?.error?.message ||
+      payload?.message ||
+      `Request failed: ${res.status}`;
     throw new Error(message);
   }
 
@@ -60,7 +63,6 @@ export async function triggerTrainNow() {
 }
 
 export async function getCities() {
-  // Backward compatibility helper for older modules expecting the old signature.
   return { data: { cities: await loadCities() } };
 }
 
