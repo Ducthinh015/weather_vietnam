@@ -1,0 +1,46 @@
+name: Train GRU Model
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [manual_train_trigger]
+
+permissions:
+  contents: write
+
+jobs:
+  train-model:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        working-directory: weather_vietnam
+        run: |
+          pip install -r backend/requirements.txt
+
+      - name: Train GRU
+        working-directory: weather_vietnam
+        run: |
+          python backend/trainer/train_gru.py
+
+      - name: Commit trained model
+        working-directory: weather_vietnam
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+          git checkout main
+          git pull origin main
+
+          git add backend/models/
+          git commit -m "Auto-update trained GRU" || echo "No changes"
+          git push origin main
