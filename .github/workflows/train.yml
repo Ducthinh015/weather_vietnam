@@ -32,6 +32,9 @@ jobs:
       - name: Set PYTHONPATH
         run: |
           echo "PYTHONPATH=$(pwd)" >> $GITHUB_ENV
+      - name: Test DB content
+        run: |
+          python backend/trainer/test_actions_db.py
 
       - name: Train GRU
         run: |
