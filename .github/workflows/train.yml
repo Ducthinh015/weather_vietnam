@@ -28,7 +28,8 @@ jobs:
 
       - name: Train GRU
         run: |
-          python trainer/train_gru.py
+          python backend/trainer/train_gru.py
+
 
       - name: Commit trained model
         run: |
