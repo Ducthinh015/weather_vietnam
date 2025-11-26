@@ -10,11 +10,13 @@ from io import BytesIO
 import joblib
 import numpy as np
 from tensorflow import keras
+from keras.layers import GRU
 from pymongo.collection import Collection
 
 from backend.config import Config
 from backend.db import get_db
 from backend.utils.responses import ApiError
+
 
 # ============================
 #  MODEL CONFIG
@@ -88,24 +90,38 @@ class WeatherService:
             .sort("timestamp", -1)
             .limit(limit)
         )
-        return list(cursor)[::-1]  # đảo lại cho đúng thứ tự thời gian
+        return list(cursor)[::-1]  # đảo lại đúng thứ tự thời gian
 
     # ==============================================================
-    # LOAD MODEL (FS → Mongo)
+    # LOAD MODEL (FS → Mongo) + PATCH time_major
     # ==============================================================
     def _load_model_artifacts(self, city: str) -> ModelArtifacts:
+
+        # Patch GRU để loại bỏ time_major khi load model
+        def patched_gru(**kwargs):
+            if "time_major" in kwargs:
+                kwargs.pop("time_major")
+            return GRU(**kwargs)
+
         model_dir = self.model_base / city
 
         fs_keras = model_dir / "gru.keras"
         fs_scaler = model_dir / "scaler.pkl"
 
-        # Prefer filesystem
+        # ============================
+        # LOAD TỪ FILESYSTEM
+        # ============================
         if fs_keras.exists() and fs_scaler.exists():
             scaler = joblib.load(fs_scaler)
-            model = keras.models.load_model(fs_keras)
+            model = keras.models.load_model(
+                fs_keras,
+                custom_objects={"GRU": patched_gru}
+            )
             return ModelArtifacts(scaler=scaler, model=model)
 
-        # Fallback MongoDB
+        # ============================
+        # LOAD TỪ MONGODB
+        # ============================
         doc = self.db.models.find_one({"province": city})
         if not doc or not doc.get("keras_bytes") or not doc.get("scaler_bytes"):
             raise ApiError("model_not_trained", 400, "model_not_trained")
@@ -114,7 +130,11 @@ class WeatherService:
         scaler_bytes = bytes(doc["scaler_bytes"])
 
         scaler = joblib.load(BytesIO(scaler_bytes))
-        model = keras.models.load_model(BytesIO(keras_bytes))
+
+        model = keras.models.load_model(
+            BytesIO(keras_bytes),
+            custom_objects={"GRU": patched_gru}
+        )
 
         return ModelArtifacts(scaler=scaler, model=model)
 
@@ -150,10 +170,9 @@ class WeatherService:
         X_scaled = scaler.transform(np.array(Xdf))
         Xin = np.expand_dims(X_scaled, 0).astype("float32")
 
-        # Predict (shape: (1, 6))
+        # Predict 6 bước
         y = model.predict(Xin)[0]
 
-        # Inverse-transform ra nhiệt độ
         temps = []
         for v in y:
             vec = np.zeros((1, len(FEATURES)))
@@ -163,7 +182,6 @@ class WeatherService:
 
         steps = [f"+{i}h" for i in range(1, 7)]
 
-        # build history section
         history = self.get_recent_series(city, 48)
         history_payload = {
             "labels": [h.get("timestamp") for h in history],
