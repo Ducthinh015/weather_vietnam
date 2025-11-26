@@ -1,0 +1,22 @@
+name: AgriCast Cron Jobs
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"       # 10 phút fetch dữ liệu
+    - cron: "0 */6 * * *"        # 6 tiếng train GRU
+  workflow_dispatch:              # cho phép chạy thủ công
+
+jobs:
+  scheduled-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch mỗi 10 phút
+        if: ${{ github.event.schedule == '*/10 * * * *' }}
+        run: |
+          curl -X POST "https://agricast-backend-k9p3.onrender.com/api/weather/fetch-now"
+
+      - name: Train GRU mỗi 6 giờ
+        if: ${{ github.event.schedule == '0 */6 * * *' }}
+        run: |
+          curl -X POST "https://agricast-backend-k9p3.onrender.com/api/weather/train-now"
