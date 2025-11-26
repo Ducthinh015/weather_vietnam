@@ -98,45 +98,11 @@ def weather_by_city():
 
     return success_response({"city": city, "weather": result})
 
-@weather_bp.route("/weather/train-now", methods=["POST", "GET"])
+@weather_bp.route("/train-now", methods=["POST"])
 def train_now():
-    import requests, os
-
-    token = os.getenv("GITHUB_PAT")
-    repo  = os.getenv("GITHUB_REPO")
-
-    if not token or not repo:
-        return error_response(
-            "GitHub settings missing",
-            code="github_missing",
-            details={"GITHUB_PAT": bool(token), "GITHUB_REPO": bool(repo)}
-        )
-
-    # GitHub API for dispatching workflow
-    url = f"https://api.github.com/repos/{repo}/dispatches"
-
-    headers = {
-        "Accept": "application/vnd.github.everest-preview+json",
-        "Authorization": f"token {token}"
-    }
-
-    payload = {
-        "event_type": "manual_train_trigger",
-        "client_payload": {"source": "train-now"}
-    }
-
-    r = requests.post(url, json=payload, headers=headers)
-
-    if r.status_code not in (200, 204):
-        return error_response(
-            "GitHub dispatch failed",
-            code="github_dispatch_error",
-            details={"status": r.status_code, "body": r.text}
-        )
-
     return success_response(
-        {"trigger": "github_train_started"},
-        "Train job has been triggered on GitHub Actions"
+        {"note": "training is handled automatically by GitHub Actions"},
+        "training_disabled_on_server"
     )
 
 @weather_bp.route("/weather/fetch-now", methods=["POST", "GET"])
