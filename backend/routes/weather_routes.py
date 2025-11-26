@@ -100,20 +100,44 @@ def weather_by_city():
 
 @weather_bp.route("/weather/train-now", methods=["POST", "GET"])
 def train_now():
-    try:
-        from backend.trainer.train_gru import train_all as train_gru
-    except Exception as exc:
-        return error_response("training_not_supported", status_code=501, error_code="training_not_supported", details={"detail": str(exc)})
+    import requests, os
 
-    def _run():
-        try:
-            train_gru()
-        except Exception:
-            logger.exception("train_now failed")
+    token = os.getenv("GITHUB_PAT")
+    repo  = os.getenv("GITHUB_REPO")
 
-    Thread(target=_run, daemon=True).start()
-    return success_response({"mode": "parallel", "triggered_at": datetime.utcnow().isoformat() + "Z"})
+    if not token or not repo:
+        return error_response(
+            "GitHub settings missing",
+            code="github_missing",
+            details={"GITHUB_PAT": bool(token), "GITHUB_REPO": bool(repo)}
+        )
 
+    # GitHub API for dispatching workflow
+    url = f"https://api.github.com/repos/{repo}/dispatches"
+
+    headers = {
+        "Accept": "application/vnd.github.everest-preview+json",
+        "Authorization": f"token {token}"
+    }
+
+    payload = {
+        "event_type": "manual_train_trigger",
+        "client_payload": {"source": "train-now"}
+    }
+
+    r = requests.post(url, json=payload, headers=headers)
+
+    if r.status_code not in (200, 204):
+        return error_response(
+            "GitHub dispatch failed",
+            code="github_dispatch_error",
+            details={"status": r.status_code, "body": r.text}
+        )
+
+    return success_response(
+        {"trigger": "github_train_started"},
+        "Train job has been triggered on GitHub Actions"
+    )
 
 @weather_bp.route("/weather/fetch-now", methods=["POST", "GET"])
 def fetch_now():
