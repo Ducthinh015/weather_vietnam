@@ -21,11 +21,13 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-
+     
       - name: Install dependencies
         run: |
           pip install -r backend/requirements.txt
-
+      - name: Set PYTHONPATH
+        run: |
+          echo "PYTHONPATH=$(pwd)" >> $GITHUB_ENV
       - name: Train GRU
         run: |
           python backend/trainer/train_gru.py
