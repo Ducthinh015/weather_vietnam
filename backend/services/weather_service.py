@@ -32,8 +32,8 @@ SEQ_OUT = 6
 @dataclass
 class ModelArtifacts:
     scaler: Any
-    keras_model: Any     # keras loaded
-    interpreter: Any     # tflite interpreter or None
+    keras_model: Any
+    interpreter: Any
 
 
 class WeatherService:
@@ -46,7 +46,7 @@ class WeatherService:
         self._data_dir = self._pkg_root / "data"
 
     # =============================================================
-    # Cities helper
+    # Cities
     # =============================================================
     def list_cities(self) -> List[str]:
         fp = self._data_dir / "cities.json"
@@ -79,7 +79,7 @@ class WeatherService:
         return out
 
     # =============================================================
-    # Recent series
+    # Last 48h series
     # =============================================================
     def get_recent_series(self, city: str, limit: int = 48):
         cursor = (
@@ -91,7 +91,7 @@ class WeatherService:
         return list(cursor)[::-1]
 
     # =============================================================
-    # LOAD MODEL (Filesystem + Mongo fallback)
+    # LOAD MODEL → FIX: MongoDB FIRST
     # =============================================================
     def _load_model_artifacts(self, city: str) -> ModelArtifacts:
         model_dir = self.model_base / city
@@ -100,53 +100,60 @@ class WeatherService:
         fs_tflite = model_dir / "model.tflite"
         fs_scaler = model_dir / "scaler.pkl"
 
-        # ---- 1) Prefer local filesystem  ----
-        if fs_scaler.exists():
-            scaler = joblib.load(fs_scaler)
-        else:
-            scaler = None
+        # ---- Check filesystem is fully valid ----
+        fs_ok = fs_scaler.exists() and (fs_keras.exists() or fs_tflite.exists())
 
-        keras_model = None
-        if fs_keras.exists():
-            try:
-                keras_model = keras.models.load_model(fs_keras, compile=False)
-            except Exception:
-                keras_model = None
+        # ====================================================
+        # 1) MongoDB FIRST (Render-friendly)
+        # ====================================================
+        if not fs_ok:
+            doc = self.db.models.find_one({"province": city})
+            if not doc:
+                raise ApiError("model_not_found", 404, "model_not_found")
 
-        interpreter = None
-        if fs_tflite.exists() and tflite is not None:
-            try:
-                interpreter = tflite.Interpreter(model_path=str(fs_tflite))
+            # Load scaler
+            scaler = joblib.load(BytesIO(bytes(doc["scaler_bytes"])))
+
+            # Load keras
+            keras_model = None
+            if doc.get("keras_bytes"):
+                keras_model = keras.models.load_model(
+                    BytesIO(bytes(doc["keras_bytes"])),
+                    compile=False
+                )
+
+            # Load TFLite (if supported)
+            interpreter = None
+            if tflite is not None and doc.get("tflite_bytes"):
+                interpreter = tflite.Interpreter(
+                    model_content=bytes(doc["tflite_bytes"])
+                )
                 interpreter.allocate_tensors()
-            except Exception:
-                interpreter = None
 
-        # If filesystem OK → return immediately
-        if scaler and (keras_model or interpreter):
             return ModelArtifacts(
                 scaler=scaler,
                 keras_model=keras_model,
-                interpreter=interpreter
+                interpreter=interpreter,
             )
 
-        # ---- 2) MongoDB fallback ----
-        doc = self.db.models.find_one({"province": city})
-        if not doc:
-            raise ApiError("model_not_found", 404, "model_not_found")
+        # ====================================================
+        # 2) Filesystem fallback
+        # ====================================================
+        scaler = joblib.load(fs_scaler)
 
-        if scaler is None and doc.get("scaler_bytes"):
-            scaler = joblib.load(BytesIO(bytes(doc["scaler_bytes"])))
+        keras_model = None
+        if fs_keras.exists():
+            keras_model = keras.models.load_model(fs_keras, compile=False)
 
-        if keras_model is None and doc.get("keras_bytes"):
-            keras_model = keras.models.load_model(
-                BytesIO(bytes(doc["keras_bytes"])),
-                compile=False
-            )
+        interpreter = None
+        if fs_tflite.exists() and tflite is not None:
+            interpreter = tflite.Interpreter(model_path=str(fs_tflite))
+            interpreter.allocate_tensors()
 
         return ModelArtifacts(
             scaler=scaler,
             keras_model=keras_model,
-            interpreter=None
+            interpreter=interpreter,
         )
 
     # =============================================================
@@ -157,26 +164,27 @@ class WeatherService:
         row = next(iter(cur), None)
         if not row:
             raise ApiError("no_data_for_city", 404, "no_data_for_city")
+
         row.pop("_id", None)
         return row
 
- 
+    # =============================================================
+    # FORECAST (TFLite → Keras fallback)
+    # =============================================================
     def get_forecast(self, city: str):
         rows = self.get_recent_series(city, SEQ_IN)
         if len(rows) < SEQ_IN:
             raise ApiError("not_enough_data", 400, "not_enough_data")
 
-        # Build matrix
         Xdf = [[float(r.get(k, 0.0)) for k in FEATURES] for r in rows]
 
         artifacts = self._load_model_artifacts(city)
         scaler = artifacts.scaler
 
-        # Normalize input
         X_scaled = scaler.transform(np.array(Xdf))
         Xin = np.expand_dims(X_scaled, 0).astype("float32")
 
-        # ---- 1) Try TFLite first ----
+        # ----- TFLite first -----
         if artifacts.interpreter:
             intr = artifacts.interpreter
             intr.allocate_tensors()
@@ -188,20 +196,19 @@ class WeatherService:
             intr.invoke()
             y_scaled = intr.get_tensor(output_details[0]["index"])[0]
 
+        # ----- Keras fallback -----
         else:
             if artifacts.keras_model is None:
                 raise ApiError("no_model_available", 500, "no_model_available")
-
             y_scaled = artifacts.keras_model.predict(Xin)[0]
 
-
+        # Fix scaler
         y_scaled_2d = y_scaled.reshape(1, -1)
         y = scaler.inverse_transform(y_scaled_2d)[0]
 
-        # Build forecast
         steps = [f"+{i}h" for i in range(1, 7)]
-
         history = self.get_recent_series(city, 48)
+
         history_payload = {
             "labels": [h.get("timestamp") for h in history],
             "temp": [h.get("temp") for h in history],
@@ -217,6 +224,9 @@ class WeatherService:
             "history": history_payload,
         }
 
+    # =============================================================
+    # DASHBOARD
+    # =============================================================
     def get_dashboard(self, city: Optional[str] = None):
         city = city or self.list_cities()[0]
 
