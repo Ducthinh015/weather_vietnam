@@ -12,6 +12,7 @@ from backend.db import get_db
 from backend.utils.responses import ApiError, error_response
 
 
+from backend.routes.debug_routes import debug_bp
 
 
 
@@ -84,6 +85,8 @@ def create_app():
 
 # Expose WSGI app for servers like gunicorn: `backend.app:app`
 app = create_app()
+app.register_blueprint(debug_bp, url_prefix="/api")
+
 
 if __name__ == "__main__":
     import os
